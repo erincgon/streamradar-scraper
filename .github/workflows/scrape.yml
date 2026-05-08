@@ -1,9 +1,11 @@
 name: StreamRadar Scraper
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"
   workflow_dispatch:
+
+  schedule:
+    - cron: "0 5 * * *"
+    - cron: "0 17 * * *"
 
 permissions:
   contents: write
