@@ -21,6 +21,9 @@ class NetflixScraper(GoogleNewsRSSScraper):
                 "https://variety.com/v/tv/feed/",
                 "https://variety.com/v/film/feed/",
             ],
+            include_keywords=["netflix", "tudum", "new on netflix"],
+            exclude_keywords=["disney+", "disney plus", "prime video", "hbo max", "max "],
+            trusted_domains=["netflix.com", "tudum.netflix.com", "whats-on-netflix.com"],
         )
 
 
@@ -39,6 +42,9 @@ class DisneyPlusScraper(GoogleNewsRSSScraper):
             feed_urls=[
                 "https://variety.com/v/tv/feed/",
             ],
+            include_keywords=["disney+", "disney plus", "hulu/disney", "star wars", "marvel"],
+            exclude_keywords=["netflix", "prime video", "hbo max", "new on max"],
+            trusted_domains=["disneyplus.com", "whatsondisneyplus.com"],
         )
 
 
@@ -57,6 +63,9 @@ class PrimeVideoScraper(GoogleNewsRSSScraper):
             feed_urls=[
                 "https://variety.com/v/film/feed/",
             ],
+            include_keywords=["prime video", "amazon prime", "prime original"],
+            exclude_keywords=["netflix", "disney+", "hbo max", "max "],
+            trusted_domains=["primevideo.com", "amazon.com"],
         )
 
 
@@ -74,6 +83,8 @@ class HBOMaxScraper(GoogleNewsRSSScraper):
             ],
             feed_urls=[
                 "https://variety.com/v/tv/feed/",
-                "https://www.hollywoodreporter.com/t/feed/",
             ],
+            include_keywords=["hbo max", "max original", "new on max", "hbo original"],
+            exclude_keywords=["netflix", "disney+", "prime video", "amazon prime"],
+            trusted_domains=["max.com", "hbo.com", "hbomax.com"],
         )

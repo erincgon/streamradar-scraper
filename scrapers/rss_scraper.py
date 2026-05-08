@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import logging
 import re
+from html import unescape
 from urllib.parse import quote_plus
 from typing import Any
 
@@ -26,6 +27,9 @@ class GoogleNewsRSSScraper(BaseScraper):
         default_type: str,
         fallback_queries: list[str] | None = None,
         feed_urls: list[str] | None = None,
+        include_keywords: list[str] | None = None,
+        exclude_keywords: list[str] | None = None,
+        trusted_domains: list[str] | None = None,
         max_items: int = 120,
     ) -> None:
         self.scraper_name = scraper_name
@@ -36,6 +40,9 @@ class GoogleNewsRSSScraper(BaseScraper):
         self.max_items = max_items
         self.http_client = HTTPClient()
         self._extra_feed_urls = feed_urls or []
+        self.include_keywords = [word.lower() for word in (include_keywords or [])]
+        self.exclude_keywords = [word.lower() for word in (exclude_keywords or [])]
+        self.trusted_domains = [domain.lower() for domain in (trusted_domains or [])]
 
     @property
     def feed_url(self) -> str:
@@ -93,6 +100,26 @@ class GoogleNewsRSSScraper(BaseScraper):
         cleaned = re.sub(r"\s*[-|]\s*(netflix|disney\+?|prime video|max|hbo max|tudum).*$", "", title, flags=re.I)
         return cleaned.strip() or title.strip()
 
+    def _sanitize_overview(self, overview: str) -> str:
+        text = re.sub(r"<[^>]+>", " ", unescape(overview or ""))
+        return re.sub(r"\s+", " ", text).strip()
+
+    def _domain_matches(self, source_url: str) -> bool:
+        if not self.trusted_domains:
+            return False
+        lowered = (source_url or "").lower()
+        return any(domain in lowered for domain in self.trusted_domains)
+
+    def _is_relevant(self, title: str, overview: str, source_url: str) -> bool:
+        merged = f"{title} {overview}".lower()
+        if any(word in merged for word in self.exclude_keywords):
+            return False
+        if self._domain_matches(source_url):
+            return True
+        if not self.include_keywords:
+            return True
+        return any(word in merged for word in self.include_keywords)
+
     def _parse_feed(self, feed_url: str) -> list[dict[str, Any]]:
         results: list[dict[str, Any]] = []
         response = self.http_client.get(feed_url)
@@ -109,7 +136,10 @@ class GoogleNewsRSSScraper(BaseScraper):
             description = getattr(entry, "summary", "")
             published = getattr(entry, "published", None)
             source_url = getattr(entry, "link", "")
-            merged_text = f"{title} {description}"
+            clean_overview = self._sanitize_overview(description)
+            merged_text = f"{title} {clean_overview}"
+            if not self._is_relevant(title, clean_overview, source_url):
+                continue
 
             media_url = None
             media = getattr(entry, "media_content", None)
@@ -123,7 +153,7 @@ class GoogleNewsRSSScraper(BaseScraper):
                     "type": self._extract_type(merged_text),
                     "platform": self.platform,
                     "release_date": published,
-                    "overview": description,
+                    "overview": clean_overview,
                     "genres": self._extract_genres(merged_text),
                     "poster_image_url": media_url,
                     "backdrop_image_url": media_url,

@@ -5,6 +5,7 @@ from __future__ import annotations
 import logging
 import time
 
+from config import OUTPUT_DIR
 from scrapers import (
     CinemaReleasesScraper,
     DisneyPlusScraper,
@@ -14,8 +15,9 @@ from scrapers import (
     PrimeVideoScraper,
     UpcomingReleasesScraper,
 )
+from utils.json_utils import write_json
 from utils.logging_setup import setup_logging
-from utils.pipeline import run_feed
+from utils.pipeline import apply_cross_platform_dedupe, run_feed
 
 
 def run_all() -> None:
@@ -30,8 +32,13 @@ def run_all() -> None:
     }
 
     started_at = time.time()
+    taken_cross_platform_keys: set[str] = set()
     for feed_name, scraper_objects in feed_map.items():
-        run_feed(feed_name, scraper_objects)
+        payload = run_feed(feed_name, scraper_objects)
+        filtered = apply_cross_platform_dedupe(feed_name, payload, taken_cross_platform_keys)
+        if filtered != payload:
+            # rewrite feed only when cross-platform filtering changed it
+            write_json(OUTPUT_DIR / f"{feed_name}.json", filtered)
 
     elapsed = round(time.time() - started_at, 2)
     logging.getLogger(__name__).info("Completed all feeds in %s seconds", elapsed)

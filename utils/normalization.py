@@ -98,3 +98,13 @@ def dedupe_key_parts(title: str, year: int | None, media_type: str, source_url: 
             normalized_source,
         ]
     )
+
+
+def cross_platform_key(title: str, year: int | None, media_type: str) -> str:
+    return "|".join(
+        [
+            normalize_title(title).lower(),
+            str(year or ""),
+            normalize_type(media_type),
+        ]
+    )

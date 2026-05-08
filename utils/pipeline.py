@@ -12,7 +12,7 @@ from utils.fallback_data import fallback_for_feed
 from utils.image_utils import validate_image_url
 from utils.json_utils import validate_item_schema, write_json
 from utils.http_client import HTTPClient
-from utils.normalization import dedupe_key_parts
+from utils.normalization import cross_platform_key, dedupe_key_parts
 
 logger = logging.getLogger(__name__)
 
@@ -101,3 +101,33 @@ def run_feed(feed_name: str, scraper_objects: list[Any]) -> list[dict[str, Any]]
     write_json(OUTPUT_DIR / f"{feed_name}.json", payload)
     logger.info("Wrote output/%s.json (%s items)", feed_name, len(payload))
     return payload
+
+
+def apply_cross_platform_dedupe(feed_name: str, payload: list[dict[str, Any]], taken_keys: set[str]) -> list[dict[str, Any]]:
+    """
+    Keep platform feeds mutually exclusive by title/year/type.
+    """
+    if feed_name not in {"netflix", "disney_plus", "prime_video", "hbo_max"}:
+        return payload
+
+    filtered: list[dict[str, Any]] = []
+    dropped = 0
+    for item in payload:
+        key = cross_platform_key(
+            title=item.get("title", ""),
+            year=item.get("year"),
+            media_type=item.get("type", ""),
+        )
+        if key in taken_keys:
+            dropped += 1
+            continue
+        taken_keys.add(key)
+        filtered.append(item)
+
+    if dropped:
+        logger.info("Cross-platform dedupe removed %s item(s) from %s", dropped, feed_name)
+
+    if not filtered:
+        logger.warning("Feed '%s' became empty after cross-platform dedupe. injecting fallback.", feed_name)
+        filtered = process_raw_items(fallback_for_feed(feed_name), validate_images=False)
+    return filtered

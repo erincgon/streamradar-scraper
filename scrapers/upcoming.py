@@ -20,6 +20,5 @@ class UpcomingReleasesScraper(GoogleNewsRSSScraper):
             feed_urls=[
                 "https://variety.com/v/film/feed/",
                 "https://variety.com/v/tv/feed/",
-                "https://www.hollywoodreporter.com/t/feed/",
             ],
         )
