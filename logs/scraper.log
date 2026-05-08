@@ -1,0 +1,22 @@
+2026-05-08 11:03:37 | INFO | utils.pipeline | Running feed 'trending' with 1 scraper(s)
+2026-05-08 11:03:39 | INFO | scrapers.imdb_trending | imdb_trending produced 0 items
+2026-05-08 11:03:39 | INFO | utils.pipeline | Wrote output/trending.json (0 items)
+2026-05-08 11:03:39 | INFO | utils.pipeline | Running feed 'upcoming' with 1 scraper(s)
+2026-05-08 11:03:41 | INFO | scrapers.rss_scraper | upcoming_releases produced 100 items
+2026-05-08 11:03:41 | INFO | utils.pipeline | Wrote output/upcoming.json (100 items)
+2026-05-08 11:03:41 | INFO | utils.pipeline | Running feed 'netflix' with 1 scraper(s)
+2026-05-08 11:03:42 | INFO | scrapers.rss_scraper | netflix produced 0 items
+2026-05-08 11:03:42 | INFO | utils.pipeline | Wrote output/netflix.json (0 items)
+2026-05-08 11:03:42 | INFO | utils.pipeline | Running feed 'disney_plus' with 1 scraper(s)
+2026-05-08 11:03:43 | INFO | scrapers.rss_scraper | disney_plus produced 100 items
+2026-05-08 11:03:43 | INFO | utils.pipeline | Wrote output/disney_plus.json (100 items)
+2026-05-08 11:03:43 | INFO | utils.pipeline | Running feed 'prime_video' with 1 scraper(s)
+2026-05-08 11:03:45 | INFO | scrapers.rss_scraper | prime_video produced 100 items
+2026-05-08 11:03:45 | INFO | utils.pipeline | Wrote output/prime_video.json (89 items)
+2026-05-08 11:03:45 | INFO | utils.pipeline | Running feed 'hbo_max' with 1 scraper(s)
+2026-05-08 11:03:47 | INFO | scrapers.rss_scraper | hbo_max produced 100 items
+2026-05-08 11:03:47 | INFO | utils.pipeline | Wrote output/hbo_max.json (98 items)
+2026-05-08 11:03:47 | INFO | utils.pipeline | Running feed 'cinema_releases' with 1 scraper(s)
+2026-05-08 11:03:49 | INFO | scrapers.rss_scraper | cinema_releases produced 100 items
+2026-05-08 11:03:49 | INFO | utils.pipeline | Wrote output/cinema_releases.json (100 items)
+2026-05-08 11:03:49 | INFO | __main__ | Completed all feeds in 12.28 seconds
