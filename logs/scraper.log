@@ -20,6 +20,7 @@
 2026-05-08 11:03:49 | INFO | scrapers.rss_scraper | cinema_releases produced 100 items
 2026-05-08 11:03:49 | INFO | utils.pipeline | Wrote output/cinema_releases.json (100 items)
 2026-05-08 11:03:49 | INFO | __main__ | Completed all feeds in 12.28 seconds
+<<<<<<< HEAD
 2026-05-08 17:10:13 | INFO | utils.pipeline | Running feed 'trending' with 1 scraper(s)
 2026-05-08 17:10:17 | WARNING | scrapers.imdb_trending | imdb_trending extracted 0 items from https://www.imdb.com/chart/moviemeter/
 2026-05-08 17:10:19 | WARNING | scrapers.imdb_trending | imdb_trending extracted 0 items from https://www.imdb.com/chart/tvmeter/
@@ -50,3 +51,34 @@
 2026-05-08 17:12:03 | INFO | scrapers.rss_scraper | cinema_releases produced 310 raw items
 2026-05-08 17:12:26 | INFO | utils.pipeline | Wrote output/cinema_releases.json (100 items)
 2026-05-08 17:12:26 | INFO | __main__ | Completed all feeds in 133.05 seconds
+=======
+2026-05-08 11:30:57 | INFO | utils.pipeline | Running feed 'trending' with 1 scraper(s)
+2026-05-08 11:30:58 | WARNING | scrapers.imdb_trending | imdb_trending extracted 0 items from https://www.imdb.com/chart/moviemeter/
+2026-05-08 11:30:59 | WARNING | scrapers.imdb_trending | imdb_trending extracted 0 items from https://www.imdb.com/chart/tvmeter/
+2026-05-08 11:30:59 | WARNING | scrapers.imdb_trending | imdb_trending returned empty list for both chart endpoints
+2026-05-08 11:30:59 | INFO | scrapers.imdb_trending | imdb_trending produced 0 items
+2026-05-08 11:30:59 | WARNING | utils.pipeline | Feed 'trending' was empty after normalization. scraper_stats=imdb_trending=0 raw_count=0
+2026-05-08 11:30:59 | INFO | utils.pipeline | Injected 2 fallback items for feed 'trending'
+2026-05-08 11:30:59 | INFO | utils.pipeline | Wrote output/trending.json (2 items)
+2026-05-08 11:30:59 | INFO | utils.pipeline | Running feed 'upcoming' with 1 scraper(s)
+2026-05-08 11:31:08 | WARNING | scrapers.rss_scraper | upcoming_releases feed URL returned 404: https://www.hollywoodreporter.com/t/feed/
+2026-05-08 11:31:08 | INFO | scrapers.rss_scraper | upcoming_releases produced 420 raw items
+2026-05-08 11:31:49 | INFO | utils.pipeline | Wrote output/upcoming.json (100 items)
+2026-05-08 11:31:49 | INFO | utils.pipeline | Running feed 'netflix' with 1 scraper(s)
+2026-05-08 11:31:58 | INFO | scrapers.rss_scraper | netflix produced 320 raw items
+2026-05-08 11:32:40 | INFO | utils.pipeline | Wrote output/netflix.json (100 items)
+2026-05-08 11:32:40 | INFO | utils.pipeline | Running feed 'disney_plus' with 1 scraper(s)
+2026-05-08 11:32:47 | INFO | scrapers.rss_scraper | disney_plus produced 410 raw items
+2026-05-08 11:33:05 | INFO | utils.pipeline | Wrote output/disney_plus.json (100 items)
+2026-05-08 11:33:05 | INFO | utils.pipeline | Running feed 'prime_video' with 1 scraper(s)
+2026-05-08 11:33:12 | INFO | scrapers.rss_scraper | prime_video produced 410 raw items
+2026-05-08 11:33:32 | INFO | utils.pipeline | Wrote output/prime_video.json (100 items)
+2026-05-08 11:33:32 | INFO | utils.pipeline | Running feed 'hbo_max' with 1 scraper(s)
+2026-05-08 11:33:40 | WARNING | scrapers.rss_scraper | hbo_max feed URL returned 404: https://www.hollywoodreporter.com/t/feed/
+2026-05-08 11:33:40 | INFO | scrapers.rss_scraper | hbo_max produced 410 raw items
+2026-05-08 11:33:59 | INFO | utils.pipeline | Wrote output/hbo_max.json (100 items)
+2026-05-08 11:33:59 | INFO | utils.pipeline | Running feed 'cinema_releases' with 1 scraper(s)
+2026-05-08 11:34:04 | INFO | scrapers.rss_scraper | cinema_releases produced 310 raw items
+2026-05-08 11:34:25 | INFO | utils.pipeline | Wrote output/cinema_releases.json (100 items)
+2026-05-08 11:34:25 | INFO | __main__ | Completed all feeds in 207.94 seconds
+>>>>>>> 212ba5a236ae8026c15156f2ecde9fd18176bcfc
