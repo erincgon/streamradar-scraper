@@ -82,3 +82,31 @@
 2026-05-08 11:34:25 | INFO | utils.pipeline | Wrote output/cinema_releases.json (100 items)
 2026-05-08 11:34:25 | INFO | __main__ | Completed all feeds in 207.94 seconds
 >>>>>>> 212ba5a236ae8026c15156f2ecde9fd18176bcfc
+2026-05-08 14:46:47 | INFO | utils.pipeline | Running feed 'trending' with 1 scraper(s)
+2026-05-08 14:46:49 | WARNING | scrapers.imdb_trending | imdb_trending extracted 0 items from https://www.imdb.com/chart/moviemeter/
+2026-05-08 14:46:50 | WARNING | scrapers.imdb_trending | imdb_trending extracted 0 items from https://www.imdb.com/chart/tvmeter/
+2026-05-08 14:46:50 | WARNING | scrapers.imdb_trending | imdb_trending returned empty list for both chart endpoints
+2026-05-08 14:46:50 | INFO | scrapers.imdb_trending | imdb_trending produced 0 items
+2026-05-08 14:46:50 | WARNING | utils.pipeline | Feed 'trending' was empty after normalization. scraper_stats=imdb_trending=0 raw_count=0
+2026-05-08 14:46:50 | INFO | utils.pipeline | Injected 2 fallback items for feed 'trending'
+2026-05-08 14:46:50 | INFO | utils.pipeline | Wrote output/trending.json (2 items)
+2026-05-08 14:46:50 | INFO | utils.pipeline | Running feed 'upcoming' with 1 scraper(s)
+2026-05-08 14:47:00 | INFO | scrapers.rss_scraper | upcoming_releases produced 420 raw items
+2026-05-08 14:47:40 | INFO | utils.pipeline | Wrote output/upcoming.json (100 items)
+2026-05-08 14:47:40 | INFO | utils.pipeline | Running feed 'netflix' with 1 scraper(s)
+2026-05-08 14:47:48 | INFO | scrapers.rss_scraper | netflix produced 285 raw items
+2026-05-08 14:47:48 | INFO | utils.pipeline | Wrote output/netflix.json (100 items)
+2026-05-08 14:47:48 | INFO | utils.pipeline | Running feed 'disney_plus' with 1 scraper(s)
+2026-05-08 14:47:57 | INFO | scrapers.rss_scraper | disney_plus produced 367 raw items
+2026-05-08 14:47:57 | INFO | utils.pipeline | Wrote output/disney_plus.json (100 items)
+2026-05-08 14:47:57 | INFO | utils.pipeline | Running feed 'prime_video' with 1 scraper(s)
+2026-05-08 14:48:05 | INFO | scrapers.rss_scraper | prime_video produced 310 raw items
+2026-05-08 14:48:05 | INFO | utils.pipeline | Wrote output/prime_video.json (100 items)
+2026-05-08 14:48:05 | INFO | utils.pipeline | Running feed 'hbo_max' with 1 scraper(s)
+2026-05-08 14:48:13 | INFO | scrapers.rss_scraper | hbo_max produced 292 raw items
+2026-05-08 14:48:14 | INFO | utils.pipeline | Wrote output/hbo_max.json (100 items)
+2026-05-08 14:48:14 | INFO | utils.pipeline | Cross-platform dedupe removed 2 item(s) from hbo_max
+2026-05-08 14:48:14 | INFO | utils.pipeline | Running feed 'cinema_releases' with 1 scraper(s)
+2026-05-08 14:48:21 | INFO | scrapers.rss_scraper | cinema_releases produced 310 raw items
+2026-05-08 14:48:41 | INFO | utils.pipeline | Wrote output/cinema_releases.json (100 items)
+2026-05-08 14:48:41 | INFO | __main__ | Completed all feeds in 113.76 seconds
