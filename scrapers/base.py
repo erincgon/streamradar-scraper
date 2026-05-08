@@ -7,7 +7,15 @@ from abc import ABC, abstractmethod
 from dataclasses import asdict, dataclass
 from typing import Any
 
-from utils.normalization import clean_text, normalize_genres, parse_release_date, parse_year, utc_now_iso
+from utils.normalization import (
+    clean_text,
+    normalize_genres,
+    normalize_title,
+    normalize_type,
+    parse_release_date,
+    parse_year,
+    utc_now_iso,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -31,9 +39,9 @@ class ContentItem:
     @classmethod
     def from_raw(cls, raw: dict[str, Any]) -> "ContentItem":
         return cls(
-            title=clean_text(raw.get("title"), fallback="Unknown Title"),
+            title=normalize_title(raw.get("title"), fallback="Unknown Title"),
             year=parse_year(raw.get("year") or raw.get("title")),
-            type=clean_text(raw.get("type"), fallback="movie").lower(),
+            type=normalize_type(raw.get("type"), fallback="movie"),
             platform=clean_text(raw.get("platform"), fallback="unknown"),
             release_date=parse_release_date(raw.get("release_date")),
             overview=clean_text(raw.get("overview"), fallback="Overview not available."),

@@ -12,4 +12,11 @@ class CinemaReleasesScraper(GoogleNewsRSSScraper):
             query="in theaters now OR theatrical release date",
             platform="cinema",
             default_type="movie",
+            fallback_queries=[
+                "box office weekend releases",
+                "new theatrical releases this week",
+            ],
+            feed_urls=[
+                "https://variety.com/v/film/feed/",
+            ],
         )

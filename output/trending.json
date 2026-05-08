@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "title": "StreamRadar Trending Spotlight",
+    "year": 2026,
+    "type": "movie",
+    "platform": "imdb_trending",
+    "release_date": "2026-05-08",
+    "overview": "Demo fallback item used when IMDb or news sources are temporarily unavailable.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_image_url": null,
+    "backdrop_image_url": null,
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.imdb.com/chart/moviemeter/",
+    "scraped_at": "2026-05-08T11:12:11+00:00"
+  },
+  {
+    "title": "StreamRadar TV Buzz",
+    "year": 2026,
+    "type": "series",
+    "platform": "imdb_trending",
+    "release_date": "2026-05-08",
+    "overview": "Demo fallback series item to keep trending feed usable for app development.",
+    "genres": [
+      "Thriller"
+    ],
+    "poster_image_url": null,
+    "backdrop_image_url": null,
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.imdb.com/chart/tvmeter/",
+    "scraped_at": "2026-05-08T11:12:11+00:00"
+  }
+]

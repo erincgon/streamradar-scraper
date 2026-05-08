@@ -29,6 +29,24 @@ def clean_text(value: Any, fallback: str = "") -> str:
     return text or fallback
 
 
+def normalize_title(value: Any, fallback: str = "Unknown Title") -> str:
+    text = clean_text(value, fallback=fallback)
+    text = re.sub(r"\s*\((?:\d{4}|TV Series|TV Mini Series)\)\s*$", "", text, flags=re.I)
+    text = re.sub(r"\s+", " ", text).strip(" -|")
+    return text or fallback
+
+
+def normalize_type(value: Any, fallback: str = "movie") -> str:
+    text = clean_text(value, fallback=fallback).lower()
+    if "doc" in text:
+        return "documentary"
+    if "anime" in text:
+        return "anime"
+    if any(keyword in text for keyword in ("tv", "series", "show", "season", "episode")):
+        return "series"
+    return "movie"
+
+
 def parse_year(value: Any) -> int | None:
     text = clean_text(value)
     match = re.search(r"(19|20)\d{2}", text)
@@ -68,3 +86,15 @@ def normalize_genres(value: Any) -> list[str]:
     else:
         raw = re.split(r"[,/|]", str(value))
     return sorted({clean_text(item).title() for item in raw if clean_text(item)})
+
+
+def dedupe_key_parts(title: str, year: int | None, media_type: str, source_url: str) -> str:
+    normalized_source = clean_text(source_url).split("?")[0].rstrip("/").lower()
+    return "|".join(
+        [
+            normalize_title(title).lower(),
+            str(year or ""),
+            normalize_type(media_type),
+            normalized_source,
+        ]
+    )
