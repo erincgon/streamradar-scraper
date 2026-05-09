@@ -10,6 +10,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: streamradar-feed
+  cancel-in-progress: true
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -35,12 +39,18 @@ jobs:
 
       - name: Commit and push updated JSON
         run: |
-          git add output/*.json logs/*.log || true
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add output/*.json || true
+
           if git diff --staged --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git commit -m "chore: refresh StreamRadar JSON feeds"
-          git push
+
+          git pull --rebase origin main
+
+          git push origin main
