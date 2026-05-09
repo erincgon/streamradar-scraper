@@ -23,7 +23,21 @@ def _looks_like_image_url(url: str) -> bool:
 
 def _is_known_image_host(url: str) -> bool:
     host = urlparse(url).netloc.lower()
-    known = ("variety.com", "tmdb.org", "imdb.com", "netflix.com", "disney", "amazon", "max.com", "hbo")
+    known = (
+        "variety.com",
+        "tmdb.org",
+        "imdb.com",
+        "netflix.com",
+        "disney",
+        "amazon",
+        "max.com",
+        "hbo",
+        "googleusercontent.com",
+        "ggpht.com",
+        "cdn",
+        "image",
+        "img",
+    )
     return any(key in host for key in known)
 
 
@@ -35,6 +49,9 @@ def validate_image_url(url: str | None, http_client: HTTPClient) -> str | None:
         return None
 
     if _looks_like_image_url(url) and _is_known_image_host(url):
+        return url
+    if _is_known_image_host(url):
+        # Many CDNs serve images without file extension.
         return url
 
     try:

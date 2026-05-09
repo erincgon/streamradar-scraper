@@ -241,3 +241,16 @@
 2026-05-09 11:43:22 | INFO | utils.pipeline | Wrote output/upcoming.json (100 items)
 2026-05-09 11:43:22 | INFO | utils.pipeline | Running feed 'netflix' with 1 scraper(s)
 2026-05-09 11:43:33 | INFO | scrapers.rss_scraper | netflix produced 286 raw items
+2026-05-09 12:04:43 | INFO | utils.pipeline | Running feed 'trending' with 1 scraper(s)
+2026-05-09 12:04:45 | WARNING | scrapers.imdb_trending | imdb_trending extracted 0 items from https://www.imdb.com/chart/moviemeter/
+2026-05-09 12:04:45 | WARNING | scrapers.imdb_trending | imdb_trending extracted 0 items from https://www.imdb.com/chart/tvmeter/
+2026-05-09 12:04:45 | WARNING | scrapers.imdb_trending | imdb_trending returned empty list for both chart endpoints
+2026-05-09 12:04:45 | INFO | scrapers.imdb_trending | imdb_trending produced 0 items
+2026-05-09 12:04:45 | WARNING | utils.pipeline | Feed 'trending' was empty after normalization. scraper_stats=imdb_trending=0 raw_count=0
+2026-05-09 12:04:45 | INFO | utils.pipeline | Injected 2 fallback items for feed 'trending'
+2026-05-09 12:04:45 | INFO | utils.pipeline | Wrote output/trending.json (2 items)
+2026-05-09 12:04:45 | INFO | utils.pipeline | Running feed 'upcoming' with 1 scraper(s)
+2026-05-09 12:04:55 | INFO | scrapers.rss_scraper | upcoming_releases produced 420 raw items
+2026-05-09 12:06:31 | INFO | utils.pipeline | Wrote output/upcoming.json (100 items)
+2026-05-09 12:06:31 | INFO | utils.pipeline | Running feed 'netflix' with 1 scraper(s)
+2026-05-09 12:06:40 | INFO | scrapers.rss_scraper | netflix produced 284 raw items

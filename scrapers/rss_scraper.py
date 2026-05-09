@@ -5,6 +5,7 @@ from __future__ import annotations
 import logging
 import re
 from html import unescape
+from urllib.parse import urlparse
 from urllib.parse import quote_plus
 from typing import Any
 
@@ -136,9 +137,60 @@ class GoogleNewsRSSScraper(BaseScraper):
         img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', raw_summary or "", flags=re.I)
         if img_match:
             candidate = img_match.group(1).strip()
+            if candidate.startswith("//"):
+                candidate = f"https:{candidate}"
+            if candidate.startswith(("http://", "https://")):
+                return candidate
+
+        # 5) data-src / srcset image URL from summary HTML
+        attr_match = re.search(
+            r'<img[^>]+(?:data-src|srcset)=["\']([^"\']+)["\']',
+            raw_summary or "",
+            flags=re.I,
+        )
+        if attr_match:
+            candidate = attr_match.group(1).split(",")[0].strip().split(" ")[0]
+            if candidate.startswith("//"):
+                candidate = f"https:{candidate}"
             if candidate.startswith(("http://", "https://")):
                 return candidate
         return None
+
+    def _is_google_news_url(self, url: str) -> bool:
+        host = urlparse(url).netloc.lower()
+        return host.endswith("news.google.com")
+
+    def _extract_source_url(self, entry: Any, raw_source_url: str, raw_summary: str) -> str:
+        candidates: list[str] = []
+
+        source = getattr(entry, "source", None)
+        if isinstance(source, dict):
+            href = source.get("href")
+            if isinstance(href, str):
+                candidates.append(href)
+
+        links = getattr(entry, "links", None)
+        if links and isinstance(links, list):
+            for link in links:
+                href = link.get("href")
+                if isinstance(href, str):
+                    candidates.append(href)
+
+        href_matches = re.findall(r'href=["\']([^"\']+)["\']', raw_summary or "", flags=re.I)
+        candidates.extend(href_matches)
+
+        if raw_source_url:
+            candidates.append(raw_source_url)
+
+        for candidate in candidates:
+            clean_candidate = candidate.strip()
+            if not clean_candidate.startswith(("http://", "https://")):
+                continue
+            if self._is_google_news_url(clean_candidate):
+                continue
+            return clean_candidate
+
+        return raw_source_url
 
     def _domain_matches(self, source_url: str) -> bool:
         if not self.trusted_domains:
@@ -171,7 +223,7 @@ class GoogleNewsRSSScraper(BaseScraper):
             title = getattr(entry, "title", "")
             description = getattr(entry, "summary", "")
             published = getattr(entry, "published", None)
-            source_url = getattr(entry, "link", "")
+            source_url = self._extract_source_url(entry, getattr(entry, "link", ""), description)
             clean_overview = self._sanitize_overview(description)
             merged_text = f"{title} {clean_overview}"
             if not self._is_relevant(title, clean_overview, source_url):
