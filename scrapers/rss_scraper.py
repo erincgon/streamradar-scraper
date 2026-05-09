@@ -104,6 +104,42 @@ class GoogleNewsRSSScraper(BaseScraper):
         text = re.sub(r"<[^>]+>", " ", unescape(overview or ""))
         return re.sub(r"\s+", " ", text).strip()
 
+    def _extract_media_url(self, entry: Any, raw_summary: str) -> str | None:
+        # 1) RSS media content blocks
+        media = getattr(entry, "media_content", None)
+        if media and isinstance(media, list):
+            for media_item in media:
+                candidate = media_item.get("url")
+                if isinstance(candidate, str) and candidate.startswith(("http://", "https://")):
+                    return candidate
+
+        # 2) RSS media thumbnail blocks
+        thumbnails = getattr(entry, "media_thumbnail", None)
+        if thumbnails and isinstance(thumbnails, list):
+            for media_item in thumbnails:
+                candidate = media_item.get("url")
+                if isinstance(candidate, str) and candidate.startswith(("http://", "https://")):
+                    return candidate
+
+        # 3) RSS links with enclosure relation
+        links = getattr(entry, "links", None)
+        if links and isinstance(links, list):
+            for link in links:
+                href = link.get("href")
+                link_type = str(link.get("type", "")).lower()
+                rel = str(link.get("rel", "")).lower()
+                if isinstance(href, str) and href.startswith(("http://", "https://")):
+                    if rel == "enclosure" and "image" in link_type:
+                        return href
+
+        # 4) image URL from summary HTML
+        img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', raw_summary or "", flags=re.I)
+        if img_match:
+            candidate = img_match.group(1).strip()
+            if candidate.startswith(("http://", "https://")):
+                return candidate
+        return None
+
     def _domain_matches(self, source_url: str) -> bool:
         if not self.trusted_domains:
             return False
@@ -141,10 +177,7 @@ class GoogleNewsRSSScraper(BaseScraper):
             if not self._is_relevant(title, clean_overview, source_url):
                 continue
 
-            media_url = None
-            media = getattr(entry, "media_content", None)
-            if media and isinstance(media, list):
-                media_url = media[0].get("url")
+            media_url = self._extract_media_url(entry, description)
 
             results.append(
                 {

@@ -9,7 +9,7 @@ from typing import Any
 from config import APP_CONFIG, OUTPUT_DIR
 from scrapers.base import ContentItem
 from utils.fallback_data import fallback_for_feed
-from utils.image_utils import validate_image_url
+from utils.image_utils import extract_image_from_article, validate_image_url
 from utils.json_utils import validate_item_schema, write_json
 from utils.http_client import HTTPClient
 from utils.normalization import cross_platform_key, dedupe_key_parts
@@ -48,6 +48,9 @@ def _dedupe(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
 def process_raw_items(raw_items: list[dict[str, Any]], validate_images: bool = True) -> list[dict[str, Any]]:
     http_client = HTTPClient()
     processed: list[dict[str, Any]] = []
+    enrichment_cache: dict[str, str | None] = {}
+    enrichment_attempts = 0
+    max_enrichment_attempts = 40
     for raw in raw_items:
         item = ContentItem.from_raw(raw).to_dict()
         if not item["source_url"]:
@@ -59,6 +62,19 @@ def process_raw_items(raw_items: list[dict[str, Any]], validate_images: bool = T
         if validate_images:
             item["poster_image_url"] = validate_image_url(item["poster_image_url"], http_client)
             item["backdrop_image_url"] = validate_image_url(item["backdrop_image_url"], http_client)
+            if (
+                not item["poster_image_url"]
+                and enrichment_attempts < max_enrichment_attempts
+                and item["source_url"]
+            ):
+                source_url = item["source_url"]
+                if source_url not in enrichment_cache:
+                    enrichment_cache[source_url] = extract_image_from_article(source_url, http_client)
+                    enrichment_attempts += 1
+                enriched = enrichment_cache[source_url]
+                if enriched:
+                    item["poster_image_url"] = enriched
+                    item["backdrop_image_url"] = item["backdrop_image_url"] or enriched
         if validate_item_schema(item):
             processed.append(item)
         else:
