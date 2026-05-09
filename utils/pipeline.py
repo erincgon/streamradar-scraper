@@ -12,7 +12,7 @@ from utils.fallback_data import fallback_for_feed
 from utils.image_utils import extract_image_from_article, validate_image_url
 from utils.json_utils import validate_item_schema, write_json
 from utils.http_client import HTTPClient
-from utils.normalization import cross_platform_key, dedupe_key_parts
+from utils.normalization import cross_platform_key, dedupe_key_parts, normalized_url_signature
 
 logger = logging.getLogger(__name__)
 
@@ -37,6 +37,7 @@ def _dedupe(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
             year=item.get("year"),
             media_type=item.get("type", ""),
             source_url=item.get("source_url", ""),
+            article_url=item.get("article_url"),
         )
         if key in seen:
             continue
@@ -45,14 +46,19 @@ def _dedupe(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return unique
 
 
-def process_raw_items(raw_items: list[dict[str, Any]], validate_images: bool = True) -> list[dict[str, Any]]:
+def process_raw_items(
+    raw_items: list[dict[str, Any]],
+    *,
+    feed_name: str | None = None,
+    validate_images: bool = True,
+) -> list[dict[str, Any]]:
     http_client = HTTPClient()
     processed: list[dict[str, Any]] = []
     enrichment_cache: dict[str, str | None] = {}
     enrichment_attempts = 0
     max_enrichment_attempts = 40
     for raw in raw_items:
-        item = ContentItem.from_raw(raw).to_dict()
+        item = ContentItem.from_raw(raw, feed_name=feed_name).to_dict()
         if not item["source_url"]:
             logger.debug("Skipping item due to missing source_url: %s", raw)
             continue
@@ -99,7 +105,7 @@ def run_feed(feed_name: str, scraper_objects: list[Any]) -> list[dict[str, Any]]
             scraper_stats.append(f"{scraper.scraper_name}=error")
             continue
 
-    payload = process_raw_items(aggregate_raw, validate_images=True)
+    payload = process_raw_items(aggregate_raw, feed_name=feed_name, validate_images=True)
     if not payload:
         logger.warning(
             "Feed '%s' was empty after normalization. scraper_stats=%s raw_count=%s",
@@ -107,12 +113,16 @@ def run_feed(feed_name: str, scraper_objects: list[Any]) -> list[dict[str, Any]]
             ",".join(scraper_stats) or "none",
             len(aggregate_raw),
         )
-        payload = process_raw_items(fallback_for_feed(feed_name), validate_images=False)
+        payload = process_raw_items(fallback_for_feed(feed_name), feed_name=feed_name, validate_images=False)
         logger.info("Injected %s fallback items for feed '%s'", len(payload), feed_name)
 
     if feed_name in {"trending", "upcoming"} and len(payload) < 2:
         logger.warning("Feed '%s' had low volume (%s). adding fallback boosters", feed_name, len(payload))
-        payload = process_raw_items(payload + fallback_for_feed(feed_name), validate_images=False)
+        payload = process_raw_items(
+            payload + fallback_for_feed(feed_name),
+            feed_name=feed_name,
+            validate_images=False,
+        )
 
     write_json(OUTPUT_DIR / f"{feed_name}.json", payload)
     logger.info("Wrote output/%s.json (%s items)", feed_name, len(payload))
@@ -133,6 +143,7 @@ def apply_cross_platform_dedupe(feed_name: str, payload: list[dict[str, Any]], t
             title=item.get("title", ""),
             year=item.get("year"),
             media_type=item.get("type", ""),
+            article_url=item.get("article_url"),
         )
         if key in taken_keys:
             dropped += 1
@@ -145,5 +156,30 @@ def apply_cross_platform_dedupe(feed_name: str, payload: list[dict[str, Any]], t
 
     if not filtered:
         logger.warning("Feed '%s' became empty after cross-platform dedupe. injecting fallback.", feed_name)
-        filtered = process_raw_items(fallback_for_feed(feed_name), validate_images=False)
+        filtered = process_raw_items(
+            fallback_for_feed(feed_name),
+            feed_name=feed_name,
+            validate_images=False,
+        )
+    return filtered
+
+
+def filter_global_article_dedupe(payload: list[dict[str, Any]], seen_urls: set[str]) -> list[dict[str, Any]]:
+    """
+    Drop items whose normalized article URL appeared in an earlier feed payload.
+    Keeps feeds lightweight and avoids duplicate journalism links in the mobile cache.
+    """
+    filtered: list[dict[str, Any]] = []
+    for item in payload:
+        candidate = normalized_url_signature(str(item.get("article_url") or item.get("source_url") or ""))
+        if candidate.startswith("http"):
+            if candidate in seen_urls:
+                logger.debug(
+                    "Global article dedupe dropped title=%s url=%s",
+                    item.get("title"),
+                    candidate,
+                )
+                continue
+            seen_urls.add(candidate)
+        filtered.append(item)
     return filtered

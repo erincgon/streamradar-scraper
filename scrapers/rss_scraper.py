@@ -238,6 +238,7 @@ class GoogleNewsRSSScraper(BaseScraper):
                     "type": self._extract_type(merged_text),
                     "platform": self.platform,
                     "release_date": published,
+                    "published_raw": published or None,
                     "overview": clean_overview,
                     "genres": self._extract_genres(merged_text),
                     "poster_image_url": media_url,

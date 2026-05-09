@@ -18,7 +18,7 @@ from scrapers import (
 from utils.json_utils import write_json
 from utils.logging_setup import setup_logging
 from utils.metadata import update_meta_file
-from utils.pipeline import apply_cross_platform_dedupe, run_feed
+from utils.pipeline import apply_cross_platform_dedupe, filter_global_article_dedupe, run_feed
 
 
 def run_all() -> None:
@@ -34,10 +34,12 @@ def run_all() -> None:
 
     started_at = time.time()
     taken_cross_platform_keys: set[str] = set()
+    seen_article_urls: set[str] = set()
     final_feeds_payload: dict[str, list[dict[str, object]]] = {}
     for feed_name, scraper_objects in feed_map.items():
         payload = run_feed(feed_name, scraper_objects)
         filtered = apply_cross_platform_dedupe(feed_name, payload, taken_cross_platform_keys)
+        filtered = filter_global_article_dedupe(filtered, seen_article_urls)
         if filtered != payload:
             # rewrite feed only when cross-platform filtering changed it
             write_json(OUTPUT_DIR / f"{feed_name}.json", filtered)

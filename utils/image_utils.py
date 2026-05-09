@@ -12,6 +12,22 @@ logger = logging.getLogger(__name__)
 
 _IMG_EXTENSIONS = (".jpg", ".jpeg", ".png", ".webp", ".gif", ".avif")
 
+_PLACEHOLDER_SNIPPETS = (
+    "placeholder",
+    "/1x1",
+    "1x1.",
+    "blank.gif",
+    "pixel.gif",
+    "spacer.gif",
+    "/clear.gif",
+    "transparent.gif",
+    "default-avatar",
+    "anonymous.png",
+    "no-image",
+    "missing-image",
+    "image-not-found",
+)
+
 
 def _looks_like_image_url(url: str) -> bool:
     lowered = url.lower()
@@ -37,21 +53,32 @@ def _is_known_image_host(url: str) -> bool:
         "cdn",
         "image",
         "img",
+        "wordpress.com",
+        "wp.com",
+        "squarespace",
     )
     return any(key in host for key in known)
 
 
+def _is_placeholder(url: str) -> bool:
+    lowered = url.lower()
+    return any(snippet in lowered for snippet in _PLACEHOLDER_SNIPPETS)
+
+
 def validate_image_url(url: str | None, http_client: HTTPClient) -> str | None:
-    """Return URL if it is very likely an image."""
+    """Return URL only when it appears to reference a reachable HTTPS asset."""
     if not url:
         return None
-    if not url.startswith(("http://", "https://")):
+    if url.startswith("http://"):
+        url = "https://" + url[7:]
+    if not url.startswith("https://"):
+        return None
+    if _is_placeholder(url):
         return None
 
     if _looks_like_image_url(url) and _is_known_image_host(url):
         return url
     if _is_known_image_host(url):
-        # Many CDNs serve images without file extension.
         return url
 
     try:
@@ -59,7 +86,6 @@ def validate_image_url(url: str | None, http_client: HTTPClient) -> str | None:
         content_type = response.headers.get("Content-Type", "").lower()
         if response.ok and content_type.startswith("image/"):
             return url
-        # Some CDNs block HEAD or omit content-type but URL is still valid.
         if response.status_code in (401, 403, 405) and _looks_like_image_url(url):
             return url
         if response.ok and not content_type and _looks_like_image_url(url):
@@ -94,6 +120,8 @@ def extract_image_from_article(source_url: str, http_client: HTTPClient) -> str 
             if not match:
                 continue
             candidate = match.group(1).strip()
+            if candidate.startswith("//"):
+                candidate = f"https:{candidate}"
             validated = validate_image_url(candidate, http_client)
             if validated:
                 return validated

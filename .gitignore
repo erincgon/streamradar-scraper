@@ -5,3 +5,5 @@ logs/
 *.log
 playwright-cache/
 .env
+__pycache__/
+*.pyc

@@ -15,6 +15,12 @@ from utils.http_client import HTTPClient
 logger = logging.getLogger(__name__)
 
 
+def _imdb_genres(raw: Any) -> list[Any]:
+    if raw is None:
+        return []
+    return raw if isinstance(raw, list) else [raw]
+
+
 class IMDbTrendingScraper(BaseScraper):
     scraper_name = "imdb_trending"
 
@@ -50,8 +56,9 @@ class IMDbTrendingScraper(BaseScraper):
                         "type": media_type,
                         "platform": "imdb_trending",
                         "release_date": node.get("datePublished"),
+                        "published_raw": node.get("datePublished"),
                         "overview": node.get("description") or "IMDb trending title.",
-                        "genres": node.get("genre", []),
+                        "genres": _imdb_genres(node.get("genre")),
                         "poster_image_url": node.get("image"),
                         "backdrop_image_url": node.get("image"),
                         "rating": ((node.get("aggregateRating") or {}).get("ratingValue") if isinstance(node.get("aggregateRating"), dict) else None),
