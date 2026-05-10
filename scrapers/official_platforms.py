@@ -1,8 +1,8 @@
-"""Resmî platform kaynaklarından “yeni çıkanlar” çekimi (Netflix About, Disney+ vitrin, vb.).
+"""Official platform “new releases” scrapers (Netflix About, Disney+ storefront, etc.).
 
-Çıktılar `ContentItem.from_raw` ile aynı şemaya map edilir; böylece `main.py` çıktısı
-Netflix `about.netflix.com/.../new-to-watch` kartlarına benzer alanlar (başlık, tarih,
-poster, izleme/detay URL’si) taşır.
+Raw rows are normalized via `ContentItem.from_raw` to match existing JSON (`title`,
+`poster_image_url`, `article_url`, …). Prefer English storefront copy via `Accept-Language`
+and EN/US source URLs where supported.
 """
 
 from __future__ import annotations
@@ -24,6 +24,9 @@ from utils.next_data import parse_next_data_json
 from utils.normalization import utc_now_iso
 
 logger = logging.getLogger(__name__)
+
+# Prefer English storefront copy from marketing HTML.
+_ACCEPT_LANG_EN = {"Accept-Language": "en-US,en;q=0.9"}
 
 _CAP = APP_CONFIG.max_items_per_feed
 
@@ -72,11 +75,11 @@ def _pick_image_variants_ripcut(image_variants: dict[str, Any]) -> str | None:
 
 
 class NetflixAboutNewWatchScraper(BaseScraper):
-    """Kaynak: https://about.netflix.com/{locale}/new-to-watch (embedded `__NEXT_DATA__`)."""
+    """https://about.netflix.com/{locale}/new-to-watch embedded `__NEXT_DATA__`."""
 
     scraper_name = "netflix_about"
 
-    def __init__(self, locale: str = "tr") -> None:
+    def __init__(self, locale: str = "en") -> None:
         self.locale = locale
         self.http = HTTPClient()
 
@@ -84,7 +87,7 @@ class NetflixAboutNewWatchScraper(BaseScraper):
         raw_out: list[dict[str, Any]] = []
         base = f"https://about.netflix.com/{self.locale}/new-to-watch"
         first_url = f"{base}?page=1"
-        r = self.http.get(first_url)
+        r = self.http.get(first_url, headers=_ACCEPT_LANG_EN)
         if r.status_code != 200 or not r.text:
             logger.warning("Netflix About: bad first response %s", r.status_code)
             return []
@@ -118,7 +121,7 @@ class NetflixAboutNewWatchScraper(BaseScraper):
                         "type": "movie",
                         "platform": "netflix",
                         "release_date": rd,
-                        "overview": f"Netflix Türkiye vitrin — {title}.",
+                        "overview": f"Featured on Netflix new-to-watch: {title}.",
                         "genres": [],
                         "poster_image_url": img if isinstance(img, str) else None,
                         "backdrop_image_url": None,
@@ -138,7 +141,7 @@ class NetflixAboutNewWatchScraper(BaseScraper):
         for page in range(2, max_pages + 1):
             if len(raw_out) >= _CAP:
                 break
-            rr = self.http.get(f"{base}?page={page}")
+            rr = self.http.get(f"{base}?page={page}", headers=_ACCEPT_LANG_EN)
             if rr.status_code != 200:
                 break
             pp = parse_next_data_json(rr.text)
@@ -163,7 +166,7 @@ class NetflixAboutNewWatchScraper(BaseScraper):
 
 
 class DisneyOnDisneyPlusRecentScraper(BaseScraper):
-    """Kaynak: https://ondisneyplus.disney.com/recent-releases (ImageCard dökümanı)."""
+    """https://ondisneyplus.disney.com/recent-releases (Stitch ImageCard payloads)."""
 
     scraper_name = "disney_recent"
 
@@ -174,7 +177,7 @@ class DisneyOnDisneyPlusRecentScraper(BaseScraper):
         self.http = HTTPClient()
 
     def scrape(self) -> list[dict[str, Any]]:
-        r = self.http.get(self.LIST_URL)
+        r = self.http.get(self.LIST_URL, headers=_ACCEPT_LANG_EN)
         if r.status_code != 200:
             return []
         payload = parse_next_data_json(r.text)
@@ -221,7 +224,7 @@ class DisneyOnDisneyPlusRecentScraper(BaseScraper):
                     "type": "series" if is_episode else "movie",
                     "platform": "disney_plus",
                     "release_date": None,
-                    "overview": title,
+                    "overview": f"Disney+ recent release: {title}.",
                     "genres": [],
                     "poster_image_url": poster,
                     "backdrop_image_url": None,
@@ -263,7 +266,7 @@ def _amazon_item_primes_article(entry: Any) -> bool:
 
 
 class AboutAmazonPrimeVideoRSSScraper(BaseScraper):
-    """Kaynak: About Amazon Entertainment RSS (Prime Video ile ilgili girdiler)."""
+    """Source: About Amazon Entertainment RSS entries that reference Prime Video."""
 
     scraper_name = "aboutamazon_prime_rss"
 
@@ -271,7 +274,7 @@ class AboutAmazonPrimeVideoRSSScraper(BaseScraper):
         self.http = HTTPClient()
 
     def scrape(self) -> list[dict[str, Any]]:
-        r = self.http.get(_AMZ_ENTERTAINMENT_RSS)
+        r = self.http.get(_AMZ_ENTERTAINMENT_RSS, headers=_ACCEPT_LANG_EN)
         if r.status_code != 200:
             return []
         parsed = feedparser.parse(r.content)
@@ -333,12 +336,12 @@ _WBD_FOCUS = re.compile(
 
 
 class WBDPressMaxMediaReleasesScraper(BaseScraper):
-    """Kaynak: WBD basın araması (ör. /tr/search) HTML — Max / HBO ile ilgili sürüm haberleri."""
+    """Source: WBD press search HTML (US or other locale) filtered to Max/HBO streaming news."""
 
     scraper_name = "wbd_press_max"
 
-    def __init__(self, locale_prefix: str = "tr") -> None:
-        self.locale_prefix = locale_prefix.strip("/") or "tr"
+    def __init__(self, locale_prefix: str = "us") -> None:
+        self.locale_prefix = locale_prefix.strip("/") or "us"
         self.http = HTTPClient()
 
     def scrape(self) -> list[dict[str, Any]]:
@@ -350,7 +353,7 @@ class WBDPressMaxMediaReleasesScraper(BaseScraper):
                 f"https://press.wbd.com/{self.locale_prefix}/search"
                 f"?q={self.locale_prefix}/search&type=media_release&page={page}"
             )
-            r = self.http.get(url)
+            r = self.http.get(url, headers=_ACCEPT_LANG_EN)
             if r.status_code != 200:
                 logger.warning("WBD press page %s -> %s", page, r.status_code)
                 break
@@ -379,6 +382,12 @@ class WBDPressMaxMediaReleasesScraper(BaseScraper):
                 if not _WBD_FOCUS.search(hay):
                     continue
                 full_url = urljoin("https://press.wbd.com", href)
+                row_thumb = None
+                img_el = art.select_one("img[src]")
+                if img_el and img_el.get("src"):
+                    row_thumb = img_el["src"].strip()
+                    if row_thumb.startswith("//"):
+                        row_thumb = "https:" + row_thumb
                 out.append(
                     {
                         "title": title,
@@ -388,7 +397,7 @@ class WBDPressMaxMediaReleasesScraper(BaseScraper):
                         "release_date": None,
                         "overview": summary or title,
                         "genres": [],
-                        "poster_image_url": None,
+                        "poster_image_url": row_thumb,
                         "backdrop_image_url": None,
                         "rating": None,
                         "trailer_url": None,

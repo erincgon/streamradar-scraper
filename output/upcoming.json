@@ -14,13 +14,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://news.google.com/",
-    "scraped_at": "2026-05-10T10:00:11+00:00",
+    "scraped_at": "2026-05-10T10:14:23+00:00",
     "source_name": "Google News",
     "source_domain": "news.google.com",
     "article_url": null,
     "content_type": "upcoming_release",
     "published_at": "2026-06-15T00:00:00Z",
-    "updated_at": "2026-05-10T10:00:11Z"
+    "updated_at": "2026-05-10T10:14:23Z"
   },
   {
     "title": "StreamRadar Upcoming Premiere",
@@ -37,12 +37,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://news.google.com/",
-    "scraped_at": "2026-05-10T10:00:11+00:00",
+    "scraped_at": "2026-05-10T10:14:23+00:00",
     "source_name": "Google News",
     "source_domain": "news.google.com",
     "article_url": null,
     "content_type": "upcoming_release",
     "published_at": "2026-06-01T00:00:00Z",
-    "updated_at": "2026-05-10T10:00:11Z"
+    "updated_at": "2026-05-10T10:14:23Z"
   }
 ]

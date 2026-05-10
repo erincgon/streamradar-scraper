@@ -25,5 +25,5 @@ class AppConfig:
 
 APP_CONFIG = AppConfig()
 
-# Platform JSON’ları (`netflix`, `disney_plus`, `prime_video`, `hbo_max`) resmî vitrin /
-# basın kaynaklarından üretilir. `trending`, `upcoming`, `cinema_releases`: Google News RSS.
+# Platform JSON uses official storefront/press sources (English-first). Discovery feeds
+# use Google News RSS.

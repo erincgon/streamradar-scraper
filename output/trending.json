@@ -12,13 +12,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16",
-    "scraped_at": "2026-05-10T09:59:31+00:00",
+    "scraped_at": "2026-05-10T10:13:44+00:00",
     "source_name": "Googleusercontent",
     "source_domain": "lh3.googleusercontent.com",
     "article_url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16",
     "content_type": "trending",
     "published_at": "2026-05-09T00:00:00Z",
-    "updated_at": "2026-05-10T09:59:31Z"
+    "updated_at": "2026-05-10T10:13:44Z"
   },
   {
     "title": "StreamRadar Trending Spotlight",
@@ -35,13 +35,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/chart/moviemeter/",
-    "scraped_at": "2026-05-10T09:59:31+00:00",
+    "scraped_at": "2026-05-10T10:13:44+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/chart/moviemeter/",
     "content_type": "trending",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-05-10T09:59:31Z"
+    "updated_at": "2026-05-10T10:13:44Z"
   },
   {
     "title": "StreamRadar TV Buzz",
@@ -58,12 +58,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/chart/tvmeter/",
-    "scraped_at": "2026-05-10T09:59:31+00:00",
+    "scraped_at": "2026-05-10T10:13:44+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/chart/tvmeter/",
     "content_type": "trending",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-05-10T09:59:31Z"
+    "updated_at": "2026-05-10T10:13:44Z"
   }
 ]

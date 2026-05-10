@@ -1,12 +1,10 @@
 """StreamRadar scraping entrypoint.
 
-Platform çıktıları (`netflix`, `disney_plus`, `prime_video`, `hbo_max`) artık her servisin
-**resmî liste / basın kaynağından** çekilir (Netflix About “Yeni İçerikler”, Disney+ vitrin kartları,
-About Amazon Entertainment RSS içinde Prime Video odaklı girdiler, WBD Max/HBO ile ilgili basın
-duyuruları). Trending, upcoming ve sinema için Google News RSS araması kullanılmaya devam eder.
+Platform feeds (`netflix`, `disney_plus`, `prime_video`, `hbo_max`) use each service’s
+official storefront or press sources (English-first where possible). Trending, upcoming,
+and cinema still use Google News RSS search.
 
-Feed map (dosya adı): trending, upcoming; netflix, disney_plus, prime_video, hbo_max;
-cinema_releases.
+Feed map: trending, upcoming; netflix, disney_plus, prime_video, hbo_max; cinema_releases.
 """
 
 from __future__ import annotations
@@ -40,10 +38,10 @@ def run_all() -> None:
     feed_map = {
         "trending": [TrendingNewReleasesScraper()],
         "upcoming": [UpcomingReleasesScraper()],
-        "netflix": [NetflixScraper(locale="tr")],
+        "netflix": [NetflixScraper(locale="en")],
         "disney_plus": [DisneyPlusScraper()],
         "prime_video": [PrimeVideoScraper()],
-        "hbo_max": [HBOMaxScraper(locale_prefix="tr")],
+        "hbo_max": [HBOMaxScraper(locale_prefix="us")],
         "cinema_releases": [CinemaReleasesScraper()],
     }
 

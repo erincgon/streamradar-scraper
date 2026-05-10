@@ -14,13 +14,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/chart/boxoffice/",
-    "scraped_at": "2026-05-10T10:01:25+00:00",
+    "scraped_at": "2026-05-10T10:15:08+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/chart/boxoffice/",
     "content_type": "cinema_release",
     "published_at": "2026-05-22T00:00:00Z",
-    "updated_at": "2026-05-10T10:01:25Z"
+    "updated_at": "2026-05-10T10:15:08Z"
   },
   {
     "title": "IMAX Has a Front-Row Seat to the Box Office Recovery - WSJ",
@@ -35,12 +35,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16",
-    "scraped_at": "2026-05-10T10:01:25+00:00",
+    "scraped_at": "2026-05-10T10:15:08+00:00",
     "source_name": "Googleusercontent",
     "source_domain": "lh3.googleusercontent.com",
     "article_url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16",
     "content_type": "cinema_release",
     "published_at": "2026-05-10T00:00:00Z",
-    "updated_at": "2026-05-10T10:01:25Z"
+    "updated_at": "2026-05-10T10:15:08Z"
   }
 ]
