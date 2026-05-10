@@ -30,6 +30,11 @@ _ACCEPT_LANG_EN = {"Accept-Language": "en-US,en;q=0.9"}
 
 _CAP = APP_CONFIG.max_items_per_feed
 
+_DISNEY_UUID_PATH = re.compile(
+    r"^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$",
+    re.I,
+)
+
 
 def _iso_date_from_epoch_ms(ms: int | float | None) -> str | None:
     if ms is None:
@@ -42,14 +47,29 @@ def _iso_date_from_epoch_ms(ms: int | float | None) -> str | None:
         return None
 
 
-def _disney_ripcut_poster_url(ripcut_id: str, width: int = 440) -> str | None:
-    rid = (ripcut_id or "").strip()
-    if not rid:
+def _disney_bamgrid_compose_url(image_key: str, width: int = 440) -> str | None:
+    """
+    Build the same `variant/disney/<id>/compose` URL the storefront HTML uses.
+
+    UUID `ripcutId` values must stay hyphenated and lower-case; stripping dashes yields 404.
+    Some marketing assets use a 64-char uppercase hex segment instead.
+    """
+    key = (image_key or "").strip()
+    if not key:
         return None
-    h = rid.replace("-", "").upper()
+    if _DISNEY_UUID_PATH.match(key):
+        segment = key.lower()
+    elif re.fullmatch(r"[0-9A-Fa-f]{64}", key):
+        segment = key.upper()
+    elif re.fullmatch(r"[0-9A-Fa-f]{32}", key):
+        k = key.lower()
+        segment = f"{k[:8]}-{k[8:12]}-{k[12:16]}-{k[16:20]}-{k[20:32]}"
+    else:
+        segment = key.lower()
+
     return (
-        "https://disney.images.edge.bamgrid.com/"
-        f"ripcut-delivery/v2/variant/disney/{h}/compose?format=webp&width={width}"
+        "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/"
+        f"{segment}/compose?format=webp&width={width}"
     )
 
 
@@ -214,7 +234,7 @@ class DisneyOnDisneyPlusRecentScraper(BaseScraper):
                 if isinstance(variants, dict)
                 else None
             )
-            poster = _disney_ripcut_poster_url(rid) if rid else None
+            poster = _disney_bamgrid_compose_url(rid) if rid else None
             is_episode = bool(c.get("isEpisode"))
             detail = urljoin(f"{self.ORIGIN}/", path.lstrip("/"))
             raw_out.append(
