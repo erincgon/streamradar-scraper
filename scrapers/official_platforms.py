@@ -236,7 +236,9 @@ class DisneyOnDisneyPlusRecentScraper(BaseScraper):
             )
             poster = _disney_bamgrid_compose_url(rid) if rid else None
             is_episode = bool(c.get("isEpisode"))
-            detail = urljoin(f"{self.ORIGIN}/", path.lstrip("/"))
+            # Entity URLs from Stitch payload can 404 publicly; keep a stable landing URL.
+            card_id = (c.get("_id") or "").strip()
+            detail = f"{self.LIST_URL}#{card_id}" if card_id else self.LIST_URL
             raw_out.append(
                 {
                     "title": title,
@@ -252,7 +254,7 @@ class DisneyOnDisneyPlusRecentScraper(BaseScraper):
                     "trailer_url": None,
                     "source_url": detail,
                     "scraped_at": utc_now_iso(),
-                    "article_url": detail,
+                    "article_url": self.LIST_URL,
                     "content_type": "platform_release",
                 }
             )

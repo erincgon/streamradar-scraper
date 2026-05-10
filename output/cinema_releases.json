@@ -12,13 +12,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.14news.com/",
-    "scraped_at": "2026-05-10T10:38:59+00:00",
+    "scraped_at": "2026-05-10T13:10:39+00:00",
     "source_name": "14news",
     "source_domain": "14news.com",
     "article_url": null,
     "content_type": "cinema_release",
     "published_at": "2026-05-10T03:58:44Z",
-    "updated_at": "2026-05-10T10:38:59Z"
+    "updated_at": "2026-05-10T13:10:39Z"
   },
   {
     "title": "WNBA: Caitlin Clark-Paige Bueckers matchup highlights WNBA's big opening weekend - TelegraphHerald.com",
@@ -33,13 +33,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.telegraphherald.com/",
-    "scraped_at": "2026-05-10T10:39:01+00:00",
+    "scraped_at": "2026-05-10T13:10:40+00:00",
     "source_name": "Telegraphherald",
     "source_domain": "telegraphherald.com",
     "article_url": null,
     "content_type": "cinema_release",
     "published_at": "2026-05-10T05:30:00Z",
-    "updated_at": "2026-05-10T10:39:01Z"
+    "updated_at": "2026-05-10T13:10:40Z"
   },
   {
     "title": "Top 10 Thalapathy Vijay Movies Ranked By Box Office: Only South Superstar With 8 Consecutive 200 Crore Grossers - IMDb",
@@ -54,13 +54,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/",
-    "scraped_at": "2026-05-10T10:39:15+00:00",
+    "scraped_at": "2026-05-10T13:10:59+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": null,
     "content_type": "cinema_release",
     "published_at": "2026-05-10T09:09:12Z",
-    "updated_at": "2026-05-10T10:39:15Z"
+    "updated_at": "2026-05-10T13:10:59Z"
   },
   {
     "title": "The Sheep Detectives North America Box Office: Hugh Jackman Set To Deliver His Biggest Ever Non-Marvel Opening Weekend - IMDb",
@@ -75,34 +75,55 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/",
-    "scraped_at": "2026-05-10T10:39:00+00:00",
+    "scraped_at": "2026-05-10T13:10:59+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": null,
     "content_type": "cinema_release",
     "published_at": "2026-05-10T06:30:45Z",
-    "updated_at": "2026-05-10T10:39:00Z"
+    "updated_at": "2026-05-10T13:10:59Z"
   },
   {
-    "title": "Tennessee Tech to Launch New Film and Screen Studies Minor for Fall 2026 - Williamson Source",
+    "title": "Tennessee Tech to Launch New Film and Screen Studies Minor for Fall 2026 - Rutherford Source",
     "year": 2026,
     "type": "movie",
     "platform": "cinema",
     "release_date": "2026-05-10",
-    "overview": "Tennessee Tech to Launch New Film and Screen Studies Minor for Fall 2026 Williamson Source",
+    "overview": "Tennessee Tech to Launch New Film and Screen Studies Minor for Fall 2026 Rutherford Source",
+    "genres": [],
+    "poster_image_url": "https://rutherfordsource.com/wp-content/uploads/2024/07/Rutherford-County-Featured-Image.jpg",
+    "backdrop_image_url": "https://rutherfordsource.com/wp-content/uploads/2024/07/Rutherford-County-Featured-Image.jpg",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://rutherfordsource.com/",
+    "scraped_at": "2026-05-10T13:10:42+00:00",
+    "source_name": "Rutherfordsource",
+    "source_domain": "rutherfordsource.com",
+    "article_url": null,
+    "content_type": "cinema_release",
+    "published_at": "2026-05-10T08:15:04Z",
+    "updated_at": "2026-05-10T13:10:42Z"
+  },
+  {
+    "title": "Spider-Man: Brand New Day Box Office: Can Tom Holland’s Upcoming Movie Beat No Way Home’s Record Opening? - IMDb",
+    "year": 2026,
+    "type": "movie",
+    "platform": "cinema",
+    "release_date": "2026-05-10",
+    "overview": "Spider-Man: Brand New Day Box Office: Can Tom Holland’s Upcoming Movie Beat No Way Home’s Record Opening? IMDb",
     "genres": [],
     "poster_image_url": null,
     "backdrop_image_url": null,
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://williamsonsource.com/",
-    "scraped_at": "2026-05-10T10:38:54+00:00",
-    "source_name": "Williamsonsource",
-    "source_domain": "williamsonsource.com",
+    "source_url": "https://www.imdb.com/",
+    "scraped_at": "2026-05-10T13:10:35+00:00",
+    "source_name": "IMDb",
+    "source_domain": "imdb.com",
     "article_url": null,
     "content_type": "cinema_release",
-    "published_at": "2026-05-10T08:15:04Z",
-    "updated_at": "2026-05-10T10:38:54Z"
+    "published_at": "2026-05-10T12:26:45Z",
+    "updated_at": "2026-05-10T13:10:35Z"
   },
   {
     "title": "New Film Will Chronicle Early Days of MTV in Adaptation of 'Insane' and 'Hilarious' Book, Says Director - People.com",
@@ -117,34 +138,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://people.com/",
-    "scraped_at": "2026-05-10T10:38:52+00:00",
+    "scraped_at": "2026-05-10T13:10:36+00:00",
     "source_name": "People",
     "source_domain": "people.com",
     "article_url": null,
     "content_type": "cinema_release",
     "published_at": "2026-05-10T09:58:00Z",
-    "updated_at": "2026-05-10T10:38:52Z"
-  },
-  {
-    "title": "Mortal Kombat ll topples The Devil Wears Prada 2 at box office - Yahoo",
-    "year": 2026,
-    "type": "movie",
-    "platform": "cinema",
-    "release_date": "2026-05-10",
-    "overview": "Mortal Kombat ll topples The Devil Wears Prada 2 at box office Yahoo",
-    "genres": [],
-    "poster_image_url": null,
-    "backdrop_image_url": null,
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.yahoo.com/",
-    "scraped_at": "2026-05-10T10:38:57+00:00",
-    "source_name": "Yahoo",
-    "source_domain": "yahoo.com",
-    "article_url": null,
-    "content_type": "cinema_release",
-    "published_at": "2026-05-10T00:49:00Z",
-    "updated_at": "2026-05-10T10:38:57Z"
+    "updated_at": "2026-05-10T13:10:36Z"
   },
   {
     "title": "IMAX Has a Front-Row Seat to the Box Office Recovery - WSJ",
@@ -159,13 +159,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.wsj.com/",
-    "scraped_at": "2026-05-10T10:38:50+00:00",
+    "scraped_at": "2026-05-10T13:10:32+00:00",
     "source_name": "Wsj",
     "source_domain": "wsj.com",
     "article_url": null,
     "content_type": "cinema_release",
     "published_at": "2026-05-10T09:30:00Z",
-    "updated_at": "2026-05-10T10:38:50Z"
+    "updated_at": "2026-05-10T13:10:32Z"
   },
   {
     "title": "Director Breaks Silence on Box Office Disappointment Surrounding the Year's Best Horror Movie - IMDb",
@@ -182,13 +182,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/",
-    "scraped_at": "2026-05-10T10:39:15+00:00",
+    "scraped_at": "2026-05-10T13:10:59+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": null,
     "content_type": "cinema_release",
     "published_at": "2026-05-10T02:02:51Z",
-    "updated_at": "2026-05-10T10:39:15Z"
+    "updated_at": "2026-05-10T13:10:59Z"
   },
   {
     "title": "Charlize Theron’s ‘Apex’ – Why Wasn’t This in Theaters? - Hollywood in Toto",
@@ -203,13 +203,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.hollywoodintoto.com/",
-    "scraped_at": "2026-05-10T10:39:07+00:00",
+    "scraped_at": "2026-05-10T13:10:46+00:00",
     "source_name": "Hollywoodintoto",
     "source_domain": "hollywoodintoto.com",
     "article_url": null,
     "content_type": "cinema_release",
     "published_at": "2026-05-10T00:49:45Z",
-    "updated_at": "2026-05-10T10:39:07Z"
+    "updated_at": "2026-05-10T13:10:46Z"
   },
   {
     "title": "Billie Eilish: Hit Me Hard And Soft The Tour North America Box Office: Opens Strong But Can’t Match Taylor Swift: The Eras Tour’s Start - IMDb",
@@ -224,13 +224,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/",
-    "scraped_at": "2026-05-10T10:39:15+00:00",
+    "scraped_at": "2026-05-10T13:10:59+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": null,
     "content_type": "cinema_release",
     "published_at": "2026-05-10T09:28:14Z",
-    "updated_at": "2026-05-10T10:39:15Z"
+    "updated_at": "2026-05-10T13:10:59Z"
   },
   {
     "title": "‘You, Me & Tuscany’ Arrives On Streaming This Week After Muted Box Office Run - Forbes",
@@ -245,13 +245,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.forbes.com/",
-    "scraped_at": "2026-05-10T10:39:09+00:00",
+    "scraped_at": "2026-05-10T13:10:55+00:00",
     "source_name": "Forbes",
     "source_domain": "forbes.com",
     "article_url": null,
     "content_type": "cinema_release",
     "published_at": "2026-05-09T18:08:40Z",
-    "updated_at": "2026-05-10T10:39:09Z"
+    "updated_at": "2026-05-10T13:10:55Z"
   },
   {
     "title": "‘Mortal Kombat II’ takes out box office competition on its first day in theaters - Page Six",
@@ -266,13 +266,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://pagesix.com/",
-    "scraped_at": "2026-05-10T10:39:11+00:00",
+    "scraped_at": "2026-05-10T13:10:56+00:00",
     "source_name": "Pagesix",
     "source_domain": "pagesix.com",
     "article_url": null,
     "content_type": "cinema_release",
     "published_at": "2026-05-09T20:36:00Z",
-    "updated_at": "2026-05-10T10:39:11Z"
+    "updated_at": "2026-05-10T13:10:56Z"
   },
   {
     "title": "Mortal Kombat II and Devil Wears Prada 2 in a Fierce Box Office Battle - Vulture",
@@ -287,13 +287,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.vulture.com/",
-    "scraped_at": "2026-05-10T10:39:03+00:00",
+    "scraped_at": "2026-05-10T13:10:49+00:00",
     "source_name": "Vulture",
     "source_domain": "vulture.com",
     "article_url": null,
     "content_type": "cinema_release",
     "published_at": "2026-05-09T20:16:53Z",
-    "updated_at": "2026-05-10T10:39:03Z"
+    "updated_at": "2026-05-10T13:10:49Z"
   },
   {
     "title": "Friday Box Office: Devil (Who Wears Prada) and Michael Jackson Top Billie Ellish, Sheep Detectives - The Outside Scoop | Scott Mendelson",
@@ -308,13 +308,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://scottmendelson.substack.com/",
-    "scraped_at": "2026-05-10T10:39:15+00:00",
+    "scraped_at": "2026-05-10T13:10:59+00:00",
     "source_name": "Substack",
     "source_domain": "scottmendelson.substack.com",
     "article_url": null,
     "content_type": "cinema_release",
     "published_at": "2026-05-09T20:26:02Z",
-    "updated_at": "2026-05-10T10:39:15Z"
+    "updated_at": "2026-05-10T13:10:59Z"
   },
   {
     "title": "Caitlin Clark-Paige Bueckers matchup highlights WNBA’s big opening weekend - AP News",
@@ -329,13 +329,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://apnews.com/",
-    "scraped_at": "2026-05-10T10:39:04+00:00",
+    "scraped_at": "2026-05-10T13:10:47+00:00",
     "source_name": "Apnews",
     "source_domain": "apnews.com",
     "article_url": null,
     "content_type": "cinema_release",
     "published_at": "2026-05-09T21:38:00Z",
-    "updated_at": "2026-05-10T10:39:04Z"
+    "updated_at": "2026-05-10T13:10:47Z"
   },
   {
     "title": "Box Office: ‘Mortal Kombat II’ Tops Friday but Continues to Battle ‘Prada 2’ for Mother’s Day Win - Yahoo",
@@ -350,13 +350,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.yahoo.com/",
-    "scraped_at": "2026-05-10T10:39:15+00:00",
+    "scraped_at": "2026-05-10T13:10:52+00:00",
     "source_name": "Yahoo",
     "source_domain": "yahoo.com",
     "article_url": null,
     "content_type": "cinema_release",
     "published_at": "2026-05-09T15:46:14Z",
-    "updated_at": "2026-05-10T10:39:15Z"
+    "updated_at": "2026-05-10T13:10:52Z"
   },
   {
     "title": "Box Office: 'Mortal Kombat II' Nabs $17M Friday Despite Good Reviews - The Outside Scoop | Scott Mendelson",
@@ -371,34 +371,34 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://scottmendelson.substack.com/",
-    "scraped_at": "2026-05-10T10:39:08+00:00",
+    "scraped_at": "2026-05-10T13:10:54+00:00",
     "source_name": "Substack",
     "source_domain": "scottmendelson.substack.com",
     "article_url": null,
     "content_type": "cinema_release",
     "published_at": "2026-05-09T17:50:44Z",
-    "updated_at": "2026-05-10T10:39:08Z"
+    "updated_at": "2026-05-10T13:10:54Z"
   },
   {
-    "title": "'The Devil Wears Prada 2' broke the box office. It may also be the last great victory for Hollywood's IP machine - Fortune",
+    "title": "‘Mortal Kombat II’ & ‘Devil Wears Prada 2’ In Smackdown At Weekend Box Office With $40M-$42M Apiece - Deadline",
     "year": 2026,
     "type": "movie",
     "platform": "cinema",
-    "release_date": "2026-05-09",
-    "overview": "'The Devil Wears Prada 2' broke the box office. It may also be the last great victory for Hollywood's IP machine Fortune",
+    "release_date": "2026-05-08",
+    "overview": "‘Mortal Kombat II’ & ‘Devil Wears Prada 2’ In Smackdown At Weekend Box Office With $40M-$42M Apiece Deadline",
     "genres": [],
-    "poster_image_url": "https://fortune.com/img-assets/wp-content/uploads/2020/01/Digital-Card4.jpg?resize=1200,600",
-    "backdrop_image_url": "https://fortune.com/img-assets/wp-content/uploads/2020/01/Digital-Card4.jpg?resize=1200,600",
+    "poster_image_url": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvZGVhZGxpbmUuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDE5XC8wNFwvY3JvcHBlZC1pY29uLTUxMng1MTIucG5nIiwidHh0IjoiRGVhZGxpbmUiLCJ0ZW1wbGF0ZSI6ImVkZ2UiLCJmb250IjoiIiwiYmxvZ19pZCI6MTc5MjkwMTQ5fQ.IHL7P_bYC7Sr4W2XvHh7kLwSO5arBq8LoHSjTj-l-uAMQ",
+    "backdrop_image_url": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvZGVhZGxpbmUuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDE5XC8wNFwvY3JvcHBlZC1pY29uLTUxMng1MTIucG5nIiwidHh0IjoiRGVhZGxpbmUiLCJ0ZW1wbGF0ZSI6ImVkZ2UiLCJmb250IjoiIiwiYmxvZ19pZCI6MTc5MjkwMTQ5fQ.IHL7P_bYC7Sr4W2XvHh7kLwSO5arBq8LoHSjTj-l-uAMQ",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://fortune.com/",
-    "scraped_at": "2026-05-10T10:39:13+00:00",
-    "source_name": "Fortune",
-    "source_domain": "fortune.com",
+    "source_url": "https://deadline.com/",
+    "scraped_at": "2026-05-10T13:10:59+00:00",
+    "source_name": "Deadline",
+    "source_domain": "deadline.com",
     "article_url": null,
     "content_type": "cinema_release",
-    "published_at": "2026-05-09T11:45:00Z",
-    "updated_at": "2026-05-10T10:39:13Z"
+    "published_at": "2026-05-08T21:37:00Z",
+    "updated_at": "2026-05-10T13:10:59Z"
   },
   {
     "title": "How ‘Michael’ Rocked The World Away With $97M U.S. & $217M+ WW Opening – Sunday Box Office Update - Deadline",
@@ -413,12 +413,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://deadline.com/",
-    "scraped_at": "2026-05-10T10:38:56+00:00",
+    "scraped_at": "2026-05-10T13:10:33+00:00",
     "source_name": "Deadline",
     "source_domain": "deadline.com",
     "article_url": null,
     "content_type": "cinema_release",
     "published_at": "2026-04-26T07:00:00Z",
-    "updated_at": "2026-05-10T10:38:56Z"
+    "updated_at": "2026-05-10T13:10:33Z"
   }
 ]
