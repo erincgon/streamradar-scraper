@@ -13,6 +13,9 @@ from utils.article_url import is_valid_article_page_url
 from utils.attribution import canonical_article_url, publication_domain, simplify_domain
 
 SUMMARY_MAX_CHARS = 500
+ALLOWED_PLATFORMS = frozenset(
+    {"netflix", "disney_plus", "prime_video", "hbo_max", "cinema", "multi_platform"},
+)
 
 DATE_FORMATS = (
     "%Y-%m-%d",
@@ -116,6 +119,9 @@ def normalize_pub_date_to_iso_z(value: Any) -> str | None:
 
 def normalize_title(value: Any, fallback: str = "Unknown Title") -> str:
     text = clean_text(value, fallback=fallback)
+    # Strip trailing outlet suffixes (e.g. " - Forbes", " | zoomtventertainment.com").
+    text = re.sub(r"\s*[-|–—]\s*(?:[A-Za-z][\w .&+:'/-]{1,60}|[\w.-]+\.[a-z]{2,})(?:\s*)$", "", text)
+    text = re.sub(r"\s*[-|–—]\s*[\w.-]+\.[a-z]{2,}\s*$", "", text, flags=re.I)
     text = re.sub(r"\s*\((?:\d{4}|TV Series|TV Mini Series)\)\s*$", "", text, flags=re.I)
     text = re.sub(r"\s+", " ", text).strip(" -|")
     return text or fallback
@@ -130,6 +136,87 @@ def normalize_type(value: Any, fallback: str = "movie") -> str:
     if any(keyword in text for keyword in ("tv", "series", "show", "season", "episode")):
         return "series"
     return "movie"
+
+
+def normalize_platform(value: Any, *, fallback: str = "multi_platform") -> str:
+    text = clean_text(value, fallback=fallback).lower().strip()
+    aliases = {
+        "netflix": "netflix",
+        "disney+": "disney_plus",
+        "disney_plus": "disney_plus",
+        "disney plus": "disney_plus",
+        "prime video": "prime_video",
+        "amazon prime": "prime_video",
+        "amazon prime video": "prime_video",
+        "prime_video": "prime_video",
+        "hbo max": "hbo_max",
+        "max": "hbo_max",
+        "hbomax": "hbo_max",
+        "hbo_max": "hbo_max",
+        "cinema": "cinema",
+        "theatrical": "cinema",
+        "multi_platform": "multi_platform",
+        "multi platform": "multi_platform",
+    }
+    normalized = aliases.get(text, text)
+    return normalized if normalized in ALLOWED_PLATFORMS else fallback
+
+
+def looks_entertainment_related(title: str, overview: str) -> bool:
+    text = f"{clean_text(title)} {clean_text(overview)}".lower()
+    allow = (
+        "movie",
+        "film",
+        "series",
+        "tv",
+        "streaming",
+        "trailer",
+        "actor",
+        "actress",
+        "director",
+        "cinema",
+        "box office",
+        "anime",
+        "documentary",
+        "episode",
+        "season",
+        "premiere",
+        "netflix",
+        "disney+",
+        "prime video",
+        "hbo max",
+        "max original",
+        "entertainment",
+    )
+    deny = (
+        "airpods",
+        "deal",
+        "discount",
+        "baseball",
+        "football",
+        "soccer",
+        "cricket",
+        "tennis",
+        "basketball",
+        "nfl",
+        "nba",
+        "mlb",
+        "ufc",
+        "mma",
+        "nascar",
+        "schedule",
+        "stock",
+        "earnings",
+        "finance",
+        "crypto",
+        "election",
+        "senate",
+        "policy",
+        "war update",
+    )
+    if any(bad in text for bad in deny):
+        return False
+    return any(good in text for good in allow)
 
 
 def parse_year(value: Any) -> int | None:

@@ -17,9 +17,46 @@ from utils.image_utils import (
 from utils.json_utils import validate_item_schema, write_json
 from utils.http_client import HTTPClient
 from utils.article_url import is_valid_article_page_url
-from utils.normalization import cross_platform_key, dedupe_key_parts, normalized_url_signature
+from utils.normalization import (
+    cross_platform_key,
+    dedupe_key_parts,
+    looks_entertainment_related,
+    normalized_url_signature,
+)
 
 logger = logging.getLogger(__name__)
+
+_GENERIC_BAD_TITLES = {
+    "breaking news",
+    "news",
+    "update",
+    "latest updates",
+}
+
+_CLICKBAIT_HINTS = ("you won't believe", "shocking", "insane", "must see", "viral hack")
+
+
+def _quality_score(item: dict[str, Any]) -> int:
+    score = 0
+    domain = str(item.get("source_domain", "")).lower()
+    if any(k in domain for k in ("netflix.com", "disney", "primevideo.com", "max.com", "imdb.com", "variety.com")):
+        score += 3
+    if item.get("poster_image_url"):
+        score += 2
+    if item.get("published_at"):
+        score += 2
+    if item.get("article_url"):
+        score += 2
+    text = f"{item.get('title', '')} {item.get('overview', '')}".lower()
+    if looks_entertainment_related(item.get("title", ""), item.get("overview", "")):
+        score += 2
+    if any(k in text for k in _CLICKBAIT_HINTS):
+        score -= 3
+    if item.get("title", "").strip().lower() in _GENERIC_BAD_TITLES:
+        score -= 3
+    if len(item.get("title", "").strip()) < 8:
+        score -= 4
+    return score
 
 
 def _sort_key(item: dict[str, Any]) -> tuple[int, str]:
@@ -72,6 +109,13 @@ def process_raw_items(
         if item["title"].lower() in {"unknown title", "home", "video"}:
             logger.debug("Skipping low-quality title item: %s", item["title"])
             continue
+        title_clean = item["title"].strip().lower()
+        if len(item["title"].strip()) < 8 or title_clean in _GENERIC_BAD_TITLES:
+            logger.debug("Skipping generic/short title: %s", item["title"])
+            continue
+        if not looks_entertainment_related(item.get("title", ""), item.get("overview", "")):
+            logger.debug("Skipping non-entertainment row: %s", item.get("title"))
+            continue
 
         for img_key in ("poster_image_url", "backdrop_image_url"):
             u = item.get(img_key)
@@ -97,6 +141,11 @@ def process_raw_items(
 
         if item.get("poster_image_url") and not item.get("backdrop_image_url"):
             item["backdrop_image_url"] = item["poster_image_url"]
+        if not item.get("article_url"):
+            item["article_url"] = item["source_url"]
+        if _quality_score(item) < 3:
+            logger.debug("Skipping low-quality row score<3: %s", item.get("title"))
+            continue
         if validate_item_schema(item):
             processed.append(item)
         else:

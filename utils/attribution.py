@@ -50,6 +50,12 @@ _PUBLISHER_PRETTY_FROM_DOMAIN: list[tuple[re.Pattern[str], str]] = [
     (re.compile(r"^(?:www\.)?rollingstone\.com$", re.I), "Rolling Stone"),
     (re.compile(r"^(?:www\.)?theringer\.com$", re.I), "The Ringer"),
     (re.compile(r"^(?:www\.)?vulture\.com$", re.I), "Vulture"),
+    (re.compile(r"^(?:[\w.-]+\.)?wbd\.com$", re.I), "Warner Bros. Discovery"),
+    (re.compile(r"^(?:[\w.-]+\.)?aboutamazon\.com$", re.I), "About Amazon"),
+    (re.compile(r"^(?:[\w.-]+\.)?screenhub\.com\.au$", re.I), "ScreenHub Australia"),
+    (re.compile(r"^(?:[\w.-]+\.)?zoomtventertainment\.com$", re.I), "Zoom TV Entertainment"),
+    (re.compile(r"^(?:[\w.-]+\.)?aol\.com$", re.I), "AOL"),
+    (re.compile(r"^(?:[\w.-]+\.)?whky\.com$", re.I), "WHKY"),
 ]
 
 
@@ -96,6 +102,28 @@ def _title_case_fragment(label: str) -> str:
     return " ".join(p[:1].upper() + p[1:].lower() if p else "" for p in parts if p).strip()
 
 
+def _humanize_compound_token(token: str) -> str:
+    raw = token.replace("-", " ").replace("_", " ").strip()
+    if " " in raw:
+        return _title_case_fragment(raw)
+    known_chunks = (
+        ("economictimes", "Economic Times"),
+        ("mensjournal", "Mens Journal"),
+        ("screenhub", "ScreenHub"),
+        ("aboutamazon", "About Amazon"),
+        ("zoomtventertainment", "Zoom TV Entertainment"),
+    )
+    lowered = raw.lower()
+    for key, pretty in known_chunks:
+        if lowered == key:
+            return pretty
+    # Best-effort split for long domain tokens: "moviewebnews" -> "Movieweb News"
+    guess = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", raw)
+    if len(guess) >= 12:
+        guess = re.sub(r"(news|media|times|journal|entertainment|daily|post|insider)$", r" \1", guess, flags=re.I)
+    return _title_case_fragment(guess)
+
+
 def source_label_from_domain(domain: str) -> str:
     """Human-readable outlet name without exposing noisy subdomains."""
     base = publication_domain(domain)
@@ -106,9 +134,19 @@ def source_label_from_domain(domain: str) -> str:
     segments = base.split(".")
     if len(segments) >= 3 and segments[-1] == "uk" and segments[-2] in {"co", "com", "org", "net", "gov"}:
         return _title_case_fragment(segments[-3])
+    if segments and segments[-1] in {"com", "net", "org", "tv", "io", "co", "news"}:
+        segments = segments[:-1]
     if len(segments) >= 2:
-        return _title_case_fragment(segments[-2])
-    return _title_case_fragment(segments[0]) if segments else base
+        token = segments[-1] if len(segments[-1]) > 2 else segments[-2]
+        upper_acronyms = {"aol", "whky", "bbc", "cnn", "mtv", "tmz", "abc", "nbc", "cbs"}
+        if token.lower() in upper_acronyms:
+            return token.upper()
+        if token.lower() == "wbd":
+            return "Warner Bros. Discovery"
+        if token.lower() == "aboutamazon":
+            return "About Amazon"
+        return _humanize_compound_token(token)
+    return _humanize_compound_token(segments[0]) if segments else base
 
 
 def derive_source_attribution(url: str) -> tuple[str, str]:

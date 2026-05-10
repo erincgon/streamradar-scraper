@@ -12,7 +12,9 @@ from utils.content_classification import infer_content_type
 from utils.normalization import (
     clamp_summary,
     clean_text,
+    looks_entertainment_related,
     normalize_genres,
+    normalize_platform,
     normalize_pub_date_to_iso_z,
     normalize_title,
     normalize_type,
@@ -59,6 +61,8 @@ class ContentItem:
             src_canon = canonical_article_url(unwrap_redirect_wrapper(source_url))
             if is_valid_article_page_url(src_canon):
                 article_resolved = src_canon
+        if article_resolved is None:
+            article_resolved = canonical_article_url(unwrap_redirect_wrapper(source_url)) or source_url
 
         attr_url = article_resolved or unwrap_redirect_wrapper(source_url) or source_url
         name, domain = derive_source_attribution(attr_url)
@@ -78,7 +82,7 @@ class ContentItem:
             title=normalize_title(raw.get("title"), fallback="Unknown Title"),
             year=parse_year(raw.get("year") or raw.get("title")),
             type=media_type,
-            platform=clean_text(raw.get("platform"), fallback="unknown"),
+            platform=normalize_platform(raw.get("platform"), fallback="multi_platform"),
             release_date=parse_release_date(raw.get("release_date")),
             overview=ov,
             genres=normalize_genres(raw.get("genres")),
@@ -94,7 +98,7 @@ class ContentItem:
             content_type=_infer_bucket(
                 raw=raw,
                 feed_name=feed_name,
-                platform=clean_text(raw.get("platform"), fallback="unknown"),
+                platform=normalize_platform(raw.get("platform"), fallback="multi_platform"),
                 media_type=media_type,
                 title=normalize_title(raw.get("title"), fallback="Unknown Title"),
                 overview=ov,
@@ -139,25 +143,21 @@ def _infer_bucket(
     overview: str,
 ) -> str:
     explicit = clean_text(raw.get("content_type"), fallback="")
-    allowed = {
-        "movie_news",
-        "series_news",
-        "trending",
-        "upcoming_release",
-        "platform_release",
-        "cinema_release",
-        "documentary",
-        "entertainment_news",
-    }
+    allowed = {"trending", "upcoming_release", "platform_release", "cinema_release", "review"}
     if explicit in allowed:
         return explicit
-    return infer_content_type(
+    inferred = infer_content_type(
         feed_name=feed_name,
         platform=platform,
         media_type=media_type,
         title=title,
         overview=overview,
     )
+    if inferred not in allowed:
+        return "review"
+    if not looks_entertainment_related(title, overview):
+        return "review"
+    return inferred
 
 
 def _coerce_rating(value: Any) -> float | None:

@@ -15,8 +15,8 @@ def infer_content_type(
     overview: str,
 ) -> str:
     """
-    Allowed: movie_news, series_news, trending, upcoming_release, platform_release,
-    cinema_release, documentary, entertainment_news
+    Allowed output for mobile cache: trending, upcoming_release, platform_release,
+    cinema_release, review
     """
     feed = (feed_name or "").lower()
     plat = clean_lower(platform)
@@ -24,7 +24,7 @@ def infer_content_type(
     merged = f"{clean_lower(title)} {clean_lower(overview)}"
 
     if mt == "documentary" or re.search(r"\bdocumentary\b", merged):
-        return "documentary"
+        return "review"
 
     if feed == "trending" or plat == "imdb_trending":
         return "trending"
@@ -39,15 +39,15 @@ def infer_content_type(
         return "platform_release"
 
     if re.search(r"\b(?:tv\s+series|season\s*\d+|anthology\s+series|episode|limited\s+series)\b", merged):
-        return "series_news"
+        return "review"
     if re.search(r"\b(?:feature\s+film|movie\s+release|film\s+release|blockbuster|cinematic)\b", merged):
-        return "movie_news"
+        return "review"
     if mt == "series":
-        return "series_news"
+        return "review"
     if mt == "movie":
-        return "movie_news"
+        return "review"
 
-    return "entertainment_news"
+    return "review"
 
 
 def clean_lower(value: Any) -> str:
