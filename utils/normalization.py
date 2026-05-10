@@ -9,6 +9,7 @@ from typing import Any
 
 from urllib.parse import parse_qsl, urlsplit
 
+from utils.article_url import is_valid_article_page_url
 from utils.attribution import canonical_article_url, publication_domain, simplify_domain
 
 SUMMARY_MAX_CHARS = 500
@@ -203,7 +204,11 @@ def dedupe_key_parts(
     source_url: str,
     article_url: str | None = None,
 ) -> str:
-    url_sig = normalized_url_signature(article_url or source_url or "")
+    url_sig = ""
+    if article_url and is_valid_article_page_url(article_url):
+        url_sig = normalized_url_signature(article_url)
+    elif source_url and is_valid_article_page_url(source_url):
+        url_sig = normalized_url_signature(source_url)
     if url_sig.startswith("http") and url_sig not in {"", "http://unknown", "https://unknown"}:
         return "url|" + url_sig
 
@@ -224,7 +229,9 @@ def cross_platform_key(
     media_type: str,
     article_url: str | None = None,
 ) -> str:
-    url_sig = normalized_url_signature(article_url or "")
+    url_sig = ""
+    if article_url and is_valid_article_page_url(article_url):
+        url_sig = normalized_url_signature(article_url)
     if url_sig.startswith("http"):
         return "url|" + url_sig
     return "|".join(

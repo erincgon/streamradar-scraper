@@ -6,6 +6,7 @@ from abc import ABC, abstractmethod
 from dataclasses import dataclass
 from typing import Any
 
+from utils.article_url import is_valid_article_page_url, unwrap_redirect_wrapper
 from utils.attribution import canonical_article_url, derive_source_attribution
 from utils.content_classification import infer_content_type
 from utils.normalization import (
@@ -39,7 +40,7 @@ class ContentItem:
     scraped_at: str
     source_name: str
     source_domain: str
-    article_url: str
+    article_url: str | None
     content_type: str
     published_at: str | None
     updated_at: str
@@ -47,9 +48,20 @@ class ContentItem:
     @classmethod
     def from_raw(cls, raw: dict[str, Any], *, feed_name: str | None = None) -> "ContentItem":
         source_url = clean_text(raw.get("source_url"), fallback="")
-        article_url = canonical_article_url(raw.get("article_url") or source_url) or source_url
+        raw_article = raw.get("article_url")
 
-        name, domain = derive_source_attribution(article_url or source_url)
+        article_resolved: str | None = None
+        if raw_article is not None and str(raw_article).strip():
+            candidate = canonical_article_url(unwrap_redirect_wrapper(str(raw_article).strip()))
+            if is_valid_article_page_url(candidate):
+                article_resolved = candidate
+        if article_resolved is None and source_url:
+            src_canon = canonical_article_url(unwrap_redirect_wrapper(source_url))
+            if is_valid_article_page_url(src_canon):
+                article_resolved = src_canon
+
+        attr_url = article_resolved or unwrap_redirect_wrapper(source_url) or source_url
+        name, domain = derive_source_attribution(attr_url)
         if name == "Unknown" and source_url:
             name, domain = derive_source_attribution(source_url)
 
@@ -78,7 +90,7 @@ class ContentItem:
             scraped_at=utc_now_iso(),
             source_name=name,
             source_domain=domain,
-            article_url=article_url or source_url,
+            article_url=article_resolved,
             content_type=_infer_bucket(
                 raw=raw,
                 feed_name=feed_name,

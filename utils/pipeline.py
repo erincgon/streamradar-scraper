@@ -12,6 +12,7 @@ from utils.fallback_data import fallback_for_feed
 from utils.image_utils import extract_image_from_article, validate_image_url
 from utils.json_utils import validate_item_schema, write_json
 from utils.http_client import HTTPClient
+from utils.article_url import is_valid_article_page_url
 from utils.normalization import cross_platform_key, dedupe_key_parts, normalized_url_signature
 
 logger = logging.getLogger(__name__)
@@ -52,11 +53,13 @@ def process_raw_items(
     feed_name: str | None = None,
     validate_images: bool = True,
 ) -> list[dict[str, Any]]:
+    raw_cap = APP_CONFIG.max_items_per_feed
+    raw_items = raw_items[:raw_cap]
     http_client = HTTPClient()
     processed: list[dict[str, Any]] = []
     enrichment_cache: dict[str, str | None] = {}
     enrichment_attempts = 0
-    max_enrichment_attempts = 40
+    max_enrichment_attempts = APP_CONFIG.max_items_per_feed
     for raw in raw_items:
         item = ContentItem.from_raw(raw, feed_name=feed_name).to_dict()
         if not item["source_url"]:
@@ -71,9 +74,9 @@ def process_raw_items(
             if (
                 not item["poster_image_url"]
                 and enrichment_attempts < max_enrichment_attempts
-                and item["source_url"]
+                and (item.get("article_url") or item["source_url"])
             ):
-                source_url = item["source_url"]
+                source_url = item.get("article_url") or item["source_url"]
                 if source_url not in enrichment_cache:
                     enrichment_cache[source_url] = extract_image_from_article(source_url, http_client)
                     enrichment_attempts += 1
@@ -105,6 +108,7 @@ def run_feed(feed_name: str, scraper_objects: list[Any]) -> list[dict[str, Any]]
             scraper_stats.append(f"{scraper.scraper_name}=error")
             continue
 
+    aggregate_raw = aggregate_raw[: APP_CONFIG.max_items_per_feed]
     payload = process_raw_items(aggregate_raw, feed_name=feed_name, validate_images=True)
     if not payload:
         logger.warning(
@@ -116,7 +120,10 @@ def run_feed(feed_name: str, scraper_objects: list[Any]) -> list[dict[str, Any]]
         payload = process_raw_items(fallback_for_feed(feed_name), feed_name=feed_name, validate_images=False)
         logger.info("Injected %s fallback items for feed '%s'", len(payload), feed_name)
 
-    if feed_name in {"trending", "upcoming"} and len(payload) < 2:
+    low_boost = frozenset(
+        {"trending", "upcoming", "cinema_releases", "netflix", "disney_plus", "prime_video", "hbo_max"},
+    )
+    if feed_name in low_boost and len(payload) < 2:
         logger.warning("Feed '%s' had low volume (%s). adding fallback boosters", feed_name, len(payload))
         payload = process_raw_items(
             payload + fallback_for_feed(feed_name),
@@ -124,8 +131,7 @@ def run_feed(feed_name: str, scraper_objects: list[Any]) -> list[dict[str, Any]]
             validate_images=False,
         )
 
-    write_json(OUTPUT_DIR / f"{feed_name}.json", payload)
-    logger.info("Wrote output/%s.json (%s items)", feed_name, len(payload))
+    logger.info("Prepared feed '%s' with %s item(s); JSON written after global dedupe in main.", feed_name, len(payload))
     return payload
 
 
@@ -171,15 +177,17 @@ def filter_global_article_dedupe(payload: list[dict[str, Any]], seen_urls: set[s
     """
     filtered: list[dict[str, Any]] = []
     for item in payload:
-        candidate = normalized_url_signature(str(item.get("article_url") or item.get("source_url") or ""))
-        if candidate.startswith("http"):
-            if candidate in seen_urls:
-                logger.debug(
-                    "Global article dedupe dropped title=%s url=%s",
-                    item.get("title"),
-                    candidate,
-                )
-                continue
-            seen_urls.add(candidate)
+        au = item.get("article_url")
+        if au and is_valid_article_page_url(str(au)):
+            candidate = normalized_url_signature(str(au))
+            if candidate.startswith("http"):
+                if candidate in seen_urls:
+                    logger.debug(
+                        "Global article dedupe dropped title=%s url=%s",
+                        item.get("title"),
+                        candidate,
+                    )
+                    continue
+                seen_urls.add(candidate)
         filtered.append(item)
     return filtered

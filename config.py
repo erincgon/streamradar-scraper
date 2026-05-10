@@ -20,7 +20,10 @@ class AppConfig:
     backoff_factor: float = 0.75
     min_rate_limit_seconds: float = 0.5
     max_rate_limit_seconds: float = 1.5
-    max_items_per_feed: int = 100
+    max_items_per_feed: int = 20
 
 
 APP_CONFIG = AppConfig()
+
+# Platform JSON’ları (`netflix`, `disney_plus`, `prime_video`, `hbo_max`) resmî vitrin /
+# basın kaynaklarından üretilir. `trending`, `upcoming`, `cinema_releases`: Google News RSS.

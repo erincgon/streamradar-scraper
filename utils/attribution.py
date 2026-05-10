@@ -166,6 +166,9 @@ def canonical_article_url(url: str | None) -> str:
     scheme = split.scheme.lower()
     netloc = split.netloc
     path = split.path or "/"
+    path = re.sub(r"/{2,}", "/", path.replace("\\", "/"))
+    if not path.startswith("/"):
+        path = "/" + path
     query = split.query
 
     # Upgrade http -> https for attribution safety (scrapers rarely need plain http).

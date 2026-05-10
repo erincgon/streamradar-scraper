@@ -9,6 +9,7 @@ from typing import Any
 
 from bs4 import BeautifulSoup
 
+from config import APP_CONFIG
 from scrapers.base import BaseScraper
 from utils.http_client import HTTPClient
 
@@ -27,7 +28,7 @@ class IMDbTrendingScraper(BaseScraper):
     def __init__(self) -> None:
         self.http_client = HTTPClient()
 
-    def _extract_from_embedded_json(self, soup: BeautifulSoup, media_type: str) -> list[dict[str, Any]]:
+    def _extract_from_embedded_json(self, soup: BeautifulSoup, media_type: str, chart_url: str) -> list[dict[str, Any]]:
         items: list[dict[str, Any]] = []
         scripts = soup.select("script[type='application/ld+json']")
         for script in scripts:
@@ -63,7 +64,7 @@ class IMDbTrendingScraper(BaseScraper):
                         "backdrop_image_url": node.get("image"),
                         "rating": ((node.get("aggregateRating") or {}).get("ratingValue") if isinstance(node.get("aggregateRating"), dict) else None),
                         "trailer_url": None,
-                        "source_url": full_url or "https://www.imdb.com/",
+                        "source_url": full_url or chart_url,
                     }
                 )
         return items
@@ -109,25 +110,36 @@ class IMDbTrendingScraper(BaseScraper):
                 break
         return items
 
-    def _scrape_chart(self, url: str, media_type: str) -> list[dict[str, Any]]:
+    def _scrape_chart(self, url: str, media_type: str, *, limit: int | None = None) -> list[dict[str, Any]]:
         items: list[dict[str, Any]] = []
         response = self.http_client.get(url)
         if not response.ok:
             logger.warning("%s %s returned status=%s", self.scraper_name, url, response.status_code)
             return items
 
+        cap = limit if limit is not None else APP_CONFIG.max_items_per_feed
         soup = BeautifulSoup(response.text, "lxml")
-        json_items = self._extract_from_embedded_json(soup, media_type)
+        json_items = self._extract_from_embedded_json(soup, media_type, url)
         dom_items = self._extract_from_dom(soup, media_type, url)
         combined = json_items + dom_items
         if not combined:
             logger.warning("%s extracted 0 items from %s", self.scraper_name, url)
-        return combined[:120]
+        return combined[:cap]
 
     def scrape(self) -> list[dict[str, Any]]:
         try:
-            movie_items = self._scrape_chart("https://www.imdb.com/chart/moviemeter/", "movie")
-            series_items = self._scrape_chart("https://www.imdb.com/chart/tvmeter/", "series")
+            cap = APP_CONFIG.max_items_per_feed
+            half = max(1, cap // 2)
+            movie_items = self._scrape_chart(
+                "https://www.imdb.com/chart/moviemeter/",
+                "movie",
+                limit=half,
+            )
+            series_items = self._scrape_chart(
+                "https://www.imdb.com/chart/tvmeter/",
+                "series",
+                limit=cap - half,
+            )
             results = movie_items + series_items
             if not results:
                 logger.warning("%s returned empty list for both chart endpoints", self.scraper_name)
