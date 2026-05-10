@@ -143,6 +143,28 @@ def process_raw_items(
             item["backdrop_image_url"] = item["poster_image_url"]
         if not item.get("article_url"):
             item["article_url"] = item["source_url"]
+        if (
+            item.get("source_url")
+            and is_valid_article_page_url(str(item["source_url"]))
+            and not is_valid_article_page_url(str(item.get("article_url") or ""))
+        ):
+            item["article_url"] = item["source_url"]
+        # Discovery/news feeds must point to a concrete article page (not homepage/root).
+        if feed_name in {"trending", "upcoming", "cinema_releases"}:
+            article_candidate = str(item.get("article_url") or "").strip()
+            source_candidate = str(item.get("source_url") or "").strip()
+            if not (
+                is_valid_article_page_url(article_candidate)
+                or is_valid_article_page_url(source_candidate)
+            ):
+                logger.debug(
+                    "Skipping row without valid article page URL feed=%s title=%s article=%s source=%s",
+                    feed_name,
+                    item.get("title"),
+                    article_candidate,
+                    source_candidate,
+                )
+                continue
         if _quality_score(item) < 3:
             logger.debug("Skipping low-quality row score<3: %s", item.get("title"))
             continue

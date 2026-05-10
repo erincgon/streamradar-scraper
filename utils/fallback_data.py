@@ -90,7 +90,7 @@ def fallback_for_feed(feed_name: str) -> list[dict[str, object]]:
                 release_date="2026-06-01",
                 overview="Demo slate: will premiere soon when upcoming release feeds return empty.",
                 genres=["Adventure"],
-                source_url="https://news.google.com/",
+                source_url="https://www.imdb.com/title/tt1375666/",
             ),
             _item(
                 title="StreamRadar Upcoming Series",
@@ -100,7 +100,7 @@ def fallback_for_feed(feed_name: str) -> list[dict[str, object]]:
                 release_date="2026-06-15",
                 overview="Coming soon — set to stream next month for downstream test payloads.",
                 genres=["Sci-Fi"],
-                source_url="https://news.google.com/",
+                source_url="https://www.imdb.com/title/tt0903747/",
             ),
         ],
     }
@@ -112,6 +112,6 @@ def fallback_for_feed(feed_name: str) -> list[dict[str, object]]:
         release_date="2026-05-08",
         overview="Fallback demo content used while source pages are unavailable.",
         genres=["Drama"],
-        source_url="https://news.google.com/",
+        source_url="https://www.imdb.com/title/tt0468569/",
     )
     return fallback_map.get(feed_name, [default_item])
