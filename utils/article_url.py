@@ -122,6 +122,14 @@ def is_valid_article_page_url(url: str | None) -> bool:
     if "news.google.com" in host:
         return False
 
+    # Google News thumbnails / CDN assets are not publisher article pages.
+    if (
+        host.endswith("googleusercontent.com")
+        or host.endswith("ggpht.com")
+        or host.endswith("gstatic.com")
+    ):
+        return False
+
     if len(segments) == 0:
         return False
 

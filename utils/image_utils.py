@@ -33,6 +33,16 @@ def _looks_like_image_url(url: str) -> bool:
     lowered = url.lower()
     if any(ext in lowered for ext in _IMG_EXTENSIONS):
         return True
+    if (
+        "format=webp" in lowered
+        or "format=jpeg" in lowered
+        or "format=jpg" in lowered
+        or "format=pjpeg" in lowered
+        or "format=png" in lowered
+    ):
+        return True
+    if "/ripcut-delivery/" in lowered:
+        return True
     path = urlparse(url).path.lower()
     return any(path.endswith(ext) for ext in _IMG_EXTENSIONS)
 
@@ -61,6 +71,7 @@ def _is_known_image_host(url: str) -> bool:
         "wordpress.com",
         "wp.com",
         "squarespace",
+        "wikimedia.org",
         # generic fallbacks still gated by HTTPS + validation
         "cdn",
         "image",
@@ -106,12 +117,43 @@ def validate_image_url(url: str | None, http_client: HTTPClient) -> str | None:
     return None
 
 
+def is_standalone_image_cdn_url(url: str | None) -> bool:
+    """True when URL is almost certainly a hotlinked image, not an HTML article."""
+    if not url or not isinstance(url, str):
+        return False
+    host = urlparse(url.strip()).netloc.lower()
+    return bool(
+        host.endswith("googleusercontent.com")
+        or host.endswith("ggpht.com")
+        or host.endswith("gstatic.com")
+    )
+
+
+def normalize_rss_thumbnail_url(url: str | None) -> str | None:
+    """Upgrade tiny Google-hosted RSS thumbnails (`=w16`) to a larger rendition."""
+    if not url or not isinstance(url, str):
+        return None
+    u = url.strip()
+    if not is_standalone_image_cdn_url(u):
+        return u
+
+    def repl(m: re.Match[str]) -> str:
+        n = int(m.group(1))
+        return "=w1280" if n < 400 else m.group(0)
+
+    return re.sub(r"=w(\d+)\b", repl, u, count=1)
+
+
 def extract_image_from_article(source_url: str, http_client: HTTPClient) -> str | None:
     """
     Try to resolve article page and extract og/twitter image.
     """
     if not source_url.startswith(("http://", "https://")):
         return None
+
+    if is_standalone_image_cdn_url(source_url):
+        upsized = normalize_rss_thumbnail_url(source_url)
+        return validate_image_url(upsized, http_client) if upsized else None
 
     try:
         response = http_client.get(source_url)
@@ -131,6 +173,7 @@ def extract_image_from_article(source_url: str, http_client: HTTPClient) -> str 
             candidate = match.group(1).strip()
             if candidate.startswith("//"):
                 candidate = f"https:{candidate}"
+            candidate = normalize_rss_thumbnail_url(candidate) or candidate
             validated = validate_image_url(candidate, http_client)
             if validated:
                 return validated

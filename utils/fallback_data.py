@@ -4,6 +4,9 @@ from __future__ import annotations
 
 from utils.normalization import utc_now_iso
 
+# Neutral demo art when live feeds are empty (Wikimedia Commons–style stock “no picture”).
+_DEFAULT_FALLBACK_POSTER = "https://upload.wikimedia.org/wikipedia/en/6/60/No_Picture.jpg"
+
 
 def _item(
     *,
@@ -15,7 +18,9 @@ def _item(
     overview: str,
     genres: list[str],
     source_url: str,
+    poster_url: str | None = None,
 ) -> dict[str, object]:
+    art = poster_url or _DEFAULT_FALLBACK_POSTER
     return {
         "title": title,
         "year": year,
@@ -24,8 +29,8 @@ def _item(
         "release_date": release_date,
         "overview": overview,
         "genres": genres,
-        "poster_image_url": None,
-        "backdrop_image_url": None,
+        "poster_image_url": art,
+        "backdrop_image_url": art,
         "rating": None,
         "trailer_url": None,
         "source_url": source_url,

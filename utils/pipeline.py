@@ -9,7 +9,11 @@ from typing import Any
 from config import APP_CONFIG, OUTPUT_DIR
 from scrapers.base import ContentItem
 from utils.fallback_data import fallback_for_feed
-from utils.image_utils import extract_image_from_article, validate_image_url
+from utils.image_utils import (
+    extract_image_from_article,
+    normalize_rss_thumbnail_url,
+    validate_image_url,
+)
 from utils.json_utils import validate_item_schema, write_json
 from utils.http_client import HTTPClient
 from utils.article_url import is_valid_article_page_url
@@ -59,7 +63,7 @@ def process_raw_items(
     processed: list[dict[str, Any]] = []
     enrichment_cache: dict[str, str | None] = {}
     enrichment_attempts = 0
-    max_enrichment_attempts = APP_CONFIG.max_items_per_feed
+    max_enrichment_attempts = min(60, APP_CONFIG.max_items_per_feed * 3)
     for raw in raw_items:
         item = ContentItem.from_raw(raw, feed_name=feed_name).to_dict()
         if not item["source_url"]:
@@ -68,6 +72,12 @@ def process_raw_items(
         if item["title"].lower() in {"unknown title", "home", "video"}:
             logger.debug("Skipping low-quality title item: %s", item["title"])
             continue
+
+        for img_key in ("poster_image_url", "backdrop_image_url"):
+            u = item.get(img_key)
+            if isinstance(u, str) and u.startswith("https://"):
+                item[img_key] = normalize_rss_thumbnail_url(u) or u
+
         if validate_images:
             item["poster_image_url"] = validate_image_url(item["poster_image_url"], http_client)
             item["backdrop_image_url"] = validate_image_url(item["backdrop_image_url"], http_client)
@@ -84,6 +94,9 @@ def process_raw_items(
                 if enriched:
                     item["poster_image_url"] = enriched
                     item["backdrop_image_url"] = item["backdrop_image_url"] or enriched
+
+        if item.get("poster_image_url") and not item.get("backdrop_image_url"):
+            item["backdrop_image_url"] = item["poster_image_url"]
         if validate_item_schema(item):
             processed.append(item)
         else:

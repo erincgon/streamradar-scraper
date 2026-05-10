@@ -20,6 +20,8 @@ from utils.article_url import (
 )
 from utils.attribution import canonical_article_url
 from utils.http_client import HTTPClient
+from utils.image_utils import is_standalone_image_cdn_url, normalize_rss_thumbnail_url
+from utils.normalization import parse_year
 
 logger = logging.getLogger(__name__)
 
@@ -124,13 +126,16 @@ class GoogleNewsRSSScraper(BaseScraper):
         return re.sub(r"\s+", " ", text).strip()
 
     def _extract_media_url(self, entry: Any, raw_summary: str) -> str | None:
+        def thumb(u: str) -> str:
+            return normalize_rss_thumbnail_url(u) or u
+
         # 1) RSS media content blocks
         media = getattr(entry, "media_content", None)
         if media and isinstance(media, list):
             for media_item in media:
                 candidate = media_item.get("url")
                 if isinstance(candidate, str) and candidate.startswith(("http://", "https://")):
-                    return candidate
+                    return thumb(candidate)
 
         # 2) RSS media thumbnail blocks
         thumbnails = getattr(entry, "media_thumbnail", None)
@@ -138,7 +143,7 @@ class GoogleNewsRSSScraper(BaseScraper):
             for media_item in thumbnails:
                 candidate = media_item.get("url")
                 if isinstance(candidate, str) and candidate.startswith(("http://", "https://")):
-                    return candidate
+                    return thumb(candidate)
 
         # 3) RSS links with enclosure relation
         links = getattr(entry, "links", None)
@@ -149,7 +154,7 @@ class GoogleNewsRSSScraper(BaseScraper):
                 rel = str(link.get("rel", "")).lower()
                 if isinstance(href, str) and href.startswith(("http://", "https://")):
                     if rel == "enclosure" and "image" in link_type:
-                        return href
+                        return thumb(href)
 
         # 4) image URL from summary HTML
         img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', raw_summary or "", flags=re.I)
@@ -158,7 +163,7 @@ class GoogleNewsRSSScraper(BaseScraper):
             if candidate.startswith("//"):
                 candidate = f"https:{candidate}"
             if candidate.startswith(("http://", "https://")):
-                return candidate
+                return thumb(candidate)
 
         # 5) data-src / srcset image URL from summary HTML
         attr_match = re.search(
@@ -171,7 +176,7 @@ class GoogleNewsRSSScraper(BaseScraper):
             if candidate.startswith("//"):
                 candidate = f"https:{candidate}"
             if candidate.startswith(("http://", "https://")):
-                return candidate
+                return thumb(candidate)
         return None
 
     def _is_google_news_url(self, url: str) -> bool:
@@ -266,6 +271,8 @@ class GoogleNewsRSSScraper(BaseScraper):
         for cand in candidates:
             plain = unwrap_redirect_wrapper(cand.strip())
             canon = canonical_article_url(plain)
+            if is_standalone_image_cdn_url(canon):
+                continue
             if is_valid_article_page_url(canon):
                 article_val = canon
                 break
@@ -276,6 +283,8 @@ class GoogleNewsRSSScraper(BaseScraper):
                 if resolve_attempts >= 4:
                     break
                 if not cand.startswith(("http://", "https://")):
+                    continue
+                if is_standalone_image_cdn_url(cand.strip()):
                     continue
                 resolve_attempts += 1
                 resolved = self._resolve_article_cached(cand)
@@ -289,12 +298,16 @@ class GoogleNewsRSSScraper(BaseScraper):
         else:
             for cand in candidates:
                 cu = canonical_article_url(unwrap_redirect_wrapper(cand.strip()))
+                if is_standalone_image_cdn_url(cu):
+                    continue
                 if cu.startswith("https://") and not self._is_google_news_url(cu):
                     source_val = cu
                     break
             if not source_val:
                 for cand in candidates:
                     cu = canonical_article_url(unwrap_redirect_wrapper(cand.strip()))
+                    if is_standalone_image_cdn_url(cu):
+                        continue
                     if cu.startswith("https://"):
                         source_val = cu
                         break
@@ -363,7 +376,7 @@ class GoogleNewsRSSScraper(BaseScraper):
             results.append(
                 {
                     "title": self._sanitize_title(title),
-                    "year": title,
+                    "year": parse_year(published),
                     "type": self._extract_type(merged_text),
                     "platform": self.platform,
                     "release_date": published,
