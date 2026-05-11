@@ -20,7 +20,7 @@ from utils.article_url import (
 )
 from utils.attribution import canonical_article_url
 from utils.http_client import HTTPClient
-from utils.image_utils import is_standalone_image_cdn_url, normalize_rss_thumbnail_url
+from utils.image_utils import is_google_news_logo, is_standalone_image_cdn_url, normalize_rss_thumbnail_url
 from utils.normalization import parse_year
 
 logger = logging.getLogger(__name__)
@@ -382,6 +382,8 @@ class GoogleNewsRSSScraper(BaseScraper):
                 continue
 
             media_url = self._extract_media_url(entry, description)
+            if is_google_news_logo(media_url):
+                media_url = None
 
             results.append(
                 {

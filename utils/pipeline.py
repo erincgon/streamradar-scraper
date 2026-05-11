@@ -11,11 +11,13 @@ from scrapers.base import ContentItem
 from utils.fallback_data import fallback_for_feed
 from utils.image_utils import (
     extract_image_from_article,
+    is_google_news_logo,
     normalize_rss_thumbnail_url,
     validate_image_url,
 )
 from utils.json_utils import validate_item_schema, write_json
 from utils.http_client import HTTPClient
+from utils.tmdb import fetch_tmdb_images
 from utils.article_url import is_valid_article_page_url
 from utils.normalization import (
     cross_platform_key,
@@ -99,6 +101,7 @@ def process_raw_items(
     http_client = HTTPClient()
     processed: list[dict[str, Any]] = []
     enrichment_cache: dict[str, str | None] = {}
+    tmdb_cache: dict[str, dict[str, str | None]] = {}
     enrichment_attempts = 0
     max_enrichment_attempts = min(60, APP_CONFIG.max_items_per_feed * 3)
     for raw in raw_items:
@@ -119,7 +122,9 @@ def process_raw_items(
 
         for img_key in ("poster_image_url", "backdrop_image_url"):
             u = item.get(img_key)
-            if isinstance(u, str) and u.startswith("https://"):
+            if isinstance(u, str) and is_google_news_logo(u):
+                item[img_key] = None
+            elif isinstance(u, str) and u.startswith("https://"):
                 item[img_key] = normalize_rss_thumbnail_url(u) or u
 
         if validate_images:
@@ -135,9 +140,24 @@ def process_raw_items(
                     enrichment_cache[source_url] = extract_image_from_article(source_url, http_client)
                     enrichment_attempts += 1
                 enriched = enrichment_cache[source_url]
-                if enriched:
+                if enriched and not is_google_news_logo(enriched):
                     item["poster_image_url"] = enriched
                     item["backdrop_image_url"] = item["backdrop_image_url"] or enriched
+
+        if not item.get("poster_image_url") or not item.get("backdrop_image_url"):
+            cache_key = f"{item['title']}||{item.get('type', '')}||{item.get('year', '')}"
+            if cache_key not in tmdb_cache:
+                tmdb_cache[cache_key] = fetch_tmdb_images(
+                    title=item["title"],
+                    media_type=item.get("type", "movie"),
+                    year=item.get("year"),
+                    http_client=http_client,
+                )
+            tmdb_imgs = tmdb_cache[cache_key]
+            if not item.get("poster_image_url") and tmdb_imgs.get("poster_image_url"):
+                item["poster_image_url"] = tmdb_imgs["poster_image_url"]
+            if not item.get("backdrop_image_url") and tmdb_imgs.get("backdrop_image_url"):
+                item["backdrop_image_url"] = tmdb_imgs["backdrop_image_url"]
 
         if item.get("poster_image_url") and not item.get("backdrop_image_url"):
             item["backdrop_image_url"] = item["poster_image_url"]

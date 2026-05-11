@@ -28,6 +28,17 @@ _PLACEHOLDER_SNIPPETS = (
     "image-not-found",
 )
 
+_GOOGLE_NEWS_LOGO_HASHES = (
+    "J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc",
+)
+
+
+def is_google_news_logo(url: str | None) -> bool:
+    """Detect the generic Google News logo thumbnail that RSS feeds return."""
+    if not url or not isinstance(url, str):
+        return False
+    return any(h in url for h in _GOOGLE_NEWS_LOGO_HASHES)
+
 
 def _looks_like_image_url(url: str) -> bool:
     lowered = url.lower()
@@ -52,6 +63,7 @@ def _is_known_image_host(url: str) -> bool:
     known = (
         "variety.com",
         "tmdb.org",
+        "image.tmdb.org",
         "imdb.com",
         "netflix.com",
         "nflximg.net",
@@ -94,6 +106,8 @@ def validate_image_url(url: str | None, http_client: HTTPClient) -> str | None:
     if not url.startswith("https://"):
         return None
     if _is_placeholder(url):
+        return None
+    if is_google_news_logo(url):
         return None
 
     if _looks_like_image_url(url) and _is_known_image_host(url):
