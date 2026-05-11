@@ -293,6 +293,7 @@ class GoogleNewsRSSScraper(BaseScraper):
                     break
 
         source_val = ""
+        google_news_val = ""
         if article_val:
             source_val = article_val
         else:
@@ -300,10 +301,19 @@ class GoogleNewsRSSScraper(BaseScraper):
                 cu = canonical_article_url(unwrap_redirect_wrapper(cand.strip()))
                 if is_standalone_image_cdn_url(cu):
                     continue
+                if cu.startswith("https://") and self._is_google_news_url(cu) and not google_news_val:
+                    google_news_val = cu
+                    continue
                 if cu.startswith("https://") and not self._is_google_news_url(cu):
                     source_val = cu
                     break
-            if not source_val:
+            # Prefer a non-root publisher URL; fall back to Google News redirect
+            # link which will take the reader to the actual article.
+            if source_val and urlparse(source_val).path.strip("/"):
+                pass
+            elif google_news_val:
+                source_val = google_news_val
+            elif not source_val:
                 for cand in candidates:
                     cu = canonical_article_url(unwrap_redirect_wrapper(cand.strip()))
                     if is_standalone_image_cdn_url(cu):

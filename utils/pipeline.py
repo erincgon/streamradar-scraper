@@ -150,7 +150,9 @@ def process_raw_items(
         ):
             item["article_url"] = item["source_url"]
         # Discovery/news feeds must point to a concrete article page (not homepage/root).
-        if feed_name in {"trending", "upcoming", "cinema_releases"}:
+        # The upcoming feed uses Google News RSS where URL resolution often fails;
+        # content value comes from the title + overview, not the link target.
+        if feed_name in {"trending", "cinema_releases"}:
             article_candidate = str(item.get("article_url") or "").strip()
             source_candidate = str(item.get("source_url") or "").strip()
             if not (

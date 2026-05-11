@@ -1,8 +1,8 @@
-"""upcoming.json — Google News: henüz yayına girmemiş / tarihi duyurulan yapımlar."""
+"""upcoming.json — Google News: upcoming releases + entertainment news from cinema & digital platforms."""
 
 from __future__ import annotations
 
-from scrapers.rss_scraper import GoogleNewsRSSScraper, UPCOMING_FUTURE_SIGNAL_KEYWORDS
+from scrapers.rss_scraper import GoogleNewsRSSScraper
 
 
 class UpcomingReleasesScraper(GoogleNewsRSSScraper):
@@ -10,31 +10,30 @@ class UpcomingReleasesScraper(GoogleNewsRSSScraper):
         super().__init__(
             scraper_name="upcoming_releases",
             query=(
-                '("coming soon" OR upcoming OR "next week" OR "next month" OR '
-                '"will premiere" OR "set to premiere" OR slated OR '
-                '"release date announced" OR "premieres on") '
-                '(movie OR film OR series OR Netflix OR "Disney+" OR "Prime Video" OR '
-                '"HBO Max" OR Max OR streaming)'
+                "(upcoming OR \"coming soon\" OR premiere OR \"release date\" OR "
+                "\"new season\" OR trailer OR renewed OR cancelled OR canceled) "
+                "(movie OR film OR series OR show OR Netflix OR \"Disney+\" OR "
+                "\"Prime Video\" OR \"HBO Max\" OR Max OR streaming OR cinema OR theater)"
             ),
             platform="multi_platform",
             default_type="movie",
             fallback_queries=[
-                '"coming to Netflix" OR "coming to Disney Plus" premiere date',
-                'Max OR "HBO Max" "release date" OR scheduled premiere',
-                '"Prime Video" OR Amazon series premiere slated',
-                "theatrical OR streaming postponed OR delayed premiere",
+                "Netflix Disney+ \"Prime Video\" Max new movie series 2026",
+                "upcoming movie film premiere 2026 trailer",
+                "streaming series renewed cancelled new season 2026",
+                "cinema theatrical release upcoming film 2026",
+                "\"release date\" movie series streaming premiere",
             ],
             feed_urls=[],
-            release_signal_keywords=UPCOMING_FUTURE_SIGNAL_KEYWORDS,
+            release_signal_keywords=[],
             exclude_keywords=[
-                "now streaming",
-                "currently streaming",
-                "available now",
-                "already streaming",
-                "already available",
-                "out now",
-                "watch now",
-                "streams now",
-                "just dropped",
+                "stock price",
+                "quarterly earnings",
+                "shares fell",
+                "shares rose",
+                "lawsuit filed",
+                "sports schedule",
+                "nfl draft",
+                "nba trade",
             ],
         )
