@@ -17,6 +17,7 @@ from scrapers import (
     CinemaReleasesScraper,
     DisneyPlusScraper,
     HBOMaxScraper,
+    IMDbBoxOfficeScraper,
     NetflixScraper,
     PrimeVideoScraper,
     TrendingNewReleasesScraper,
@@ -42,7 +43,7 @@ def run_all() -> None:
         "disney_plus": [DisneyPlusScraper()],
         "prime_video": [PrimeVideoScraper()],
         "hbo_max": [HBOMaxScraper(locale_prefix="us")],
-        "cinema_releases": [CinemaReleasesScraper()],
+        "cinema_releases": [IMDbBoxOfficeScraper(), CinemaReleasesScraper()],
     }
 
     started_at = time.time()
