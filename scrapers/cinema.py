@@ -40,10 +40,24 @@ class IMDbBoxOfficeScraper(BaseScraper):
     def __init__(self) -> None:
         self.http_client = HTTPClient()
 
-    def _bom_date_urls(self) -> list[str]:
-        """Today first, then up to 3 days back (BOM publishes data with ~1-day lag)."""
+    def _bom_chart_urls(self) -> list[str]:
+        """Date-agnostic daily/weekend charts first, then date-specific pages as fallback.
+
+        BOM publishes data with a ~1-day lag, so relying solely on
+        ``/date/YYYY-MM-DD/`` for "today" is fragile.  The ``/daily/chart/``
+        and ``/weekend/chart/`` endpoints always reflect the latest available
+        data regardless of the calendar date.
+        """
         today = date.today()
-        return [f"{_BOM_BASE}/date/{(today - timedelta(days=d)).isoformat()}/" for d in range(4)]
+        urls = [
+            f"{_BOM_BASE}/daily/chart/",
+            f"{_BOM_BASE}/weekend/chart/",
+        ]
+        urls.extend(
+            f"{_BOM_BASE}/date/{(today - timedelta(days=d)).isoformat()}/"
+            for d in range(7)
+        )
+        return urls
 
     def _parse_date_page(self, html: str) -> list[dict[str, Any]]:
         soup = BeautifulSoup(html, "lxml")
@@ -155,7 +169,7 @@ class IMDbBoxOfficeScraper(BaseScraper):
         try:
             raw_movies: list[dict[str, Any]] = []
             used_url = ""
-            for url in self._bom_date_urls():
+            for url in self._bom_chart_urls():
                 resp = self.http_client.get(url, headers=_BOM_HEADERS)
                 if not resp.ok:
                     logger.debug("%s date page %s returned status=%s", self.scraper_name, url, resp.status_code)

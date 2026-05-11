@@ -1,51 +1,119 @@
-"""TMDB API integration for fetching movie/series poster and backdrop images."""
+"""TMDB poster/backdrop lookup via web scraping — no API key required."""
 
 from __future__ import annotations
 
 import logging
-import os
 import re
-from typing import Any
+from urllib.parse import quote_plus
 
 from utils.http_client import HTTPClient
 
 logger = logging.getLogger(__name__)
 
-TMDB_API_KEY = os.environ.get("TMDB_API_KEY", "")
-TMDB_BASE_URL = "https://api.themoviedb.org/3"
 TMDB_IMAGE_BASE = "https://image.tmdb.org/t/p/"
-
 POSTER_SIZE = "w500"
 BACKDROP_SIZE = "w1280"
 
+_POSTER_PATH_RE = re.compile(r"/t/p/w\d+(?:_and_h\d+_\w+)?(/[a-zA-Z0-9]+\.jpg)")
+
+
+_TRAILING_NOISE_RE = re.compile(
+    r"\s*[-\u2013\u2014|:]\s*("
+    r"netflix|hulu|disney\+?|prime video|amazon|hbo max|max|peacock|"
+    r"apple tv\+?|paramount\+?|abc|cbs|nbc|fox|"
+    r"official trailer|trailer|teaser|first look|watch now!?"
+    r").*$",
+    re.I,
+)
+
+_HEADLINE_SUFFIXES_RE = re.compile(
+    r"\s+("
+    r"is\s+filming\s+now|is\s+coming\s+back|is\s+back\b.*|"
+    r"teaser\s+trailer\b.*|official\s+trailer\b.*|trailer\b.*|"
+    r"first\s+look\b.*|gets?\s+(a\s+)?new\s+trailer\b.*|"
+    r"holds?\s+wonders?\b.*|reveals?\s+the\b.*|reveals?\s+.*|"
+    r"examines?\s+the\b.*|examines?\s+.*|"
+    r"debuts?\s+trailer\b.*|debuts?\b.*|"
+    r"where\s+will\b.*|"
+    r"here'?s\s+the\s+cast\b.*|"
+    r"announces?\b.*|every\b.*"
+    r")$",
+    re.I,
+)
+
+_HEADLINE_PREFIXES_RE = re.compile(
+    r"^("
+    r"watch\s+[\w\s]+?\s+in\s+|watch\s+|"
+    r"dive\s+in\s+to\s+(all\s+)?the\s+|"
+    r"from\s+page\s+to\s+screen:\s*|"
+    r"here'?s?\s+(what|the|every)\b.*?:\s*|"
+    r"\d+\s+shows?\s+\w+\s+in\s+\d{4}\s+by\s+"
+    r")",
+    re.I,
+)
+
 
 def _clean_title_for_search(title: str) -> str:
-    """Strip trailing noise like source names, season/episode info for better search."""
-    cleaned = re.sub(
-        r"\s*[-–—|:]\s*("
-        r"netflix|hulu|disney\+?|prime video|amazon|hbo max|max|peacock|"
-        r"apple tv\+?|paramount\+?|abc|cbs|nbc|fox|"
-        r"official trailer|trailer|teaser|first look|watch now!?"
-        r").*$",
-        "",
-        title,
-        flags=re.I,
-    )
+    """Strip trailing noise like source names, season/episode tags."""
+    cleaned = _TRAILING_NOISE_RE.sub("", title)
     cleaned = re.sub(r"\bseason\s+\d+\b", "", cleaned, flags=re.I)
+    cleaned = _HEADLINE_SUFFIXES_RE.sub("", cleaned)
+    cleaned = _HEADLINE_PREFIXES_RE.sub("", cleaned)
     cleaned = re.sub(r"\s+", " ", cleaned).strip()
+    cleaned = re.sub(r"[:\-\u2013\u2014|]+\s*$", "", cleaned).strip()
     return cleaned or title.strip()
 
 
 def _extract_title_core(title: str) -> str:
-    """Extract the likely film/series name from a news headline.
+    """Pull the real film/series name from a news headline.
 
-    News headlines often wrap the real title in quotes or follow patterns like
-    'Watch X Trailer' / 'X Season 2 Is ...'.  We try the quoted portion first.
+    Quoted titles are preferred (e.g. 'Scary Movie' from "Some Stuff in 'Scary Movie' Trailer").
     """
-    quoted = re.search(r"['\u2018\u2019\u201C\u201D\"]+([^'\u2018\u2019\u201C\u201D\"]{3,})['\u2018\u2019\u201C\u201D\"]+", title)
+    quoted = re.search(
+        r"[\u2018\u2019\u201C\u201D'\"]+([^\u2018\u2019\u201C\u201D'\"]{3,})[\u2018\u2019\u201C\u201D'\"]+",
+        title,
+    )
     if quoted:
         return quoted.group(1).strip()
     return _clean_title_for_search(title)
+
+
+def _scrape_tmdb_search(query: str, search_type: str, client: HTTPClient) -> str | None:
+    """GET TMDB search page, return the first poster path (e.g. /abc123.jpg)."""
+    url = f"https://www.themoviedb.org/search/{search_type}?query={quote_plus(query)}&language=en-US"
+    try:
+        resp = client.get(url, timeout=12)
+        if not resp.ok:
+            logger.debug("TMDB web search HTTP %s for '%s'", resp.status_code, query)
+            return None
+        match = _POSTER_PATH_RE.search(resp.text or "")
+        if match:
+            return match.group(1)
+    except Exception as exc:
+        logger.debug("TMDB web scrape error for '%s': %s", query, exc)
+    return None
+
+
+def _search_candidates(title: str) -> list[str]:
+    """Build a list of progressively simplified search queries."""
+    core = _extract_title_core(title)
+    candidates = [core] if core else []
+    cleaned = _clean_title_for_search(title)
+    if cleaned and cleaned != core:
+        candidates.append(cleaned)
+    words = (core or cleaned or "").split()
+    if len(words) > 4:
+        candidates.append(" ".join(words[:4]))
+    if len(words) > 6:
+        candidates.append(" ".join(words[:3]))
+    seen: set[str] = set()
+    out: list[str] = []
+    for c in candidates:
+        key = c.lower().strip()
+        if key and key not in seen:
+            seen.add(key)
+            out.append(c)
+    return out
 
 
 def fetch_tmdb_images(
@@ -54,101 +122,29 @@ def fetch_tmdb_images(
     year: int | None = None,
     http_client: HTTPClient | None = None,
 ) -> dict[str, str | None]:
-    """Search TMDB for *title* and return poster + backdrop URLs.
+    """Scrape TMDB search results and return poster + backdrop URLs.
 
-    Returns ``{"poster_image_url": ..., "backdrop_image_url": ...}`` where
-    values are full HTTPS URLs or ``None``.
+    No API key needed — parses poster paths from the HTML search page.
     """
     result: dict[str, str | None] = {"poster_image_url": None, "backdrop_image_url": None}
 
-    if not TMDB_API_KEY:
-        return result
-
     client = http_client or HTTPClient()
-    search_title = _extract_title_core(title)
-    if not search_title:
+    queries = _search_candidates(title)
+    if not queries:
         return result
 
-    endpoint = "search/tv" if media_type in ("series", "anime") else "search/movie"
+    search_type = "tv" if media_type in ("series", "anime") else "movie"
+    alt_type = "movie" if search_type == "tv" else "tv"
 
-    params: dict[str, Any] = {
-        "api_key": TMDB_API_KEY,
-        "query": search_title,
-        "language": "en-US",
-        "page": 1,
-        "include_adult": "false",
-    }
-    if year and media_type not in ("series", "anime"):
-        params["year"] = year
-
-    try:
-        resp = client.get(f"{TMDB_BASE_URL}/{endpoint}", params=params, timeout=10)
-        if not resp.ok:
-            logger.debug("TMDB search failed %s for '%s': HTTP %s", endpoint, search_title, resp.status_code)
-            return result
-
-        data = resp.json()
-        results_list = data.get("results") or []
-        if not results_list:
-            if media_type in ("series", "anime"):
-                return _fallback_search(search_title, "movie", year, client)
-            return result
-
-        best = results_list[0]
-        poster_path = best.get("poster_path")
-        backdrop_path = best.get("backdrop_path")
-
+    for query in queries:
+        poster_path = _scrape_tmdb_search(query, search_type, client)
+        if not poster_path:
+            poster_path = _scrape_tmdb_search(query, alt_type, client)
+        if not poster_path:
+            poster_path = _scrape_tmdb_search(query, "multi", client)
         if poster_path:
             result["poster_image_url"] = f"{TMDB_IMAGE_BASE}{POSTER_SIZE}{poster_path}"
-        if backdrop_path:
-            result["backdrop_image_url"] = f"{TMDB_IMAGE_BASE}{BACKDROP_SIZE}{backdrop_path}"
-
-        if result["poster_image_url"] and not result["backdrop_image_url"]:
-            result["backdrop_image_url"] = result["poster_image_url"]
-        elif result["backdrop_image_url"] and not result["poster_image_url"]:
-            result["poster_image_url"] = result["backdrop_image_url"]
-
-    except Exception as exc:
-        logger.debug("TMDB lookup error for '%s': %s", search_title, exc)
-
-    return result
-
-
-def _fallback_search(
-    title: str,
-    fallback_type: str,
-    year: int | None,
-    client: HTTPClient,
-) -> dict[str, str | None]:
-    """Try the opposite media type when the primary search returned nothing."""
-    result: dict[str, str | None] = {"poster_image_url": None, "backdrop_image_url": None}
-    endpoint = "search/movie" if fallback_type == "movie" else "search/tv"
-    params: dict[str, Any] = {
-        "api_key": TMDB_API_KEY,
-        "query": title,
-        "language": "en-US",
-        "page": 1,
-        "include_adult": "false",
-    }
-    try:
-        resp = client.get(f"{TMDB_BASE_URL}/{endpoint}", params=params, timeout=10)
-        if not resp.ok:
+            result["backdrop_image_url"] = f"{TMDB_IMAGE_BASE}{BACKDROP_SIZE}{poster_path}"
             return result
-        data = resp.json()
-        results_list = data.get("results") or []
-        if not results_list:
-            return result
-        best = results_list[0]
-        poster_path = best.get("poster_path")
-        backdrop_path = best.get("backdrop_path")
-        if poster_path:
-            result["poster_image_url"] = f"{TMDB_IMAGE_BASE}{POSTER_SIZE}{poster_path}"
-        if backdrop_path:
-            result["backdrop_image_url"] = f"{TMDB_IMAGE_BASE}{BACKDROP_SIZE}{backdrop_path}"
-        if result["poster_image_url"] and not result["backdrop_image_url"]:
-            result["backdrop_image_url"] = result["poster_image_url"]
-        elif result["backdrop_image_url"] and not result["poster_image_url"]:
-            result["poster_image_url"] = result["backdrop_image_url"]
-    except Exception as exc:
-        logger.debug("TMDB fallback search error for '%s': %s", title, exc)
+
     return result
