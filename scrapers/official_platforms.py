@@ -271,163 +271,177 @@ class DisneyOnDisneyPlusRecentScraper(BaseScraper):
         return uniq[:_CAP]
 
 
-_AMZ_ENTERTAINMENT_RSS = "https://www.aboutamazon.com/rss/feed.rss?category=entertainment"
+_JUSTWATCH_GQL = "https://apis.justwatch.com/graphql"
+_JUSTWATCH_QUERY = """query($country: Country!, $language: Language!, $first: Int!, $filter: TitleFilter) {
+  popularTitles(country: $country, first: $first, sortBy: POPULAR, filter: $filter, language: $language) {
+    edges {
+      node {
+        id
+        objectType
+        content(country: $country, language: $language) {
+          title
+          shortDescription
+          fullPath
+          posterUrl
+          originalReleaseYear
+          genres { shortName }
+        }
+      }
+    }
+  }
+}"""
+
+_JW_GENRE_MAP: dict[str, str] = {
+    "act": "Action", "adv": "Adventure", "ani": "Animation", "cmy": "Comedy",
+    "crm": "Crime", "doc": "Documentary", "drm": "Drama", "fml": "Family",
+    "fnt": "Fantasy", "hst": "History", "hrr": "Horror", "msc": "Music",
+    "mys": "Mystery", "rma": "Romance", "scf": "Sci-Fi", "trl": "Thriller",
+    "war": "War", "wsn": "Western", "eur": "European", "rly": "Reality",
+    "spt": "Sport",
+}
 
 
-def _amazon_item_primes_article(entry: Any) -> bool:
-    blob = (
-        ((getattr(entry, "title", None) or "") + " "
-         + unescape(getattr(entry, "summary", None) or "")
-         + " " + unescape(getattr(entry, "link", None) or ""))
-    ).lower()
-    if "prime video" in blob:
-        return True
-    if "/prime-video" in blob or "-prime-video" in blob:
-        return True
-    return False
+class _JustWatchPlatformScraper(BaseScraper):
+    """Fetch popular titles for a streaming platform via the JustWatch public GraphQL API."""
 
-
-class AboutAmazonPrimeVideoRSSScraper(BaseScraper):
-    """Source: About Amazon Entertainment RSS entries that reference Prime Video."""
-
-    scraper_name = "aboutamazon_prime_rss"
-
-    def __init__(self) -> None:
+    def __init__(
+        self,
+        *,
+        scraper_name: str,
+        platform_key: str,
+        jw_packages: list[str],
+    ) -> None:
+        self.scraper_name = scraper_name
+        self._platform_key = platform_key
+        self._jw_packages = jw_packages
         self.http = HTTPClient()
 
+    @staticmethod
+    def _poster_url(raw: str) -> str | None:
+        if not raw:
+            return None
+        return (
+            f"https://images.justwatch.com{raw}"
+            .replace("{profile}", "s592")
+            .replace("{format}", "webp")
+        )
+
     def scrape(self) -> list[dict[str, Any]]:
-        r = self.http.get(_AMZ_ENTERTAINMENT_RSS, headers=_ACCEPT_LANG_EN)
-        if r.status_code != 200:
+        try:
+            r = self.http.get(
+                _JUSTWATCH_GQL,
+                headers={"Content-Type": "application/json"},
+            )
+        except Exception:
+            pass
+
+        import requests as _req
+
+        try:
+            resp = _req.post(
+                _JUSTWATCH_GQL,
+                json={
+                    "query": _JUSTWATCH_QUERY,
+                    "variables": {
+                        "country": "US",
+                        "language": "en",
+                        "first": _CAP,
+                        "filter": {"packages": self._jw_packages},
+                    },
+                },
+                headers={
+                    "User-Agent": (
+                        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+                    ),
+                    "Content-Type": "application/json",
+                },
+                timeout=20,
+            )
+        except Exception as exc:
+            logger.exception("%s JustWatch request failed: %s", self.scraper_name, exc)
             return []
-        parsed = feedparser.parse(r.content)
+
+        if resp.status_code != 200:
+            logger.warning("%s JustWatch returned %s", self.scraper_name, resp.status_code)
+            return []
+
+        try:
+            data = resp.json()
+        except Exception:
+            logger.warning("%s could not parse JustWatch JSON", self.scraper_name)
+            return []
+
+        if "errors" in data:
+            logger.warning("%s JustWatch errors: %s", self.scraper_name, data["errors"][0].get("message", ""))
+            return []
+
+        edges = data.get("data", {}).get("popularTitles", {}).get("edges", [])
         out: list[dict[str, Any]] = []
-        for entry in parsed.entries:
-            if not _amazon_item_primes_article(entry):
+        seen: set[str] = set()
+
+        for edge in edges:
+            node = edge.get("node", {})
+            content = node.get("content", {})
+            title = (content.get("title") or "").strip()
+            if not title or title.lower() in seen:
                 continue
-            title = (entry.get("title") or "").strip()
-            link = (entry.get("link") or "").strip()
-            if not title or not link:
-                continue
-            thumb = None
-            md = entry.get("media_thumbnail")
-            if md:
-                thumb = md[0].get("url") if isinstance(md, list) else md.get("url")
-            summary_text = (
-                BeautifulSoup(unescape(entry.get("summary") or ""), "lxml").get_text(
-                    separator=" ",
-                    strip=True,
-                )
-            )
-            if not summary_text:
-                summary_text = title
-            pub_hint = (
-                getattr(entry, "published", None)
-                or getattr(entry, "updated", None)
-                or ""
-            )
-            out.append(
-                {
-                    "title": title,
-                    "year": None,
-                    "type": "series",
-                    "platform": "prime_video",
-                    "release_date": None,
-                    "overview": summary_text[:2000],
-                    "genres": [],
-                    "poster_image_url": thumb,
-                    "backdrop_image_url": None,
-                    "rating": None,
-                    "trailer_url": None,
-                    "source_url": link.split("?", 1)[0],
-                    "scraped_at": utc_now_iso(),
-                    "article_url": link.split("?", 1)[0],
-                    "content_type": "platform_release",
-                    "published_raw": pub_hint,
-                }
-            )
-            if len(out) >= _CAP:
-                break
-        return out
+            seen.add(title.lower())
 
+            obj_type = node.get("objectType", "MOVIE")
+            media_type = "series" if obj_type == "SHOW" else "movie"
+            year = content.get("originalReleaseYear")
+            full_path = content.get("fullPath", "")
+            jw_url = f"https://www.justwatch.com{full_path}" if full_path else ""
+            poster = self._poster_url(content.get("posterUrl", ""))
+            desc = content.get("shortDescription") or ""
+            genres_raw = content.get("genres") or []
+            genres = [
+                _JW_GENRE_MAP.get(g.get("shortName", ""), g.get("shortName", ""))
+                for g in genres_raw
+                if g.get("shortName")
+            ]
 
-_WBD_FOCUS = re.compile(
-    r"\bmax\b|\bhbo\b|hbomax|series\s+(premieres?|renew|returns)"
-    r"|streaming\s+on\s+max|on\s+max\b|max\s+original",
-    re.IGNORECASE,
-)
+            platform_label = self._platform_key.replace("_", " ").title()
+            streaming_prefix = f"{media_type.title()} streaming on {platform_label}."
+            overview = f"{streaming_prefix} {desc}" if desc else streaming_prefix
 
+            out.append({
+                "title": title,
+                "year": year,
+                "type": media_type,
+                "platform": self._platform_key,
+                "release_date": str(year) if year else None,
+                "overview": overview,
+                "genres": genres,
+                "poster_image_url": poster,
+                "backdrop_image_url": poster,
+                "rating": None,
+                "trailer_url": None,
+                "source_url": jw_url,
+                "scraped_at": utc_now_iso(),
+                "article_url": jw_url,
+                "content_type": "platform_release",
+                "published_raw": str(year) if year else None,
+            })
 
-class WBDPressMaxMediaReleasesScraper(BaseScraper):
-    """Source: WBD press search HTML (US or other locale) filtered to Max/HBO streaming news."""
-
-    scraper_name = "wbd_press_max"
-
-    def __init__(self, locale_prefix: str = "us") -> None:
-        self.locale_prefix = locale_prefix.strip("/") or "us"
-        self.http = HTTPClient()
-
-    def scrape(self) -> list[dict[str, Any]]:
-        out: list[dict[str, Any]] = []
-        for page in range(0, 4):
-            if len(out) >= _CAP:
-                break
-            url = (
-                f"https://press.wbd.com/{self.locale_prefix}/search"
-                f"?q={self.locale_prefix}/search&type=media_release&page={page}"
-            )
-            r = self.http.get(url, headers=_ACCEPT_LANG_EN)
-            if r.status_code != 200:
-                logger.warning("WBD press page %s -> %s", page, r.status_code)
-                break
-            soup = BeautifulSoup(r.text, "lxml")
-            articles = soup.select("article.m-item-content-row")
-            for art in articles:
-                if len(out) >= _CAP:
-                    break
-                ta = art.select_one(".m-item-content-row__title a")
-                if not ta:
-                    continue
-                title = ta.get_text(strip=True)
-                href = ta.get("href") or ""
-                if not title or not href.startswith("/"):
-                    continue
-                sum_el = art.select_one(".m-item-content-row__summary")
-                summary = ""
-                if sum_el:
-                    summary = sum_el.get_text(separator=" ", strip=True)
-                date_parts = [
-                    x.get_text(strip=True)
-                    for x in art.select(".m-item-content-row__date")
-                ]
-                date_hint = next((x for x in date_parts if x), "")
-                hay = f"{title} {summary} {href}"
-                if not _WBD_FOCUS.search(hay):
-                    continue
-                full_url = urljoin("https://press.wbd.com", href)
-                row_thumb = None
-                img_el = art.select_one("img[src]")
-                if img_el and img_el.get("src"):
-                    row_thumb = img_el["src"].strip()
-                    if row_thumb.startswith("//"):
-                        row_thumb = "https:" + row_thumb
-                out.append(
-                    {
-                        "title": title,
-                        "year": None,
-                        "type": "series",
-                        "platform": "hbo_max",
-                        "release_date": None,
-                        "overview": summary or title,
-                        "genres": [],
-                        "poster_image_url": row_thumb,
-                        "backdrop_image_url": None,
-                        "rating": None,
-                        "trailer_url": None,
-                        "source_url": full_url,
-                        "scraped_at": utc_now_iso(),
-                        "article_url": full_url,
-                        "content_type": "platform_release",
-                        "published_raw": date_hint,
-                    }
-                )
+        logger.info("%s produced %s items via JustWatch", self.scraper_name, len(out))
         return out[:_CAP]
+
+
+class JustWatchPrimeVideoScraper(_JustWatchPlatformScraper):
+    def __init__(self) -> None:
+        super().__init__(
+            scraper_name="justwatch_prime_video",
+            platform_key="prime_video",
+            jw_packages=["amazonprime"],
+        )
+
+
+class JustWatchMaxScraper(_JustWatchPlatformScraper):
+    def __init__(self) -> None:
+        super().__init__(
+            scraper_name="justwatch_max",
+            platform_key="hbo_max",
+            jw_packages=["hbm", "maxus", "hbomax"],
+        )

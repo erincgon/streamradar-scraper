@@ -42,7 +42,7 @@ def run_all() -> None:
         "netflix": [NetflixScraper(locale="en")],
         "disney_plus": [DisneyPlusScraper()],
         "prime_video": [PrimeVideoScraper()],
-        "hbo_max": [HBOMaxScraper(locale_prefix="us")],
+        "hbo_max": [HBOMaxScraper()],
         "cinema_releases": [IMDbBoxOfficeScraper(), CinemaReleasesScraper()],
     }
 
