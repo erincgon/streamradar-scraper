@@ -27,6 +27,8 @@ _BOM_HEADERS = {
     "Accept-Language": "en-US,en;q=0.5",
 }
 _IMDB_TT_RE = re.compile(r"/title/(tt\d+)")
+_AMAZON_POSTER_RE = re.compile(r"https://m\.media-amazon\.com/images/M/[^\"']+")
+_POSTER_RESIZE_RE = re.compile(r"\._V1_.*$")
 
 
 class IMDbBoxOfficeScraper(BaseScraper):
@@ -97,9 +99,19 @@ class IMDbBoxOfficeScraper(BaseScraper):
 
         return items
 
+    @staticmethod
+    def _upscale_amazon_poster(thumb_url: str) -> str:
+        """Replace tiny BOM thumbnail sizing with a high-quality rendition."""
+        return _POSTER_RESIZE_RE.sub("._V1_QL75_UX380_.jpg", thumb_url)
+
     def _enrich_from_release_page(self, bom_url: str) -> dict[str, Any]:
-        """Fetch a BOM release page and extract the IMDb title ID and release date."""
-        result: dict[str, Any] = {"imdb_id": None, "release_date_precise": None, "mpaa": None}
+        """Fetch a BOM release page and extract IMDb title ID, release date, and poster."""
+        result: dict[str, Any] = {
+            "imdb_id": None,
+            "release_date_precise": None,
+            "mpaa": None,
+            "poster_url": None,
+        }
         try:
             resp = self.http_client.get(bom_url + "/", headers=_BOM_HEADERS)
             if not resp.ok:
@@ -110,6 +122,12 @@ class IMDbBoxOfficeScraper(BaseScraper):
                 match = _IMDB_TT_RE.search(a.get("href", ""))
                 if match:
                     result["imdb_id"] = match.group(1)
+                    break
+
+            for img in soup.select("img[src*='m.media-amazon.com/images/M/']"):
+                src = img.get("src", "")
+                if src:
+                    result["poster_url"] = self._upscale_amazon_poster(src)
                     break
 
             spans = soup.select(".mojo-summary-values span")
@@ -187,6 +205,8 @@ class IMDbBoxOfficeScraper(BaseScraper):
                     overview_parts.append(f"Showing in {theaters:,} theaters.")
                 overview = " ".join(overview_parts)
 
+                poster_url = enrichment.get("poster_url")
+
                 results.append({
                     "title": movie["title"],
                     "year": year,
@@ -196,8 +216,8 @@ class IMDbBoxOfficeScraper(BaseScraper):
                     "published_raw": release_date,
                     "overview": overview,
                     "genres": [],
-                    "poster_image_url": None,
-                    "backdrop_image_url": None,
+                    "poster_image_url": poster_url,
+                    "backdrop_image_url": poster_url,
                     "rating": None,
                     "trailer_url": None,
                     "source_url": source_url,
