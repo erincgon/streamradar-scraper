@@ -1,26 +1,5 @@
 [
   {
-    "title": "Devil May Cry",
-    "year": 2026,
-    "type": "movie",
-    "platform": "netflix",
-    "release_date": "2026-05-12",
-    "overview": "Featured on Netflix new-to-watch: Devil May Cry.",
-    "genres": [],
-    "poster_image_url": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABVykybzw6rKy9XrF7RZCxD6F-iZDt-NGQyMuhnlG8fSin0vf2oWziEiwEFDVWiNFdQLnJxDmHecvtB4WiygsBJ40IY5vvWsJCbrp.jpg?r=95a",
-    "backdrop_image_url": "https://image.tmdb.org/t/p/w1280/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.netflix.com/watch/81608231",
-    "scraped_at": "2026-05-13T07:52:51+00:00",
-    "source_name": "Netflix",
-    "source_domain": "netflix.com",
-    "article_url": "https://www.netflix.com/watch/81608231",
-    "content_type": "platform_release",
-    "published_at": "2026-05-12T00:00:00Z",
-    "updated_at": "2026-05-13T07:52:51Z"
-  },
-  {
     "title": "The Puzzle Room with David Kwong",
     "year": 2026,
     "type": "movie",
@@ -33,13 +12,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82665564",
-    "scraped_at": "2026-05-13T07:52:48+00:00",
+    "scraped_at": "2026-05-13T19:03:03+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82665564",
     "content_type": "platform_release",
     "published_at": "2026-05-11T00:00:00Z",
-    "updated_at": "2026-05-13T07:52:48Z"
+    "updated_at": "2026-05-13T19:03:03Z"
   },
   {
     "title": "Pop Culture Jeopardy!",
@@ -54,13 +33,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82152398",
-    "scraped_at": "2026-05-13T07:52:49+00:00",
+    "scraped_at": "2026-05-13T19:03:04+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82152398",
     "content_type": "platform_release",
     "published_at": "2026-05-11T00:00:00Z",
-    "updated_at": "2026-05-13T07:52:49Z"
+    "updated_at": "2026-05-13T19:03:04Z"
   },
   {
     "title": "The Roast of Kevin Hart",
@@ -75,34 +54,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82194570",
-    "scraped_at": "2026-05-13T07:52:47+00:00",
+    "scraped_at": "2026-05-13T19:03:01+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82194570",
     "content_type": "platform_release",
     "published_at": "2026-05-10T00:00:00Z",
-    "updated_at": "2026-05-13T07:52:47Z"
-  },
-  {
-    "title": "Backlash",
-    "year": 2026,
-    "type": "movie",
-    "platform": "netflix",
-    "release_date": "2026-05-09",
-    "overview": "Featured on Netflix new-to-watch: Backlash.",
-    "genres": [],
-    "poster_image_url": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABd8771BE8ooDWHtzuWd--3DaGpSXwvWDdSVTdr6kQ4Qhs8mO8P-5hwJpJ_fpeUJaWpKOcguDQxF7Kml5DjSXi2WVajvveAZamHNc.jpg?r=341",
-    "backdrop_image_url": "https://image.tmdb.org/t/p/w1280/9gDVet6WRuNXo4AZ4KynbA3KcT2.jpg",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.netflix.com/watch/82834375",
-    "scraped_at": "2026-05-13T07:52:46+00:00",
-    "source_name": "Netflix",
-    "source_domain": "netflix.com",
-    "article_url": "https://www.netflix.com/watch/82834375",
-    "content_type": "platform_release",
-    "published_at": "2026-05-09T00:00:00Z",
-    "updated_at": "2026-05-13T07:52:46Z"
+    "updated_at": "2026-05-13T19:03:01Z"
   },
   {
     "title": "Thank You, Next",
@@ -117,13 +75,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81752854",
-    "scraped_at": "2026-05-13T07:52:42+00:00",
+    "scraped_at": "2026-05-13T19:02:58+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81752854",
     "content_type": "platform_release",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-05-13T07:52:42Z"
+    "updated_at": "2026-05-13T19:02:58Z"
   },
   {
     "title": "Remarkably Bright Creatures",
@@ -138,13 +96,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81911351",
-    "scraped_at": "2026-05-13T07:52:43+00:00",
+    "scraped_at": "2026-05-13T19:02:59+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81911351",
     "content_type": "platform_release",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-05-13T07:52:43Z"
+    "updated_at": "2026-05-13T19:02:59Z"
   },
   {
     "title": "My Royal Nemesis",
@@ -159,13 +117,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82682324",
-    "scraped_at": "2026-05-13T07:52:45+00:00",
+    "scraped_at": "2026-05-13T19:03:00+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82682324",
     "content_type": "platform_release",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-05-13T07:52:45Z"
+    "updated_at": "2026-05-13T19:03:00Z"
   },
   {
     "title": "The Chestnut Man",
@@ -180,13 +138,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81389616",
-    "scraped_at": "2026-05-13T07:52:39+00:00",
+    "scraped_at": "2026-05-13T19:02:55+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81389616",
     "content_type": "platform_release",
     "published_at": "2026-05-07T00:00:00Z",
-    "updated_at": "2026-05-13T07:52:39Z"
+    "updated_at": "2026-05-13T19:02:55Z"
   },
   {
     "title": "My Dearest Assassin",
@@ -201,13 +159,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81775348",
-    "scraped_at": "2026-05-13T07:52:41+00:00",
+    "scraped_at": "2026-05-13T19:02:56+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81775348",
     "content_type": "platform_release",
     "published_at": "2026-05-07T00:00:00Z",
-    "updated_at": "2026-05-13T07:52:41Z"
+    "updated_at": "2026-05-13T19:02:56Z"
   },
   {
     "title": "Worst Ex Ever",
@@ -222,13 +180,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81682422",
-    "scraped_at": "2026-05-13T07:52:36+00:00",
+    "scraped_at": "2026-05-13T19:02:53+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81682422",
     "content_type": "platform_release",
     "published_at": "2026-05-06T00:00:00Z",
-    "updated_at": "2026-05-13T07:52:36Z"
+    "updated_at": "2026-05-13T19:02:53Z"
   },
   {
     "title": "Love Is Blind: Poland",
@@ -243,13 +201,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81908908",
-    "scraped_at": "2026-05-13T07:52:37+00:00",
+    "scraped_at": "2026-05-13T19:02:51+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81908908",
     "content_type": "platform_release",
     "published_at": "2026-05-06T00:00:00Z",
-    "updated_at": "2026-05-13T07:52:37Z"
+    "updated_at": "2026-05-13T19:02:51Z"
   },
   {
     "title": "Countdown: Rousey vs. Carano",
@@ -264,13 +222,34 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82746253",
-    "scraped_at": "2026-05-13T07:52:38+00:00",
+    "scraped_at": "2026-05-13T19:02:54+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82746253",
     "content_type": "platform_release",
     "published_at": "2026-05-06T00:00:00Z",
-    "updated_at": "2026-05-13T07:52:38Z"
+    "updated_at": "2026-05-13T19:02:54Z"
+  },
+  {
+    "title": "Lord of the Flies",
+    "year": 2026,
+    "type": "movie",
+    "platform": "netflix",
+    "release_date": "2026-05-04",
+    "overview": "Featured on Netflix new-to-watch: Lord of the Flies.",
+    "genres": [],
+    "poster_image_url": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABUICsLZd9pdASYGtI_B12L8SrpxrWG0p7u-xOnVQGkVHkg1wFjAwcUIWJ5vfCJR45Op21-kSBAgI3TAZLSN86Sk4rZaDTt9tJd_K.jpg?r=52e",
+    "backdrop_image_url": "https://image.tmdb.org/t/p/w1280/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.netflix.com/watch/82709728",
+    "scraped_at": "2026-05-13T19:02:50+00:00",
+    "source_name": "Netflix",
+    "source_domain": "netflix.com",
+    "article_url": "https://www.netflix.com/watch/82709728",
+    "content_type": "platform_release",
+    "published_at": "2026-05-04T00:00:00Z",
+    "updated_at": "2026-05-13T19:02:50Z"
   },
   {
     "title": "Dr. Seuss’s Horton!",
@@ -285,13 +264,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81507217",
-    "scraped_at": "2026-05-13T07:52:34+00:00",
+    "scraped_at": "2026-05-13T19:02:48+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81507217",
     "content_type": "platform_release",
     "published_at": "2026-05-04T00:00:00Z",
-    "updated_at": "2026-05-13T07:52:34Z"
+    "updated_at": "2026-05-13T19:02:48Z"
   },
   {
     "title": "Shut Up Evan",
@@ -306,13 +285,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82665560",
-    "scraped_at": "2026-05-13T07:52:33+00:00",
+    "scraped_at": "2026-05-13T19:02:47+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82665560",
     "content_type": "platform_release",
     "published_at": "2026-05-01T00:00:00Z",
-    "updated_at": "2026-05-13T07:52:33Z"
+    "updated_at": "2026-05-13T19:02:47Z"
   },
   {
     "title": "My Dearest Señorita",
@@ -327,12 +306,33 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81714543",
-    "scraped_at": "2026-05-13T07:52:32+00:00",
+    "scraped_at": "2026-05-13T19:02:46+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81714543",
     "content_type": "platform_release",
     "published_at": "2026-05-01T00:00:00Z",
-    "updated_at": "2026-05-13T07:52:32Z"
+    "updated_at": "2026-05-13T19:02:46Z"
+  },
+  {
+    "title": "Spirit Crossing",
+    "year": 2025,
+    "type": "movie",
+    "platform": "netflix",
+    "release_date": "2025-07-01",
+    "overview": "Featured on Netflix new-to-watch: Spirit Crossing.",
+    "genres": [],
+    "poster_image_url": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABfGT-c_aFD3FLnFkAKFaVxXKUaU0hSr2hK8DqbzrSvZN9eUeY2o9oXkHouTZTJL91wqtzLCTBD1ctlu4JylBrXCwZCUJv3XZmjmZ.jpg?r=4bc",
+    "backdrop_image_url": "https://image.tmdb.org/t/p/w1280/3fBdY0mHjX4bd9IsTzy4VXLRT2n.jpg",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.netflix.com/watch/81680946",
+    "scraped_at": "2026-05-13T19:02:44+00:00",
+    "source_name": "Netflix",
+    "source_domain": "netflix.com",
+    "article_url": "https://www.netflix.com/watch/81680946",
+    "content_type": "platform_release",
+    "published_at": "2025-07-01T00:00:00Z",
+    "updated_at": "2026-05-13T19:02:44Z"
   }
 ]
