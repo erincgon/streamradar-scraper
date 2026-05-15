@@ -1,10 +1,31 @@
 [
   {
+    "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+    "year": 2026,
+    "type": "movie",
+    "platform": "cinema",
+    "release_date": "2026-05-14",
+    "overview": "Movie currently playing in cinema theaters. Distributed by Sony Pictures Releasing.",
+    "genres": [],
+    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYzdlYTUxMTgtNTAyYi00ZjcwLWIzOTctOTU0MTQzNjIwOTYyXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BYzdlYTUxMTgtNTAyYi00ZjcwLWIzOTctOTU0MTQzNjIwOTYyXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.imdb.com/title/tt38650409/",
+    "scraped_at": "2026-05-15T08:22:04+00:00",
+    "source_name": "IMDb",
+    "source_domain": "imdb.com",
+    "article_url": "https://www.imdb.com/title/tt38650409/",
+    "content_type": "cinema_release",
+    "published_at": "2026-05-14T00:00:00Z",
+    "updated_at": "2026-05-15T08:22:04Z"
+  },
+  {
     "title": "Mother Mary",
     "year": 2026,
     "type": "movie",
     "platform": "cinema",
-    "release_date": "2026-05-11",
+    "release_date": "2026-05-12",
     "overview": "Movie currently playing in cinema theaters. Distributed by A24. Showing in -515 theaters.",
     "genres": [],
     "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZWM0NTIzMWEtOWU1ZC00OTEyLThmNTItYjM1N2Y1MDllMGYzXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
@@ -12,13 +33,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt27200708/",
-    "scraped_at": "2026-05-14T19:03:10+00:00",
+    "scraped_at": "2026-05-15T08:22:04+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt27200708/",
     "content_type": "cinema_release",
-    "published_at": "2026-05-11T00:00:00Z",
-    "updated_at": "2026-05-14T19:03:10Z"
+    "published_at": "2026-05-12T00:00:00Z",
+    "updated_at": "2026-05-15T08:22:04Z"
   },
   {
     "title": "The Sheep Detectives",
@@ -33,13 +54,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt32565993/",
-    "scraped_at": "2026-05-14T19:03:10+00:00",
+    "scraped_at": "2026-05-15T08:22:04+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt32565993/",
     "content_type": "cinema_release",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-05-14T19:03:10Z"
+    "updated_at": "2026-05-15T08:22:04Z"
   },
   {
     "title": "Silent Friend",
@@ -54,13 +75,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt27811632/",
-    "scraped_at": "2026-05-14T19:03:10+00:00",
+    "scraped_at": "2026-05-15T08:22:04+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt27811632/",
     "content_type": "cinema_release",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-05-14T19:03:10Z"
+    "updated_at": "2026-05-15T08:22:04Z"
   },
   {
     "title": "Mortal Kombat II",
@@ -75,13 +96,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt17490712/",
-    "scraped_at": "2026-05-14T19:03:10+00:00",
+    "scraped_at": "2026-05-15T08:22:04+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt17490712/",
     "content_type": "cinema_release",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-05-14T19:03:10Z"
+    "updated_at": "2026-05-15T08:22:04Z"
   },
   {
     "title": "Billie Eilish: Hit Me Hard and Soft",
@@ -96,13 +117,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt39018643/",
-    "scraped_at": "2026-05-14T19:03:10+00:00",
+    "scraped_at": "2026-05-15T08:22:04+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt39018643/",
     "content_type": "cinema_release",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-05-14T19:03:10Z"
+    "updated_at": "2026-05-15T08:22:04Z"
   },
   {
     "title": "The Devil Wears Prada 2",
@@ -117,34 +138,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt33612209/",
-    "scraped_at": "2026-05-14T19:03:10+00:00",
+    "scraped_at": "2026-05-15T08:22:04+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt33612209/",
     "content_type": "cinema_release",
     "published_at": "2026-05-01T00:00:00Z",
-    "updated_at": "2026-05-14T19:03:10Z"
-  },
-  {
-    "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
-    "year": 2026,
-    "type": "movie",
-    "platform": "cinema",
-    "release_date": "2026-05-01",
-    "overview": "Movie currently playing in cinema theaters. Distributed by Sony Pictures Releasing.",
-    "genres": [],
-    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYzdlYTUxMTgtNTAyYi00ZjcwLWIzOTctOTU0MTQzNjIwOTYyXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BYzdlYTUxMTgtNTAyYi00ZjcwLWIzOTctOTU0MTQzNjIwOTYyXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.imdb.com/title/tt38650409/",
-    "scraped_at": "2026-05-14T19:03:10+00:00",
-    "source_name": "IMDb",
-    "source_domain": "imdb.com",
-    "article_url": "https://www.imdb.com/title/tt38650409/",
-    "content_type": "cinema_release",
-    "published_at": "2026-05-01T00:00:00Z",
-    "updated_at": "2026-05-14T19:03:10Z"
+    "updated_at": "2026-05-15T08:22:04Z"
   },
   {
     "title": "Deep Water",
@@ -159,13 +159,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt29516222/",
-    "scraped_at": "2026-05-14T19:03:10+00:00",
+    "scraped_at": "2026-05-15T08:22:04+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt29516222/",
     "content_type": "cinema_release",
     "published_at": "2026-05-01T00:00:00Z",
-    "updated_at": "2026-05-14T19:03:10Z"
+    "updated_at": "2026-05-15T08:22:04Z"
   },
   {
     "title": "Animal Farm",
@@ -180,13 +180,34 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt2467700/",
-    "scraped_at": "2026-05-14T19:03:10+00:00",
+    "scraped_at": "2026-05-15T08:22:04+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt2467700/",
     "content_type": "cinema_release",
     "published_at": "2026-05-01T00:00:00Z",
-    "updated_at": "2026-05-14T19:03:10Z"
+    "updated_at": "2026-05-15T08:22:04Z"
+  },
+  {
+    "title": "The Story of Everything",
+    "year": 2026,
+    "type": "movie",
+    "platform": "cinema",
+    "release_date": "2026-04-30",
+    "overview": "Movie currently playing in cinema theaters. Distributed by -. Showing in -253 theaters.",
+    "genres": [],
+    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNWNhMTA5NzMtNTVhOS00NmJhLTkyOWUtZjQ0YmQ0Y2Q0MmMwXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BNWNhMTA5NzMtNTVhOS00NmJhLTkyOWUtZjQ0YmQ0Y2Q0MmMwXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.imdb.com/title/tt13374694/",
+    "scraped_at": "2026-05-15T08:22:04+00:00",
+    "source_name": "IMDb",
+    "source_domain": "imdb.com",
+    "article_url": "https://www.imdb.com/title/tt13374694/",
+    "content_type": "cinema_release",
+    "published_at": "2026-04-30T00:00:00Z",
+    "updated_at": "2026-05-15T08:22:04Z"
   },
   {
     "title": "Lee Cronin's The Mummy",
@@ -201,13 +222,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt32612507/",
-    "scraped_at": "2026-05-14T19:03:10+00:00",
+    "scraped_at": "2026-05-15T08:22:04+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt32612507/",
     "content_type": "cinema_release",
     "published_at": "2026-04-17T00:00:00Z",
-    "updated_at": "2026-05-14T19:03:10Z"
+    "updated_at": "2026-05-15T08:22:04Z"
   },
   {
     "title": "Blue Heron",
@@ -222,13 +243,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt32252801/",
-    "scraped_at": "2026-05-14T19:03:10+00:00",
+    "scraped_at": "2026-05-15T08:22:04+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt32252801/",
     "content_type": "cinema_release",
     "published_at": "2026-04-17T00:00:00Z",
-    "updated_at": "2026-05-14T19:03:10Z"
+    "updated_at": "2026-05-15T08:22:04Z"
   },
   {
     "title": "You, Me & Tuscany",
@@ -243,13 +264,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt36352591/",
-    "scraped_at": "2026-05-14T19:03:10+00:00",
+    "scraped_at": "2026-05-15T08:22:04+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt36352591/",
     "content_type": "cinema_release",
     "published_at": "2026-04-10T00:00:00Z",
-    "updated_at": "2026-05-14T19:03:10Z"
+    "updated_at": "2026-05-15T08:22:04Z"
   },
   {
     "title": "Steal This Story, Please!",
@@ -264,13 +285,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt36748956/",
-    "scraped_at": "2026-05-14T19:03:10+00:00",
+    "scraped_at": "2026-05-15T08:22:04+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt36748956/",
     "content_type": "cinema_release",
     "published_at": "2026-04-10T00:00:00Z",
-    "updated_at": "2026-05-14T19:03:10Z"
+    "updated_at": "2026-05-15T08:22:04Z"
   },
   {
     "title": "The Drama",
@@ -285,34 +306,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt33071426/",
-    "scraped_at": "2026-05-14T19:03:10+00:00",
+    "scraped_at": "2026-05-15T08:22:04+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt33071426/",
     "content_type": "cinema_release",
     "published_at": "2026-04-03T00:00:00Z",
-    "updated_at": "2026-05-14T19:03:10Z"
-  },
-  {
-    "title": "A Great Awakening",
-    "year": 2026,
-    "type": "movie",
-    "platform": "cinema",
-    "release_date": "2026-04-03",
-    "overview": "Movie currently playing in cinema theaters. Distributed by Roadside Attractions. Showing in -164 theaters.",
-    "genres": [],
-    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BY2RiZDRmOWEtMDU5Ny00ZDk2LWIzZWItNDE4NWRlYmE5Y2I1XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BY2RiZDRmOWEtMDU5Ny00ZDk2LWIzZWItNDE4NWRlYmE5Y2I1XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.imdb.com/title/tt33305882/",
-    "scraped_at": "2026-05-14T19:03:10+00:00",
-    "source_name": "IMDb",
-    "source_domain": "imdb.com",
-    "article_url": "https://www.imdb.com/title/tt33305882/",
-    "content_type": "cinema_release",
-    "published_at": "2026-04-03T00:00:00Z",
-    "updated_at": "2026-05-14T19:03:10Z"
+    "updated_at": "2026-05-15T08:22:04Z"
   },
   {
     "title": "The Super Mario Galaxy Movie",
@@ -327,13 +327,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt28650488/",
-    "scraped_at": "2026-05-14T19:03:10+00:00",
+    "scraped_at": "2026-05-15T08:22:04+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt28650488/",
     "content_type": "cinema_release",
     "published_at": "2026-04-01T00:00:00Z",
-    "updated_at": "2026-05-14T19:03:10Z"
+    "updated_at": "2026-05-15T08:22:04Z"
   },
   {
     "title": "Project Hail Mary",
@@ -348,12 +348,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt12042730/",
-    "scraped_at": "2026-05-14T19:03:10+00:00",
+    "scraped_at": "2026-05-15T08:22:04+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt12042730/",
     "content_type": "cinema_release",
     "published_at": "2026-03-20T00:00:00Z",
-    "updated_at": "2026-05-14T19:03:10Z"
+    "updated_at": "2026-05-15T08:22:04Z"
   }
 ]
