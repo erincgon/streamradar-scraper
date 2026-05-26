@@ -14,13 +14,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/chart/moviemeter/",
-    "scraped_at": "2026-05-25T18:28:38+00:00",
+    "scraped_at": "2026-05-26T08:30:34+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/chart/moviemeter/",
     "content_type": "trending",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-05-25T18:28:38Z"
+    "updated_at": "2026-05-26T08:30:34Z"
   },
   {
     "title": "StreamRadar TV Buzz",
@@ -37,12 +37,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/chart/tvmeter/",
-    "scraped_at": "2026-05-25T18:28:42+00:00",
+    "scraped_at": "2026-05-26T08:30:37+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/chart/tvmeter/",
     "content_type": "trending",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-05-25T18:28:42Z"
+    "updated_at": "2026-05-26T08:30:37Z"
   }
 ]
