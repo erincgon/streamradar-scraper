@@ -1,26 +1,5 @@
 [
   {
-    "title": "Best new shows & films streaming this week on Netflix, Prime, SBS, HBO, ABC, BritBox and more",
-    "year": 2026,
-    "type": "movie",
-    "platform": "multi_platform",
-    "release_date": "2026-06-08",
-    "overview": "Best new shows & films streaming this week on Netflix, Prime, SBS, HBO, ABC, BritBox and more ScreenHub Australia",
-    "genres": [],
-    "poster_image_url": "https://www.screenhub.com.au/wp-content/uploads/sites/4/2024/08/sel-05500r_wide-e0d29d8db6a0e1b6a461fb6d45e547067dc4125c.jpg",
-    "backdrop_image_url": "https://www.screenhub.com.au/wp-content/uploads/sites/4/2024/08/sel-05500r_wide-e0d29d8db6a0e1b6a461fb6d45e547067dc4125c.jpg",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.screenhub.com.au/news/features/kanopy-new-films-and-shows-streaming-free-in-september-2024-2650378/",
-    "scraped_at": "2026-06-08T19:25:05+00:00",
-    "source_name": "ScreenHub Australia",
-    "source_domain": "screenhub.com.au",
-    "article_url": "https://www.screenhub.com.au/news/features/kanopy-new-films-and-shows-streaming-free-in-september-2024-2650378/",
-    "content_type": "trending",
-    "published_at": "2026-06-08T00:00:00Z",
-    "updated_at": "2026-06-08T19:25:05Z"
-  },
-  {
     "title": "StreamRadar Trending Spotlight",
     "year": 2026,
     "type": "movie",
@@ -35,13 +14,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/chart/moviemeter/",
-    "scraped_at": "2026-06-08T19:25:05+00:00",
+    "scraped_at": "2026-06-09T08:30:37+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/chart/moviemeter/",
     "content_type": "trending",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-06-08T19:25:05Z"
+    "updated_at": "2026-06-09T08:30:37Z"
   },
   {
     "title": "StreamRadar TV Buzz",
@@ -58,12 +37,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/chart/tvmeter/",
-    "scraped_at": "2026-06-08T19:25:09+00:00",
+    "scraped_at": "2026-06-09T08:30:40+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/chart/tvmeter/",
     "content_type": "trending",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-06-08T19:25:09Z"
+    "updated_at": "2026-06-09T08:30:40Z"
   }
 ]
