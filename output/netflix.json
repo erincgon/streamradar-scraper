@@ -1,24 +1,24 @@
 [
   {
-    "title": "The Evil Lawyer",
+    "title": "Rosario Tijeras (Mexico)",
     "year": 2026,
     "type": "movie",
     "platform": "netflix",
-    "release_date": "2026-06-11",
-    "overview": "Featured on Netflix new-to-watch: The Evil Lawyer.",
+    "release_date": "2026-06-10",
+    "overview": "Featured on Netflix new-to-watch: Rosario Tijeras (Mexico).",
     "genres": [],
-    "poster_image_url": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABWUtbejMBImIpEZsN9Y5bGhQN3ekUPVnpFbFXOACXrWbT_2b798TdwITrUIjEz_dr1fZAFjM6NY7OPJoRi-WSG15D2Ns2UdCkTMD.jpg?r=968",
-    "backdrop_image_url": "https://image.tmdb.org/t/p/w1280/srwzPdGdkCdDzmhBpNoOGwNrBNf.jpg",
+    "poster_image_url": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABV5jyBRTnA1NG2gUB1vO5qJKe4WHNAV8vAklvUpbSAYx4fdWSt2AqX5B3nezqrN7tzGRq8LcBi_cHNgG5F65rXeKx14yja_TgfbP.jpg?r=7de",
+    "backdrop_image_url": "https://image.tmdb.org/t/p/w1280/zY7jshpbPNs5U677HxRZUltb7gm.jpg",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.netflix.com/watch/81756597",
-    "scraped_at": "2026-06-12T09:00:26+00:00",
+    "source_url": "https://www.netflix.com/watch/82153638",
+    "scraped_at": "2026-06-12T19:13:17+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
-    "article_url": "https://www.netflix.com/watch/81756597",
+    "article_url": "https://www.netflix.com/watch/82153638",
     "content_type": "platform_release",
-    "published_at": "2026-06-11T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:26Z"
+    "published_at": "2026-06-10T00:00:00Z",
+    "updated_at": "2026-06-12T19:13:17Z"
   },
   {
     "title": "Outlast: The Jungle",
@@ -33,13 +33,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81699739",
-    "scraped_at": "2026-06-12T09:00:23+00:00",
+    "scraped_at": "2026-06-12T19:13:16+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81699739",
     "content_type": "platform_release",
     "published_at": "2026-06-10T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:23Z"
+    "updated_at": "2026-06-12T19:13:16Z"
   },
   {
     "title": "My Family",
@@ -54,13 +54,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81704273",
-    "scraped_at": "2026-06-12T09:00:24+00:00",
+    "scraped_at": "2026-06-12T19:13:18+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81704273",
     "content_type": "platform_release",
     "published_at": "2026-06-10T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:24Z"
+    "updated_at": "2026-06-12T19:13:18Z"
   },
   {
     "title": "Colors Of Evil: Black",
@@ -75,13 +75,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81921253",
-    "scraped_at": "2026-06-12T09:00:25+00:00",
+    "scraped_at": "2026-06-12T19:13:20+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81921253",
     "content_type": "platform_release",
     "published_at": "2026-06-10T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:25Z"
+    "updated_at": "2026-06-12T19:13:20Z"
   },
   {
     "title": "Tony Hinchcliffe: Man of the People",
@@ -96,13 +96,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82014062",
-    "scraped_at": "2026-06-12T09:00:21+00:00",
+    "scraped_at": "2026-06-12T19:13:15+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82014062",
     "content_type": "platform_release",
     "published_at": "2026-06-09T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:21Z"
+    "updated_at": "2026-06-12T19:13:15Z"
   },
   {
     "title": "Norway: The Dark Horse",
@@ -117,13 +117,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82708123",
-    "scraped_at": "2026-06-12T09:00:20+00:00",
+    "scraped_at": "2026-06-12T19:13:14+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82708123",
     "content_type": "platform_release",
     "published_at": "2026-06-09T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:20Z"
+    "updated_at": "2026-06-12T19:13:14Z"
   },
   {
     "title": "Sesame Street",
@@ -138,13 +138,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82085069",
-    "scraped_at": "2026-06-12T09:00:19+00:00",
+    "scraped_at": "2026-06-12T19:13:13+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82085069",
     "content_type": "platform_release",
     "published_at": "2026-06-08T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:19Z"
+    "updated_at": "2026-06-12T19:13:13Z"
   },
   {
     "title": "USA 94: Brazil's Return to Glory",
@@ -159,13 +159,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82032990",
-    "scraped_at": "2026-06-12T09:00:18+00:00",
+    "scraped_at": "2026-06-12T19:13:11+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82032990",
     "content_type": "platform_release",
     "published_at": "2026-06-07T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:18Z"
+    "updated_at": "2026-06-12T19:13:11Z"
   },
   {
     "title": "The Marked Woman",
@@ -180,13 +180,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81698654",
-    "scraped_at": "2026-06-12T09:00:16+00:00",
+    "scraped_at": "2026-06-12T19:13:08+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81698654",
     "content_type": "platform_release",
     "published_at": "2026-06-05T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:16Z"
+    "updated_at": "2026-06-12T19:13:08Z"
   },
   {
     "title": "Teach You a Lesson",
@@ -201,13 +201,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81947301",
-    "scraped_at": "2026-06-12T09:00:17+00:00",
+    "scraped_at": "2026-06-12T19:13:09+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81947301",
     "content_type": "platform_release",
     "published_at": "2026-06-05T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:17Z"
+    "updated_at": "2026-06-12T19:13:09Z"
   },
   {
     "title": "Office Romance",
@@ -222,13 +222,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81939823",
-    "scraped_at": "2026-06-12T09:00:14+00:00",
+    "scraped_at": "2026-06-12T19:13:05+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81939823",
     "content_type": "platform_release",
     "published_at": "2026-06-05T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:14Z"
+    "updated_at": "2026-06-12T19:13:05Z"
   },
   {
     "title": "Mexico 86",
@@ -243,13 +243,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81940744",
-    "scraped_at": "2026-06-12T09:00:15+00:00",
+    "scraped_at": "2026-06-12T19:13:06+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81940744",
     "content_type": "platform_release",
     "published_at": "2026-06-05T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:15Z"
+    "updated_at": "2026-06-12T19:13:06Z"
   },
   {
     "title": "The Witness",
@@ -264,13 +264,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81737956",
-    "scraped_at": "2026-06-12T09:00:10+00:00",
+    "scraped_at": "2026-06-12T19:13:01+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81737956",
     "content_type": "platform_release",
     "published_at": "2026-06-04T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:10Z"
+    "updated_at": "2026-06-12T19:13:01Z"
   },
   {
     "title": "The Murder of Rachel Nickell",
@@ -285,13 +285,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81756346",
-    "scraped_at": "2026-06-12T09:00:11+00:00",
+    "scraped_at": "2026-06-12T19:13:03+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81756346",
     "content_type": "platform_release",
     "published_at": "2026-06-04T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:11Z"
+    "updated_at": "2026-06-12T19:13:03Z"
   },
   {
     "title": "Night Shift For Cuties",
@@ -306,13 +306,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81715673",
-    "scraped_at": "2026-06-12T09:00:09+00:00",
+    "scraped_at": "2026-06-12T19:13:00+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81715673",
     "content_type": "platform_release",
     "published_at": "2026-06-04T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:09Z"
+    "updated_at": "2026-06-12T19:13:00Z"
   },
   {
     "title": "Maa Behen",
@@ -327,13 +327,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81702997",
-    "scraped_at": "2026-06-12T09:00:13+00:00",
+    "scraped_at": "2026-06-12T19:13:04+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81702997",
     "content_type": "platform_release",
     "published_at": "2026-06-04T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:13Z"
+    "updated_at": "2026-06-12T19:13:04Z"
   },
   {
     "title": "The Hot Seat",
@@ -348,13 +348,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82083327",
-    "scraped_at": "2026-06-12T09:00:08+00:00",
+    "scraped_at": "2026-06-12T19:12:59+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82083327",
     "content_type": "platform_release",
     "published_at": "2026-06-03T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:08Z"
+    "updated_at": "2026-06-12T19:12:59Z"
   },
   {
     "title": "Michael Jackson: The Verdict",
@@ -369,12 +369,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81929202",
-    "scraped_at": "2026-06-12T09:00:06+00:00",
+    "scraped_at": "2026-06-12T19:12:57+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81929202",
     "content_type": "platform_release",
     "published_at": "2026-06-03T00:00:00Z",
-    "updated_at": "2026-06-12T09:00:06Z"
+    "updated_at": "2026-06-12T19:12:57Z"
   }
 ]
