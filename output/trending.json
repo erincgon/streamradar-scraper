@@ -1,26 +1,5 @@
 [
   {
-    "title": "BritBox: best new shows streaming this week",
-    "year": 2026,
-    "type": "movie",
-    "platform": "multi_platform",
-    "release_date": "2026-06-15",
-    "overview": "BritBox: best new shows streaming this week ScreenHub Australia",
-    "genres": [],
-    "poster_image_url": "https://www.screenhub.com.au/wp-content/uploads/sites/4/2024/04/2023_BINGE_RHOS-Reunion_Photo_HannaLassen-36287Group.jpg",
-    "backdrop_image_url": "https://www.screenhub.com.au/wp-content/uploads/sites/4/2024/04/2023_BINGE_RHOS-Reunion_Photo_HannaLassen-36287Group.jpg",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.screenhub.com.au/news/news/real-housewives-of-sydney-renewed-for-2024-on-binge-2639480/",
-    "scraped_at": "2026-06-15T20:28:47+00:00",
-    "source_name": "ScreenHub Australia",
-    "source_domain": "screenhub.com.au",
-    "article_url": "https://www.screenhub.com.au/news/news/real-housewives-of-sydney-renewed-for-2024-on-binge-2639480/",
-    "content_type": "trending",
-    "published_at": "2026-06-15T00:00:00Z",
-    "updated_at": "2026-06-15T20:28:47Z"
-  },
-  {
     "title": "StreamRadar Trending Spotlight",
     "year": 2026,
     "type": "movie",
@@ -35,13 +14,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/chart/moviemeter/",
-    "scraped_at": "2026-06-15T20:28:47+00:00",
+    "scraped_at": "2026-06-16T10:06:58+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/chart/moviemeter/",
     "content_type": "trending",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-06-15T20:28:47Z"
+    "updated_at": "2026-06-16T10:06:58Z"
   },
   {
     "title": "StreamRadar TV Buzz",
@@ -58,12 +37,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/chart/tvmeter/",
-    "scraped_at": "2026-06-15T20:28:50+00:00",
+    "scraped_at": "2026-06-16T10:07:02+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/chart/tvmeter/",
     "content_type": "trending",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-06-15T20:28:50Z"
+    "updated_at": "2026-06-16T10:07:02Z"
   }
 ]
