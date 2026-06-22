@@ -1,5 +1,26 @@
 [
   {
+    "title": "Best new shows & films streaming this week on Netflix, Prime, SBS, ABC, HBO, BritBox and more",
+    "year": 2026,
+    "type": "movie",
+    "platform": "multi_platform",
+    "release_date": "2026-06-22",
+    "overview": "Best new shows & films streaming this week on Netflix, Prime, SBS, ABC, HBO, BritBox and more ScreenHub Australia",
+    "genres": [],
+    "poster_image_url": "https://www.screenhub.com.au/wp-content/uploads/sites/4/2023/03/unnamed-10.jpg",
+    "backdrop_image_url": "https://www.screenhub.com.au/wp-content/uploads/sites/4/2023/03/unnamed-10.jpg",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.screenhub.com.au/news/industry-news/delta-goodrem-shoots-love-is-in-the-air-in-queensland-2608054/",
+    "scraped_at": "2026-06-22T10:36:39+00:00",
+    "source_name": "ScreenHub Australia",
+    "source_domain": "screenhub.com.au",
+    "article_url": "https://www.screenhub.com.au/news/industry-news/delta-goodrem-shoots-love-is-in-the-air-in-queensland-2608054/",
+    "content_type": "trending",
+    "published_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-06-22T10:36:39Z"
+  },
+  {
     "title": "StreamRadar Trending Spotlight",
     "year": 2026,
     "type": "movie",
@@ -14,13 +35,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/chart/moviemeter/",
-    "scraped_at": "2026-06-21T18:23:08+00:00",
+    "scraped_at": "2026-06-22T10:36:39+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/chart/moviemeter/",
     "content_type": "trending",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-06-21T18:23:08Z"
+    "updated_at": "2026-06-22T10:36:39Z"
   },
   {
     "title": "StreamRadar TV Buzz",
@@ -37,12 +58,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/chart/tvmeter/",
-    "scraped_at": "2026-06-21T18:23:11+00:00",
+    "scraped_at": "2026-06-22T10:36:42+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/chart/tvmeter/",
     "content_type": "trending",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-06-21T18:23:11Z"
+    "updated_at": "2026-06-22T10:36:42Z"
   }
 ]
