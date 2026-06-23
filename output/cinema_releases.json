@@ -12,13 +12,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt29355505/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt29355505/",
     "content_type": "cinema_release",
     "published_at": "2026-06-19T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
+    "updated_at": "2026-06-23T08:33:16Z"
   },
   {
     "title": "The Death of Robin Hood",
@@ -33,34 +33,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt32273171/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt32273171/",
     "content_type": "cinema_release",
     "published_at": "2026-06-19T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
-  },
-  {
-    "title": "Maddie's Secret",
-    "year": 2026,
-    "type": "movie",
-    "platform": "cinema",
-    "release_date": "2026-06-19",
-    "overview": "Movie currently playing in cinema theaters. Distributed by Magnolia Pictures.",
-    "genres": [],
-    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYjg0ODRhYzctODVjZC00Y2VlLThlNjItM2ZlZDM5NzU5ODFkXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BYjg0ODRhYzctODVjZC00Y2VlLThlNjItM2ZlZDM5NzU5ODFkXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.imdb.com/title/tt37675037/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
-    "source_name": "IMDb",
-    "source_domain": "imdb.com",
-    "article_url": "https://www.imdb.com/title/tt37675037/",
-    "content_type": "cinema_release",
-    "published_at": "2026-06-19T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
+    "updated_at": "2026-06-23T08:33:16Z"
   },
   {
     "title": "Leviticus",
@@ -75,13 +54,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt39143902/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt39143902/",
     "content_type": "cinema_release",
     "published_at": "2026-06-19T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
+    "updated_at": "2026-06-23T08:33:16Z"
   },
   {
     "title": "Girls Like Girls",
@@ -96,13 +75,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt32432654/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt32432654/",
     "content_type": "cinema_release",
     "published_at": "2026-06-19T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
+    "updated_at": "2026-06-23T08:33:16Z"
   },
   {
     "title": "Gregg Allman: The Music of My Soul",
@@ -117,13 +96,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt40210973/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt40210973/",
     "content_type": "cinema_release",
     "published_at": "2026-06-17T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
+    "updated_at": "2026-06-23T08:33:16Z"
   },
   {
     "title": "The Furious",
@@ -138,13 +117,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt33311069/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt33311069/",
     "content_type": "cinema_release",
     "published_at": "2026-06-12T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
+    "updated_at": "2026-06-23T08:33:16Z"
   },
   {
     "title": "Stop! That! Train!",
@@ -159,13 +138,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt38128726/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt38128726/",
     "content_type": "cinema_release",
     "published_at": "2026-06-12T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
+    "updated_at": "2026-06-23T08:33:16Z"
   },
   {
     "title": "Disclosure Day",
@@ -180,13 +159,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt15047880/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt15047880/",
     "content_type": "cinema_release",
     "published_at": "2026-06-12T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
+    "updated_at": "2026-06-23T08:33:16Z"
   },
   {
     "title": "Scary Movie",
@@ -201,13 +180,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt32093575/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt32093575/",
     "content_type": "cinema_release",
     "published_at": "2026-06-05T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
+    "updated_at": "2026-06-23T08:33:16Z"
   },
   {
     "title": "Masters of the Universe",
@@ -222,13 +201,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt0427340/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt0427340/",
     "content_type": "cinema_release",
     "published_at": "2026-06-05T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
+    "updated_at": "2026-06-23T08:33:16Z"
   },
   {
     "title": "The Breadwinner",
@@ -243,13 +222,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt34459219/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt34459219/",
     "content_type": "cinema_release",
     "published_at": "2026-05-29T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
+    "updated_at": "2026-06-23T08:33:16Z"
   },
   {
     "title": "Pressure",
@@ -264,13 +243,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt32547691/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt32547691/",
     "content_type": "cinema_release",
     "published_at": "2026-05-29T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
+    "updated_at": "2026-06-23T08:33:16Z"
   },
   {
     "title": "Backrooms",
@@ -285,13 +264,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt26657236/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt26657236/",
     "content_type": "cinema_release",
     "published_at": "2026-05-29T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
+    "updated_at": "2026-06-23T08:33:16Z"
   },
   {
     "title": "Star Wars: The Mandalorian and Grogu",
@@ -306,34 +285,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt30825738/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt30825738/",
     "content_type": "cinema_release",
     "published_at": "2026-05-22T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
-  },
-  {
-    "title": "I Love Boosters",
-    "year": 2026,
-    "type": "movie",
-    "platform": "cinema",
-    "release_date": "2026-05-22",
-    "overview": "Movie currently playing in cinema theaters. Distributed by Neon. Showing in -100 theaters.",
-    "genres": [],
-    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BODQwZDU4ZmQtOWE4Yy00ZWZmLTgzZjItNWUxOThmMzcxM2FiXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BODQwZDU4ZmQtOWE4Yy00ZWZmLTgzZjItNWUxOThmMzcxM2FiXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.imdb.com/title/tt30827810/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
-    "source_name": "IMDb",
-    "source_domain": "imdb.com",
-    "article_url": "https://www.imdb.com/title/tt30827810/",
-    "content_type": "cinema_release",
-    "published_at": "2026-05-22T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
+    "updated_at": "2026-06-23T08:33:16Z"
   },
   {
     "title": "Obsession",
@@ -348,13 +306,34 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt37287335/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt37287335/",
     "content_type": "cinema_release",
     "published_at": "2026-05-15T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
+    "updated_at": "2026-06-23T08:33:16Z"
+  },
+  {
+    "title": "The Sheep Detectives",
+    "year": 2026,
+    "type": "movie",
+    "platform": "cinema",
+    "release_date": "2026-05-08",
+    "overview": "Movie currently playing in cinema theaters. Distributed by Amazon MGM Studios. Showing in -900 theaters.",
+    "genres": [],
+    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNTFmZWI4YmMtNmQ0ZC00ZGQwLTk1OWEtZjAyZmIzOGY0MGFiXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BNTFmZWI4YmMtNmQ0ZC00ZGQwLTk1OWEtZjAyZmIzOGY0MGFiXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.imdb.com/title/tt32565993/",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
+    "source_name": "IMDb",
+    "source_domain": "imdb.com",
+    "article_url": "https://www.imdb.com/title/tt32565993/",
+    "content_type": "cinema_release",
+    "published_at": "2026-05-08T00:00:00Z",
+    "updated_at": "2026-06-23T08:33:16Z"
   },
   {
     "title": "The Devil Wears Prada 2",
@@ -369,13 +348,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt33612209/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt33612209/",
     "content_type": "cinema_release",
     "published_at": "2026-05-01T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
+    "updated_at": "2026-06-23T08:33:16Z"
   },
   {
     "title": "The Super Mario Galaxy Movie",
@@ -390,12 +369,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt28650488/",
-    "scraped_at": "2026-06-22T20:16:49+00:00",
+    "scraped_at": "2026-06-23T08:33:16+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt28650488/",
     "content_type": "cinema_release",
     "published_at": "2026-04-01T00:00:00Z",
-    "updated_at": "2026-06-22T20:16:49Z"
+    "updated_at": "2026-06-23T08:33:16Z"
   }
 ]
