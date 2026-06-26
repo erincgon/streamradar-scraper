@@ -17,13 +17,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/widows-bay",
-    "scraped_at": "2026-06-26T08:32:30+00:00",
+    "scraped_at": "2026-06-26T18:59:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/widows-bay",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-06-26T08:32:30Z"
+    "updated_at": "2026-06-26T18:59:01Z"
   },
   {
     "title": "The Boroughs",
@@ -33,8 +33,10 @@
     "release_date": "2026-01-01",
     "overview": "Series streaming on Prime Video. In a seemingly perfect retirement community, a crew of unlikely heroes must stop an otherworldly threat from stealing the one thing they don't have: time.",
     "genres": [
+      "Comedy",
       "Drama",
       "Fantasy",
+      "Horror",
       "Sci-Fi",
       "Thriller"
     ],
@@ -43,13 +45,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-boroughs",
-    "scraped_at": "2026-06-26T08:32:30+00:00",
+    "scraped_at": "2026-06-26T18:59:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-boroughs",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-06-26T08:32:30Z"
+    "updated_at": "2026-06-26T18:59:01Z"
   },
   {
     "title": "Project Hail Mary",
@@ -60,22 +62,22 @@
     "overview": "Movie streaming on Prime Video. Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
     "genres": [
       "Action",
+      "Comedy",
       "Drama",
-      "Sci-Fi",
-      "Thriller"
+      "Sci-Fi"
     ],
     "poster_image_url": "https://images.justwatch.com/poster/317091394/s592/project-hail-mary.webp",
     "backdrop_image_url": "https://images.justwatch.com/poster/317091394/s592/project-hail-mary.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/project-hail-mary",
-    "scraped_at": "2026-06-26T08:32:30+00:00",
+    "scraped_at": "2026-06-26T18:59:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/project-hail-mary",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-06-26T08:32:30Z"
+    "updated_at": "2026-06-26T18:59:01Z"
   },
   {
     "title": "Off Campus",
@@ -94,13 +96,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/off-campus",
-    "scraped_at": "2026-06-26T08:32:30+00:00",
+    "scraped_at": "2026-06-26T18:59:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/off-campus",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-06-26T08:32:30Z"
+    "updated_at": "2026-06-26T18:59:01Z"
   },
   {
     "title": "Obsession",
@@ -111,6 +113,7 @@
     "overview": "Movie streaming on Prime Video. After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "genres": [
       "Horror",
+      "Romance",
       "Thriller"
     ],
     "poster_image_url": "https://images.justwatch.com/poster/343088830/s592/obsession-2026.webp",
@@ -118,13 +121,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/obsession-2026",
-    "scraped_at": "2026-06-26T08:32:30+00:00",
+    "scraped_at": "2026-06-26T18:59:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/obsession-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-06-26T08:32:30Z"
+    "updated_at": "2026-06-26T18:59:01Z"
   },
   {
     "title": "I Will Find You",
@@ -143,13 +146,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/i-will-find-you",
-    "scraped_at": "2026-06-26T08:32:30+00:00",
+    "scraped_at": "2026-06-26T18:59:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/i-will-find-you",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-06-26T08:32:30Z"
+    "updated_at": "2026-06-26T18:59:01Z"
   },
   {
     "title": "Good Luck, Have Fun, Don't Die",
@@ -168,13 +171,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/good-luck-have-fun-dont-die",
-    "scraped_at": "2026-06-26T08:32:30+00:00",
+    "scraped_at": "2026-06-26T18:59:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/good-luck-have-fun-dont-die",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-06-26T08:32:30Z"
+    "updated_at": "2026-06-26T18:59:01Z"
   },
   {
     "title": "Dutton Ranch",
@@ -192,13 +195,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-dutton-ranch",
-    "scraped_at": "2026-06-26T08:32:30+00:00",
+    "scraped_at": "2026-06-26T18:59:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-dutton-ranch",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-06-26T08:32:30Z"
+    "updated_at": "2026-06-26T18:59:01Z"
   },
   {
     "title": "Cape Fear",
@@ -217,13 +220,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/cape-fear",
-    "scraped_at": "2026-06-26T08:32:30+00:00",
+    "scraped_at": "2026-06-26T18:59:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/cape-fear",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-06-26T08:32:30Z"
+    "updated_at": "2026-06-26T18:59:01Z"
   },
   {
     "title": "Backrooms",
@@ -242,13 +245,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/backrooms",
-    "scraped_at": "2026-06-26T08:32:30+00:00",
+    "scraped_at": "2026-06-26T18:59:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/backrooms",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-06-26T08:32:30Z"
+    "updated_at": "2026-06-26T18:59:01Z"
   },
   {
     "title": "Your Friends & Neighbors",
@@ -261,18 +264,18 @@
       "Crime",
       "Drama"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/344285930/s592/your-friends-and-neighbors.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/344285930/s592/your-friends-and-neighbors.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/329436694/s592/your-friends-and-neighbors.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/329436694/s592/your-friends-and-neighbors.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/your-friends-and-neighbors",
-    "scraped_at": "2026-06-26T08:32:30+00:00",
+    "scraped_at": "2026-06-26T18:59:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/your-friends-and-neighbors",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-06-26T08:32:30Z"
+    "updated_at": "2026-06-26T18:59:01Z"
   },
   {
     "title": "The Four Seasons",
@@ -290,13 +293,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-four-seasons",
-    "scraped_at": "2026-06-26T08:32:30+00:00",
+    "scraped_at": "2026-06-26T18:59:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-four-seasons",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-06-26T08:32:30Z"
+    "updated_at": "2026-06-26T18:59:01Z"
   },
   {
     "title": "The Boys",
@@ -317,13 +320,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-boys",
-    "scraped_at": "2026-06-26T08:32:30+00:00",
+    "scraped_at": "2026-06-26T18:59:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-boys",
     "content_type": "platform_release",
     "published_at": "2019-01-01T00:00:00Z",
-    "updated_at": "2026-06-26T08:32:30Z"
+    "updated_at": "2026-06-26T18:59:01Z"
   },
   {
     "title": "Love Island",
@@ -340,13 +343,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/love-island-2019",
-    "scraped_at": "2026-06-26T08:32:30+00:00",
+    "scraped_at": "2026-06-26T18:59:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/love-island-2019",
     "content_type": "platform_release",
     "published_at": "2019-01-01T00:00:00Z",
-    "updated_at": "2026-06-26T08:32:30Z"
+    "updated_at": "2026-06-26T18:59:01Z"
   },
   {
     "title": "Euphoria",
@@ -363,13 +366,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/euphoria",
-    "scraped_at": "2026-06-26T08:32:30+00:00",
+    "scraped_at": "2026-06-26T18:59:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/euphoria",
     "content_type": "platform_release",
     "published_at": "2019-01-01T00:00:00Z",
-    "updated_at": "2026-06-26T08:32:30Z"
+    "updated_at": "2026-06-26T18:59:01Z"
   },
   {
     "title": "Rick and Morty",
@@ -389,12 +392,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/rick-and-morty",
-    "scraped_at": "2026-06-26T08:32:30+00:00",
+    "scraped_at": "2026-06-26T18:59:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/rick-and-morty",
     "content_type": "platform_release",
     "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-06-26T08:32:30Z"
+    "updated_at": "2026-06-26T18:59:01Z"
   }
 ]
