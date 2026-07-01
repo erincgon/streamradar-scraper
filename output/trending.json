@@ -1,26 +1,5 @@
 [
   {
-    "title": "4 best new films streaming this week",
-    "year": 2026,
-    "type": "movie",
-    "platform": "multi_platform",
-    "release_date": "2026-06-30",
-    "overview": "4 best new films streaming this week ScreenHub Australia",
-    "genres": [],
-    "poster_image_url": "https://www.screenhub.com.au/wp-content/uploads/sites/4/2025/07/subnautica-2-game-.jpg",
-    "backdrop_image_url": "https://www.screenhub.com.au/wp-content/uploads/sites/4/2025/07/subnautica-2-game-.jpg",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.screenhub.com.au/news/games/krafton-subnautica-2-lawsuit-2675775/",
-    "scraped_at": "2026-07-01T08:49:02+00:00",
-    "source_name": "ScreenHub Australia",
-    "source_domain": "screenhub.com.au",
-    "article_url": "https://www.screenhub.com.au/news/games/krafton-subnautica-2-lawsuit-2675775/",
-    "content_type": "trending",
-    "published_at": "2026-06-30T00:00:00Z",
-    "updated_at": "2026-07-01T08:49:02Z"
-  },
-  {
     "title": "StreamRadar Trending Spotlight",
     "year": 2026,
     "type": "movie",
@@ -35,13 +14,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/chart/moviemeter/",
-    "scraped_at": "2026-07-01T08:49:02+00:00",
+    "scraped_at": "2026-07-01T19:02:23+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/chart/moviemeter/",
     "content_type": "trending",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-07-01T08:49:02Z"
+    "updated_at": "2026-07-01T19:02:23Z"
   },
   {
     "title": "StreamRadar TV Buzz",
@@ -58,12 +37,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/chart/tvmeter/",
-    "scraped_at": "2026-07-01T08:49:06+00:00",
+    "scraped_at": "2026-07-01T19:02:27+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/chart/tvmeter/",
     "content_type": "trending",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-07-01T08:49:06Z"
+    "updated_at": "2026-07-01T19:02:27Z"
   }
 ]
