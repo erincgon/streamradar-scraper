@@ -1,26 +1,5 @@
 [
   {
-    "title": "Hot Ones: Extra Heat",
-    "year": 2026,
-    "type": "movie",
-    "platform": "netflix",
-    "release_date": "2026-07-14",
-    "overview": "Featured on Netflix new-to-watch: Hot Ones: Extra Heat.",
-    "genres": [],
-    "poster_image_url": "https://dnm.nflximg.net/api/v6/Kc8CA9GHHouTKoU4bM9l5VW4DIA/AAAABWOc9EmBi1gyvEGoXqI2dc-one4c2tReAtaeFeF91Petkqji6GFv1RNpTD2vOenxvueSAKh3zJ4w-8zDX6bKN-HMatwkeC60RnGplaZ7fnZmTYC2DPXIDneOPdut8nXM-U0.jpg",
-    "backdrop_image_url": "https://dnm.nflximg.net/api/v6/Kc8CA9GHHouTKoU4bM9l5VW4DIA/AAAABWOc9EmBi1gyvEGoXqI2dc-one4c2tReAtaeFeF91Petkqji6GFv1RNpTD2vOenxvueSAKh3zJ4w-8zDX6bKN-HMatwkeC60RnGplaZ7fnZmTYC2DPXIDneOPdut8nXM-U0.jpg",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.netflix.com/watch/81922506",
-    "scraped_at": "2026-07-02T08:15:05+00:00",
-    "source_name": "Netflix",
-    "source_domain": "netflix.com",
-    "article_url": "https://www.netflix.com/watch/81922506",
-    "content_type": "platform_release",
-    "published_at": "2026-07-14T00:00:00Z",
-    "updated_at": "2026-07-02T08:15:05Z"
-  },
-  {
     "title": "Golden Kamuy",
     "year": 2026,
     "type": "movie",
@@ -33,13 +12,34 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82116953",
-    "scraped_at": "2026-07-02T08:15:03+00:00",
+    "scraped_at": "2026-07-02T18:31:14+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82116953",
     "content_type": "platform_release",
     "published_at": "2026-07-13T00:00:00Z",
-    "updated_at": "2026-07-02T08:15:03Z"
+    "updated_at": "2026-07-02T18:31:14Z"
+  },
+  {
+    "title": "Susana and Elvira: No Plan B",
+    "year": 2026,
+    "type": "movie",
+    "platform": "netflix",
+    "release_date": "2026-07-12",
+    "overview": "Featured on Netflix new-to-watch: Susana and Elvira: No Plan B.",
+    "genres": [],
+    "poster_image_url": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABe9lYZVyg87RgXqQzh2yV-PQtEBFTrUQvIXjJUDGcm7Q3orOTzY2mxgp3WJznLcVETPqPmslDhxLJRv1cVLu7T6TTgo1o7IRB2Ok.jpg?r=174",
+    "backdrop_image_url": "https://image.tmdb.org/t/p/w1280/fwIF80Lf017RyGKUMGgn37eRCg3.jpg",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.netflix.com/watch/81941028",
+    "scraped_at": "2026-07-02T18:31:13+00:00",
+    "source_name": "Netflix",
+    "source_domain": "netflix.com",
+    "article_url": "https://www.netflix.com/watch/81941028",
+    "content_type": "platform_release",
+    "published_at": "2026-07-12T00:00:00Z",
+    "updated_at": "2026-07-02T18:31:13Z"
   },
   {
     "title": "The Apartment Job",
@@ -54,13 +54,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82755553",
-    "scraped_at": "2026-07-02T08:15:02+00:00",
+    "scraped_at": "2026-07-02T18:31:11+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82755553",
     "content_type": "platform_release",
     "published_at": "2026-07-11T00:00:00Z",
-    "updated_at": "2026-07-02T08:15:02Z"
+    "updated_at": "2026-07-02T18:31:11Z"
   },
   {
     "title": "Shipwrecked: Nightmare at Sea",
@@ -75,13 +75,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81757898",
-    "scraped_at": "2026-07-02T08:15:00+00:00",
+    "scraped_at": "2026-07-02T18:31:09+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81757898",
     "content_type": "platform_release",
     "published_at": "2026-07-10T00:00:00Z",
-    "updated_at": "2026-07-02T08:15:00Z"
+    "updated_at": "2026-07-02T18:31:09Z"
   },
   {
     "title": "Miguel Ángel Blanco: The 48 Hours that Changed Spain",
@@ -96,13 +96,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82090337",
-    "scraped_at": "2026-07-02T08:15:00+00:00",
+    "scraped_at": "2026-07-02T18:31:10+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82090337",
     "content_type": "platform_release",
     "published_at": "2026-07-10T00:00:00Z",
-    "updated_at": "2026-07-02T08:15:00Z"
+    "updated_at": "2026-07-02T18:31:10Z"
   },
   {
     "title": "Little House on the Prairie",
@@ -117,13 +117,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81748090",
-    "scraped_at": "2026-07-02T08:14:59+00:00",
+    "scraped_at": "2026-07-02T18:31:07+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81748090",
     "content_type": "platform_release",
     "published_at": "2026-07-09T00:00:00Z",
-    "updated_at": "2026-07-02T08:14:59Z"
+    "updated_at": "2026-07-02T18:31:07Z"
   },
   {
     "title": "Thunder 3",
@@ -138,13 +138,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82736187",
-    "scraped_at": "2026-07-02T08:14:58+00:00",
+    "scraped_at": "2026-07-02T18:31:06+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82736187",
     "content_type": "platform_release",
     "published_at": "2026-07-08T00:00:00Z",
-    "updated_at": "2026-07-02T08:14:58Z"
+    "updated_at": "2026-07-02T18:31:06Z"
   },
   {
     "title": "Salcedo, Leather, and Boogaloo",
@@ -159,13 +159,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82641106",
-    "scraped_at": "2026-07-02T08:14:53+00:00",
+    "scraped_at": "2026-07-02T18:31:02+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82641106",
     "content_type": "platform_release",
     "published_at": "2026-07-08T00:00:00Z",
-    "updated_at": "2026-07-02T08:14:53Z"
+    "updated_at": "2026-07-02T18:31:02Z"
   },
   {
     "title": "Nothing to Lose",
@@ -180,13 +180,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81988477",
-    "scraped_at": "2026-07-02T08:14:57+00:00",
+    "scraped_at": "2026-07-02T18:31:05+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81988477",
     "content_type": "platform_release",
     "published_at": "2026-07-08T00:00:00Z",
-    "updated_at": "2026-07-02T08:14:57Z"
+    "updated_at": "2026-07-02T18:31:05Z"
   },
   {
     "title": "I'm Not Afraid",
@@ -201,13 +201,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81745568",
-    "scraped_at": "2026-07-02T08:14:52+00:00",
+    "scraped_at": "2026-07-02T18:31:00+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81745568",
     "content_type": "platform_release",
     "published_at": "2026-07-08T00:00:00Z",
-    "updated_at": "2026-07-02T08:14:52Z"
+    "updated_at": "2026-07-02T18:31:00Z"
   },
   {
     "title": "Jeff Arcuri: Nice to Meet You",
@@ -222,13 +222,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82032506",
-    "scraped_at": "2026-07-02T08:14:50+00:00",
+    "scraped_at": "2026-07-02T18:30:58+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82032506",
     "content_type": "platform_release",
     "published_at": "2026-07-07T00:00:00Z",
-    "updated_at": "2026-07-02T08:14:50Z"
+    "updated_at": "2026-07-02T18:30:58Z"
   },
   {
     "title": "Better Late Than Single",
@@ -243,13 +243,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82132423",
-    "scraped_at": "2026-07-02T08:14:51+00:00",
+    "scraped_at": "2026-07-02T18:30:59+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82132423",
     "content_type": "platform_release",
     "published_at": "2026-07-07T00:00:00Z",
-    "updated_at": "2026-07-02T08:14:51Z"
+    "updated_at": "2026-07-02T18:30:59Z"
   },
   {
     "title": "Sparks of Tomorrow",
@@ -264,13 +264,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81698958",
-    "scraped_at": "2026-07-02T08:14:49+00:00",
+    "scraped_at": "2026-07-02T18:30:57+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81698958",
     "content_type": "platform_release",
     "published_at": "2026-07-05T00:00:00Z",
-    "updated_at": "2026-07-02T08:14:49Z"
+    "updated_at": "2026-07-02T18:30:57Z"
   },
   {
     "title": "Survival of the Thickest",
@@ -285,13 +285,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81945956",
-    "scraped_at": "2026-07-02T08:14:47+00:00",
+    "scraped_at": "2026-07-02T18:30:53+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81945956",
     "content_type": "platform_release",
     "published_at": "2026-07-02T00:00:00Z",
-    "updated_at": "2026-07-02T08:14:47Z"
+    "updated_at": "2026-07-02T18:30:53Z"
   },
   {
     "title": "Super Subbu",
@@ -302,17 +302,17 @@
     "overview": "Featured on Netflix new-to-watch: Super Subbu.",
     "genres": [],
     "poster_image_url": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABUbpNU2EDDuSjMNh7_Rswxdjk5EscH92Lu-aAuwtRAv5qm4kjVj4P9RyPkGensLtZkPTZ3EGnIKB0NqTz9xwclXyjaPkbLvLN5Aa.jpg?r=344",
-    "backdrop_image_url": "https://image.tmdb.org/t/p/w1280/oNjTdpWZFccXGekoWwIqNZZEoXK.jpg",
+    "backdrop_image_url": "https://image.tmdb.org/t/p/w1280/bwb5oPnZAdRwKusI8So8Sx1bcL4.jpg",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81660221",
-    "scraped_at": "2026-07-02T08:14:48+00:00",
+    "scraped_at": "2026-07-02T18:30:56+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81660221",
     "content_type": "platform_release",
     "published_at": "2026-07-02T00:00:00Z",
-    "updated_at": "2026-07-02T08:14:48Z"
+    "updated_at": "2026-07-02T18:30:56Z"
   },
   {
     "title": "Human Vapor",
@@ -327,13 +327,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81714241",
-    "scraped_at": "2026-07-02T08:14:46+00:00",
+    "scraped_at": "2026-07-02T18:30:54+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81714241",
     "content_type": "platform_release",
     "published_at": "2026-07-02T00:00:00Z",
-    "updated_at": "2026-07-02T08:14:46Z"
+    "updated_at": "2026-07-02T18:30:54Z"
   },
   {
     "title": "Worst Neighbor Ever",
@@ -348,13 +348,34 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/82016572",
-    "scraped_at": "2026-07-02T08:14:43+00:00",
+    "scraped_at": "2026-07-02T18:30:49+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/82016572",
     "content_type": "platform_release",
     "published_at": "2026-07-01T00:00:00Z",
-    "updated_at": "2026-07-02T08:14:43Z"
+    "updated_at": "2026-07-02T18:30:49Z"
+  },
+  {
+    "title": "Summer ’36",
+    "year": 2026,
+    "type": "movie",
+    "platform": "netflix",
+    "release_date": "2026-07-01",
+    "overview": "Featured on Netflix new-to-watch: Summer ’36.",
+    "genres": [],
+    "poster_image_url": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABa2s0XqOCj-aabh_dFUScUirOklZTE4k8UsNMKdNUr-YH5liNpGHVxf3e_pgo755NLbgXVjg3ezYe9NeHiTs9umdbKv8IFIfzx5u.jpg?r=a0b",
+    "backdrop_image_url": "https://image.tmdb.org/t/p/w1280/ijMbSFhBd0m8TFuaALtOQp5kLwM.jpg",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.netflix.com/watch/82049216",
+    "scraped_at": "2026-07-02T18:30:51+00:00",
+    "source_name": "Netflix",
+    "source_domain": "netflix.com",
+    "article_url": "https://www.netflix.com/watch/82049216",
+    "content_type": "platform_release",
+    "published_at": "2026-07-01T00:00:00Z",
+    "updated_at": "2026-07-02T18:30:51Z"
   },
   {
     "title": "Enola Holmes 3",
@@ -369,12 +390,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.netflix.com/watch/81605886",
-    "scraped_at": "2026-07-02T08:14:44+00:00",
+    "scraped_at": "2026-07-02T18:30:52+00:00",
     "source_name": "Netflix",
     "source_domain": "netflix.com",
     "article_url": "https://www.netflix.com/watch/81605886",
     "content_type": "platform_release",
     "published_at": "2026-07-01T00:00:00Z",
-    "updated_at": "2026-07-02T08:14:44Z"
+    "updated_at": "2026-07-02T18:30:52Z"
   }
 ]
