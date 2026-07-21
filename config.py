@@ -25,5 +25,5 @@ class AppConfig:
 
 APP_CONFIG = AppConfig()
 
-# Platform JSON uses official storefront/press sources (English-first). Discovery feeds
-# use Google News RSS.
+# Platform JSON uses JustWatch top-10 movies + top-10 series per service.
+# Discovery feeds use Google News RSS.

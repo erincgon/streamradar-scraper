@@ -1,8 +1,8 @@
 """StreamRadar scraping entrypoint.
 
-Platform feeds (`netflix`, `disney_plus`, `prime_video`, `hbo_max`) use each service’s
-official storefront or press sources (English-first where possible). Trending, upcoming,
-and cinema still use Google News RSS search.
+Platform feeds (`netflix`, `disney_plus`, `prime_video`, `hbo_max`) each hold top 10
+movies + top 10 series from JustWatch popularity. Trending, upcoming, and cinema still
+use Google News RSS / chart sources.
 
 Feed map: trending, upcoming; netflix, disney_plus, prime_video, hbo_max; cinema_releases.
 """
@@ -39,7 +39,7 @@ def run_all() -> None:
     feed_map = {
         "trending": [TrendingNewReleasesScraper()],
         "upcoming": [UpcomingReleasesScraper()],
-        "netflix": [NetflixScraper(locale="en")],
+        "netflix": [NetflixScraper()],
         "disney_plus": [DisneyPlusScraper()],
         "prime_video": [PrimeVideoScraper()],
         "hbo_max": [HBOMaxScraper()],
@@ -47,16 +47,12 @@ def run_all() -> None:
     }
 
     started_at = time.time()
-    taken_cross_platform_keys: set[str] = set()
     seen_discovery_article_urls: set[str] = set()
-    seen_platform_article_urls: set[str] = set()
     final_feeds_payload: dict[str, list[dict[str, object]]] = {}
     for feed_name, scraper_objects in feed_map.items():
         payload = run_feed(feed_name, scraper_objects)
-        filtered = apply_cross_platform_dedupe(feed_name, payload, taken_cross_platform_keys)
-        if feed_name in PLATFORM_FEEDS:
-            filtered = filter_global_article_dedupe(filtered, seen_platform_article_urls)
-        elif feed_name in DISCOVERY_FEEDS:
+        filtered = apply_cross_platform_dedupe(feed_name, payload, set())
+        if feed_name in DISCOVERY_FEEDS:
             filtered = filter_global_article_dedupe(filtered, seen_discovery_article_urls)
         write_json(OUTPUT_DIR / f"{feed_name}.json", filtered)
         final_feeds_payload[feed_name] = filtered

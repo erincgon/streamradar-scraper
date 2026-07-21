@@ -301,8 +301,11 @@ _JW_GENRE_MAP: dict[str, str] = {
 }
 
 
+_TOP_PER_TYPE = 10  # top 10 movies + top 10 series = 20 per platform
+
+
 class _JustWatchPlatformScraper(BaseScraper):
-    """Fetch popular titles for a streaming platform via the JustWatch public GraphQL API."""
+    """Fetch top popular movies and series for a platform via JustWatch GraphQL."""
 
     def __init__(
         self,
@@ -326,15 +329,7 @@ class _JustWatchPlatformScraper(BaseScraper):
             .replace("{format}", "webp")
         )
 
-    def scrape(self) -> list[dict[str, Any]]:
-        try:
-            r = self.http.get(
-                _JUSTWATCH_GQL,
-                headers={"Content-Type": "application/json"},
-            )
-        except Exception:
-            pass
-
+    def _fetch_edges(self, object_type: str, limit: int) -> list[dict[str, Any]]:
         import requests as _req
 
         try:
@@ -345,8 +340,11 @@ class _JustWatchPlatformScraper(BaseScraper):
                     "variables": {
                         "country": "US",
                         "language": "en",
-                        "first": _CAP,
-                        "filter": {"packages": self._jw_packages},
+                        "first": limit,
+                        "filter": {
+                            "packages": self._jw_packages,
+                            "objectTypes": [object_type],
+                        },
                     },
                 },
                 headers={
@@ -359,74 +357,128 @@ class _JustWatchPlatformScraper(BaseScraper):
                 timeout=20,
             )
         except Exception as exc:
-            logger.exception("%s JustWatch request failed: %s", self.scraper_name, exc)
+            logger.exception(
+                "%s JustWatch request failed for %s: %s",
+                self.scraper_name,
+                object_type,
+                exc,
+            )
             return []
 
         if resp.status_code != 200:
-            logger.warning("%s JustWatch returned %s", self.scraper_name, resp.status_code)
+            logger.warning(
+                "%s JustWatch returned %s for %s",
+                self.scraper_name,
+                resp.status_code,
+                object_type,
+            )
             return []
 
         try:
             data = resp.json()
         except Exception:
-            logger.warning("%s could not parse JustWatch JSON", self.scraper_name)
+            logger.warning("%s could not parse JustWatch JSON for %s", self.scraper_name, object_type)
             return []
 
         if "errors" in data:
-            logger.warning("%s JustWatch errors: %s", self.scraper_name, data["errors"][0].get("message", ""))
+            logger.warning(
+                "%s JustWatch errors (%s): %s",
+                self.scraper_name,
+                object_type,
+                data["errors"][0].get("message", ""),
+            )
             return []
 
-        edges = data.get("data", {}).get("popularTitles", {}).get("edges", [])
+        return data.get("data", {}).get("popularTitles", {}).get("edges", []) or []
+
+    def _edge_to_item(self, edge: dict[str, Any], *, media_type: str) -> dict[str, Any] | None:
+        node = edge.get("node", {})
+        content = node.get("content", {})
+        title = (content.get("title") or "").strip()
+        if not title:
+            return None
+
+        year = content.get("originalReleaseYear")
+        full_path = content.get("fullPath", "")
+        jw_url = f"https://www.justwatch.com{full_path}" if full_path else ""
+        poster = self._poster_url(content.get("posterUrl", ""))
+        desc = content.get("shortDescription") or ""
+        genres_raw = content.get("genres") or []
+        genres = [
+            _JW_GENRE_MAP.get(g.get("shortName", ""), g.get("shortName", ""))
+            for g in genres_raw
+            if g.get("shortName")
+        ]
+
+        platform_label = self._platform_key.replace("_", " ").title()
+        streaming_prefix = f"Top {media_type} on {platform_label}."
+        overview = f"{streaming_prefix} {desc}" if desc else streaming_prefix
+        year_str = str(year) if year else None
+
+        return {
+            "title": title,
+            "year": year,
+            "type": media_type,
+            "platform": self._platform_key,
+            "release_date": year_str,
+            "overview": overview,
+            "genres": genres,
+            "poster_image_url": poster,
+            "backdrop_image_url": poster,
+            "rating": None,
+            "trailer_url": None,
+            "source_url": jw_url,
+            "scraped_at": utc_now_iso(),
+            "article_url": jw_url,
+            "content_type": "platform_release",
+            "published_raw": year_str,
+        }
+
+    def scrape(self) -> list[dict[str, Any]]:
+        """Return top 10 movies followed by top 10 series (up to 20 items)."""
         out: list[dict[str, Any]] = []
         seen: set[str] = set()
 
-        for edge in edges:
-            node = edge.get("node", {})
-            content = node.get("content", {})
-            title = (content.get("title") or "").strip()
-            if not title or title.lower() in seen:
-                continue
-            seen.add(title.lower())
+        for object_type, media_type in (("MOVIE", "movie"), ("SHOW", "series")):
+            edges = self._fetch_edges(object_type, _TOP_PER_TYPE)
+            for edge in edges:
+                if len([i for i in out if i["type"] == media_type]) >= _TOP_PER_TYPE:
+                    break
+                item = self._edge_to_item(edge, media_type=media_type)
+                if not item:
+                    continue
+                key = item["title"].lower()
+                if key in seen:
+                    continue
+                seen.add(key)
+                out.append(item)
 
-            obj_type = node.get("objectType", "MOVIE")
-            media_type = "series" if obj_type == "SHOW" else "movie"
-            year = content.get("originalReleaseYear")
-            full_path = content.get("fullPath", "")
-            jw_url = f"https://www.justwatch.com{full_path}" if full_path else ""
-            poster = self._poster_url(content.get("posterUrl", ""))
-            desc = content.get("shortDescription") or ""
-            genres_raw = content.get("genres") or []
-            genres = [
-                _JW_GENRE_MAP.get(g.get("shortName", ""), g.get("shortName", ""))
-                for g in genres_raw
-                if g.get("shortName")
-            ]
-
-            platform_label = self._platform_key.replace("_", " ").title()
-            streaming_prefix = f"{media_type.title()} streaming on {platform_label}."
-            overview = f"{streaming_prefix} {desc}" if desc else streaming_prefix
-
-            out.append({
-                "title": title,
-                "year": year,
-                "type": media_type,
-                "platform": self._platform_key,
-                "release_date": str(year) if year else None,
-                "overview": overview,
-                "genres": genres,
-                "poster_image_url": poster,
-                "backdrop_image_url": poster,
-                "rating": None,
-                "trailer_url": None,
-                "source_url": jw_url,
-                "scraped_at": utc_now_iso(),
-                "article_url": jw_url,
-                "content_type": "platform_release",
-                "published_raw": str(year) if year else None,
-            })
-
-        logger.info("%s produced %s items via JustWatch", self.scraper_name, len(out))
+        logger.info(
+            "%s produced %s items via JustWatch (movies=%s series=%s)",
+            self.scraper_name,
+            len(out),
+            sum(1 for i in out if i["type"] == "movie"),
+            sum(1 for i in out if i["type"] == "series"),
+        )
         return out[:_CAP]
+
+
+class JustWatchNetflixScraper(_JustWatchPlatformScraper):
+    def __init__(self) -> None:
+        super().__init__(
+            scraper_name="justwatch_netflix",
+            platform_key="netflix",
+            jw_packages=["nfx"],
+        )
+
+
+class JustWatchDisneyPlusScraper(_JustWatchPlatformScraper):
+    def __init__(self) -> None:
+        super().__init__(
+            scraper_name="justwatch_disney_plus",
+            platform_key="disney_plus",
+            jw_packages=["dnp", "disneyplus"],
+        )
 
 
 class JustWatchPrimeVideoScraper(_JustWatchPlatformScraper):
@@ -443,5 +495,6 @@ class JustWatchMaxScraper(_JustWatchPlatformScraper):
         super().__init__(
             scraper_name="justwatch_max",
             platform_key="hbo_max",
-            jw_packages=["hbm", "maxus", "hbomax"],
+            # `mxx` is the current US Max catalog; legacy `hbm` returns a stale subset.
+            jw_packages=["mxx"],
         )

@@ -121,8 +121,9 @@ def normalize_pub_date_to_iso_z(value: Any) -> str | None:
 def normalize_title(value: Any, fallback: str = "Unknown Title") -> str:
     text = clean_text(value, fallback=fallback)
     # Strip trailing outlet suffixes (e.g. " - Forbes", " | zoomtventertainment.com").
-    text = re.sub(r"\s*[-|–—]\s*(?:[A-Za-z][\w .&+:'/-]{1,60}|[\w.-]+\.[a-z]{2,})(?:\s*)$", "", text)
-    text = re.sub(r"\s*[-|–—]\s*[\w.-]+\.[a-z]{2,}\s*$", "", text, flags=re.I)
+    # Require whitespace before the separator so hyphenated titles (Spider-Man, X-Men) stay intact.
+    text = re.sub(r"\s+[-|–—]\s+(?:[A-Za-z][\w .&+:'/-]{1,60}|[\w.-]+\.[a-z]{2,})(?:\s*)$", "", text)
+    text = re.sub(r"\s+[-|–—]\s+[\w.-]+\.[a-z]{2,}\s*$", "", text, flags=re.I)
     text = re.sub(r"\s*\((?:\d{4}|TV Series|TV Mini Series)\)\s*$", "", text, flags=re.I)
     text = re.sub(r"\s+", " ", text).strip(" -|")
     return text or fallback
@@ -215,7 +216,7 @@ def looks_entertainment_related(title: str, overview: str) -> bool:
         "policy",
         "war update",
     )
-    if any(bad in text for bad in deny):
+    if any(re.search(rf"\b{re.escape(bad)}\b", text) for bad in deny):
         return False
     return any(good in text for good in allow)
 

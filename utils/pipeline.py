@@ -20,7 +20,6 @@ from utils.http_client import HTTPClient
 from utils.tmdb import fetch_tmdb_images
 from utils.article_url import is_valid_article_page_url
 from utils.normalization import (
-    cross_platform_key,
     dedupe_key_parts,
     looks_entertainment_related,
     normalized_url_signature,
@@ -90,6 +89,9 @@ def _dedupe(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return unique
 
 
+_PLATFORM_FEEDS = frozenset({"netflix", "disney_plus", "prime_video", "hbo_max"})
+
+
 def process_raw_items(
     raw_items: list[dict[str, Any]],
     *,
@@ -98,6 +100,8 @@ def process_raw_items(
 ) -> list[dict[str, Any]]:
     raw_cap = APP_CONFIG.max_items_per_feed
     raw_items = raw_items[:raw_cap]
+    is_platform = feed_name in _PLATFORM_FEEDS
+    min_title_len = 2 if is_platform else 8
     http_client = HTTPClient()
     processed: list[dict[str, Any]] = []
     enrichment_cache: dict[str, str | None] = {}
@@ -113,10 +117,14 @@ def process_raw_items(
             logger.debug("Skipping low-quality title item: %s", item["title"])
             continue
         title_clean = item["title"].strip().lower()
-        if len(item["title"].strip()) < 8 or title_clean in _GENERIC_BAD_TITLES:
+        if len(item["title"].strip()) < min_title_len or title_clean in _GENERIC_BAD_TITLES:
             logger.debug("Skipping generic/short title: %s", item["title"])
             continue
-        if not looks_entertainment_related(item.get("title", ""), item.get("overview", "")):
+        # JustWatch platform charts are entertainment by definition; skip keyword gate
+        # (deny substrings like "nfl" falsely match words such as "conflict").
+        if not is_platform and not looks_entertainment_related(
+            item.get("title", ""), item.get("overview", "")
+        ):
             logger.debug("Skipping non-entertainment row: %s", item.get("title"))
             continue
 
@@ -196,7 +204,9 @@ def process_raw_items(
             logger.debug("Schema validation failed for item title=%s", item.get("title"))
 
     deduped = _dedupe(processed)
-    deduped.sort(key=_sort_key, reverse=True)
+    # Platform top-10 feeds keep JustWatch popularity order (movies then series).
+    if not is_platform:
+        deduped.sort(key=_sort_key, reverse=True)
     return deduped[: APP_CONFIG.max_items_per_feed]
 
 
@@ -242,38 +252,8 @@ def run_feed(feed_name: str, scraper_objects: list[Any]) -> list[dict[str, Any]]
 
 
 def apply_cross_platform_dedupe(feed_name: str, payload: list[dict[str, Any]], taken_keys: set[str]) -> list[dict[str, Any]]:
-    """
-    Keep platform feeds mutually exclusive by title/year/type.
-    """
-    if feed_name not in {"netflix", "disney_plus", "prime_video", "hbo_max"}:
-        return payload
-
-    filtered: list[dict[str, Any]] = []
-    dropped = 0
-    for item in payload:
-        key = cross_platform_key(
-            title=item.get("title", ""),
-            year=item.get("year"),
-            media_type=item.get("type", ""),
-            article_url=item.get("article_url"),
-        )
-        if key in taken_keys:
-            dropped += 1
-            continue
-        taken_keys.add(key)
-        filtered.append(item)
-
-    if dropped:
-        logger.info("Cross-platform dedupe removed %s item(s) from %s", dropped, feed_name)
-
-    if not filtered:
-        logger.warning("Feed '%s' became empty after cross-platform dedupe. injecting fallback.", feed_name)
-        filtered = process_raw_items(
-            fallback_for_feed(feed_name),
-            feed_name=feed_name,
-            validate_images=False,
-        )
-    return filtered
+    """No-op: platform top-10 charts may share titles across services."""
+    return payload
 
 
 def filter_global_article_dedupe(payload: list[dict[str, Any]], seen_urls: set[str]) -> list[dict[str, Any]]:
