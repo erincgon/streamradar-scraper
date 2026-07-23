@@ -1,5 +1,30 @@
 [
   {
+    "title": "Obsession",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top movie on Prime Video. After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "genres": [
+      "Horror",
+      "Romance",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/343088830/s592/obsession-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/343088830/s592/obsession-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/obsession-2026",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/obsession-2026",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-07-23T07:33:37Z"
+  },
+  {
     "title": "Project Hail Mary",
     "year": 2026,
     "type": "movie",
@@ -17,38 +42,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/project-hail-mary",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/project-hail-mary",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
-  },
-  {
-    "title": "Obsession",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top movie on Prime Video. After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "genres": [
-      "Horror",
-      "Romance",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/343088830/s592/obsession-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/343088830/s592/obsession-2026.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/obsession-2026",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/obsession-2026",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
+    "updated_at": "2026-07-23T07:33:37Z"
   },
   {
     "title": "The Sheep Detectives",
@@ -68,13 +68,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/three-bags-full-a-sheep-detective-movie",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/three-bags-full-a-sheep-detective-movie",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
+    "updated_at": "2026-07-23T07:33:37Z"
   },
   {
     "title": "Backrooms",
@@ -93,13 +93,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/backrooms",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/backrooms",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
+    "updated_at": "2026-07-23T07:33:37Z"
   },
   {
     "title": "Good Luck, Have Fun, Don't Die",
@@ -118,13 +118,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/good-luck-have-fun-dont-die",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/good-luck-have-fun-dont-die",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
+    "updated_at": "2026-07-23T07:33:37Z"
   },
   {
     "title": "Citizen Vigilante",
@@ -134,6 +134,7 @@
     "release_date": "2026-01-01",
     "overview": "Top movie on Prime Video. A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
     "genres": [
+      "Action",
       "Thriller"
     ],
     "poster_image_url": "https://images.justwatch.com/poster/346566877/s592/citizen-vigilante.webp",
@@ -141,13 +142,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/citizen-vigilante",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/citizen-vigilante",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
+    "updated_at": "2026-07-23T07:33:37Z"
   },
   {
     "title": "Ready or Not 2: Here I Come",
@@ -166,13 +167,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/ready-or-not-here-i-come",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/ready-or-not-here-i-come",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
+    "updated_at": "2026-07-23T07:33:37Z"
   },
   {
     "title": "The Invite",
@@ -191,13 +192,39 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-invite-2026",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-invite-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
+    "updated_at": "2026-07-23T07:33:37Z"
+  },
+  {
+    "title": "Disclosure Day",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top movie on Prime Video. If you found out we weren’t alone in the universe, would that frighten you?",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/340235589/s592/the-dish-2026-1.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/340235589/s592/the-dish-2026-1.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/the-dish-2026-1",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/the-dish-2026-1",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-07-23T07:33:37Z"
   },
   {
     "title": "The Devil Wears Prada 2",
@@ -215,38 +242,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-devil-wears-prada-2",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-devil-wears-prada-2",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
-  },
-  {
-    "title": "The Furious",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top movie on Prime Video. After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/343696285/s592/the-furious-2025.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/343696285/s592/the-furious-2025.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-furious-2025",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-furious-2025",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
+    "updated_at": "2026-07-23T07:33:37Z"
   },
   {
     "title": "Widow's Bay",
@@ -266,13 +268,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/widows-bay",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/widows-bay",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
+    "updated_at": "2026-07-23T07:33:37Z"
   },
   {
     "title": "House of the Dragon",
@@ -293,13 +295,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/house-of-the-dragon",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/house-of-the-dragon",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
+    "updated_at": "2026-07-23T07:33:37Z"
   },
   {
     "title": "Silo",
@@ -317,13 +319,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/silo",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/silo",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
+    "updated_at": "2026-07-23T07:33:37Z"
+  },
+  {
+    "title": "The Bear",
+    "year": 2022,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2022-01-01",
+    "overview": "Top series on Prime Video. A young chef from the fine dining world returns to Chicago to run his family's sandwich shop.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/346903971/s592/the-bear.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/346903971/s592/the-bear.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/the-bear",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-bear",
+    "content_type": "platform_release",
+    "published_at": "2022-01-01T00:00:00Z",
+    "updated_at": "2026-07-23T07:33:37Z"
   },
   {
     "title": "I Will Find You",
@@ -342,37 +368,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/i-will-find-you",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/i-will-find-you",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
-  },
-  {
-    "title": "The Bear",
-    "year": 2022,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2022-01-01",
-    "overview": "Top series on Prime Video. A young chef from the fine dining world returns to Chicago to run his family's sandwich shop.",
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/346903971/s592/the-bear.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346903971/s592/the-bear.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-bear",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-bear",
-    "content_type": "platform_release",
-    "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
+    "updated_at": "2026-07-23T07:33:37Z"
   },
   {
     "title": "FROM",
@@ -392,13 +394,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/from",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/from",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
+    "updated_at": "2026-07-23T07:33:37Z"
   },
   {
     "title": "Cape Fear",
@@ -417,37 +419,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/cape-fear",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/cape-fear",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
-  },
-  {
-    "title": "The Agency",
-    "year": 2024,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2024-01-01",
-    "overview": "Top series on Prime Video. A covert CIA agent is ordered to abandon his undercover life and return to his Station; when the love he left behind reappears, romance reignites.",
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/346889710/s592/the-agency-2024.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346889710/s592/the-agency-2024.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-agency-2024",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-agency-2024",
-    "content_type": "platform_release",
-    "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
+    "updated_at": "2026-07-23T07:33:37Z"
   },
   {
     "title": "Lucky",
@@ -465,13 +443,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/lucky",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/lucky",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
+    "updated_at": "2026-07-23T07:33:37Z"
+  },
+  {
+    "title": "The Agency",
+    "year": 2024,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2024-01-01",
+    "overview": "Top series on Prime Video. A covert CIA agent is ordered to abandon his undercover life and return to his Station; when the love he left behind reappears, romance reignites.",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/346889710/s592/the-agency-2024.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/346889710/s592/the-agency-2024.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/the-agency-2024",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-agency-2024",
+    "content_type": "platform_release",
+    "published_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2026-07-23T07:33:37Z"
   },
   {
     "title": "Maximum Pleasure Guaranteed",
@@ -490,12 +492,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/maximum-pleasure-guaranteed",
-    "scraped_at": "2026-07-22T18:13:28+00:00",
+    "scraped_at": "2026-07-23T07:33:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/maximum-pleasure-guaranteed",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:28Z"
+    "updated_at": "2026-07-23T07:33:37Z"
   }
 ]

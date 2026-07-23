@@ -16,13 +16,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/voicemails-for-isabelle",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/voicemails-for-isabelle",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
+    "updated_at": "2026-07-23T07:33:33Z"
   },
   {
     "title": "Enola Holmes 3",
@@ -43,13 +43,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/enola-holmes-3",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/enola-holmes-3",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
+    "updated_at": "2026-07-23T07:33:33Z"
   },
   {
     "title": "Hamnet",
@@ -68,13 +68,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/hamnet",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/hamnet",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
+    "updated_at": "2026-07-23T07:33:33Z"
   },
   {
     "title": "Little Brother",
@@ -91,13 +91,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/little-brother-2026",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/little-brother-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
+    "updated_at": "2026-07-23T07:33:33Z"
+  },
+  {
+    "title": "Memento",
+    "year": 2000,
+    "type": "movie",
+    "platform": "netflix",
+    "release_date": "2000-01-01",
+    "overview": "Top movie on Netflix. Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/66809044/s592/memento.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/66809044/s592/memento.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/memento",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/memento",
+    "content_type": "platform_release",
+    "published_at": "2000-01-01T00:00:00Z",
+    "updated_at": "2026-07-23T07:33:33Z"
   },
   {
     "title": "Bugonia",
@@ -117,13 +141,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/bugonia",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/bugonia",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
+    "updated_at": "2026-07-23T07:33:33Z"
   },
   {
     "title": "Remarkably Bright Creatures",
@@ -142,37 +166,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/remarkably-bright-creatures",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/remarkably-bright-creatures",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
-  },
-  {
-    "title": "Memento",
-    "year": 2000,
-    "type": "movie",
-    "platform": "netflix",
-    "release_date": "2000-01-01",
-    "overview": "Top movie on Netflix. Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/66809044/s592/memento.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/66809044/s592/memento.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/memento",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/memento",
-    "content_type": "platform_release",
-    "published_at": "2000-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
+    "updated_at": "2026-07-23T07:33:33Z"
   },
   {
     "title": "Old Henry",
@@ -191,13 +191,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/old-henry",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/old-henry",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
+    "updated_at": "2026-07-23T07:33:33Z"
   },
   {
     "title": "28 Years Later: The Bone Temple",
@@ -216,13 +216,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/28-years-later-the-bone-temple",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/28-years-later-the-bone-temple",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
+    "updated_at": "2026-07-23T07:33:33Z"
   },
   {
     "title": "Dead Man's Wire",
@@ -242,13 +242,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/dead-mans-wire",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/dead-mans-wire",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
+    "updated_at": "2026-07-23T07:33:33Z"
   },
   {
     "title": "I Will Find You",
@@ -267,13 +267,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/i-will-find-you",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/i-will-find-you",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
+    "updated_at": "2026-07-23T07:33:33Z"
+  },
+  {
+    "title": "The Hawk",
+    "year": 2026,
+    "type": "series",
+    "platform": "netflix",
+    "release_date": "2026-01-01",
+    "overview": "Top series on Netflix. A professional golfer becomes the face of a controversial new league competing with the PGA Tour.",
+    "genres": [
+      "Comedy",
+      "Sport"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/345822179/s592/golf.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/345822179/s592/golf.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/golf",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/golf",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-07-23T07:33:33Z"
   },
   {
     "title": "Dark Winds",
@@ -292,13 +316,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/dark-winds",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/dark-winds",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
+    "updated_at": "2026-07-23T07:33:33Z"
   },
   {
     "title": "The Boroughs",
@@ -320,37 +344,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-boroughs",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-boroughs",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
-  },
-  {
-    "title": "The Hawk",
-    "year": 2026,
-    "type": "series",
-    "platform": "netflix",
-    "release_date": "2026-01-01",
-    "overview": "Top series on Netflix. A professional golfer becomes the face of a controversial new league competing with the PGA Tour.",
-    "genres": [
-      "Comedy",
-      "Sport"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/345822179/s592/golf.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/345822179/s592/golf.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/golf",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/golf",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
+    "updated_at": "2026-07-23T07:33:33Z"
   },
   {
     "title": "The Four Seasons",
@@ -368,13 +368,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-four-seasons",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-four-seasons",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
+    "updated_at": "2026-07-23T07:33:33Z"
   },
   {
     "title": "Avatar: The Last Airbender",
@@ -396,13 +396,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/avatar-the-last-airbender-0",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/avatar-the-last-airbender-0",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
+    "updated_at": "2026-07-23T07:33:33Z"
   },
   {
     "title": "Interview with the Vampire",
@@ -423,40 +423,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/interview-with-the-vampire",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/interview-with-the-vampire",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
-  },
-  {
-    "title": "The Last Ship",
-    "year": 2014,
-    "type": "series",
-    "platform": "netflix",
-    "release_date": "2014-01-01",
-    "overview": "Top series on Netflix. Their mission is simple: Find a cure. Stop the virus. Save the world. When a global pandemic wipes out eighty percent of the planet's population, the crew of a lone naval destroyer must find a way to pull humanity from the brink of extinction.",
-    "genres": [
-      "Action",
-      "Drama",
-      "Sci-Fi",
-      "Thriller",
-      "War"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/178331439/s592/the-last-ship.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/178331439/s592/the-last-ship.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-last-ship",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-last-ship",
-    "content_type": "platform_release",
-    "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
+    "updated_at": "2026-07-23T07:33:33Z"
   },
   {
     "title": "Little House on the Prairie",
@@ -477,13 +450,40 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/little-house-on-the-prairie-1",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/little-house-on-the-prairie-1",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
+    "updated_at": "2026-07-23T07:33:33Z"
+  },
+  {
+    "title": "The Last Ship",
+    "year": 2014,
+    "type": "series",
+    "platform": "netflix",
+    "release_date": "2014-01-01",
+    "overview": "Top series on Netflix. Their mission is simple: Find a cure. Stop the virus. Save the world. When a global pandemic wipes out eighty percent of the planet's population, the crew of a lone naval destroyer must find a way to pull humanity from the brink of extinction.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Thriller",
+      "War"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/178331439/s592/the-last-ship.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/178331439/s592/the-last-ship.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/the-last-ship",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-last-ship",
+    "content_type": "platform_release",
+    "published_at": "2014-01-01T00:00:00Z",
+    "updated_at": "2026-07-23T07:33:33Z"
   },
   {
     "title": "Beef",
@@ -501,12 +501,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/beef",
-    "scraped_at": "2026-07-22T18:13:25+00:00",
+    "scraped_at": "2026-07-23T07:33:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/beef",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-07-22T18:13:25Z"
+    "updated_at": "2026-07-23T07:33:33Z"
   }
 ]
