@@ -3,9 +3,9 @@ name: StreamRadar Scraper
 on:
   workflow_dispatch:
 
+  # Once daily at 05:00 UTC (= 08:00 Turkey / Europe morning)
   schedule:
     - cron: "0 5 * * *"
-    - cron: "0 17 * * *"
 
 permissions:
   contents: write

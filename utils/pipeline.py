@@ -71,17 +71,28 @@ def _sort_key(item: dict[str, Any]) -> tuple[int, str]:
     return (0, item.get("title", ""))
 
 
-def _dedupe(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+def _dedupe(items: list[dict[str, Any]], *, feed_name: str | None = None) -> list[dict[str, Any]]:
     seen: set[str] = set()
     unique: list[dict[str, Any]] = []
+    is_platform = feed_name in _PLATFORM_FEEDS
     for item in items:
-        key = dedupe_key_parts(
-            title=item.get("title", ""),
-            year=item.get("year"),
-            media_type=item.get("type", ""),
-            source_url=item.get("source_url", ""),
-            article_url=item.get("article_url"),
-        )
+        if is_platform:
+            # Chart rows share a list URL; dedupe by title/type/year only.
+            key = "|".join(
+                [
+                    str(item.get("title", "")).strip().lower(),
+                    str(item.get("type", "")),
+                    str(item.get("year") or ""),
+                ]
+            )
+        else:
+            key = dedupe_key_parts(
+                title=item.get("title", ""),
+                year=item.get("year"),
+                media_type=item.get("type", ""),
+                source_url=item.get("source_url", ""),
+                article_url=item.get("article_url"),
+            )
         if key in seen:
             continue
         seen.add(key)
@@ -152,7 +163,9 @@ def process_raw_items(
                     item["poster_image_url"] = enriched
                     item["backdrop_image_url"] = item["backdrop_image_url"] or enriched
 
-        if not item.get("poster_image_url") or not item.get("backdrop_image_url"):
+        # Skip TMDB scrape when posters already exist (platforms) or image validation is off.
+        need_tmdb = (not item.get("poster_image_url")) or (not item.get("backdrop_image_url"))
+        if need_tmdb and (validate_images or is_platform):
             cache_key = f"{item['title']}||{item.get('type', '')}||{item.get('year', '')}"
             if cache_key not in tmdb_cache:
                 tmdb_cache[cache_key] = fetch_tmdb_images(
@@ -195,7 +208,8 @@ def process_raw_items(
                     source_candidate,
                 )
                 continue
-        if _quality_score(item) < 3:
+        # Platform chart rows are trusted; skip quality gate that drops short titles.
+        if not is_platform and _quality_score(item) < 3:
             logger.debug("Skipping low-quality row score<3: %s", item.get("title"))
             continue
         if validate_item_schema(item):
@@ -203,7 +217,7 @@ def process_raw_items(
         else:
             logger.debug("Schema validation failed for item title=%s", item.get("title"))
 
-    deduped = _dedupe(processed)
+    deduped = _dedupe(processed, feed_name=feed_name)
     # Platform top-10 feeds keep JustWatch popularity order (movies then series).
     if not is_platform:
         deduped.sort(key=_sort_key, reverse=True)
@@ -225,7 +239,13 @@ def run_feed(feed_name: str, scraper_objects: list[Any]) -> list[dict[str, Any]]
             continue
 
     aggregate_raw = aggregate_raw[: APP_CONFIG.max_items_per_feed]
-    payload = process_raw_items(aggregate_raw, feed_name=feed_name, validate_images=True)
+    # Platform charts already ship posters from JustWatch/Tudum — skip slow HEAD/TMDB loops.
+    validate_images = feed_name not in _PLATFORM_FEEDS
+    payload = process_raw_items(
+        aggregate_raw,
+        feed_name=feed_name,
+        validate_images=validate_images,
+    )
     if not payload:
         logger.warning(
             "Feed '%s' was empty after normalization. scraper_stats=%s raw_count=%s",

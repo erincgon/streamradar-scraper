@@ -25,5 +25,5 @@ class AppConfig:
 
 APP_CONFIG = AppConfig()
 
-# Platform JSON uses JustWatch top-10 movies + top-10 series per service.
+# Platform JSON: daily Top 10 movies + Top 10 series (Netflix Tudum / JustWatch TRENDING).
 # Discovery feeds use Google News RSS.

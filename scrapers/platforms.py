@@ -1,7 +1,7 @@
-"""Platform feed'leri: JustWatch popüler listelerinden `output/*.json`.
+"""Platform feed'leri: günlük Top 10 film + Top 10 dizi → `output/*.json`.
 
-Her platform için top 10 film + top 10 dizi (toplam 20).
-Ayrıntılı parser mantığı için `scrapers.official_platforms` modülüne bakın.
+- Netflix: resmi Tudum Top 10 (Türkiye)
+- Disney+ / Prime Video / Max: JustWatch TRENDING (TR)
 """
 
 from __future__ import annotations
@@ -9,8 +9,8 @@ from __future__ import annotations
 from scrapers.official_platforms import (
     JustWatchDisneyPlusScraper as DisneyPlusScraper,
     JustWatchMaxScraper as HBOMaxScraper,
-    JustWatchNetflixScraper as NetflixScraper,
     JustWatchPrimeVideoScraper as PrimeVideoScraper,
+    NetflixTudumTop10Scraper as NetflixScraper,
 )
 
 __all__ = ["NetflixScraper", "DisneyPlusScraper", "PrimeVideoScraper", "HBOMaxScraper"]
