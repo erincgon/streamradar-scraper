@@ -16,13 +16,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/spider-man-no-way-home",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/spider-man-no-way-home",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "Sunshine",
@@ -40,13 +40,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/gun-isigi",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/gun-isigi",
     "content_type": "platform_release",
     "published_at": "2007-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
+  },
+  {
+    "title": "Spider-Man: Homecoming",
+    "year": 2017,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "2017-01-01",
+    "overview": "Top 3 trending movie on Disney Plus (TR). Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/31416882/s592/orumcek-adam-eve-donus.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/31416882/s592/orumcek-adam-eve-donus.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/tr/film/orumcek-adam-eve-donus",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/tr/film/orumcek-adam-eve-donus",
+    "content_type": "platform_release",
+    "published_at": "2017-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "The X-Files: I Want to Believe",
@@ -54,7 +78,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2008-01-01",
-    "overview": "Top 3 trending movie on Disney Plus (TR). Mulder and Scully are called back to duty by the FBI when a former priest claims to be receiving psychic visions pertaining to a kidnapped agent.",
+    "overview": "Top 4 trending movie on Disney Plus (TR). Mulder and Scully are called back to duty by the FBI when a former priest claims to be receiving psychic visions pertaining to a kidnapped agent.",
     "genres": [
       "Crime",
       "Drama",
@@ -67,62 +91,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/the-x-files-inanmak-istiyorum",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/the-x-files-inanmak-istiyorum",
     "content_type": "platform_release",
     "published_at": "2008-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
-    "title": "Dirty Dancing",
-    "year": 1987,
+    "title": "Send Help",
+    "year": 2026,
     "type": "movie",
     "platform": "disney_plus",
-    "release_date": "1987-01-01",
-    "overview": "Top 4 trending movie on Disney Plus (TR). Expecting the usual tedium that accompanies a summer in the Catskills with her family, 17-year-old Frances 'Baby' Houseman is surprised to find herself stepping into the shoes of a professional hoofer—and unexpectedly falling in love.",
+    "release_date": "2026-01-01",
+    "overview": "Top 5 trending movie on Disney Plus (TR). Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
     "genres": [
-      "Drama",
-      "Music",
-      "Romance"
+      "Comedy",
+      "Horror",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/177902689/s592/ilk-ask-ilk-dans.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/177902689/s592/ilk-ask-ilk-dans.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/342979231/s592/send-help.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/342979231/s592/send-help.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/film/ilk-ask-ilk-dans",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "source_url": "https://www.justwatch.com/tr/film/send-help",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/film/ilk-ask-ilk-dans",
+    "article_url": "https://www.justwatch.com/tr/film/send-help",
     "content_type": "platform_release",
-    "published_at": "1987-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
-  },
-  {
-    "title": "Spider-Man: Homecoming",
-    "year": 2017,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "2017-01-01",
-    "overview": "Top 5 trending movie on Disney Plus (TR). Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/31416882/s592/orumcek-adam-eve-donus.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/31416882/s592/orumcek-adam-eve-donus.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/film/orumcek-adam-eve-donus",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/film/orumcek-adam-eve-donus",
-    "content_type": "platform_release",
-    "published_at": "2017-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "The Amazing Spider-Man",
@@ -140,13 +140,61 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/inanilmaz-orumcek-adam",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/inanilmaz-orumcek-adam",
     "content_type": "platform_release",
     "published_at": "2012-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
+  },
+  {
+    "title": "Who",
+    "year": 2026,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "2026-01-01",
+    "overview": "Top 7 trending movie on Disney Plus (TR). In a high-stakes world where time is scarce and every choice matters, diverse characters face a merciless system where one wrong move means death. Amid intense pressure, they confront moral quandaries and seek truth while testing limits.",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/345730705/s592/who.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/345730705/s592/who.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/tr/film/who",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/tr/film/who",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:01Z"
+  },
+  {
+    "title": "The Greatest Showman",
+    "year": 2017,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "2017-01-01",
+    "overview": "Top 8 trending movie on Disney Plus (TR). The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/50813221/s592/muhtesem-showman.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/50813221/s592/muhtesem-showman.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/tr/film/muhtesem-showman",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/tr/film/muhtesem-showman",
+    "content_type": "platform_release",
+    "published_at": "2017-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "The Amazing Spider-Man 2",
@@ -154,7 +202,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2014-01-01",
-    "overview": "Top 7 trending movie on Disney Plus (TR). For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues...",
+    "overview": "Top 9 trending movie on Disney Plus (TR). For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues...",
     "genres": [
       "Action",
       "Comedy",
@@ -167,64 +215,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/inanilmaz-orumcek-adam-2",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/inanilmaz-orumcek-adam-2",
     "content_type": "platform_release",
     "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
-  },
-  {
-    "title": "Send Help",
-    "year": 2026,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "2026-01-01",
-    "overview": "Top 8 trending movie on Disney Plus (TR). Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-    "genres": [
-      "Comedy",
-      "Horror",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/342979231/s592/send-help.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/342979231/s592/send-help.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/film/send-help",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/film/send-help",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
-  },
-  {
-    "title": "Spider-Man: Far From Home",
-    "year": 2019,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "2019-01-01",
-    "overview": "Top 9 trending movie on Disney Plus (TR). Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/148175546/s592/orumcek-adam-evden-uzakta.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/148175546/s592/orumcek-adam-evden-uzakta.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/film/orumcek-adam-evden-uzakta",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/film/orumcek-adam-evden-uzakta",
-    "content_type": "platform_release",
-    "published_at": "2019-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "Avengers: Infinity War",
@@ -242,13 +239,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/yenilmezler-sonsuzluk-savasi",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/yenilmezler-sonsuzluk-savasi",
     "content_type": "platform_release",
     "published_at": "2018-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "The Walking Dead",
@@ -269,13 +266,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/the-walking-dead",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/the-walking-dead",
     "content_type": "platform_release",
     "published_at": "2010-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "Miraculous: Les aventures de Ladybug et Chat Noir",
@@ -297,13 +294,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/mucize-ugur-bocegi-ile-kara-kedi",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/mucize-ugur-bocegi-ile-kara-kedi",
     "content_type": "platform_release",
     "published_at": "2015-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "Konuşanlar",
@@ -318,13 +315,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/konusanlar",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/konusanlar",
     "content_type": "platform_release",
     "published_at": "2020-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "Snowfall",
@@ -342,13 +339,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/snowfall",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/snowfall",
     "content_type": "platform_release",
     "published_at": "2017-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "The Rookie",
@@ -368,13 +365,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/the-rookie",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/the-rookie",
     "content_type": "platform_release",
     "published_at": "2018-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "Bleach: Sennen Kessen-hen",
@@ -395,13 +392,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/bleach-thousand-year-blood-war",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/bleach-thousand-year-blood-war",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "Family Guy",
@@ -419,13 +416,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/family-guy",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/family-guy",
     "content_type": "platform_release",
     "published_at": "1999-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "Grey's Anatomy",
@@ -443,63 +440,63 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/greys-anatomy",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/greys-anatomy",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
-    "title": "Furious",
-    "year": 2026,
+    "title": "High Potential",
+    "year": 2024,
     "type": "series",
     "platform": "disney_plus",
-    "release_date": "2026-01-01",
-    "overview": "Top 9 trending series on Disney Plus (TR). FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+    "release_date": "2024-01-01",
+    "overview": "Top 9 trending series on Disney Plus (TR). Morgan is a single mom with an exceptional mind, whose unconventional knack for solving crimes leads to an unusual and unstoppable partnership with a by-the-book seasoned detective.",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/320265698/s592/high-potential.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/320265698/s592/high-potential.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/tr/tv-sovu/high-potential",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/tr/tv-sovu/high-potential",
+    "content_type": "platform_release",
+    "published_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:01Z"
+  },
+  {
+    "title": "Lie to Me",
+    "year": 2009,
+    "type": "series",
+    "platform": "disney_plus",
+    "release_date": "2009-01-01",
+    "overview": "Top 10 trending series on Disney Plus (TR). The world's leading deception researcher, Dr. Cal Lightman, studies facial expression, body language and tone of voice to determine when a person is lying and why, which helps law enforcement and government agencies uncover the truth. But his skills also make it easier for him to deceive others.",
     "genres": [
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/346726357/s592/furious.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346726357/s592/furious.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/344333300/s592/bana-yalan-soyle.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/344333300/s592/bana-yalan-soyle.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/tv-sovu/furious",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "source_url": "https://www.justwatch.com/tr/tv-sovu/bana-yalan-soyle",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/tv-sovu/furious",
+    "article_url": "https://www.justwatch.com/tr/tv-sovu/bana-yalan-soyle",
     "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
-  },
-  {
-    "title": "Marvel's The Punisher",
-    "year": 2017,
-    "type": "series",
-    "platform": "disney_plus",
-    "release_date": "2017-01-01",
-    "overview": "Top 10 trending series on Disney Plus (TR). A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy.",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/272744917/s592/marvels-the-punisher.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/272744917/s592/marvels-the-punisher.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/tv-sovu/marvels-the-punisher",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/tv-sovu/marvels-the-punisher",
-    "content_type": "platform_release",
-    "published_at": "2017-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "published_at": "2009-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:01Z"
   }
 ]

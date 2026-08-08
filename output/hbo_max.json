@@ -1,28 +1,28 @@
 [
   {
-    "title": "Behind the Candelabra",
-    "year": 2013,
+    "title": "The Invisible Guest",
+    "year": 2026,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "2013-01-01",
-    "overview": "Top 1 trending movie on Hbo Max (TR). Based on the autobiographical novel, the tempestuous 6-year relationship between Liberace and his (much younger) lover, Scott Thorson, is recounted.",
+    "release_date": "2026-01-01",
+    "overview": "Top 1 trending movie on Hbo Max (TR). Accused of murdering her lover, a young businesswoman hires a brilliant lawyer. With only three hours left, they must uncover what really happened.",
     "genres": [
+      "Crime",
       "Drama",
-      "Music",
-      "Romance"
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/43269479/s592/samdanin-ardinda.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/43269479/s592/samdanin-ardinda.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/347724041/s592/the-invisible-guest-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/347724041/s592/the-invisible-guest-2026.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/film/samdanin-ardinda",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "source_url": "https://www.justwatch.com/tr/film/the-invisible-guest-2026",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/film/samdanin-ardinda",
+    "article_url": "https://www.justwatch.com/tr/film/the-invisible-guest-2026",
     "content_type": "platform_release",
-    "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:00Z"
   },
   {
     "title": "Harry Potter and the Deathly Hallows: Part 2",
@@ -40,38 +40,64 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/harry-potter-ve-olum-yadigarlari-bolum-2",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/harry-potter-ve-olum-yadigarlari-bolum-2",
     "content_type": "platform_release",
     "published_at": "2011-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:00Z"
   },
   {
-    "title": "Aquaman and the Lost Kingdom",
-    "year": 2023,
+    "title": "Aliens in the Attic",
+    "year": 2009,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "2023-01-01",
-    "overview": "Top 3 trending movie on Hbo Max (TR). Black Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Arthur (Aquaman) forges an alliance with his imprisoned brother. They must protect the kingdom.",
+    "release_date": "2009-01-01",
+    "overview": "Top 3 trending movie on Hbo Max (TR). A group of kids must protect their vacation home from invading aliens.",
     "genres": [
-      "Action",
+      "Comedy",
+      "Family",
       "Fantasy",
       "Sci-Fi"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/310228836/s592/aquaman-and-the-lost-kingdom.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/310228836/s592/aquaman-and-the-lost-kingdom.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/308797331/s592/evimde-uzayli-var.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/308797331/s592/evimde-uzayli-var.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/film/aquaman-and-the-lost-kingdom",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "source_url": "https://www.justwatch.com/tr/film/evimde-uzayli-var",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/film/aquaman-and-the-lost-kingdom",
+    "article_url": "https://www.justwatch.com/tr/film/evimde-uzayli-var",
     "content_type": "platform_release",
-    "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "published_at": "2009-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:00Z"
+  },
+  {
+    "title": "Behind the Candelabra",
+    "year": 2013,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2013-01-01",
+    "overview": "Top 4 trending movie on Hbo Max (TR). Based on the autobiographical novel, the tempestuous 6-year relationship between Liberace and his (much younger) lover, Scott Thorson, is recounted.",
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/43269479/s592/samdanin-ardinda.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/43269479/s592/samdanin-ardinda.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/tr/film/samdanin-ardinda",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/tr/film/samdanin-ardinda",
+    "content_type": "platform_release",
+    "published_at": "2013-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:00Z"
   },
   {
     "title": "Furiosa: A Mad Max Saga",
@@ -79,7 +105,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2024-01-01",
-    "overview": "Top 4 trending movie on Hbo Max (TR). As the world falls, young Furiosa is snatched from the Green Place of Many Mothers into the hands of a great biker horde led by the warlord Dementus. Sweeping through the wasteland, they encounter the citadel presided over by Immortan Joe. The two tyrants wage war for dominance, and Furiosa must survive many trials as she puts together the means to find her way home.",
+    "overview": "Top 5 trending movie on Hbo Max (TR). As the world falls, young Furiosa is snatched from the Green Place of Many Mothers into the hands of a great biker horde led by the warlord Dementus. Sweeping through the wasteland, they encounter the citadel presided over by Immortan Joe. The two tyrants wage war for dominance, and Furiosa must survive many trials as she puts together the means to find her way home.",
     "genres": [
       "Action",
       "Sci-Fi"
@@ -89,13 +115,41 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/furiosa",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/furiosa",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:00Z"
+  },
+  {
+    "title": "A Cure for Wellness",
+    "year": 2017,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2017-01-01",
+    "overview": "Top 6 trending movie on Hbo Max (TR). A stockbroker unravels the terrifying secrets of a mysterious Swiss spa where guests never leave.",
+    "genres": [
+      "Drama",
+      "European",
+      "Fantasy",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/9606960/s592/yasam-kuru.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/9606960/s592/yasam-kuru.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/tr/film/yasam-kuru",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/tr/film/yasam-kuru",
+    "content_type": "platform_release",
+    "published_at": "2017-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:00Z"
   },
   {
     "title": "Meg 2: The Trench",
@@ -103,7 +157,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2023-01-01",
-    "overview": "Top 5 trending movie on Hbo Max (TR). An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
+    "overview": "Top 7 trending movie on Hbo Max (TR). An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
     "genres": [
       "Action",
       "Horror",
@@ -115,13 +169,63 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/the-meg-2-the-trench",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/the-meg-2-the-trench",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:00Z"
+  },
+  {
+    "title": "Aquaman and the Lost Kingdom",
+    "year": 2023,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2023-01-01",
+    "overview": "Top 8 trending movie on Hbo Max (TR). Black Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Arthur (Aquaman) forges an alliance with his imprisoned brother. They must protect the kingdom.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/310228836/s592/aquaman-and-the-lost-kingdom.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/310228836/s592/aquaman-and-the-lost-kingdom.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/tr/film/aquaman-and-the-lost-kingdom",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/tr/film/aquaman-and-the-lost-kingdom",
+    "content_type": "platform_release",
+    "published_at": "2023-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:00Z"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 1",
+    "year": 2010,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2010-01-01",
+    "overview": "Top 9 trending movie on Hbo Max (TR). Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+    "genres": [
+      "Action",
+      "Family",
+      "Fantasy"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/35403434/s592/harry-potter-ve-olum-yadigarlari-bolum-1.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/35403434/s592/harry-potter-ve-olum-yadigarlari-bolum-1.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/tr/film/harry-potter-ve-olum-yadigarlari-bolum-1",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/tr/film/harry-potter-ve-olum-yadigarlari-bolum-1",
+    "content_type": "platform_release",
+    "published_at": "2010-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:00Z"
   },
   {
     "title": "Dune: Part Two",
@@ -129,7 +233,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2024-01-01",
-    "overview": "Top 6 trending movie on Hbo Max (TR). Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+    "overview": "Top 10 trending movie on Hbo Max (TR). Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
     "genres": [
       "Action",
       "Drama",
@@ -140,114 +244,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/dune-part-two",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/dune-part-two",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
-  },
-  {
-    "title": "Brazil",
-    "year": 1985,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "1985-01-01",
-    "overview": "Top 7 trending movie on Hbo Max (TR). Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/305790636/s592/brezilya.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/305790636/s592/brezilya.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/film/brezilya",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/film/brezilya",
-    "content_type": "platform_release",
-    "published_at": "1985-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
-  },
-  {
-    "title": "The Seventh Seal",
-    "year": 1957,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "1957-01-01",
-    "overview": "Top 8 trending movie on Hbo Max (TR). When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
-    "genres": [
-      "Drama",
-      "European",
-      "Fantasy"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/172964950/s592/yedinci-muhur.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/172964950/s592/yedinci-muhur.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/film/yedinci-muhur",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/film/yedinci-muhur",
-    "content_type": "platform_release",
-    "published_at": "1957-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
-  },
-  {
-    "title": "Ad Astra",
-    "year": 2019,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2019-01-01",
-    "overview": "Top 9 trending movie on Hbo Max (TR). The near future, a time when both hope and hardships drive humanity to look to the stars and beyond. While a mysterious phenomenon menaces to destroy life on planet Earth, astronaut Roy McBride undertakes a mission across the immensity of space and its many perils to uncover the truth about a lost expedition that decades before boldly faced emptiness and silence in search of the unknown.",
-    "genres": [
-      "Drama",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/151172150/s592/yildizlara-dogru.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/151172150/s592/yildizlara-dogru.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/film/yildizlara-dogru",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/film/yildizlara-dogru",
-    "content_type": "platform_release",
-    "published_at": "2019-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
-  },
-  {
-    "title": "Persona",
-    "year": 1966,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "1966-01-01",
-    "overview": "Top 10 trending movie on Hbo Max (TR). A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
-    "genres": [
-      "Drama",
-      "European",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/343648815/s592/persona.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/343648815/s592/persona.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/film/persona",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/film/persona",
-    "content_type": "platform_release",
-    "published_at": "1966-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:00Z"
   },
   {
     "title": "House of the Dragon",
@@ -268,13 +271,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/house-of-the-dragon",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/house-of-the-dragon",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:00Z"
   },
   {
     "title": "Game of Thrones",
@@ -294,13 +297,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/game-of-thrones",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/game-of-thrones",
     "content_type": "platform_release",
     "published_at": "2011-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:00Z"
   },
   {
     "title": "True Detective",
@@ -319,13 +322,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/true-detective",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/true-detective",
     "content_type": "platform_release",
     "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:00Z"
   },
   {
     "title": "Prens",
@@ -335,20 +338,21 @@
     "release_date": "2023-01-01",
     "overview": "Top 4 trending series on Hbo Max (TR). Following the suspicious death of the Bongomian king, his disregarded prince assumes the throne, initiating an intricate tale.",
     "genres": [
-      "Comedy"
+      "Comedy",
+      "History"
     ],
     "poster_image_url": "https://images.justwatch.com/poster/330524437/s592/prens.webp",
     "backdrop_image_url": "https://images.justwatch.com/poster/330524437/s592/prens.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/prens",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/prens",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:00Z"
   },
   {
     "title": "Ilk ve Son",
@@ -366,13 +370,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/ilk-ve-son",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/ilk-ve-son",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:00Z"
   },
   {
     "title": "The Sopranos",
@@ -390,13 +394,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/soprano-ailesi",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/soprano-ailesi",
     "content_type": "platform_release",
     "published_at": "1999-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:00Z"
   },
   {
     "title": "Jasmine",
@@ -414,37 +418,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/jasmine",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/jasmine",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
-  },
-  {
-    "title": "Dogu",
-    "year": 2021,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2021-01-01",
-    "overview": "Top 8 trending series on Hbo Max (TR). Doğu is a 2021 Turkish absurdist comedy-drama created by and starring stand-up comedian Doğu Demirkol, loosely inspired by his own life. The series follows Doğu — a young man who fails at practically everything — as he stubbornly chases his dream of becoming a comedian, with little support from those around him. Sharp, self-aware, and packed with observational humor, it's a refreshingly original Turkish comedy about ambition, failure, and the relentless...",
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/320054053/s592/dogu.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/320054053/s592/dogu.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/tv-sovu/dogu",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/tv-sovu/dogu",
-    "content_type": "platform_release",
-    "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:00Z"
   },
   {
     "title": "Friends",
@@ -452,7 +432,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "1994-01-01",
-    "overview": "Top 9 trending series on Hbo Max (TR). The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+    "overview": "Top 8 trending series on Hbo Max (TR). The personal and professional lives of six friends living in the Manhattan borough of New York City.",
     "genres": [
       "Comedy",
       "Romance"
@@ -462,13 +442,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/siki-dostlar",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/siki-dostlar",
     "content_type": "platform_release",
     "published_at": "1994-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:00Z"
   },
   {
     "title": "The Last of Us",
@@ -476,7 +456,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2023-01-01",
-    "overview": "Top 10 trending series on Hbo Max (TR). Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
+    "overview": "Top 9 trending series on Hbo Max (TR). Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
     "genres": [
       "Action",
       "Drama",
@@ -489,12 +469,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/the-last-of-us",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/the-last-of-us",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:00Z"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "year": 2017,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2017-01-01",
+    "overview": "Top 10 trending series on Hbo Max (TR). Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/300732195/s592/the-handmaids-tale.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/300732195/s592/the-handmaids-tale.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/tr/tv-sovu/the-handmaids-tale",
+    "scraped_at": "2026-08-08T05:37:00+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/tr/tv-sovu/the-handmaids-tale",
+    "content_type": "platform_release",
+    "published_at": "2017-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:00Z"
   }
 ]

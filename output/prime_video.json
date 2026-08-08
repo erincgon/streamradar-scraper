@@ -15,13 +15,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/spider-man-4",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/spider-man-4",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "Now & Later",
@@ -38,13 +38,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/simdi-ve-sonra",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/simdi-ve-sonra",
     "content_type": "platform_release",
     "published_at": "2009-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "Mr. Brown",
@@ -63,13 +63,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/mr-brown",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/mr-brown",
     "content_type": "platform_release",
     "published_at": "2006-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
+  },
+  {
+    "title": "Women in the Dark",
+    "year": 2019,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2019-01-01",
+    "overview": "Top 4 trending movie on Prime Video (TR). These women are beguiling mysteries to one another, but not for much longer... A compilation of shorts featured around lesbian and female sexuality.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/243671504/s592/women-in-the-dark.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/243671504/s592/women-in-the-dark.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/tr/film/women-in-the-dark",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/tr/film/women-in-the-dark",
+    "content_type": "platform_release",
+    "published_at": "2019-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "Nightmares & Shadows",
@@ -77,7 +100,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2023-01-01",
-    "overview": "Top 4 trending movie on Prime Video (TR). Nightmares and Shadows is a unique horror anthology film that journeys into the terrifying unknown that lurks beyond the edge of consciousness.",
+    "overview": "Top 5 trending movie on Prime Video (TR). Nightmares and Shadows is a unique horror anthology film that journeys into the terrifying unknown that lurks beyond the edge of consciousness.",
     "genres": [
       "Horror"
     ],
@@ -86,13 +109,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/nightmares-ve-shadows",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/nightmares-ve-shadows",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "Sin",
@@ -100,7 +123,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2021-01-01",
-    "overview": "Top 5 trending movie on Prime Video (TR). An entity is terrorizing a small Midwest town. Ludlow Falls continues to descend into madness and death as more young women are driven insane. Sometimes small towns hide big secrets and a town's sin will be exposed.",
+    "overview": "Top 6 trending movie on Prime Video (TR). An entity is terrorizing a small Midwest town. Ludlow Falls continues to descend into madness and death as more young women are driven insane. Sometimes small towns hide big secrets and a town's sin will be exposed.",
     "genres": [
       "Horror"
     ],
@@ -109,13 +132,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/sin",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/sin",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "Her Name Was Christa",
@@ -123,7 +146,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2020-01-01",
-    "overview": "Top 6 trending movie on Prime Video (TR). Lonely telemarketer Stephen hires call girl Christa for companionship, but their arrangement becomes real love. When death threatens their relationship, he faces a desperate choice about how far he'll go to keep her.",
+    "overview": "Top 7 trending movie on Prime Video (TR). Lonely telemarketer Stephen hires call girl Christa for companionship, but their arrangement becomes real love. When death threatens their relationship, he faces a desperate choice about how far he'll go to keep her.",
     "genres": [
       "Drama",
       "Horror",
@@ -135,36 +158,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/adi-christaydi",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/adi-christaydi",
     "content_type": "platform_release",
     "published_at": "2020-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
-  },
-  {
-    "title": "Women in the Dark",
-    "year": 2019,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2019-01-01",
-    "overview": "Top 7 trending movie on Prime Video (TR). These women are beguiling mysteries to one another, but not for much longer... A compilation of shorts featured around lesbian and female sexuality.",
-    "genres": [
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/243671504/s592/women-in-the-dark.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/243671504/s592/women-in-the-dark.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/film/women-in-the-dark",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/film/women-in-the-dark",
-    "content_type": "platform_release",
-    "published_at": "2019-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "Sex Weather",
@@ -183,13 +183,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/sex-weather",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/sex-weather",
     "content_type": "platform_release",
     "published_at": "2018-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
+  },
+  {
+    "title": "Golden Arm",
+    "year": 2020,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2020-01-01",
+    "overview": "Top 9 trending movie on Prime Video (TR). A tough lady trucker trains her wimpy best friend to compete in the National Ladies Arm Wrestling Championship.",
+    "genres": [
+      "Comedy"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/244658357/s592/golden-arm.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/244658357/s592/golden-arm.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/tr/film/golden-arm",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/tr/film/golden-arm",
+    "content_type": "platform_release",
+    "published_at": "2020-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "Loving",
@@ -197,7 +220,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2017-01-01",
-    "overview": "Top 9 trending movie on Prime Video (TR). Laura and Carlos love each other as if every day was the last, and perhaps that first love intensity is what will tear them apart a year later.",
+    "overview": "Top 10 trending movie on Prime Video (TR). Laura and Carlos love each other as if every day was the last, and perhaps that first love intensity is what will tear them apart a year later.",
     "genres": [
       "European",
       "Romance"
@@ -207,37 +230,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/film/amar",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/film/amar",
     "content_type": "platform_release",
     "published_at": "2017-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
-  },
-  {
-    "title": "I Remember You",
-    "year": 2015,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2015-01-01",
-    "overview": "Top 10 trending movie on Prime Video (TR). Leah and Samuel meet as strangers when Leah saves Samuel from almost drowning in the ocean. Immediately, both cannot shake the feeling that they have met before and that their chance encounter was not a coincidence. Gradually, they realize that they share an incredible past that they are now beginning to remember...",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/191636059/s592/i-remember-you-2015.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/191636059/s592/i-remember-you-2015.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/film/i-remember-you-2015",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/film/i-remember-you-2015",
-    "content_type": "platform_release",
-    "published_at": "2015-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "House of the Dragon",
@@ -258,13 +257,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/house-of-the-dragon",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/house-of-the-dragon",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "Game of Thrones",
@@ -284,13 +283,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/game-of-thrones",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/game-of-thrones",
     "content_type": "platform_release",
     "published_at": "2011-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "True Detective",
@@ -309,13 +308,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/true-detective",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/true-detective",
     "content_type": "platform_release",
     "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
+  },
+  {
+    "title": "Off Campus",
+    "year": 2026,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 4 trending series on Prime Video (TR). A college-set romantic drama chronicling the unexpected love story between a music student and the university's star hockey player, exploring themes of love and the complexities of adulthood through deep friendships and enduring bonds.",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sport"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/342690321/s592/off-campus.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/342690321/s592/off-campus.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/tr/tv-sovu/off-campus",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/tr/tv-sovu/off-campus",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "FROM",
@@ -323,7 +347,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2022-01-01",
-    "overview": "Top 4 trending series on Prime Video (TR). Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+    "overview": "Top 5 trending series on Prime Video (TR). Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
     "genres": [
       "Drama",
       "Horror",
@@ -335,38 +359,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/from",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/from",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
-  },
-  {
-    "title": "Off Campus",
-    "year": 2026,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 5 trending series on Prime Video (TR). A college-set romantic drama chronicling the unexpected love story between a music student and the university's star hockey player, exploring themes of love and the complexities of adulthood through deep friendships and enduring bonds.",
-    "genres": [
-      "Drama",
-      "Romance",
-      "Sport"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/342690321/s592/off-campus.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/342690321/s592/off-campus.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/tv-sovu/off-campus",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/tv-sovu/off-campus",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "Prens",
@@ -376,20 +375,21 @@
     "release_date": "2023-01-01",
     "overview": "Top 6 trending series on Prime Video (TR). Following the suspicious death of the Bongomian king, his disregarded prince assumes the throne, initiating an intricate tale.",
     "genres": [
-      "Comedy"
+      "Comedy",
+      "History"
     ],
     "poster_image_url": "https://images.justwatch.com/poster/330524437/s592/prens.webp",
     "backdrop_image_url": "https://images.justwatch.com/poster/330524437/s592/prens.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/prens",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/prens",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "The Lord of the Rings: The Rings of Power",
@@ -409,13 +409,39 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/the-lord-of-the-rings-the-rings-of-power",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/the-lord-of-the-rings-the-rings-of-power",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
+  },
+  {
+    "title": "Lioness",
+    "year": 2023,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2023-01-01",
+    "overview": "Top 8 trending series on Prime Video (TR). Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/306105222/s592/special-ops-lioness.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/306105222/s592/special-ops-lioness.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/tr/tv-sovu/special-ops-lioness",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/tr/tv-sovu/special-ops-lioness",
+    "content_type": "platform_release",
+    "published_at": "2023-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
     "title": "The Walking Dead",
@@ -423,7 +449,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2010-01-01",
-    "overview": "Top 8 trending series on Prime Video (TR). Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+    "overview": "Top 9 trending series on Prime Video (TR). Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
     "genres": [
       "Action",
       "Drama",
@@ -436,62 +462,40 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/tr/tv-sovu/the-walking-dead",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/tr/tv-sovu/the-walking-dead",
     "content_type": "platform_release",
     "published_at": "2010-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "updated_at": "2026-08-08T05:37:01Z"
   },
   {
-    "title": "Ilk ve Son",
-    "year": 2021,
+    "title": "Miraculous: Les aventures de Ladybug et Chat Noir",
+    "year": 2015,
     "type": "series",
     "platform": "prime_video",
-    "release_date": "2021-01-01",
-    "overview": "Top 9 trending series on Prime Video (TR). Two couples meet in their twenties, fall in love, and embark on a passionate journey, raising and transforming each other through life's ups and downs until they ultimately part ways.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/321887806/s592/ilk-ve-son.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/321887806/s592/ilk-ve-son.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/tv-sovu/ilk-ve-son",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/tv-sovu/ilk-ve-son",
-    "content_type": "platform_release",
-    "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
-  },
-  {
-    "title": "Lioness",
-    "year": 2023,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2023-01-01",
-    "overview": "Top 10 trending series on Prime Video (TR). Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "release_date": "2015-01-01",
+    "overview": "Top 10 trending series on Prime Video (TR). Miraculous superheroes Ladybug and Cat Noir protect the city of Paris from akumatized villains.",
     "genres": [
       "Action",
-      "Drama",
-      "Thriller",
-      "War"
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Romance"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/306105222/s592/special-ops-lioness.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/306105222/s592/special-ops-lioness.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/329560351/s592/mucize-ugur-bocegi-ile-kara-kedi.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/329560351/s592/mucize-ugur-bocegi-ile-kara-kedi.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/tr/tv-sovu/special-ops-lioness",
-    "scraped_at": "2026-08-07T11:08:46+00:00",
+    "source_url": "https://www.justwatch.com/tr/tv-sovu/mucize-ugur-bocegi-ile-kara-kedi",
+    "scraped_at": "2026-08-08T05:37:01+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/tr/tv-sovu/special-ops-lioness",
+    "article_url": "https://www.justwatch.com/tr/tv-sovu/mucize-ugur-bocegi-ile-kara-kedi",
     "content_type": "platform_release",
-    "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-08-07T11:08:46Z"
+    "published_at": "2015-01-01T00:00:00Z",
+    "updated_at": "2026-08-08T05:37:01Z"
   }
 ]
