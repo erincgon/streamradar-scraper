@@ -284,6 +284,7 @@ _JUSTWATCH_QUERY = """query($country: Country!, $language: Language!, $first: In
           fullPath
           posterUrl
           originalReleaseYear
+          ageCertification
           genres { shortName }
         }
       }
@@ -302,6 +303,7 @@ _JUSTWATCH_SEARCH = """query($country: Country!, $language: Language!, $searchQu
           fullPath
           posterUrl
           originalReleaseYear
+          ageCertification
           genres { shortName }
         }
       }
@@ -319,14 +321,38 @@ _JW_GENRE_MAP: dict[str, str] = {
 }
 
 _TOP_PER_TYPE = 10  # top 10 movies + top 10 series = 20 per platform
-_JW_COUNTRY = "TR"  # charts for Turkish StreamRadar audience
+_JW_COUNTRY = "US"  # global English charts (JustWatch US catalog)
+_JW_LANGUAGE = "en"
 _JW_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
     ),
     "Content-Type": "application/json",
+    "Accept-Language": "en-US,en;q=0.9",
 }
+
+# Skip adult/explicit rows that sometimes surface on regional trending charts.
+_ADULT_TITLE_RE = re.compile(
+    r"\b(sex weather|erotica|erotic|xxx|porn|playboy|strip tease)\b",
+    re.I,
+)
+_SEX_IN_TITLE_RE = re.compile(r"\bsex\b", re.I)
+_ADULT_OVERVIEW_RE = re.compile(
+    r"\b(erotic|sexually voracious|call girl|adult film|pornograph|one-night stand)\b",
+    re.I,
+)
+
+
+def _chart_title_blocked(title: str, overview: str = "") -> bool:
+    """Drop explicit adult titles from platform top-10 feeds."""
+    if _ADULT_TITLE_RE.search(title):
+        return True
+    if _SEX_IN_TITLE_RE.search(title) and "essex" not in title.lower():
+        return True
+    if _ADULT_OVERVIEW_RE.search(f"{title} {overview}"):
+        return True
+    return False
 
 
 def _jw_poster_url(raw: str | None) -> str | None:
@@ -377,7 +403,7 @@ def _jw_lookup_title(title: str, *, prefer_type: str) -> dict[str, Any] | None:
     """Resolve poster/year/overview for a chart title via JustWatch search."""
     data = _jw_post(
         _JUSTWATCH_SEARCH,
-        {"country": _JW_COUNTRY, "language": "en", "searchQuery": title},
+        {"country": _JW_COUNTRY, "language": _JW_LANGUAGE, "searchQuery": title},
     )
     if not data:
         return None
@@ -408,11 +434,11 @@ def _clean_chart_title(raw: str) -> str:
 
 
 class NetflixTudumTop10Scraper(BaseScraper):
-    """Official Netflix Tudum Top 10 (Turkey) — movies + TV."""
+    """Official Netflix Tudum Top 10 (global, English) — movies + TV."""
 
     scraper_name = "netflix_tudum_top10"
-    FILMS_URL = "https://www.netflix.com/tudum/top10/turkey"
-    TV_URL = "https://www.netflix.com/tudum/top10/turkey/tv"
+    FILMS_URL = "https://www.netflix.com/tudum/top10"
+    TV_URL = "https://www.netflix.com/tudum/top10/tv"
 
     def _parse_table(self, url: str) -> list[str]:
         import requests as _req
@@ -452,9 +478,9 @@ class NetflixTudumTop10Scraper(BaseScraper):
         jw_url = f"https://www.justwatch.com{full_path}" if full_path else source_url
         desc = meta.get("shortDescription") or ""
         overview = (
-            f"Netflix Turkey Top {rank} {media_type}. {desc}".strip()
+            f"Netflix Global Top {rank} {media_type}. {desc}".strip()
             if desc
-            else f"Netflix Turkey Top {rank} {media_type}."
+            else f"Netflix Global Top {rank} {media_type}."
         )
         year_str = str(year) if year else None
         return {
@@ -482,15 +508,6 @@ class NetflixTudumTop10Scraper(BaseScraper):
 
         films = self._parse_table(self.FILMS_URL)
         shows = self._parse_table(self.TV_URL)
-        # If Turkey TV chart repeats a show across seasons, top up from global English list.
-        if len(shows) < _TOP_PER_TYPE:
-            for title in self._parse_table("https://www.netflix.com/tudum/top10/tv"):
-                if title.lower() in {s.lower() for s in shows}:
-                    continue
-                shows.append(title)
-                if len(shows) >= _TOP_PER_TYPE:
-                    break
-
         jobs: list[tuple[str, str, int, str]] = []
         for i, title in enumerate(films[:_TOP_PER_TYPE], start=1):
             jobs.append((title, "movie", i, self.FILMS_URL))
@@ -517,7 +534,7 @@ class NetflixTudumTop10Scraper(BaseScraper):
 
 
 class _JustWatchPlatformScraper(BaseScraper):
-    """Daily trending top titles for a platform via JustWatch (Turkey)."""
+    """Daily trending top titles for a platform via JustWatch (US / English)."""
 
     def __init__(
         self,
@@ -525,17 +542,19 @@ class _JustWatchPlatformScraper(BaseScraper):
         scraper_name: str,
         platform_key: str,
         jw_packages: list[str],
+        filter_adult: bool = True,
     ) -> None:
         self.scraper_name = scraper_name
         self._platform_key = platform_key
         self._jw_packages = jw_packages
+        self._filter_adult = filter_adult
 
     def _fetch_edges(self, object_type: str, limit: int) -> list[dict[str, Any]]:
         data = _jw_post(
             _JUSTWATCH_QUERY,
             {
                 "country": _JW_COUNTRY,
-                "language": "en",
+                "language": _JW_LANGUAGE,
                 "first": limit,
                 "sortBy": "TRENDING",
                 "filter": {
@@ -554,13 +573,16 @@ class _JustWatchPlatformScraper(BaseScraper):
         if not title:
             return None
 
+        desc = content.get("shortDescription") or ""
+        if self._filter_adult and _chart_title_blocked(title, desc):
+            return None
+
         year = content.get("originalReleaseYear")
         full_path = content.get("fullPath") or ""
         jw_url = f"https://www.justwatch.com{full_path}" if full_path else ""
         poster = _jw_poster_url(content.get("posterUrl"))
-        desc = content.get("shortDescription") or ""
         platform_label = self._platform_key.replace("_", " ").title()
-        streaming_prefix = f"Top {rank} trending {media_type} on {platform_label} (TR)."
+        streaming_prefix = f"Top {rank} trending {media_type} on {platform_label}."
         overview = f"{streaming_prefix} {desc}" if desc else streaming_prefix
         year_str = str(year) if year else None
 
@@ -586,9 +608,10 @@ class _JustWatchPlatformScraper(BaseScraper):
     def scrape(self) -> list[dict[str, Any]]:
         out: list[dict[str, Any]] = []
         seen: set[str] = set()
+        fetch_extra = 25 if self._filter_adult else 5
 
         for object_type, media_type in (("MOVIE", "movie"), ("SHOW", "series")):
-            edges = self._fetch_edges(object_type, _TOP_PER_TYPE + 5)
+            edges = self._fetch_edges(object_type, _TOP_PER_TYPE + fetch_extra)
             rank = 0
             for edge in edges:
                 if rank >= _TOP_PER_TYPE:
@@ -604,9 +627,10 @@ class _JustWatchPlatformScraper(BaseScraper):
                 out.append(item)
 
         logger.info(
-            "%s produced %s items via JustWatch TRENDING TR (movies=%s series=%s)",
+            "%s produced %s items via JustWatch TRENDING %s (movies=%s series=%s)",
             self.scraper_name,
             len(out),
+            _JW_COUNTRY,
             sum(1 for i in out if i["type"] == "movie"),
             sum(1 for i in out if i["type"] == "series"),
         )
@@ -628,6 +652,7 @@ class JustWatchPrimeVideoScraper(_JustWatchPlatformScraper):
             scraper_name="justwatch_prime_video",
             platform_key="prime_video",
             jw_packages=["amazonprime"],
+            filter_adult=True,
         )
 
 

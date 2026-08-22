@@ -1,8 +1,8 @@
 """StreamRadar scraping entrypoint.
 
-Platform feeds hold daily Top 10 movies + Top 10 series:
-- Netflix: official Tudum Top 10 (Turkey)
-- Disney+ / Prime / Max: JustWatch TRENDING (TR)
+Platform feeds hold daily Top 10 movies + Top 10 series (global / English):
+- Netflix: official Tudum Top 10 (global)
+- Disney+ / Prime / Max: JustWatch TRENDING (US)
 
 Discovery feeds (trending, upcoming, cinema) use RSS / chart sources.
 """

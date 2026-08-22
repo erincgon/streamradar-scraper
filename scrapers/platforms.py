@@ -1,7 +1,7 @@
 """Platform feed'leri: günlük Top 10 film + Top 10 dizi → `output/*.json`.
 
-- Netflix: resmi Tudum Top 10 (Türkiye)
-- Disney+ / Prime Video / Max: JustWatch TRENDING (TR)
+- Netflix: resmi Tudum Top 10 (global, English)
+- Disney+ / Prime Video / Max: JustWatch TRENDING (US / English)
 """
 
 from __future__ import annotations
