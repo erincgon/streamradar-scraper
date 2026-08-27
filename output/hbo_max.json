@@ -15,39 +15,39 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/mother-mary",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/mother-mary",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "updated_at": "2026-08-27T16:01:32Z"
   },
   {
-    "title": "Normal",
-    "year": 2026,
+    "title": "Practical Magic",
+    "year": 1998,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 2 trending movie on Hbo Max. An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+    "release_date": "1998-01-01",
+    "overview": "Top 2 trending movie on Hbo Max. Sally and Gillian Owens, born into a magical family, have mostly avoided witchcraft themselves. But when Gillian's vicious boyfriend, Jimmy Angelov, dies unexpectedly, the Owens sisters give themselves a crash course in hard magic. With policeman Gary Hallet growing suspicious, the girls struggle to resurrect Angelov -- and unwittingly inject his corpse with an evil spirit that threatens to end their family line.",
     "genres": [
-      "Action",
-      "Crime",
-      "Thriller",
-      "Western"
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/344392652/s592/normal-2025.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/344392652/s592/normal-2025.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/11005490/s592/practical-magic.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/11005490/s592/practical-magic.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/normal-2025",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/practical-magic",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/normal-2025",
+    "article_url": "https://www.justwatch.com/us/movie/practical-magic",
     "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "published_at": "1998-01-01T00:00:00Z",
+    "updated_at": "2026-08-27T16:01:32Z"
   },
   {
     "title": "The Drama",
@@ -62,44 +62,44 @@
       "Drama",
       "Romance"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/340504358/s592/the-drama.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/340504358/s592/the-drama.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/343501322/s592/the-drama.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/343501322/s592/the-drama.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-drama",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-drama",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "updated_at": "2026-08-27T16:01:32Z"
   },
   {
-    "title": "Practical Magic",
-    "year": 1998,
+    "title": "Normal",
+    "year": 2026,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "1998-01-01",
-    "overview": "Top 4 trending movie on Hbo Max. Sally and Gillian Owens, born into a magical family, have mostly avoided witchcraft themselves. But when Gillian's vicious boyfriend, Jimmy Angelov, dies unexpectedly, the Owens sisters give themselves a crash course in hard magic. With policeman Gary Hallet growing suspicious, the girls struggle to resurrect Angelov -- and unwittingly inject his corpse with an evil spirit that threatens to end their family line.",
+    "release_date": "2026-01-01",
+    "overview": "Top 4 trending movie on Hbo Max. An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
     "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy",
-      "Romance"
+      "Action",
+      "Crime",
+      "Thriller",
+      "Western"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/11005490/s592/practical-magic.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/11005490/s592/practical-magic.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/344392652/s592/normal-2025.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/344392652/s592/normal-2025.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/practical-magic",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/normal-2025",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/practical-magic",
+    "article_url": "https://www.justwatch.com/us/movie/normal-2025",
     "content_type": "platform_release",
-    "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-08-27T16:01:32Z"
   },
   {
     "title": "The Long Walk",
@@ -110,21 +110,20 @@
     "overview": "Top 5 trending movie on Hbo Max. In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
     "genres": [
       "Horror",
-      "Sci-Fi",
       "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/330628021/s592/the-long-walk-2025.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/330628021/s592/the-long-walk-2025.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/330718240/s592/the-long-walk-2025.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/330718240/s592/the-long-walk-2025.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-long-walk-2025",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-long-walk-2025",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "updated_at": "2026-08-27T16:01:32Z"
   },
   {
     "title": "One Battle After Another",
@@ -142,40 +141,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-battle-of-baktan-cross",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-battle-of-baktan-cross",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
-  },
-  {
-    "title": "Spider-Man: Across the Spider-Verse",
-    "year": 2023,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2023-01-01",
-    "overview": "Top 7 trending movie on Hbo Max. After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
-    "genres": [
-      "Action",
-      "Animation",
-      "Family",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/305309017/s592/spider-man-into-the-spider-verse-2.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/305309017/s592/spider-man-into-the-spider-verse-2.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/spider-man-into-the-spider-verse-2",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/spider-man-into-the-spider-verse-2",
-    "content_type": "platform_release",
-    "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "updated_at": "2026-08-27T16:01:32Z"
   },
   {
     "title": "Mortal Kombat II",
@@ -183,7 +155,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 8 trending movie on Hbo Max. The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+    "overview": "Top 7 trending movie on Hbo Max. The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
     "genres": [
       "Action",
       "Comedy",
@@ -191,18 +163,18 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/345490277/s592/mortal-kombat-2.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/345490277/s592/mortal-kombat-2.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/342889862/s592/mortal-kombat-2.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/342889862/s592/mortal-kombat-2.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/mortal-kombat-2",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/mortal-kombat-2",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "updated_at": "2026-08-27T16:01:32Z"
   },
   {
     "title": "Weapons",
@@ -210,7 +182,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 9 trending movie on Hbo Max. When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "overview": "Top 8 trending movie on Hbo Max. When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
     "genres": [
       "Horror",
       "Thriller"
@@ -220,13 +192,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/weapons-2026",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/weapons-2026",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "updated_at": "2026-08-27T16:01:32Z"
   },
   {
     "title": "Sinners",
@@ -234,7 +206,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 10 trending movie on Hbo Max. Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+    "overview": "Top 9 trending movie on Hbo Max. Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
     "genres": [
       "Action",
       "Horror",
@@ -245,13 +217,39 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/sinners-2025",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/sinners-2025",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "updated_at": "2026-08-27T16:01:32Z"
+  },
+  {
+    "title": "Sicario",
+    "year": 2015,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2015-01-01",
+    "overview": "Top 10 trending movie on Hbo Max. An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/139217929/s592/sicario.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/139217929/s592/sicario.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/sicario",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/sicario",
+    "content_type": "platform_release",
+    "published_at": "2015-01-01T00:00:00Z",
+    "updated_at": "2026-08-27T16:01:32Z"
   },
   {
     "title": "Lanterns",
@@ -272,13 +270,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/lanterns",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "updated_at": "2026-08-27T16:01:32Z"
   },
   {
     "title": "Banshee",
@@ -298,13 +296,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/banshee",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/banshee",
     "content_type": "platform_release",
     "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "updated_at": "2026-08-27T16:01:32Z"
   },
   {
     "title": "Stuart Fails to Save the Universe",
@@ -323,13 +321,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/stuart-fails-to-save-the-universe",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/stuart-fails-to-save-the-universe",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "updated_at": "2026-08-27T16:01:32Z"
   },
   {
     "title": "The Pitt",
@@ -346,13 +344,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-pitt",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-pitt",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "updated_at": "2026-08-27T16:01:32Z"
   },
   {
     "title": "Conan O'Brien Must Go",
@@ -370,39 +368,39 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/conan-obrien-must-go",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/conan-obrien-must-go",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "updated_at": "2026-08-27T16:01:32Z"
   },
   {
-    "title": "Rick and Morty",
-    "year": 2013,
+    "title": "House of the Dragon",
+    "year": 2022,
     "type": "series",
     "platform": "hbo_max",
-    "release_date": "2013-01-01",
-    "overview": "Top 6 trending series on Hbo Max. The fractured domestic lives of a nihilistic mad scientist and his anxious grandson are further complicated by their inter-dimensional misadventures.",
+    "release_date": "2022-01-01",
+    "overview": "Top 6 trending series on Hbo Max. An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
     "genres": [
       "Action",
-      "Animation",
-      "Comedy",
-      "Sci-Fi"
+      "Drama",
+      "Fantasy",
+      "Romance"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/320955712/s592/rick-and-morty.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/320955712/s592/rick-and-morty.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/301444667/s592/house-of-the-dragon.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/301444667/s592/house-of-the-dragon.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/rick-and-morty",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/house-of-the-dragon",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/rick-and-morty",
+    "article_url": "https://www.justwatch.com/us/tv-show/house-of-the-dragon",
     "content_type": "platform_release",
-    "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "published_at": "2022-01-01T00:00:00Z",
+    "updated_at": "2026-08-27T16:01:32Z"
   },
   {
     "title": "Last Week Tonight with John Oliver",
@@ -419,13 +417,39 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
     "content_type": "platform_release",
     "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "updated_at": "2026-08-27T16:01:32Z"
+  },
+  {
+    "title": "Rick and Morty",
+    "year": 2013,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2013-01-01",
+    "overview": "Top 8 trending series on Hbo Max. The fractured domestic lives of a nihilistic mad scientist and his anxious grandson are further complicated by their inter-dimensional misadventures.",
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/320955712/s592/rick-and-morty.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/320955712/s592/rick-and-morty.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/rick-and-morty",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/rick-and-morty",
+    "content_type": "platform_release",
+    "published_at": "2013-01-01T00:00:00Z",
+    "updated_at": "2026-08-27T16:01:32Z"
   },
   {
     "title": "Mad Men",
@@ -433,7 +457,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2007-01-01",
-    "overview": "Top 8 trending series on Hbo Max. A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.",
+    "overview": "Top 9 trending series on Hbo Max. A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.",
     "genres": [
       "Drama"
     ],
@@ -442,38 +466,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/mad-men",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/mad-men",
     "content_type": "platform_release",
     "published_at": "2007-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
-  },
-  {
-    "title": "True Detective",
-    "year": 2014,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2014-01-01",
-    "overview": "Top 9 trending series on Hbo Max. An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/243933920/s592/true-detective.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/243933920/s592/true-detective.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/true-detective",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/true-detective",
-    "content_type": "platform_release",
-    "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "updated_at": "2026-08-27T16:01:32Z"
   },
   {
     "title": "Game of Thrones",
@@ -492,12 +491,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/game-of-thrones",
-    "scraped_at": "2026-08-26T05:26:27+00:00",
+    "scraped_at": "2026-08-27T16:01:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/game-of-thrones",
     "content_type": "platform_release",
     "published_at": "2011-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:27Z"
+    "updated_at": "2026-08-27T16:01:32Z"
   }
 ]

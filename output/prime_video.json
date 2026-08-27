@@ -1,53 +1,26 @@
 [
   {
-    "title": "Backrooms",
-    "year": 2026,
+    "title": "Nine to Five",
+    "year": 1980,
     "type": "movie",
     "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 1 trending movie on Prime Video. A strange doorway appears in the basement of a furniture showroom.",
+    "release_date": "1980-01-01",
+    "overview": "Top 1 trending movie on Prime Video. Three female employees of a sexist, egotistical, lying, hypocritical bigot find a way to turn the tables on him.",
     "genres": [
-      "Horror",
-      "Sci-Fi",
-      "Thriller"
+      "Comedy"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/344018964/s592/backrooms.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/344018964/s592/backrooms.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/247946480/s592/9-to-5.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/247946480/s592/9-to-5.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/backrooms",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/9-to-5",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/backrooms",
+    "article_url": "https://www.justwatch.com/us/movie/9-to-5",
     "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
-  },
-  {
-    "title": "Obsession",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 2 trending movie on Prime Video. After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "genres": [
-      "Horror",
-      "Romance",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/342979246/s592/obsession-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/342979246/s592/obsession-2026.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/obsession-2026",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/obsession-2026",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
+    "published_at": "1980-01-01T00:00:00Z",
+    "updated_at": "2026-08-27T16:01:33Z"
   },
   {
     "title": "Passenger",
@@ -55,7 +28,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 3 trending movie on Prime Video. After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger won't stop until it claims them both.",
+    "overview": "Top 2 trending movie on Prime Video. After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger won't stop until it claims them both.",
     "genres": [
       "Horror",
       "Thriller"
@@ -65,13 +38,63 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/passenger-2026",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/passenger-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
+    "updated_at": "2026-08-27T16:01:33Z"
+  },
+  {
+    "title": "Backrooms",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 3 trending movie on Prime Video. A strange doorway appears in the basement of a furniture showroom.",
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/342063289/s592/backrooms.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/342063289/s592/backrooms.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/backrooms",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/backrooms",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-08-27T16:01:33Z"
+  },
+  {
+    "title": "Obsession",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 4 trending movie on Prime Video. After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "genres": [
+      "Horror",
+      "Romance",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/343088830/s592/obsession-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/343088830/s592/obsession-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/obsession-2026",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/obsession-2026",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-08-27T16:01:33Z"
   },
   {
     "title": "Project Hail Mary",
@@ -79,73 +102,24 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 4 trending movie on Prime Video. Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+    "overview": "Top 5 trending movie on Prime Video. Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
     "genres": [
-      "Action",
       "Comedy",
       "Drama",
       "Sci-Fi"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/342918190/s592/project-hail-mary.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/342918190/s592/project-hail-mary.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/332594610/s592/project-hail-mary.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/332594610/s592/project-hail-mary.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/project-hail-mary",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/project-hail-mary",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
-  },
-  {
-    "title": "Is God Is",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 5 trending movie on Prime Video. Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
-    "genres": [
-      "Drama",
-      "Thriller",
-      "Western"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/345624458/s592/is-god-is.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/345624458/s592/is-god-is.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/is-god-is",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/is-god-is",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
-  },
-  {
-    "title": "Nine to Five",
-    "year": 1980,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "1980-01-01",
-    "overview": "Top 6 trending movie on Prime Video. Three female employees of a sexist, egotistical, lying, hypocritical bigot find a way to turn the tables on him.",
-    "genres": [
-      "Comedy"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/320935599/s592/9-to-5.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/320935599/s592/9-to-5.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/9-to-5",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/9-to-5",
-    "content_type": "platform_release",
-    "published_at": "1980-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
+    "updated_at": "2026-08-27T16:01:33Z"
   },
   {
     "title": "Mother Mary",
@@ -153,7 +127,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 7 trending movie on Prime Video. Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
+    "overview": "Top 6 trending movie on Prime Video. Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
     "genres": [
       "Drama",
       "Music"
@@ -163,13 +137,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/mother-mary",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/mother-mary",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
+    "updated_at": "2026-08-27T16:01:33Z"
+  },
+  {
+    "title": "Good Fortune",
+    "year": 2025,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2025-01-01",
+    "overview": "Top 7 trending movie on Prime Video. A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist.",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/336226644/s592/good-fortune-2025.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/336226644/s592/good-fortune-2025.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/good-fortune-2025",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/good-fortune-2025",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-08-27T16:01:33Z"
   },
   {
     "title": "Disclosure Day",
@@ -189,63 +188,61 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-dish-2026-1",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-dish-2026-1",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
+    "updated_at": "2026-08-27T16:01:33Z"
   },
   {
-    "title": "Mutiny",
-    "year": 2026,
+    "title": "Steel Magnolias",
+    "year": 1989,
     "type": "movie",
     "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 9 trending movie on Prime Video. After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+    "release_date": "1989-01-01",
+    "overview": "Top 9 trending movie on Prime Video. A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship and welcome her into the fold.",
     "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
+      "Comedy",
+      "Drama",
+      "Romance"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/346670227/s592/mutiny-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346670227/s592/mutiny-2026.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/177783631/s592/steel-magnolias.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/177783631/s592/steel-magnolias.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/mutiny-2026",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/steel-magnolias",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/mutiny-2026",
+    "article_url": "https://www.justwatch.com/us/movie/steel-magnolias",
     "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
+    "published_at": "1989-01-01T00:00:00Z",
+    "updated_at": "2026-08-27T16:01:33Z"
   },
   {
-    "title": "Good Fortune",
+    "title": "I Swear",
     "year": 2025,
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2025-01-01",
-    "overview": "Top 10 trending movie on Prime Video. A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist.",
+    "overview": "Top 10 trending movie on Prime Video. Diagnosed with Tourette Syndrome at 15, John Davidson navigates his way against the odds through troubled teenage years and into adulthood, finding inspiration in the kindness of others to discover his true purpose in life.",
     "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance"
+      "Drama"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/338549301/s592/good-fortune-2025.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/338549301/s592/good-fortune-2025.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/336487621/s592/i-swear.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/336487621/s592/i-swear.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/good-fortune-2025",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/i-swear",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/good-fortune-2025",
+    "article_url": "https://www.justwatch.com/us/movie/i-swear",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
+    "updated_at": "2026-08-27T16:01:33Z"
   },
   {
     "title": "Lanterns",
@@ -266,13 +263,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/lanterns",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
+    "updated_at": "2026-08-27T16:01:33Z"
   },
   {
     "title": "Outer Banks",
@@ -293,13 +290,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/outer-banks",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/outer-banks",
     "content_type": "platform_release",
     "published_at": "2020-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
+    "updated_at": "2026-08-27T16:01:33Z"
   },
   {
     "title": "Ted Lasso",
@@ -318,38 +315,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/ted-lasso",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/ted-lasso",
     "content_type": "platform_release",
     "published_at": "2020-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
-  },
-  {
-    "title": "Lucky",
-    "year": 2026,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 4 trending series on Prime Video. When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/341456365/s592/lucky.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/341456365/s592/lucky.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/lucky",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/lucky",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
+    "updated_at": "2026-08-27T16:01:33Z"
   },
   {
     "title": "Lioness",
@@ -357,7 +329,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2023-01-01",
-    "overview": "Top 5 trending series on Prime Video. Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "overview": "Top 4 trending series on Prime Video. Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "genres": [
       "Action",
       "Drama",
@@ -369,13 +341,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/special-ops-lioness",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/special-ops-lioness",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
+    "updated_at": "2026-08-27T16:01:33Z"
   },
   {
     "title": "Silo",
@@ -383,7 +355,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2023-01-01",
-    "overview": "Top 6 trending series on Prime Video. Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
+    "overview": "Top 5 trending series on Prime Video. Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
     "genres": [
       "Drama",
       "Sci-Fi"
@@ -393,13 +365,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/silo",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/silo",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
+    "updated_at": "2026-08-27T16:01:33Z"
   },
   {
     "title": "Furious",
@@ -407,7 +379,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 7 trending series on Prime Video. FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+    "overview": "Top 6 trending series on Prime Video. FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
     "genres": [
       "Crime",
       "Drama",
@@ -418,36 +390,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/furious",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/furious",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
+    "updated_at": "2026-08-27T16:01:33Z"
   },
   {
-    "title": "It's Always Sunny in Philadelphia",
-    "year": 2005,
+    "title": "Lucky",
+    "year": 2026,
     "type": "series",
     "platform": "prime_video",
-    "release_date": "2005-01-01",
-    "overview": "Top 8 trending series on Prime Video. Four egocentric friends run a neighborhood Irish pub in Philadelphia and try to find their way through the adult world of work and relationships. Unfortunately, their warped views and precarious judgments often lead them to trouble, creating a myriad of uncomfortable situations that usually only get worse before they get better.",
+    "release_date": "2026-01-01",
+    "overview": "Top 7 trending series on Prime Video. When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
     "genres": [
-      "Comedy"
+      "Crime",
+      "Drama",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/337819821/s592/its-always-sunny-in-philadelphia.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/337819821/s592/its-always-sunny-in-philadelphia.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/341456365/s592/lucky.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/341456365/s592/lucky.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/its-always-sunny-in-philadelphia",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/lucky",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/its-always-sunny-in-philadelphia",
+    "article_url": "https://www.justwatch.com/us/tv-show/lucky",
     "content_type": "platform_release",
-    "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-08-27T16:01:33Z"
   },
   {
     "title": "The Audacity",
@@ -455,7 +429,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 9 trending series on Prime Video. Inside the bubble of Silicon Valley, a data-mining CEO strives to turn insight and influence into profit and power in this darkly comedic look at the warped dreams, outsized egos, and ethical lapses of the self-styled inventors of the future.",
+    "overview": "Top 8 trending series on Prime Video. Inside the bubble of Silicon Valley, a data-mining CEO strives to turn insight and influence into profit and power in this darkly comedic look at the warped dreams, outsized egos, and ethical lapses of the self-styled inventors of the future.",
     "genres": [
       "Comedy",
       "Drama"
@@ -465,38 +439,59 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-audacity",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-audacity",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
+    "updated_at": "2026-08-27T16:01:33Z"
   },
   {
-    "title": "Banshee",
-    "year": 2013,
+    "title": "It's Always Sunny in Philadelphia",
+    "year": 2005,
     "type": "series",
     "platform": "prime_video",
-    "release_date": "2013-01-01",
-    "overview": "Top 10 trending series on Prime Video. Banshee is an American drama television series set in a small town in Pennsylvania Amish country and features an enigmatic ex-con posing as a murdered sheriff who imposes his own brand of justice while also cooking up plans that serve his own interests.",
+    "release_date": "2005-01-01",
+    "overview": "Top 9 trending series on Prime Video. Four egocentric friends run a neighborhood Irish pub in Philadelphia and try to find their way through the adult world of work and relationships. Unfortunately, their warped views and precarious judgments often lead them to trouble, creating a myriad of uncomfortable situations that usually only get worse before they get better.",
     "genres": [
-      "Action",
-      "Crime",
-      "Drama",
-      "Thriller"
+      "Comedy"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/175475823/s592/banshee.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/175475823/s592/banshee.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/337819821/s592/its-always-sunny-in-philadelphia.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/337819821/s592/its-always-sunny-in-philadelphia.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/banshee",
-    "scraped_at": "2026-08-26T05:26:28+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/its-always-sunny-in-philadelphia",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/banshee",
+    "article_url": "https://www.justwatch.com/us/tv-show/its-always-sunny-in-philadelphia",
     "content_type": "platform_release",
-    "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-08-26T05:26:28Z"
+    "published_at": "2005-01-01T00:00:00Z",
+    "updated_at": "2026-08-27T16:01:33Z"
+  },
+  {
+    "title": "Chad Powers",
+    "year": 2025,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2025-01-01",
+    "overview": "Top 10 trending series on Prime Video. A disgraced college quarterback named Russ Holliday disguises himself as Chad Powers and walks onto a struggling southern football team to revive his football career.",
+    "genres": [
+      "Comedy",
+      "Sport"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/348265344/s592/chad-powers.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/348265344/s592/chad-powers.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/chad-powers",
+    "scraped_at": "2026-08-27T16:01:33+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/chad-powers",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-08-27T16:01:33Z"
   }
 ]
