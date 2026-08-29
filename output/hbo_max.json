@@ -15,13 +15,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/mother-mary",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/mother-mary",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
+    "updated_at": "2026-08-29T11:26:00Z"
   },
   {
     "title": "Practical Magic",
@@ -41,13 +41,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/practical-magic",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/practical-magic",
     "content_type": "platform_release",
     "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
+    "updated_at": "2026-08-29T11:26:00Z"
   },
   {
     "title": "The Drama",
@@ -67,37 +67,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-drama",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-drama",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
-  },
-  {
-    "title": "The Long Walk",
-    "year": 2025,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2025-01-01",
-    "overview": "Top 4 trending movie on Hbo Max. In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/330718240/s592/the-long-walk-2025.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/330718240/s592/the-long-walk-2025.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-long-walk-2025",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-long-walk-2025",
-    "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
+    "updated_at": "2026-08-29T11:26:00Z"
   },
   {
     "title": "One Battle After Another",
@@ -105,7 +81,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 5 trending movie on Hbo Max. Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+    "overview": "Top 4 trending movie on Hbo Max. Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
     "genres": [
       "Comedy",
       "Crime",
@@ -116,88 +92,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-battle-of-baktan-cross",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-battle-of-baktan-cross",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
-  },
-  {
-    "title": "Weapons",
-    "year": 2025,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2025-01-01",
-    "overview": "Top 6 trending movie on Hbo Max. When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/weapons-2026",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/weapons-2026",
-    "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
-  },
-  {
-    "title": "Sicario",
-    "year": 2015,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2015-01-01",
-    "overview": "Top 7 trending movie on Hbo Max. An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/139217929/s592/sicario.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/139217929/s592/sicario.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/sicario",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/sicario",
-    "content_type": "platform_release",
-    "published_at": "2015-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
-  },
-  {
-    "title": "Sinners",
-    "year": 2025,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2025-01-01",
-    "overview": "Top 8 trending movie on Hbo Max. Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-    "genres": [
-      "Action",
-      "Horror",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/320977032/s592/sinners-2025.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/320977032/s592/sinners-2025.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/sinners-2025",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/sinners-2025",
-    "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
+    "updated_at": "2026-08-29T11:26:00Z"
   },
   {
     "title": "The Terminator",
@@ -205,7 +106,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "1984-01-01",
-    "overview": "Top 9 trending movie on Hbo Max. In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+    "overview": "Top 5 trending movie on Hbo Max. In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
     "genres": [
       "Action",
       "Sci-Fi",
@@ -216,13 +117,86 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-terminator",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-terminator",
     "content_type": "platform_release",
     "published_at": "1984-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
+    "updated_at": "2026-08-29T11:26:00Z"
+  },
+  {
+    "title": "The Long Walk",
+    "year": 2025,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2025-01-01",
+    "overview": "Top 6 trending movie on Hbo Max. In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/330718240/s592/the-long-walk-2025.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/330718240/s592/the-long-walk-2025.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/the-long-walk-2025",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/the-long-walk-2025",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-08-29T11:26:00Z"
+  },
+  {
+    "title": "Weapons",
+    "year": 2025,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2025-01-01",
+    "overview": "Top 7 trending movie on Hbo Max. When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/weapons-2026",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/weapons-2026",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-08-29T11:26:00Z"
+  },
+  {
+    "title": "Stephen King's IT",
+    "year": 1990,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "1990-01-01",
+    "overview": "Top 8 trending movie on Hbo Max. In 1960, seven pre-teen outcasts fight an evil demon who poses as a child-killing clown. Thirty years later, they reunite to stop the demon once and for all when it returns to their hometown.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/319790376/s592/stephen-kings-it.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/319790376/s592/stephen-kings-it.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/stephen-kings-it",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/stephen-kings-it",
+    "content_type": "platform_release",
+    "published_at": "1990-01-01T00:00:00Z",
+    "updated_at": "2026-08-29T11:26:00Z"
   },
   {
     "title": "Marty Supreme",
@@ -230,7 +204,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 10 trending movie on Hbo Max. Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+    "overview": "Top 9 trending movie on Hbo Max. Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
     "genres": [
       "Comedy",
       "Drama",
@@ -242,13 +216,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/marty-supreme",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/marty-supreme",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
+    "updated_at": "2026-08-29T11:26:00Z"
+  },
+  {
+    "title": "Stand by Me",
+    "year": 1986,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "1986-01-01",
+    "overview": "Top 10 trending movie on Hbo Max. After learning that a boy their age has been accidentally killed near their rural homes, four boys decide to go see the body. Gordie, Vern, Chris, and Teddy encounter a mean junk man and a marsh full of leeches, but they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/15976494/s592/stand-by-me.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/15976494/s592/stand-by-me.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/stand-by-me",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/stand-by-me",
+    "content_type": "platform_release",
+    "published_at": "1986-01-01T00:00:00Z",
+    "updated_at": "2026-08-29T11:26:00Z"
   },
   {
     "title": "Lanterns",
@@ -269,13 +267,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/lanterns",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
+    "updated_at": "2026-08-29T11:26:00Z"
   },
   {
     "title": "Banshee",
@@ -295,13 +293,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/banshee",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/banshee",
     "content_type": "platform_release",
     "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
+    "updated_at": "2026-08-29T11:26:00Z"
   },
   {
     "title": "Stuart Fails to Save the Universe",
@@ -320,36 +318,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/stuart-fails-to-save-the-universe",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/stuart-fails-to-save-the-universe",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
-  },
-  {
-    "title": "The Pitt",
-    "year": 2025,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2025-01-01",
-    "overview": "Top 4 trending series on Hbo Max. The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-    "genres": [
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/340287190/s592/the-pitt.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/340287190/s592/the-pitt.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-pitt",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-pitt",
-    "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
+    "updated_at": "2026-08-29T11:26:00Z"
   },
   {
     "title": "Conan O'Brien Must Go",
@@ -357,7 +332,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2024-01-01",
-    "overview": "Top 5 trending series on Hbo Max. Conan O'Brien visits new friends he met through his podcast, \"Conan O'Brien Needs a Fan,\" where he dives deep with listeners from across the country and the world.",
+    "overview": "Top 4 trending series on Hbo Max. Conan O'Brien visits new friends he met through his podcast, \"Conan O'Brien Needs a Fan,\" where he dives deep with listeners from across the country and the world.",
     "genres": [
       "Comedy",
       "Documentary"
@@ -367,13 +342,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/conan-obrien-must-go",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/conan-obrien-must-go",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
+    "updated_at": "2026-08-29T11:26:00Z"
+  },
+  {
+    "title": "The Pitt",
+    "year": 2025,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2025-01-01",
+    "overview": "Top 5 trending series on Hbo Max. The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/340287190/s592/the-pitt.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/340287190/s592/the-pitt.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/the-pitt",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-pitt",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-08-29T11:26:00Z"
   },
   {
     "title": "House of the Dragon",
@@ -393,13 +391,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/house-of-the-dragon",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/house-of-the-dragon",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
+    "updated_at": "2026-08-29T11:26:00Z"
   },
   {
     "title": "Mad Men",
@@ -416,36 +414,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/mad-men",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/mad-men",
     "content_type": "platform_release",
     "published_at": "2007-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
-  },
-  {
-    "title": "Last Week Tonight with John Oliver",
-    "year": 2014,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2014-01-01",
-    "overview": "Top 8 trending series on Hbo Max. A half-hour satirical look at the week in news, politics and current events.",
-    "genres": [
-      "Comedy"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/311778082/s592/last-week-tonight-with-john-oliver.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/311778082/s592/last-week-tonight-with-john-oliver.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
-    "content_type": "platform_release",
-    "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
+    "updated_at": "2026-08-29T11:26:00Z"
   },
   {
     "title": "Rick and Morty",
@@ -453,7 +428,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2013-01-01",
-    "overview": "Top 9 trending series on Hbo Max. The fractured domestic lives of a nihilistic mad scientist and his anxious grandson are further complicated by their inter-dimensional misadventures.",
+    "overview": "Top 8 trending series on Hbo Max. The fractured domestic lives of a nihilistic mad scientist and his anxious grandson are further complicated by their inter-dimensional misadventures.",
     "genres": [
       "Action",
       "Animation",
@@ -465,13 +440,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/rick-and-morty",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/rick-and-morty",
     "content_type": "platform_release",
     "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
+    "updated_at": "2026-08-29T11:26:00Z"
   },
   {
     "title": "Game of Thrones",
@@ -479,7 +454,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2011-01-01",
-    "overview": "Top 10 trending series on Hbo Max. Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+    "overview": "Top 9 trending series on Hbo Max. Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
     "genres": [
       "Drama",
       "Fantasy",
@@ -490,12 +465,35 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/game-of-thrones",
-    "scraped_at": "2026-08-28T17:05:26+00:00",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/game-of-thrones",
     "content_type": "platform_release",
     "published_at": "2011-01-01T00:00:00Z",
-    "updated_at": "2026-08-28T17:05:26Z"
+    "updated_at": "2026-08-29T11:26:00Z"
+  },
+  {
+    "title": "Last Week Tonight with John Oliver",
+    "year": 2014,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2014-01-01",
+    "overview": "Top 10 trending series on Hbo Max. A half-hour satirical look at the week in news, politics and current events.",
+    "genres": [
+      "Comedy"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/311778082/s592/last-week-tonight-with-john-oliver.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/311778082/s592/last-week-tonight-with-john-oliver.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
+    "scraped_at": "2026-08-29T11:26:00+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
+    "content_type": "platform_release",
+    "published_at": "2014-01-01T00:00:00Z",
+    "updated_at": "2026-08-29T11:26:00Z"
   }
 ]
