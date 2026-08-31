@@ -12,18 +12,18 @@
       "Family",
       "Romance"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/321056562/s592/muppet-treasure-island.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/321056562/s592/muppet-treasure-island.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/241541440/s592/muppet-treasure-island.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/241541440/s592/muppet-treasure-island.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/muppet-treasure-island",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/muppet-treasure-island",
     "content_type": "platform_release",
     "published_at": "1996-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "updated_at": "2026-08-31T11:16:00Z"
   },
   {
     "title": "Ice Princess",
@@ -38,43 +38,41 @@
       "Family",
       "Sport"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/346733706/s592/ice-princess.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346733706/s592/ice-princess.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/268090120/s592/ice-princess.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/268090120/s592/ice-princess.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/ice-princess",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/ice-princess",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "updated_at": "2026-08-31T11:16:00Z"
   },
   {
-    "title": "The Simpsons: Yellow Mirror",
+    "title": "Disney Worldbuilders",
     "year": 2026,
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2026-01-01",
-    "overview": "Top 3 trending movie on Disney Plus. A defective lamp reveals a heartbreaking truth about what Homer believes is reality, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre in this Disney+ exclusive.",
+    "overview": "Top 3 trending movie on Disney Plus. We sit down with some of the key figures shaping Disney’s most enduring stories for a series of intimate conversations about their early years, first sparks, and formative Disney memories — and how the worlds they once dreamed up are now taking shape at Disney destinations around the globe.",
     "genres": [
-      "Animation",
-      "Comedy",
-      "Sci-Fi"
+      "Documentary"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/349963524/s592/yellow-mirror.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/349963524/s592/yellow-mirror.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/347869410/s592/disney-worldbuilders.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/347869410/s592/disney-worldbuilders.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/yellow-mirror",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/disney-worldbuilders",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/yellow-mirror",
+    "article_url": "https://www.justwatch.com/us/movie/disney-worldbuilders",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "updated_at": "2026-08-31T11:16:00Z"
   },
   {
     "title": "Venom: The Last Dance",
@@ -95,61 +93,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/venom-3-2024",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/venom-3-2024",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "updated_at": "2026-08-31T11:16:00Z"
   },
   {
-    "title": "Ready or Not 2: Here I Come",
+    "title": "The Simpsons: Yellow Mirror",
     "year": 2026,
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2026-01-01",
-    "overview": "Top 5 trending movie on Disney Plus. Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+    "overview": "Top 5 trending movie on Disney Plus. A defective lamp reveals a heartbreaking truth about what Homer believes is reality, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre in this Disney+ exclusive.",
     "genres": [
-      "Comedy",
-      "Horror",
-      "Thriller"
+      "Comedy"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/338804546/s592/ready-or-not-here-i-come.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/338804546/s592/ready-or-not-here-i-come.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/350643800/s592/yellow-mirror.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/350643800/s592/yellow-mirror.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/ready-or-not-here-i-come",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/yellow-mirror",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/ready-or-not-here-i-come",
+    "article_url": "https://www.justwatch.com/us/movie/yellow-mirror",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
-  },
-  {
-    "title": "Disney Worldbuilders",
-    "year": 2026,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "2026-01-01",
-    "overview": "Top 6 trending movie on Disney Plus. We sit down with some of the key figures shaping Disney’s most enduring stories for a series of intimate conversations about their early years, first sparks, and formative Disney memories — and how the worlds they once dreamed up are now taking shape at Disney destinations around the globe.",
-    "genres": [
-      "Documentary"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/347869410/s592/disney-worldbuilders.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/347869410/s592/disney-worldbuilders.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/disney-worldbuilders",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/disney-worldbuilders",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "updated_at": "2026-08-31T11:16:00Z"
   },
   {
     "title": "Camp Rock 3",
@@ -157,7 +130,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2026-01-01",
-    "overview": "Top 7 trending movie on Disney Plus. When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
+    "overview": "Top 6 trending movie on Disney Plus. When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
     "genres": [
       "Comedy",
       "Drama",
@@ -169,13 +142,39 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/camp-rock-3",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/camp-rock-3",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "updated_at": "2026-08-31T11:16:00Z"
+  },
+  {
+    "title": "The Three Musketeers",
+    "year": 1993,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "1993-01-01",
+    "overview": "Top 7 trending movie on Disney Plus. D'Artagnan travels to Paris hoping to become a musketeer, one of the French king's elite bodyguards, only to discover that the corps has been disbanded by conniving Cardinal Richelieu, who secretly hopes to usurp the throne. Fortunately, Athos, Porthos and Aramis have refused to lay down their weapons and continue to protect their king. D'Artagnan joins with the rogues to expose Richelieu's plot against the crown.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "European",
+      "Romance"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/59463307/s592/the-three-musketeers-1993.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/59463307/s592/the-three-musketeers-1993.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/the-three-musketeers-1993",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/the-three-musketeers-1993",
+    "content_type": "platform_release",
+    "published_at": "1993-01-01T00:00:00Z",
+    "updated_at": "2026-08-31T11:16:00Z"
   },
   {
     "title": "Spider-Man: No Way Home",
@@ -194,66 +193,62 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/spider-man-no-way-home",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/spider-man-no-way-home",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "updated_at": "2026-08-31T11:16:00Z"
   },
   {
-    "title": "The Three Musketeers",
-    "year": 1993,
+    "title": "Ready or Not 2: Here I Come",
+    "year": 2026,
     "type": "movie",
     "platform": "disney_plus",
-    "release_date": "1993-01-01",
-    "overview": "Top 9 trending movie on Disney Plus. D'Artagnan travels to Paris hoping to become a musketeer, one of the French king's elite bodyguards, only to discover that the corps has been disbanded by conniving Cardinal Richelieu, who secretly hopes to usurp the throne. Fortunately, Athos, Porthos and Aramis have refused to lay down their weapons and continue to protect their king. D'Artagnan joins with the rogues to expose Richelieu's plot against the crown.",
+    "release_date": "2026-01-01",
+    "overview": "Top 9 trending movie on Disney Plus. Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/338804546/s592/ready-or-not-here-i-come.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/338804546/s592/ready-or-not-here-i-come.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/ready-or-not-here-i-come",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/ready-or-not-here-i-come",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-08-31T11:16:00Z"
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "2003-01-01",
+    "overview": "Top 10 trending movie on Disney Plus. When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.",
     "genres": [
       "Action",
-      "Comedy",
-      "European",
-      "Romance"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/59463307/s592/the-three-musketeers-1993.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/59463307/s592/the-three-musketeers-1993.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-three-musketeers-1993",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-three-musketeers-1993",
-    "content_type": "platform_release",
-    "published_at": "1993-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
-  },
-  {
-    "title": "Who Framed Roger Rabbit",
-    "year": 1988,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "1988-01-01",
-    "overview": "Top 10 trending movie on Disney Plus. Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Crime",
-      "Family",
       "Fantasy"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/9056776/s592/who-framed-roger-rabbit.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/9056776/s592/who-framed-roger-rabbit.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/239394361/s592/pirates-of-the-caribbean-the-curse-of-the-black-pearl.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/239394361/s592/pirates-of-the-caribbean-the-curse-of-the-black-pearl.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/who-framed-roger-rabbit",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/pirates-of-the-caribbean-the-curse-of-the-black-pearl",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/who-framed-roger-rabbit",
+    "article_url": "https://www.justwatch.com/us/movie/pirates-of-the-caribbean-the-curse-of-the-black-pearl",
     "content_type": "platform_release",
-    "published_at": "1988-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "published_at": "2003-01-01T00:00:00Z",
+    "updated_at": "2026-08-31T11:16:00Z"
   },
   {
     "title": "The Bear",
@@ -271,36 +266,39 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-bear",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-bear",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "updated_at": "2026-08-31T11:16:00Z"
   },
   {
-    "title": "Project Runway",
-    "year": 2004,
+    "title": "Only Murders in the Building",
+    "year": 2021,
     "type": "series",
     "platform": "disney_plus",
-    "release_date": "2004-01-01",
-    "overview": "Top 2 trending series on Disney Plus. Aspiring fashion designers compete for a chance to break into the industry in this reality competition. Each week, a designer is eliminated from the competition after exhibiting their work in front of a judges' panel.",
+    "release_date": "2021-01-01",
+    "overview": "Top 2 trending series on Disney Plus. Charles, Oliver and Mabel, three eccentric neighbors, find purpose and chaos in solving murders that hit close to home through their true-crime podcast, turning their New York apartment building into a playground of mystery and mischief.",
     "genres": [
-      "Reality"
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/335023297/s592/project-runway.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/335023297/s592/project-runway.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/247415786/s592/only-murders-in-the-building.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/247415786/s592/only-murders-in-the-building.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/project-runway",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/project-runway",
+    "article_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
     "content_type": "platform_release",
-    "published_at": "2004-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "published_at": "2021-01-01T00:00:00Z",
+    "updated_at": "2026-08-31T11:16:00Z"
   },
   {
     "title": "Modern Family",
@@ -319,39 +317,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/modern-family",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/modern-family",
     "content_type": "platform_release",
     "published_at": "2009-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "updated_at": "2026-08-31T11:16:00Z"
   },
   {
-    "title": "Only Murders in the Building",
-    "year": 2021,
+    "title": "Project Runway",
+    "year": 2004,
     "type": "series",
     "platform": "disney_plus",
-    "release_date": "2021-01-01",
-    "overview": "Top 4 trending series on Disney Plus. Charles, Oliver and Mabel, three eccentric neighbors, find purpose and chaos in solving murders that hit close to home through their true-crime podcast, turning their New York apartment building into a playground of mystery and mischief.",
+    "release_date": "2004-01-01",
+    "overview": "Top 4 trending series on Disney Plus. Aspiring fashion designers compete for a chance to break into the industry in this reality competition. Each week, a designer is eliminated from the competition after exhibiting their work in front of a judges' panel.",
     "genres": [
-      "Comedy",
-      "Crime",
-      "Drama",
-      "Thriller"
+      "Reality"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/247415786/s592/only-murders-in-the-building.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/247415786/s592/only-murders-in-the-building.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/335023297/s592/project-runway.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/335023297/s592/project-runway.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/project-runway",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
+    "article_url": "https://www.justwatch.com/us/tv-show/project-runway",
     "content_type": "platform_release",
-    "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "published_at": "2004-01-01T00:00:00Z",
+    "updated_at": "2026-08-31T11:16:00Z"
   },
   {
     "title": "Pokémon",
@@ -374,13 +369,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/pokemon",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/pokemon",
     "content_type": "platform_release",
     "published_at": "1997-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "updated_at": "2026-08-31T11:16:00Z"
   },
   {
     "title": "The Simpsons",
@@ -398,13 +393,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
     "content_type": "platform_release",
     "published_at": "1989-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "updated_at": "2026-08-31T11:16:00Z"
   },
   {
     "title": "X-Men '97",
@@ -424,13 +419,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/x-men-97",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/x-men-97",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "updated_at": "2026-08-31T11:16:00Z"
   },
   {
     "title": "How I Met Your Mother",
@@ -449,13 +444,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/how-i-met-your-mother",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/how-i-met-your-mother",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "updated_at": "2026-08-31T11:16:00Z"
   },
   {
     "title": "MasterChef",
@@ -472,13 +467,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/masterchef",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/masterchef",
     "content_type": "platform_release",
     "published_at": "2010-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "updated_at": "2026-08-31T11:16:00Z"
   },
   {
     "title": "Marvel's The Punisher",
@@ -498,12 +493,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/marvels-the-punisher",
-    "scraped_at": "2026-08-30T10:12:26+00:00",
+    "scraped_at": "2026-08-31T11:16:00+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/marvels-the-punisher",
     "content_type": "platform_release",
     "published_at": "2017-01-01T00:00:00Z",
-    "updated_at": "2026-08-30T10:12:26Z"
+    "updated_at": "2026-08-31T11:16:00Z"
   }
 ]
