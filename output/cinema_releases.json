@@ -1,5 +1,26 @@
 [
   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "year": 2026,
+    "type": "movie",
+    "platform": "cinema",
+    "release_date": "2026-08-29",
+    "overview": "Movie currently playing in cinema theaters. Distributed by MUBI. Showing in -457 theaters.",
+    "genres": [],
+    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.imdb.com/title/tt35298123/",
+    "scraped_at": "2026-09-01T09:48:11+00:00",
+    "source_name": "IMDb",
+    "source_domain": "imdb.com",
+    "article_url": "https://www.imdb.com/title/tt35298123/",
+    "content_type": "cinema_release",
+    "published_at": "2026-08-29T00:00:00Z",
+    "updated_at": "2026-09-01T09:48:11Z"
+  },
+  {
     "title": "The Dog Stars",
     "year": 2026,
     "type": "movie",
@@ -12,34 +33,34 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt21285562/",
-    "scraped_at": "2026-08-31T11:22:36+00:00",
+    "scraped_at": "2026-09-01T09:48:11+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt21285562/",
     "content_type": "cinema_release",
     "published_at": "2026-08-28T00:00:00Z",
-    "updated_at": "2026-08-31T11:22:36Z"
+    "updated_at": "2026-09-01T09:48:11Z"
   },
   {
-    "title": "Teenage Sex and Death at Camp Miasma",
+    "title": "Legend of the White Dragon",
     "year": 2026,
     "type": "movie",
     "platform": "cinema",
     "release_date": "2026-08-28",
-    "overview": "Movie currently playing in cinema theaters. Distributed by MUBI. Showing in -457 theaters.",
+    "overview": "Movie currently playing in cinema theaters. Distributed by Well Go USA Entertainment.",
     "genres": [],
-    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTcxNmY0NWYtMjJiNS00ZmZjLTkyMmItYjljYzU4YzliNTBjXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BMTcxNmY0NWYtMjJiNS00ZmZjLTkyMmItYjljYzU4YzliNTBjXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.imdb.com/title/tt35298123/",
-    "scraped_at": "2026-08-31T11:22:36+00:00",
+    "source_url": "https://www.imdb.com/title/tt12446086/",
+    "scraped_at": "2026-09-01T09:48:11+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
-    "article_url": "https://www.imdb.com/title/tt35298123/",
+    "article_url": "https://www.imdb.com/title/tt12446086/",
     "content_type": "cinema_release",
     "published_at": "2026-08-28T00:00:00Z",
-    "updated_at": "2026-08-31T11:22:36Z"
+    "updated_at": "2026-09-01T09:48:11Z"
   },
   {
     "title": "Ghost: 2 Big to Rig",
@@ -54,13 +75,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt43683692/",
-    "scraped_at": "2026-08-31T11:22:36+00:00",
+    "scraped_at": "2026-09-01T09:48:11+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt43683692/",
     "content_type": "cinema_release",
     "published_at": "2026-08-28T00:00:00Z",
-    "updated_at": "2026-08-31T11:22:36Z"
+    "updated_at": "2026-09-01T09:48:11Z"
   },
   {
     "title": "Finding Emily",
@@ -75,13 +96,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt32499466/",
-    "scraped_at": "2026-08-31T11:22:36+00:00",
+    "scraped_at": "2026-09-01T09:48:11+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt32499466/",
     "content_type": "cinema_release",
     "published_at": "2026-08-28T00:00:00Z",
-    "updated_at": "2026-08-31T11:22:36Z"
+    "updated_at": "2026-09-01T09:48:11Z"
   },
   {
     "title": "Coyote vs. Acme",
@@ -96,34 +117,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt1756855/",
-    "scraped_at": "2026-08-31T11:22:36+00:00",
+    "scraped_at": "2026-09-01T09:48:11+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt1756855/",
     "content_type": "cinema_release",
     "published_at": "2026-08-28T00:00:00Z",
-    "updated_at": "2026-08-31T11:22:36Z"
-  },
-  {
-    "title": "The Magic Faraway Tree",
-    "year": 2026,
-    "type": "movie",
-    "platform": "cinema",
-    "release_date": "2026-08-21",
-    "overview": "Movie currently playing in cinema theaters. Distributed by Vertical Entertainment. Showing in -940 theaters.",
-    "genres": [],
-    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZThiYWI3ZTYtMjZmYy00Njc5LWE4OGYtNTlmNTQyYWZmYjQ0XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BZThiYWI3ZTYtMjZmYy00Njc5LWE4OGYtNTlmNTQyYWZmYjQ0XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.imdb.com/title/tt7734244/",
-    "scraped_at": "2026-08-31T11:22:36+00:00",
-    "source_name": "IMDb",
-    "source_domain": "imdb.com",
-    "article_url": "https://www.imdb.com/title/tt7734244/",
-    "content_type": "cinema_release",
-    "published_at": "2026-08-21T00:00:00Z",
-    "updated_at": "2026-08-31T11:22:36Z"
+    "updated_at": "2026-09-01T09:48:11Z"
   },
   {
     "title": "Spa Weekend",
@@ -138,13 +138,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt33305867/",
-    "scraped_at": "2026-08-31T11:22:36+00:00",
+    "scraped_at": "2026-09-01T09:48:11+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt33305867/",
     "content_type": "cinema_release",
     "published_at": "2026-08-21T00:00:00Z",
-    "updated_at": "2026-08-31T11:22:36Z"
+    "updated_at": "2026-09-01T09:48:11Z"
   },
   {
     "title": "Insidious: Out of the Further",
@@ -159,13 +159,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt32393988/",
-    "scraped_at": "2026-08-31T11:22:36+00:00",
+    "scraped_at": "2026-09-01T09:48:11+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt32393988/",
     "content_type": "cinema_release",
     "published_at": "2026-08-21T00:00:00Z",
-    "updated_at": "2026-08-31T11:22:36Z"
+    "updated_at": "2026-09-01T09:48:11Z"
   },
   {
     "title": "The End of Oak Street",
@@ -180,13 +180,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt27165187/",
-    "scraped_at": "2026-08-31T11:22:36+00:00",
+    "scraped_at": "2026-09-01T09:48:11+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt27165187/",
     "content_type": "cinema_release",
     "published_at": "2026-08-14T00:00:00Z",
-    "updated_at": "2026-08-31T11:22:36Z"
+    "updated_at": "2026-09-01T09:48:11Z"
   },
   {
     "title": "PAW Patrol: The Dino Movie",
@@ -194,20 +194,20 @@
     "type": "movie",
     "platform": "cinema",
     "release_date": "2026-08-14",
-    "overview": "Movie currently playing in cinema theaters. Distributed by Paramount Pictures International. Showing in -499 theaters.",
+    "overview": "Movie currently playing in cinema theaters. Distributed by Paramount Pictures. Showing in -499 theaters.",
     "genres": [],
     "poster_image_url": "https://m.media-amazon.com/images/M/MV5BY2E2Y2Q0Y2ItZTUyZS00MzllLTkwYmQtYjdmNzM3NGRiYjFmXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
     "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BY2E2Y2Q0Y2ItZTUyZS00MzllLTkwYmQtYjdmNzM3NGRiYjFmXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt29356163/",
-    "scraped_at": "2026-08-31T11:22:36+00:00",
+    "scraped_at": "2026-09-01T09:48:11+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt29356163/",
     "content_type": "cinema_release",
     "published_at": "2026-08-14T00:00:00Z",
-    "updated_at": "2026-08-31T11:22:36Z"
+    "updated_at": "2026-09-01T09:48:11Z"
   },
   {
     "title": "Spider-Man: Brand New Day",
@@ -222,13 +222,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt22084616/",
-    "scraped_at": "2026-08-31T11:22:36+00:00",
+    "scraped_at": "2026-09-01T09:48:11+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt22084616/",
     "content_type": "cinema_release",
     "published_at": "2026-07-31T00:00:00Z",
-    "updated_at": "2026-08-31T11:22:36Z"
+    "updated_at": "2026-09-01T09:48:11Z"
   },
   {
     "title": "The Odyssey",
@@ -243,34 +243,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt33764258/",
-    "scraped_at": "2026-08-31T11:22:36+00:00",
+    "scraped_at": "2026-09-01T09:48:11+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt33764258/",
     "content_type": "cinema_release",
     "published_at": "2026-07-17T00:00:00Z",
-    "updated_at": "2026-08-31T11:22:36Z"
-  },
-  {
-    "title": "Minions & Monsters",
-    "year": 2026,
-    "type": "movie",
-    "platform": "cinema",
-    "release_date": "2026-07-01",
-    "overview": "Movie currently playing in cinema theaters. Distributed by Universal Pictures. Showing in -364 theaters.",
-    "genres": [],
-    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.imdb.com/title/tt32890033/",
-    "scraped_at": "2026-08-31T11:22:36+00:00",
-    "source_name": "IMDb",
-    "source_domain": "imdb.com",
-    "article_url": "https://www.imdb.com/title/tt32890033/",
-    "content_type": "cinema_release",
-    "published_at": "2026-07-01T00:00:00Z",
-    "updated_at": "2026-08-31T11:22:36Z"
+    "updated_at": "2026-09-01T09:48:11Z"
   },
   {
     "title": "Toy Story 5",
@@ -285,12 +264,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt29355505/",
-    "scraped_at": "2026-08-31T11:22:36+00:00",
+    "scraped_at": "2026-09-01T09:48:11+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt29355505/",
     "content_type": "cinema_release",
     "published_at": "2026-06-19T00:00:00Z",
-    "updated_at": "2026-08-31T11:22:36Z"
+    "updated_at": "2026-09-01T09:48:11Z"
   }
 ]
