@@ -16,13 +16,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/grand-theft-auto-vi-an-extended-look",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/grand-theft-auto-vi-an-extended-look",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "The Whisper Man",
@@ -41,13 +41,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-whisper-man",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-whisper-man",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "The Last House",
@@ -67,13 +67,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-last-house-2026",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-last-house-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "Don't Say Good Luck",
@@ -83,20 +83,22 @@
     "release_date": "2026-01-01",
     "overview": "Netflix Global Top 4 movie. Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
     "genres": [
-      "Drama"
+      "Comedy",
+      "Drama",
+      "Music"
     ],
     "poster_image_url": "https://images.justwatch.com/poster/347522019/s592/dont-say-good-luck.webp",
     "backdrop_image_url": "https://images.justwatch.com/poster/347522019/s592/dont-say-good-luck.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/dont-say-good-luck",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/dont-say-good-luck",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "The Heat",
@@ -116,13 +118,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-heat-2013",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-heat-2013",
     "content_type": "platform_release",
     "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "72 HOURS",
@@ -135,18 +137,18 @@
       "Comedy",
       "Crime"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/348305415/s592/72-hours-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/348305415/s592/72-hours-2026.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/347190581/s592/72-hours-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/347190581/s592/72-hours-2026.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/72-hours-2026",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/72-hours-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "13 Minutes",
@@ -165,13 +167,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/13-minutes-2021",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/13-minutes-2021",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "KPop Demon Hunters",
@@ -193,13 +195,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/k-pop-demon-hunters",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/k-pop-demon-hunters",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "Shrek",
@@ -220,13 +222,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/shrek",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/shrek",
     "content_type": "platform_release",
     "published_at": "2001-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "2012",
@@ -244,13 +246,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/2012",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/2012",
     "content_type": "platform_release",
     "published_at": "2009-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "Death of the Pastor's Wife",
@@ -268,13 +270,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/death-of-the-pastors-wife",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/death-of-the-pastors-wife",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "Beauty in Black",
@@ -292,13 +294,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/beauty-in-black",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/beauty-in-black",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "Outer Banks",
@@ -319,13 +321,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/outer-banks",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/outer-banks",
     "content_type": "platform_release",
     "published_at": "2020-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "Salish & Jordan Matter",
@@ -343,13 +345,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/salish-and-jordan-matter",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/salish-and-jordan-matter",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "Danny Go!",
@@ -366,13 +368,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/danny-go",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/danny-go",
     "content_type": "platform_release",
     "published_at": "2020-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "My Life With the Walter Boys",
@@ -390,13 +392,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/my-life-with-the-walter-boys",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/my-life-with-the-walter-boys",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "Raw: 2026 - August 24, 2026",
@@ -407,20 +409,22 @@
     "overview": "Netflix Global Top 7 series. Maverick teacher Eikichi Onizuka takes on a new role at the elite Seishin Academy, where he struggles to connect with students locked to their screens.",
     "genres": [
       "Comedy",
-      "Drama"
+      "Crime",
+      "Drama",
+      "Romance"
     ],
     "poster_image_url": "https://images.justwatch.com/poster/347469794/s592/gto-2026.webp",
     "backdrop_image_url": "https://images.justwatch.com/poster/347469794/s592/gto-2026.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/gto-2026",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/gto-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "Let's Marry Harry: The Reunion",
@@ -437,13 +441,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/lets-marry-harry",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/lets-marry-harry",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "Talamasca: The Secret Order",
@@ -463,13 +467,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-talamasca-the-secret-order",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-talamasca-the-secret-order",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   },
   {
     "title": "Love Is Blind: UK",
@@ -487,12 +491,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/love-is-blind-uk",
-    "scraped_at": "2026-09-03T09:20:44+00:00",
+    "scraped_at": "2026-09-04T09:14:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/love-is-blind-uk",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-09-03T09:20:44Z"
+    "updated_at": "2026-09-04T09:14:11Z"
   }
 ]
