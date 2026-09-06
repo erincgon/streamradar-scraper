@@ -17,13 +17,39 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/practical-magic",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/practical-magic",
     "content_type": "platform_release",
     "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
+    "updated_at": "2026-09-06T09:05:14Z"
+  },
+  {
+    "title": "Fuze",
+    "year": 2026,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2026-01-01",
+    "overview": "Top 2 trending movie on Hbo Max. An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller",
+      "War"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/342979048/s592/fuze.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/342979048/s592/fuze.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/fuze",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/fuze",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-09-06T09:05:14Z"
   },
   {
     "title": "Normal",
@@ -31,7 +57,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 2 trending movie on Hbo Max. An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+    "overview": "Top 3 trending movie on Hbo Max. An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
     "genres": [
       "Action",
       "Crime",
@@ -43,13 +69,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/normal-2025",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/normal-2025",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
+    "updated_at": "2026-09-06T09:05:14Z"
   },
   {
     "title": "The Drama",
@@ -57,7 +83,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 3 trending movie on Hbo Max. A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+    "overview": "Top 4 trending movie on Hbo Max. A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
     "genres": [
       "Comedy",
       "Crime",
@@ -69,39 +95,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-drama",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-drama",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
-  },
-  {
-    "title": "Fuze",
-    "year": 2026,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 4 trending movie on Hbo Max. An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller",
-      "War"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/345838728/s592/fuze.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/345838728/s592/fuze.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/fuze",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/fuze",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
+    "updated_at": "2026-09-06T09:05:14Z"
   },
   {
     "title": "Magnolia",
@@ -118,13 +118,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/mag-noli-a",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/mag-noli-a",
     "content_type": "platform_release",
     "published_at": "1999-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
+    "updated_at": "2026-09-06T09:05:14Z"
   },
   {
     "title": "Eyes Wide Shut",
@@ -142,13 +142,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/eyes-wide-shut",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/eyes-wide-shut",
     "content_type": "platform_release",
     "published_at": "1999-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
+    "updated_at": "2026-09-06T09:05:14Z"
   },
   {
     "title": "Weapons",
@@ -158,69 +158,70 @@
     "release_date": "2025-01-01",
     "overview": "Top 7 trending movie on Hbo Max. When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
     "genres": [
-      "Horror",
-      "Thriller"
+      "Horror"
     ],
     "poster_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
     "backdrop_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/weapons-2026",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/weapons-2026",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
+    "updated_at": "2026-09-06T09:05:14Z"
   },
   {
-    "title": "A Clockwork Orange",
-    "year": 1971,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "year": 2001,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "1971-01-01",
-    "overview": "Top 8 trending movie on Hbo Max. In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+    "release_date": "2001-01-01",
+    "overview": "Top 8 trending movie on Hbo Max. Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
     "genres": [
-      "Crime",
-      "Sci-Fi"
+      "Action",
+      "Family",
+      "Fantasy"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/47449206/s592/a-clockwork-orange.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/47449206/s592/a-clockwork-orange.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/320954661/s592/harry-potter-and-the-philosophers-stone.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/320954661/s592/harry-potter-and-the-philosophers-stone.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/a-clockwork-orange",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/harry-potter-and-the-philosophers-stone",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/a-clockwork-orange",
+    "article_url": "https://www.justwatch.com/us/movie/harry-potter-and-the-philosophers-stone",
     "content_type": "platform_release",
-    "published_at": "1971-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
+    "published_at": "2001-01-01T00:00:00Z",
+    "updated_at": "2026-09-06T09:05:14Z"
   },
   {
-    "title": "Full Metal Jacket",
-    "year": 1987,
+    "title": "The Last Samurai",
+    "year": 2003,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "1987-01-01",
-    "overview": "Top 9 trending movie on Hbo Max. A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+    "release_date": "2003-01-01",
+    "overview": "Top 9 trending movie on Hbo Max. Nathan Algren is an American hired to instruct the Japanese army in the ways of modern warfare, which finds him learning to respect the samurai and the honorable principles that rule them. Pressed to destroy the samurai's way of life in the name of modernization and open trade, Algren decides to become an ultimate warrior himself and to fight for their right to exist.",
     "genres": [
+      "Action",
       "Drama",
       "War"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/75713957/s592/la-chaqueta-metalica.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/75713957/s592/la-chaqueta-metalica.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/138585083/s592/the-last-samurai.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/138585083/s592/the-last-samurai.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/la-chaqueta-metalica",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/the-last-samurai",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/la-chaqueta-metalica",
+    "article_url": "https://www.justwatch.com/us/movie/the-last-samurai",
     "content_type": "platform_release",
-    "published_at": "1987-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
+    "published_at": "2003-01-01T00:00:00Z",
+    "updated_at": "2026-09-06T09:05:14Z"
   },
   {
     "title": "The Revenant",
@@ -239,13 +240,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-revenant",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-revenant",
     "content_type": "platform_release",
     "published_at": "2015-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
+    "updated_at": "2026-09-06T09:05:14Z"
   },
   {
     "title": "Stuart Fails to Save the Universe",
@@ -259,18 +260,18 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/347883413/s592/stuart-fails-to-save-the-universe.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/347883413/s592/stuart-fails-to-save-the-universe.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/346640192/s592/stuart-fails-to-save-the-universe.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/346640192/s592/stuart-fails-to-save-the-universe.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/stuart-fails-to-save-the-universe",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/stuart-fails-to-save-the-universe",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
+    "updated_at": "2026-09-06T09:05:14Z"
   },
   {
     "title": "House of the Dragon",
@@ -283,20 +284,21 @@
       "Action",
       "Drama",
       "Fantasy",
-      "Romance"
+      "Romance",
+      "Sci-Fi"
     ],
     "poster_image_url": "https://images.justwatch.com/poster/301444667/s592/house-of-the-dragon.webp",
     "backdrop_image_url": "https://images.justwatch.com/poster/301444667/s592/house-of-the-dragon.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/house-of-the-dragon",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/house-of-the-dragon",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
+    "updated_at": "2026-09-06T09:05:14Z"
   },
   {
     "title": "Game of Thrones",
@@ -316,13 +318,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/game-of-thrones",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/game-of-thrones",
     "content_type": "platform_release",
     "published_at": "2011-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
+    "updated_at": "2026-09-06T09:05:14Z"
   },
   {
     "title": "The Pitt",
@@ -334,18 +336,18 @@
     "genres": [
       "Drama"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/340287190/s592/the-pitt.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/340287190/s592/the-pitt.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/326276773/s592/the-pitt.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/326276773/s592/the-pitt.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-pitt",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-pitt",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
+    "updated_at": "2026-09-06T09:05:14Z"
   },
   {
     "title": "Rick and Morty",
@@ -360,18 +362,18 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/320955712/s592/rick-and-morty.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/320955712/s592/rick-and-morty.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/300655827/s592/rick-and-morty.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/300655827/s592/rick-and-morty.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/rick-and-morty",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/rick-and-morty",
     "content_type": "platform_release",
     "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
+    "updated_at": "2026-09-06T09:05:14Z"
   },
   {
     "title": "Mad Men",
@@ -388,37 +390,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/mad-men",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/mad-men",
     "content_type": "platform_release",
     "published_at": "2007-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
-  },
-  {
-    "title": "Friends",
-    "year": 1994,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "1994-01-01",
-    "overview": "Top 7 trending series on Hbo Max. The personal and professional lives of six friends living in the Manhattan borough of New York City.",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/300603462/s592/friends.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/300603462/s592/friends.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/friends",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/friends",
-    "content_type": "platform_release",
-    "published_at": "1994-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
+    "updated_at": "2026-09-06T09:05:14Z"
   },
   {
     "title": "Monsters of God",
@@ -426,7 +404,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 8 trending series on Hbo Max. A gripping documentary explores the shadowy world of exotic reptile smuggling, following two rival kingpins whose lucrative global operation supplied rare species to US zoos until betrayal sparked a devastating vendetta.",
+    "overview": "Top 7 trending series on Hbo Max. A gripping documentary explores the shadowy world of exotic reptile smuggling, following two rival kingpins whose lucrative global operation supplied rare species to US zoos until betrayal sparked a devastating vendetta.",
     "genres": [
       "Crime",
       "Documentary"
@@ -436,13 +414,61 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/monsters-of-god",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/monsters-of-god",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
+    "updated_at": "2026-09-06T09:05:14Z"
+  },
+  {
+    "title": "Friends",
+    "year": 1994,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "1994-01-01",
+    "overview": "Top 8 trending series on Hbo Max. The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/320954385/s592/friends.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/320954385/s592/friends.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/friends",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/friends",
+    "content_type": "platform_release",
+    "published_at": "1994-01-01T00:00:00Z",
+    "updated_at": "2026-09-06T09:05:14Z"
+  },
+  {
+    "title": "The Sopranos",
+    "year": 1999,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "1999-01-01",
+    "overview": "Top 9 trending series on Hbo Max. The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his...",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/306688389/s592/the-sopranos.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/306688389/s592/the-sopranos.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/the-sopranos",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-sopranos",
+    "content_type": "platform_release",
+    "published_at": "1999-01-01T00:00:00Z",
+    "updated_at": "2026-09-06T09:05:14Z"
   },
   {
     "title": "Hacks",
@@ -450,48 +476,22 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2021-01-01",
-    "overview": "Top 9 trending series on Hbo Max. Explore a dark mentorship that forms between Deborah Vance, a legendary Las Vegas comedian, and an entitled, outcast 25-year-old.",
+    "overview": "Top 10 trending series on Hbo Max. Explore a dark mentorship that forms between Deborah Vance, a legendary Las Vegas comedian, and an entitled, outcast 25-year-old.",
     "genres": [
       "Comedy",
       "Drama"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/344087479/s592/hacks.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/344087479/s592/hacks.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/346669709/s592/hacks.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/346669709/s592/hacks.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/hacks",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
+    "scraped_at": "2026-09-06T09:05:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/hacks",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
-  },
-  {
-    "title": "Band of Brothers",
-    "year": 2001,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2001-01-01",
-    "overview": "Top 10 trending series on Hbo Max. Drawn from interviews with survivors of Easy Company, as well as their journals and letters, Band of Brothers chronicles the experiences of these men from paratrooper training in Georgia through the end of the war. As an elite rifle company parachuting into Normandy early on D-Day morning, participants in the Battle of the Bulge, and witness to the horrors of war, the men of Easy knew extraordinary bravery and extraordinary fear - and became the stuff of...",
-    "genres": [
-      "Action",
-      "Drama",
-      "History",
-      "War"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/248240709/s592/band-of-brothers.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/248240709/s592/band-of-brothers.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/band-of-brothers",
-    "scraped_at": "2026-09-05T08:43:37+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/band-of-brothers",
-    "content_type": "platform_release",
-    "published_at": "2001-01-01T00:00:00Z",
-    "updated_at": "2026-09-05T08:43:37Z"
+    "updated_at": "2026-09-06T09:05:14Z"
   }
 ]
