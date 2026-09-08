@@ -17,13 +17,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
+    "updated_at": "2026-09-08T09:16:32Z"
   },
   {
     "title": "Ready or Not 2: Here I Come",
@@ -42,13 +42,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/ready-or-not-here-i-come",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/ready-or-not-here-i-come",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
+    "updated_at": "2026-09-08T09:16:32Z"
   },
   {
     "title": "Spider-Man: No Way Home",
@@ -67,13 +67,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/spider-man-no-way-home",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/spider-man-no-way-home",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
+    "updated_at": "2026-09-08T09:16:32Z"
   },
   {
     "title": "Spider-Man: Homecoming",
@@ -91,38 +91,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/spider-man-homecoming",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/spider-man-homecoming",
     "content_type": "platform_release",
     "published_at": "2017-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
-  },
-  {
-    "title": "10 Things I Hate About You",
-    "year": 1999,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "1999-01-01",
-    "overview": "Top 5 trending movie on Disney Plus. A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat.",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/178334676/s592/10-things-i-hate-about-you.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/178334676/s592/10-things-i-hate-about-you.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/10-things-i-hate-about-you",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/10-things-i-hate-about-you",
-    "content_type": "platform_release",
-    "published_at": "1999-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
+    "updated_at": "2026-09-08T09:16:32Z"
   },
   {
     "title": "Jurassic Park",
@@ -130,7 +105,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "1993-01-01",
-    "overview": "Top 6 trending movie on Disney Plus. A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+    "overview": "Top 5 trending movie on Disney Plus. A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
     "genres": [
       "Action",
       "Sci-Fi"
@@ -140,13 +115,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/jurassic-park-i",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/jurassic-park-i",
     "content_type": "platform_release",
     "published_at": "1993-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
+    "updated_at": "2026-09-08T09:16:32Z"
+  },
+  {
+    "title": "10 Things I Hate About You",
+    "year": 1999,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "1999-01-01",
+    "overview": "Top 6 trending movie on Disney Plus. A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/320954577/s592/10-things-i-hate-about-you.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/320954577/s592/10-things-i-hate-about-you.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/10-things-i-hate-about-you",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/10-things-i-hate-about-you",
+    "content_type": "platform_release",
+    "published_at": "1999-01-01T00:00:00Z",
+    "updated_at": "2026-09-08T09:16:32Z"
   },
   {
     "title": "Avatar: Fire and Ash",
@@ -166,39 +166,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/avatar-3",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/avatar-3",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
-  },
-  {
-    "title": "Ice Princess",
-    "year": 2005,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "2005-01-01",
-    "overview": "Top 8 trending movie on Disney Plus. With the help of her coach, her mom, and the boy who drives the Zamboni, nothing can stop Casey Carlyle from realizing her dream to be a champion figure skater.",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Family",
-      "Sport"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/268090120/s592/ice-princess.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/268090120/s592/ice-princess.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/ice-princess",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/ice-princess",
-    "content_type": "platform_release",
-    "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
+    "updated_at": "2026-09-08T09:16:32Z"
   },
   {
     "title": "Who Framed Roger Rabbit",
@@ -206,7 +180,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "1988-01-01",
-    "overview": "Top 9 trending movie on Disney Plus. Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+    "overview": "Top 8 trending movie on Disney Plus. Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
     "genres": [
       "Animation",
       "Comedy",
@@ -219,13 +193,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/who-framed-roger-rabbit",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/who-framed-roger-rabbit",
     "content_type": "platform_release",
     "published_at": "1988-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
+    "updated_at": "2026-09-08T09:16:32Z"
+  },
+  {
+    "title": "Remember the Titans",
+    "year": 2000,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "2000-01-01",
+    "overview": "Top 9 trending movie on Disney Plus. After leading his football team to 15 winning seasons, coach Bill Yoast is demoted and replaced by Herman Boone – tough, opinionated and as different from the beloved Yoast as he could be. The two men learn to overcome their differences and turn a group of hostile young men into champions.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sport"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/320954668/s592/remember-the-titans.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/320954668/s592/remember-the-titans.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/remember-the-titans",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/remember-the-titans",
+    "content_type": "platform_release",
+    "published_at": "2000-01-01T00:00:00Z",
+    "updated_at": "2026-09-08T09:16:32Z"
   },
   {
     "title": "Spider-Man: Far From Home",
@@ -240,18 +239,18 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/320956583/s592/spider-man-far-from-home.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/320956583/s592/spider-man-far-from-home.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/148175546/s592/spider-man-far-from-home.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/148175546/s592/spider-man-far-from-home.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/spider-man-far-from-home",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/spider-man-far-from-home",
     "content_type": "platform_release",
     "published_at": "2019-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
+    "updated_at": "2026-09-08T09:16:32Z"
   },
   {
     "title": "The Bear",
@@ -269,13 +268,42 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-bear",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-bear",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
+    "updated_at": "2026-09-08T09:16:32Z"
+  },
+  {
+    "title": "Pokémon",
+    "year": 1997,
+    "type": "series",
+    "platform": "disney_plus",
+    "release_date": "1997-01-01",
+    "overview": "Top 2 trending series on Disney Plus. Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/320954679/s592/pokemon.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/320954679/s592/pokemon.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/pokemon",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/pokemon",
+    "content_type": "platform_release",
+    "published_at": "1997-01-01T00:00:00Z",
+    "updated_at": "2026-09-08T09:16:32Z"
   },
   {
     "title": "Desperate Housewives",
@@ -283,7 +311,7 @@
     "type": "series",
     "platform": "disney_plus",
     "release_date": "2004-01-01",
-    "overview": "Top 2 trending series on Disney Plus. Looking down on her friends and family isn't a way of life for Mary Alice Young... it's a way of death. One day, in her perfect house, in the loveliest of suburbs, Mary Alice ended it all. Now she's taking us into the lives of her family, friends and neighbors, commenting from her elevated P.O.V.",
+    "overview": "Top 3 trending series on Disney Plus. Looking down on her friends and family isn't a way of life for Mary Alice Young... it's a way of death. One day, in her perfect house, in the loveliest of suburbs, Mary Alice ended it all. Now she's taking us into the lives of her family, friends and neighbors, commenting from her elevated P.O.V.",
     "genres": [
       "Comedy",
       "Drama",
@@ -295,42 +323,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/desperate-housewives",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/desperate-housewives",
     "content_type": "platform_release",
     "published_at": "2004-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
-  },
-  {
-    "title": "Pokémon",
-    "year": 1997,
-    "type": "series",
-    "platform": "disney_plus",
-    "release_date": "1997-01-01",
-    "overview": "Top 3 trending series on Disney Plus. Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
-    "genres": [
-      "Action",
-      "Animation",
-      "Comedy",
-      "Drama",
-      "Family",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/245378575/s592/pokemon.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/245378575/s592/pokemon.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/pokemon",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/pokemon",
-    "content_type": "platform_release",
-    "published_at": "1997-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
+    "updated_at": "2026-09-08T09:16:32Z"
   },
   {
     "title": "Project Runway",
@@ -347,13 +346,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/project-runway",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/project-runway",
     "content_type": "platform_release",
     "published_at": "2004-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
+    "updated_at": "2026-09-08T09:16:32Z"
   },
   {
     "title": "The Simpsons",
@@ -366,18 +365,18 @@
       "Animation",
       "Comedy"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/320954277/s592/the-simpsons.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/320954277/s592/the-simpsons.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/348811165/s592/the-simpsons.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/348811165/s592/the-simpsons.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
     "content_type": "platform_release",
     "published_at": "1989-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
+    "updated_at": "2026-09-08T09:16:32Z"
   },
   {
     "title": "The Mandalorian",
@@ -396,13 +395,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-mandalorian",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-mandalorian",
     "content_type": "platform_release",
     "published_at": "2019-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
+    "updated_at": "2026-09-08T09:16:32Z"
   },
   {
     "title": "Marvel's The Punisher",
@@ -422,13 +421,40 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/marvels-the-punisher",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/marvels-the-punisher",
     "content_type": "platform_release",
     "published_at": "2017-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
+    "updated_at": "2026-09-08T09:16:32Z"
+  },
+  {
+    "title": "Andor",
+    "year": 2022,
+    "type": "series",
+    "platform": "disney_plus",
+    "release_date": "2022-01-01",
+    "overview": "Top 8 trending series on Disney Plus. In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/330389822/s592/andor.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/330389822/s592/andor.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/andor",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/andor",
+    "content_type": "platform_release",
+    "published_at": "2022-01-01T00:00:00Z",
+    "updated_at": "2026-09-08T09:16:32Z"
   },
   {
     "title": "Will Trent",
@@ -436,7 +462,7 @@
     "type": "series",
     "platform": "disney_plus",
     "release_date": "2023-01-01",
-    "overview": "Top 8 trending series on Disney Plus. Special Agent Will Trent was abandoned at birth and endured a harsh coming-of-age in Atlanta's overwhelmed foster-care system. Determined to make sure that nobody else feels as he did, he now has the highest clearance rate.",
+    "overview": "Top 9 trending series on Disney Plus. Special Agent Will Trent was abandoned at birth and endured a harsh coming-of-age in Atlanta's overwhelmed foster-care system. Determined to make sure that nobody else feels as he did, he now has the highest clearance rate.",
     "genres": [
       "Comedy",
       "Crime",
@@ -447,61 +473,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/will-trent",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/will-trent",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
+    "updated_at": "2026-09-08T09:16:32Z"
   },
   {
-    "title": "Only Murders in the Building",
-    "year": 2021,
+    "title": "How I Met Your Mother",
+    "year": 2005,
     "type": "series",
     "platform": "disney_plus",
-    "release_date": "2021-01-01",
-    "overview": "Top 9 trending series on Disney Plus. Charles, Oliver and Mabel, three eccentric neighbors, find purpose and chaos in solving murders that hit close to home through their true-crime podcast, turning their New York apartment building into a playground of mystery and mischief.",
+    "release_date": "2005-01-01",
+    "overview": "Top 10 trending series on Disney Plus. A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
     "genres": [
       "Comedy",
-      "Crime",
       "Drama",
-      "Thriller"
+      "Romance"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/334473845/s592/only-murders-in-the-building.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/334473845/s592/only-murders-in-the-building.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/178160024/s592/how-i-met-your-mother.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/178160024/s592/how-i-met-your-mother.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/how-i-met-your-mother",
+    "scraped_at": "2026-09-08T09:16:32+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
+    "article_url": "https://www.justwatch.com/us/tv-show/how-i-met-your-mother",
     "content_type": "platform_release",
-    "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
-  },
-  {
-    "title": "MasterChef",
-    "year": 2010,
-    "type": "series",
-    "platform": "disney_plus",
-    "release_date": "2010-01-01",
-    "overview": "Top 10 trending series on Disney Plus. This hit cooking competition series sees award-winning chef Gordon Ramsay and other celebrity chefs put a group of contestants through a series of challenges and elimination rounds, in order to turn one home cook into a culinary master.",
-    "genres": [
-      "Reality"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/19182748/s592/masterchef.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/19182748/s592/masterchef.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/masterchef",
-    "scraped_at": "2026-09-07T09:52:03+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/masterchef",
-    "content_type": "platform_release",
-    "published_at": "2010-01-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:52:03Z"
+    "published_at": "2005-01-01T00:00:00Z",
+    "updated_at": "2026-09-08T09:16:32Z"
   }
 ]

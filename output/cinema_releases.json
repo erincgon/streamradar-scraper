@@ -1,5 +1,26 @@
 [
   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "year": 2026,
+    "type": "movie",
+    "platform": "cinema",
+    "release_date": "2026-09-04",
+    "overview": "Movie currently playing in cinema theaters. Distributed by MUBI. Showing in -350 theaters.",
+    "genres": [],
+    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.imdb.com/title/tt35298123/",
+    "scraped_at": "2026-09-08T09:24:26+00:00",
+    "source_name": "IMDb",
+    "source_domain": "imdb.com",
+    "article_url": "https://www.imdb.com/title/tt35298123/",
+    "content_type": "cinema_release",
+    "published_at": "2026-09-04T00:00:00Z",
+    "updated_at": "2026-09-08T09:24:26Z"
+  },
+  {
     "title": "Onslaught",
     "year": 2026,
     "type": "movie",
@@ -12,13 +33,34 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt32268691/",
-    "scraped_at": "2026-09-07T09:59:03+00:00",
+    "scraped_at": "2026-09-08T09:24:26+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt32268691/",
     "content_type": "cinema_release",
     "published_at": "2026-09-04T00:00:00Z",
-    "updated_at": "2026-09-07T09:59:03Z"
+    "updated_at": "2026-09-08T09:24:26Z"
+  },
+  {
+    "title": "Mirzapur: The Movie",
+    "year": 2026,
+    "type": "movie",
+    "platform": "cinema",
+    "release_date": "2026-09-04",
+    "overview": "Movie currently playing in cinema theaters. Distributed by Amazon Studios.",
+    "genres": [],
+    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZjhlYWY1NWUtYjU4Zi00MDg4LWE2N2MtYjQzMjBkMjgwOWI5XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BZjhlYWY1NWUtYjU4Zi00MDg4LWE2N2MtYjQzMjBkMjgwOWI5XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.imdb.com/title/tt34339725/",
+    "scraped_at": "2026-09-08T09:24:26+00:00",
+    "source_name": "IMDb",
+    "source_domain": "imdb.com",
+    "article_url": "https://www.imdb.com/title/tt34339725/",
+    "content_type": "cinema_release",
+    "published_at": "2026-09-04T00:00:00Z",
+    "updated_at": "2026-09-08T09:24:26Z"
   },
   {
     "title": "By Any Means",
@@ -33,34 +75,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt34379051/",
-    "scraped_at": "2026-09-07T09:59:03+00:00",
+    "scraped_at": "2026-09-08T09:24:26+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt34379051/",
     "content_type": "cinema_release",
     "published_at": "2026-09-04T00:00:00Z",
-    "updated_at": "2026-09-07T09:59:03Z"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "year": 2026,
-    "type": "movie",
-    "platform": "cinema",
-    "release_date": "2026-09-03",
-    "overview": "Movie currently playing in cinema theaters. Distributed by MUBI. Showing in -350 theaters.",
-    "genres": [],
-    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.imdb.com/title/tt35298123/",
-    "scraped_at": "2026-09-07T09:59:03+00:00",
-    "source_name": "IMDb",
-    "source_domain": "imdb.com",
-    "article_url": "https://www.imdb.com/title/tt35298123/",
-    "content_type": "cinema_release",
-    "published_at": "2026-09-03T00:00:00Z",
-    "updated_at": "2026-09-07T09:59:03Z"
+    "updated_at": "2026-09-08T09:24:26Z"
   },
   {
     "title": "Fall 2: Deadpoint",
@@ -75,13 +96,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt31192372/",
-    "scraped_at": "2026-09-07T09:59:03+00:00",
+    "scraped_at": "2026-09-08T09:24:26+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt31192372/",
     "content_type": "cinema_release",
     "published_at": "2026-09-02T00:00:00Z",
-    "updated_at": "2026-09-07T09:59:03Z"
+    "updated_at": "2026-09-08T09:24:26Z"
   },
   {
     "title": "The Dog Stars",
@@ -96,13 +117,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt21285562/",
-    "scraped_at": "2026-09-07T09:59:03+00:00",
+    "scraped_at": "2026-09-08T09:24:26+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt21285562/",
     "content_type": "cinema_release",
     "published_at": "2026-08-28T00:00:00Z",
-    "updated_at": "2026-09-07T09:59:03Z"
+    "updated_at": "2026-09-08T09:24:26Z"
   },
   {
     "title": "Finding Emily",
@@ -117,13 +138,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt32499466/",
-    "scraped_at": "2026-09-07T09:59:03+00:00",
+    "scraped_at": "2026-09-08T09:24:26+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt32499466/",
     "content_type": "cinema_release",
     "published_at": "2026-08-28T00:00:00Z",
-    "updated_at": "2026-09-07T09:59:03Z"
+    "updated_at": "2026-09-08T09:24:26Z"
   },
   {
     "title": "Coyote vs. Acme",
@@ -138,13 +159,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt1756855/",
-    "scraped_at": "2026-09-07T09:59:03+00:00",
+    "scraped_at": "2026-09-08T09:24:26+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt1756855/",
     "content_type": "cinema_release",
     "published_at": "2026-08-28T00:00:00Z",
-    "updated_at": "2026-09-07T09:59:03Z"
+    "updated_at": "2026-09-08T09:24:26Z"
   },
   {
     "title": "Spa Weekend",
@@ -159,13 +180,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt33305867/",
-    "scraped_at": "2026-09-07T09:59:03+00:00",
+    "scraped_at": "2026-09-08T09:24:26+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt33305867/",
     "content_type": "cinema_release",
     "published_at": "2026-08-21T00:00:00Z",
-    "updated_at": "2026-09-07T09:59:03Z"
+    "updated_at": "2026-09-08T09:24:26Z"
   },
   {
     "title": "Insidious: Out of the Further",
@@ -180,13 +201,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt32393988/",
-    "scraped_at": "2026-09-07T09:59:03+00:00",
+    "scraped_at": "2026-09-08T09:24:26+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt32393988/",
     "content_type": "cinema_release",
     "published_at": "2026-08-21T00:00:00Z",
-    "updated_at": "2026-09-07T09:59:03Z"
+    "updated_at": "2026-09-08T09:24:26Z"
   },
   {
     "title": "The End of Oak Street",
@@ -201,13 +222,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt27165187/",
-    "scraped_at": "2026-09-07T09:59:03+00:00",
+    "scraped_at": "2026-09-08T09:24:26+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt27165187/",
     "content_type": "cinema_release",
     "published_at": "2026-08-14T00:00:00Z",
-    "updated_at": "2026-09-07T09:59:03Z"
+    "updated_at": "2026-09-08T09:24:26Z"
   },
   {
     "title": "PAW Patrol: The Dino Movie",
@@ -222,13 +243,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt29356163/",
-    "scraped_at": "2026-09-07T09:59:03+00:00",
+    "scraped_at": "2026-09-08T09:24:26+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt29356163/",
     "content_type": "cinema_release",
     "published_at": "2026-08-14T00:00:00Z",
-    "updated_at": "2026-09-07T09:59:03Z"
+    "updated_at": "2026-09-08T09:24:26Z"
   },
   {
     "title": "Spider-Man: Brand New Day",
@@ -243,13 +264,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt22084616/",
-    "scraped_at": "2026-09-07T09:59:03+00:00",
+    "scraped_at": "2026-09-08T09:24:26+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt22084616/",
     "content_type": "cinema_release",
     "published_at": "2026-07-31T00:00:00Z",
-    "updated_at": "2026-09-07T09:59:03Z"
+    "updated_at": "2026-09-08T09:24:26Z"
   },
   {
     "title": "The Odyssey",
@@ -264,34 +285,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt33764258/",
-    "scraped_at": "2026-09-07T09:59:03+00:00",
+    "scraped_at": "2026-09-08T09:24:26+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt33764258/",
     "content_type": "cinema_release",
     "published_at": "2026-07-17T00:00:00Z",
-    "updated_at": "2026-09-07T09:59:03Z"
-  },
-  {
-    "title": "Minions & Monsters",
-    "year": 2026,
-    "type": "movie",
-    "platform": "cinema",
-    "release_date": "2026-07-01",
-    "overview": "Movie currently playing in cinema theaters. Distributed by Universal Pictures. Showing in -224 theaters.",
-    "genres": [],
-    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.imdb.com/title/tt32890033/",
-    "scraped_at": "2026-09-07T09:59:03+00:00",
-    "source_name": "IMDb",
-    "source_domain": "imdb.com",
-    "article_url": "https://www.imdb.com/title/tt32890033/",
-    "content_type": "cinema_release",
-    "published_at": "2026-07-01T00:00:00Z",
-    "updated_at": "2026-09-07T09:59:03Z"
+    "updated_at": "2026-09-08T09:24:26Z"
   },
   {
     "title": "Toy Story 5",
@@ -306,12 +306,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt29355505/",
-    "scraped_at": "2026-09-07T09:59:03+00:00",
+    "scraped_at": "2026-09-08T09:24:26+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt29355505/",
     "content_type": "cinema_release",
     "published_at": "2026-06-19T00:00:00Z",
-    "updated_at": "2026-09-07T09:59:03Z"
+    "updated_at": "2026-09-08T09:24:26Z"
   }
 ]
