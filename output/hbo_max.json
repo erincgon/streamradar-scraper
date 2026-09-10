@@ -17,13 +17,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/practical-magic",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/practical-magic",
     "content_type": "platform_release",
     "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
+    "updated_at": "2026-09-10T09:18:23Z"
   },
   {
     "title": "Fuze",
@@ -43,13 +43,39 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/fuze",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/fuze",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
+    "updated_at": "2026-09-10T09:18:23Z"
+  },
+  {
+    "title": "Supergirl",
+    "year": 2026,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2026-01-01",
+    "overview": "Top 3 trending movie on Hbo Max. When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/346716416/s592/supergirl-woman-of-tomorrow.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/346716416/s592/supergirl-woman-of-tomorrow.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/supergirl-woman-of-tomorrow",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/supergirl-woman-of-tomorrow",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-09-10T09:18:23Z"
   },
   {
     "title": "The Drama",
@@ -57,7 +83,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 3 trending movie on Hbo Max. A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+    "overview": "Top 4 trending movie on Hbo Max. A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
     "genres": [
       "Comedy",
       "Crime",
@@ -69,13 +95,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-drama",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-drama",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
+    "updated_at": "2026-09-10T09:18:23Z"
   },
   {
     "title": "Normal",
@@ -83,7 +109,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 4 trending movie on Hbo Max. An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+    "overview": "Top 5 trending movie on Hbo Max. An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
     "genres": [
       "Action",
       "Crime",
@@ -94,13 +120,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/normal-2025",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/normal-2025",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
+    "updated_at": "2026-09-10T09:18:23Z"
   },
   {
     "title": "Weapons",
@@ -108,7 +134,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 5 trending movie on Hbo Max. When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "overview": "Top 6 trending movie on Hbo Max. When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
     "genres": [
       "Horror",
       "Thriller"
@@ -118,60 +144,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/weapons-2026",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/weapons-2026",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
-  },
-  {
-    "title": "Eyes Wide Shut",
-    "year": 1999,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "1999-01-01",
-    "overview": "Top 6 trending movie on Hbo Max. After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/320954417/s592/eyes-wide-shut.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/320954417/s592/eyes-wide-shut.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/eyes-wide-shut",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/eyes-wide-shut",
-    "content_type": "platform_release",
-    "published_at": "1999-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
-  },
-  {
-    "title": "Magnolia",
-    "year": 1999,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "1999-01-01",
-    "overview": "Top 7 trending movie on Hbo Max. On one random day in the San Fernando Valley, a dying father, a young wife, a male caretaker, a famous lost son, a police officer in love, a boy genius, an ex-boy genius, a game show host and an estranged daughter will each become part of a dazzling multiplicity of plots, but one story.",
-    "genres": [
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/283299159/s592/mag-noli-a.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/283299159/s592/mag-noli-a.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/mag-noli-a",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/mag-noli-a",
-    "content_type": "platform_release",
-    "published_at": "1999-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
+    "updated_at": "2026-09-10T09:18:23Z"
   },
   {
     "title": "The Long Walk",
@@ -179,23 +158,49 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 8 trending movie on Hbo Max. In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
+    "overview": "Top 7 trending movie on Hbo Max. In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
     "genres": [
       "Horror",
+      "Sci-Fi",
       "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/330718240/s592/the-long-walk-2025.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/330718240/s592/the-long-walk-2025.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/330628021/s592/the-long-walk-2025.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/330628021/s592/the-long-walk-2025.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-long-walk-2025",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-long-walk-2025",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
+    "updated_at": "2026-09-10T09:18:23Z"
+  },
+  {
+    "title": "Sinners",
+    "year": 2025,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2025-01-01",
+    "overview": "Top 8 trending movie on Hbo Max. Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/320977032/s592/sinners-2025.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/320977032/s592/sinners-2025.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/sinners-2025",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/sinners-2025",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-09-10T09:18:23Z"
   },
   {
     "title": "A Clockwork Orange",
@@ -213,38 +218,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/a-clockwork-orange",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/a-clockwork-orange",
     "content_type": "platform_release",
     "published_at": "1971-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
+    "updated_at": "2026-09-10T09:18:23Z"
   },
   {
-    "title": "Sinners",
-    "year": 2025,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "year": 2001,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "2025-01-01",
-    "overview": "Top 10 trending movie on Hbo Max. Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+    "release_date": "2001-01-01",
+    "overview": "Top 10 trending movie on Hbo Max. Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
     "genres": [
       "Action",
-      "Horror",
-      "Thriller"
+      "Family",
+      "Fantasy"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/320977032/s592/sinners-2025.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/320977032/s592/sinners-2025.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/87608067/s592/harry-potter-and-the-philosophers-stone.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/87608067/s592/harry-potter-and-the-philosophers-stone.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/sinners-2025",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/harry-potter-and-the-philosophers-stone",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/sinners-2025",
+    "article_url": "https://www.justwatch.com/us/movie/harry-potter-and-the-philosophers-stone",
     "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
+    "published_at": "2001-01-01T00:00:00Z",
+    "updated_at": "2026-09-10T09:18:23Z"
   },
   {
     "title": "Lanterns",
@@ -260,18 +265,42 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/348909475/s592/lanterns.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/348909475/s592/lanterns.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/347103107/s592/lanterns.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/347103107/s592/lanterns.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/lanterns",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
+    "updated_at": "2026-09-10T09:18:23Z"
+  },
+  {
+    "title": "Nathan for You",
+    "year": 2013,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2013-01-01",
+    "overview": "Top 2 trending series on Hbo Max. Self-proclaimed business expert, writer, director and comedian Nathan Fielder helps real small businesses turn a profit with marketing tactics that no ordinary consultant would dare to attempt. From driving foot traffic to an off-the-strip souvenir shop by using Hollywood flair and a Johnny Depp impersonator, to creating a rebate that can only be redeemed by climbing a mountain, to founding a coffee shop called \"Dumb Starbucks,” Nathan has always gone to the...",
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
+    "content_type": "platform_release",
+    "published_at": "2013-01-01T00:00:00Z",
+    "updated_at": "2026-09-10T09:18:23Z"
   },
   {
     "title": "Stuart Fails to Save the Universe",
@@ -279,7 +308,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 2 trending series on Hbo Max. Comic book store owner Stuart Bloom, from The Big Bang Theory (2007), returns in a new series where he attempts—and apparently fails—to save the universe, staying true to his unlucky nature.",
+    "overview": "Top 3 trending series on Hbo Max. Comic book store owner Stuart Bloom, from The Big Bang Theory (2007), returns in a new series where he attempts—and apparently fails—to save the universe, staying true to his unlucky nature.",
     "genres": [
       "Comedy",
       "Fantasy",
@@ -290,37 +319,83 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/stuart-fails-to-save-the-universe",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/stuart-fails-to-save-the-universe",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
+    "updated_at": "2026-09-10T09:18:23Z"
   },
   {
-    "title": "Nathan for You",
-    "year": 2013,
+    "title": "The Rehearsal",
+    "year": 2022,
     "type": "series",
     "platform": "hbo_max",
-    "release_date": "2013-01-01",
-    "overview": "Top 3 trending series on Hbo Max. Self-proclaimed business expert, writer, director and comedian Nathan Fielder helps real small businesses turn a profit with marketing tactics that no ordinary consultant would dare to attempt. From driving foot traffic to an off-the-strip souvenir shop by using Hollywood flair and a Johnny Depp impersonator, to creating a rebate that can only be redeemed by climbing a mountain, to founding a coffee shop called \"Dumb Starbucks,” Nathan has always gone to the...",
+    "release_date": "2022-01-01",
+    "overview": "Top 4 trending series on Hbo Max. Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
     "genres": [
       "Comedy",
       "Documentary"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/331181889/s592/the-rehearsal.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/331181889/s592/the-rehearsal.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
     "content_type": "platform_release",
-    "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
+    "published_at": "2022-01-01T00:00:00Z",
+    "updated_at": "2026-09-10T09:18:23Z"
+  },
+  {
+    "title": "Collision",
+    "year": 2026,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2026-01-01",
+    "overview": "Top 5 trending series on Hbo Max. When business magnate Miguel Ángel dies in a mysterious crash, his daughter Zoé and estranged wife Belén fight for control of his company.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/354523427/s592/colision.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354523427/s592/colision.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/colision",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/colision",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-09-10T09:18:23Z"
+  },
+  {
+    "title": "The Pitt",
+    "year": 2025,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2025-01-01",
+    "overview": "Top 6 trending series on Hbo Max. The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/326276773/s592/the-pitt.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/326276773/s592/the-pitt.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/the-pitt",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-pitt",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-09-10T09:18:23Z"
   },
   {
     "title": "House of the Dragon",
@@ -328,7 +403,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2022-01-01",
-    "overview": "Top 4 trending series on Hbo Max. An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+    "overview": "Top 7 trending series on Hbo Max. An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
     "genres": [
       "Action",
       "Drama",
@@ -341,13 +416,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/house-of-the-dragon",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/house-of-the-dragon",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
+    "updated_at": "2026-09-10T09:18:23Z"
   },
   {
     "title": "Band of Brothers",
@@ -355,7 +430,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2001-01-01",
-    "overview": "Top 5 trending series on Hbo Max. Drawn from interviews with survivors of Easy Company, as well as their journals and letters, Band of Brothers chronicles the experiences of these men from paratrooper training in Georgia through the end of the war. As an elite rifle company parachuting into Normandy early on D-Day morning, participants in the Battle of the Bulge, and witness to the horrors of war, the men of Easy knew extraordinary bravery and extraordinary fear - and became the stuff of...",
+    "overview": "Top 8 trending series on Hbo Max. Drawn from interviews with survivors of Easy Company, as well as their journals and letters, Band of Brothers chronicles the experiences of these men from paratrooper training in Georgia through the end of the war. As an elite rifle company parachuting into Normandy early on D-Day morning, participants in the Battle of the Bulge, and witness to the horrors of war, the men of Easy knew extraordinary bravery and extraordinary fear - and became the stuff of...",
     "genres": [
       "Action",
       "Drama",
@@ -367,85 +442,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/band-of-brothers",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/band-of-brothers",
     "content_type": "platform_release",
     "published_at": "2001-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
-  },
-  {
-    "title": "The Rehearsal",
-    "year": 2022,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2022-01-01",
-    "overview": "Top 6 trending series on Hbo Max. Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
-    "genres": [
-      "Comedy",
-      "Documentary"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/331181889/s592/the-rehearsal.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/331181889/s592/the-rehearsal.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
-    "content_type": "platform_release",
-    "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
-  },
-  {
-    "title": "The Pitt",
-    "year": 2025,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2025-01-01",
-    "overview": "Top 7 trending series on Hbo Max. The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-    "genres": [
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/326276773/s592/the-pitt.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/326276773/s592/the-pitt.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-pitt",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-pitt",
-    "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
-  },
-  {
-    "title": "DTF St. Louis",
-    "year": 2026,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 8 trending series on Hbo Max. A love triangle among three adults experiencing middle-age malaise leads to one of them ending up dead.",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/342980288/s592/dtf-st-louis.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/342980288/s592/dtf-st-louis.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/dtf-st-louis",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/dtf-st-louis",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
+    "updated_at": "2026-09-10T09:18:23Z"
   },
   {
     "title": "Mad Men",
@@ -457,40 +460,42 @@
     "genres": [
       "Drama"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/319958903/s592/mad-men.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/319958903/s592/mad-men.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/176952716/s592/mad-men.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/176952716/s592/mad-men.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/mad-men",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/mad-men",
     "content_type": "platform_release",
     "published_at": "2007-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
+    "updated_at": "2026-09-10T09:18:23Z"
   },
   {
-    "title": "Schitt's Creek",
-    "year": 2015,
+    "title": "DTF St. Louis",
+    "year": 2026,
     "type": "series",
     "platform": "hbo_max",
-    "release_date": "2015-01-01",
-    "overview": "Top 10 trending series on Hbo Max. Formerly filthy rich video store magnate Johnny Rose, his soap star wife Moira, and their two kids, über-hipster son David and socialite daughter Alexis, suddenly find themselves broke and forced to live in Schitt's Creek, a small depressing town they once bought as a joke.",
+    "release_date": "2026-01-01",
+    "overview": "Top 10 trending series on Hbo Max. A love triangle among three adults experiencing middle-age malaise leads to one of them ending up dead.",
     "genres": [
-      "Comedy"
+      "Comedy",
+      "Drama",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/320937497/s592/schitts-creek.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/320937497/s592/schitts-creek.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/342980288/s592/dtf-st-louis.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/342980288/s592/dtf-st-louis.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/schitts-creek",
-    "scraped_at": "2026-09-09T09:20:18+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/dtf-st-louis",
+    "scraped_at": "2026-09-10T09:18:23+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/schitts-creek",
+    "article_url": "https://www.justwatch.com/us/tv-show/dtf-st-louis",
     "content_type": "platform_release",
-    "published_at": "2015-01-01T00:00:00Z",
-    "updated_at": "2026-09-09T09:20:18Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-09-10T09:18:23Z"
   }
 ]
