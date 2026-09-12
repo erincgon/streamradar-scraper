@@ -17,13 +17,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/practical-magic",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/practical-magic",
     "content_type": "platform_release",
     "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
+    "updated_at": "2026-09-12T08:57:39Z"
   },
   {
     "title": "Supergirl",
@@ -43,13 +43,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/supergirl-woman-of-tomorrow",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/supergirl-woman-of-tomorrow",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
+    "updated_at": "2026-09-12T08:57:39Z"
   },
   {
     "title": "Fuze",
@@ -69,13 +69,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/fuze",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/fuze",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
+    "updated_at": "2026-09-12T08:57:39Z"
   },
   {
     "title": "The Drama",
@@ -95,13 +95,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-drama",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-drama",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
+    "updated_at": "2026-09-12T08:57:39Z"
   },
   {
     "title": "Normal",
@@ -120,62 +120,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/normal-2025",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/normal-2025",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
+    "updated_at": "2026-09-12T08:57:39Z"
   },
   {
-    "title": "Weapons",
-    "year": 2025,
+    "title": "The Inventor: Out for Blood in Silicon Valley",
+    "year": 2019,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "2025-01-01",
-    "overview": "Top 6 trending movie on Hbo Max. When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "release_date": "2019-01-01",
+    "overview": "Top 6 trending movie on Hbo Max. With a magical new invention that promised to revolutionize blood testing, Elizabeth Holmes became the world’s youngest self-made billionaire, heralded as the next Steve Jobs. Then, overnight, her 10-billion-dollar company dissolved. The rise and fall of Theranos is a window into the psychology of fraud.",
     "genres": [
-      "Horror",
-      "Thriller"
+      "Crime",
+      "Documentary"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/111895367/s592/the-inventor-out-for-blood-in-silicon-valley.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/111895367/s592/the-inventor-out-for-blood-in-silicon-valley.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/weapons-2026",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/the-inventor-out-for-blood-in-silicon-valley",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/weapons-2026",
+    "article_url": "https://www.justwatch.com/us/movie/the-inventor-out-for-blood-in-silicon-valley",
     "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
-  },
-  {
-    "title": "The Long Walk",
-    "year": 2025,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2025-01-01",
-    "overview": "Top 7 trending movie on Hbo Max. In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
-    "genres": [
-      "Horror",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/330628021/s592/the-long-walk-2025.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/330628021/s592/the-long-walk-2025.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-long-walk-2025",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-long-walk-2025",
-    "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
+    "published_at": "2019-01-01T00:00:00Z",
+    "updated_at": "2026-09-12T08:57:39Z"
   },
   {
     "title": "Sinners",
@@ -183,7 +158,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 8 trending movie on Hbo Max. Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+    "overview": "Top 7 trending movie on Hbo Max. Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
     "genres": [
       "Action",
       "Horror",
@@ -194,13 +169,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/sinners-2025",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/sinners-2025",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
+    "updated_at": "2026-09-12T08:57:39Z"
   },
   {
     "title": "Barbarian",
@@ -208,7 +183,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2022-01-01",
-    "overview": "Top 9 trending movie on Hbo Max. In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+    "overview": "Top 8 trending movie on Hbo Max. In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
     "genres": [
       "Horror",
       "Thriller"
@@ -218,37 +193,62 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/barbarian",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/barbarian",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
+    "updated_at": "2026-09-12T08:57:39Z"
   },
   {
-    "title": "The Inventor: Out for Blood in Silicon Valley",
-    "year": 2019,
+    "title": "The Long Walk",
+    "year": 2025,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "2019-01-01",
-    "overview": "Top 10 trending movie on Hbo Max. With a magical new invention that promised to revolutionize blood testing, Elizabeth Holmes became the world’s youngest self-made billionaire, heralded as the next Steve Jobs. Then, overnight, her 10-billion-dollar company dissolved. The rise and fall of Theranos is a window into the psychology of fraud.",
+    "release_date": "2025-01-01",
+    "overview": "Top 9 trending movie on Hbo Max. In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
     "genres": [
-      "Crime",
-      "Documentary"
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/111895367/s592/the-inventor-out-for-blood-in-silicon-valley.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/111895367/s592/the-inventor-out-for-blood-in-silicon-valley.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/330628021/s592/the-long-walk-2025.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/330628021/s592/the-long-walk-2025.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-inventor-out-for-blood-in-silicon-valley",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/the-long-walk-2025",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-inventor-out-for-blood-in-silicon-valley",
+    "article_url": "https://www.justwatch.com/us/movie/the-long-walk-2025",
     "content_type": "platform_release",
-    "published_at": "2019-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-09-12T08:57:39Z"
+  },
+  {
+    "title": "Weapons",
+    "year": 2025,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2025-01-01",
+    "overview": "Top 10 trending movie on Hbo Max. When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/weapons-2026",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/weapons-2026",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-09-12T08:57:39Z"
   },
   {
     "title": "Lanterns",
@@ -269,13 +269,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/lanterns",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
+    "updated_at": "2026-09-12T08:57:39Z"
   },
   {
     "title": "Nathan for You",
@@ -293,13 +293,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
     "content_type": "platform_release",
     "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
+    "updated_at": "2026-09-12T08:57:39Z"
+  },
+  {
+    "title": "The Rehearsal",
+    "year": 2022,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2022-01-01",
+    "overview": "Top 3 trending series on Hbo Max. Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/331181889/s592/the-rehearsal.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/331181889/s592/the-rehearsal.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
+    "content_type": "platform_release",
+    "published_at": "2022-01-01T00:00:00Z",
+    "updated_at": "2026-09-12T08:57:39Z"
   },
   {
     "title": "Stuart Fails to Save the Universe",
@@ -307,7 +331,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 3 trending series on Hbo Max. Comic book store owner Stuart Bloom, from The Big Bang Theory (2007), returns in a new series where he attempts—and apparently fails—to save the universe, staying true to his unlucky nature.",
+    "overview": "Top 4 trending series on Hbo Max. Comic book store owner Stuart Bloom, from The Big Bang Theory (2007), returns in a new series where he attempts—and apparently fails—to save the universe, staying true to his unlucky nature.",
     "genres": [
       "Comedy",
       "Fantasy",
@@ -318,37 +342,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/stuart-fails-to-save-the-universe",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/stuart-fails-to-save-the-universe",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
-  },
-  {
-    "title": "The Rehearsal",
-    "year": 2022,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2022-01-01",
-    "overview": "Top 4 trending series on Hbo Max. Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
-    "genres": [
-      "Comedy",
-      "Documentary"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/331181889/s592/the-rehearsal.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/331181889/s592/the-rehearsal.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
-    "content_type": "platform_release",
-    "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
+    "updated_at": "2026-09-12T08:57:39Z"
   },
   {
     "title": "Collision",
@@ -365,13 +365,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/colision",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/colision",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
+    "updated_at": "2026-09-12T08:57:39Z"
+  },
+  {
+    "title": "A Killer Story",
+    "year": 2026,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2026-01-01",
+    "overview": "Top 6 trending series on Hbo Max. Investigative journalist Joe Sexton looks into a 2002 double homicide case in Kansas after receiving thousands of emails from Eileen Umbehr, a homemaker turned citizen sleuth. Eileen and her husband Keen are convinced that Dana Chandler, the woman accused of killing her ex-husband and his girlfriend, did not commit the crime and devote their lives to fighting for Chandler's innocence.",
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/354500705/s592/a-killer-story.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354500705/s592/a-killer-story.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/a-killer-story",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/a-killer-story",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-09-12T08:57:39Z"
   },
   {
     "title": "The Pitt",
@@ -379,7 +403,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 6 trending series on Hbo Max. The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+    "overview": "Top 7 trending series on Hbo Max. The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
     "genres": [
       "Drama"
     ],
@@ -388,62 +412,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-pitt",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-pitt",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
-  },
-  {
-    "title": "Mad Men",
-    "year": 2007,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2007-01-01",
-    "overview": "Top 7 trending series on Hbo Max. A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.",
-    "genres": [
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/176952716/s592/mad-men.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/176952716/s592/mad-men.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/mad-men",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/mad-men",
-    "content_type": "platform_release",
-    "published_at": "2007-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
-  },
-  {
-    "title": "Band of Brothers",
-    "year": 2001,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2001-01-01",
-    "overview": "Top 8 trending series on Hbo Max. Drawn from interviews with survivors of Easy Company, as well as their journals and letters, Band of Brothers chronicles the experiences of these men from paratrooper training in Georgia through the end of the war. As an elite rifle company parachuting into Normandy early on D-Day morning, participants in the Battle of the Bulge, and witness to the horrors of war, the men of Easy knew extraordinary bravery and extraordinary fear - and became the stuff of...",
-    "genres": [
-      "Action",
-      "Drama",
-      "History",
-      "War"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/176597099/s592/band-of-brothers.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/176597099/s592/band-of-brothers.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/band-of-brothers",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/band-of-brothers",
-    "content_type": "platform_release",
-    "published_at": "2001-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
+    "updated_at": "2026-09-12T08:57:39Z"
   },
   {
     "title": "OJ Unseen: Exploitation of Evil",
@@ -451,7 +426,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 9 trending series on Hbo Max. Never-before-seen footage from O.J. Simpson's prank show reveals how a volatile comeback attempt unraveled. Mounting tension, uneasy encounters, and behind the scenes truths test the ethical boundaries of America's media machine.",
+    "overview": "Top 8 trending series on Hbo Max. Never-before-seen footage from O.J. Simpson's prank show reveals how a volatile comeback attempt unraveled. Mounting tension, uneasy encounters, and behind the scenes truths test the ethical boundaries of America's media machine.",
     "genres": [
       "Crime",
       "Documentary"
@@ -461,13 +436,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/oj-unseen-exploitation-of-evil",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/oj-unseen-exploitation-of-evil",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
+    "updated_at": "2026-09-12T08:57:39Z"
+  },
+  {
+    "title": "Mad Men",
+    "year": 2007,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2007-01-01",
+    "overview": "Top 9 trending series on Hbo Max. A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/176952716/s592/mad-men.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/176952716/s592/mad-men.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/mad-men",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/mad-men",
+    "content_type": "platform_release",
+    "published_at": "2007-01-01T00:00:00Z",
+    "updated_at": "2026-09-12T08:57:39Z"
   },
   {
     "title": "House of the Dragon",
@@ -488,12 +486,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/house-of-the-dragon",
-    "scraped_at": "2026-09-11T09:17:08+00:00",
+    "scraped_at": "2026-09-12T08:57:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/house-of-the-dragon",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:08Z"
+    "updated_at": "2026-09-12T08:57:39Z"
   }
 ]

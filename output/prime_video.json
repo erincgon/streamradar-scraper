@@ -1,36 +1,11 @@
 [
   {
-    "title": "Mayday",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 1 trending movie on Prime Video. Lieutenant Troy Brennan's reconnaissance mission over Soviet territory goes awry, forcing him to crash-land and survive in Russian wilderness while evading capture or rescue.",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/347434490/s592/mayday-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/347434490/s592/mayday-2026.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/mayday-2026",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/mayday-2026",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
-  },
-  {
     "title": "Practical Magic",
     "year": 1998,
     "type": "movie",
     "platform": "prime_video",
     "release_date": "1998-01-01",
-    "overview": "Top 2 trending movie on Prime Video. Sally and Gillian Owens, born into a magical family, have mostly avoided witchcraft themselves. But when Gillian's vicious boyfriend, Jimmy Angelov, dies unexpectedly, the Owens sisters give themselves a crash course in hard magic. With policeman Gary Hallet growing suspicious, the girls struggle to resurrect Angelov -- and unwittingly inject his corpse with an evil spirit that threatens to end their family line.",
+    "overview": "Top 1 trending movie on Prime Video. Sally and Gillian Owens, born into a magical family, have mostly avoided witchcraft themselves. But when Gillian's vicious boyfriend, Jimmy Angelov, dies unexpectedly, the Owens sisters give themselves a crash course in hard magic. With policeman Gary Hallet growing suspicious, the girls struggle to resurrect Angelov -- and unwittingly inject his corpse with an evil spirit that threatens to end their family line.",
     "genres": [
       "Comedy",
       "Drama",
@@ -42,13 +17,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/practical-magic",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/practical-magic",
     "content_type": "platform_release",
     "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
+    "updated_at": "2026-09-12T08:57:41Z"
+  },
+  {
+    "title": "Mayday",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 2 trending movie on Prime Video. Lieutenant Troy Brennan's reconnaissance mission over Soviet territory goes awry, forcing him to crash-land and survive in Russian wilderness while evading capture or rescue.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/347434490/s592/mayday-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/347434490/s592/mayday-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/mayday-2026",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/mayday-2026",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-09-12T08:57:41Z"
   },
   {
     "title": "Backrooms",
@@ -67,63 +67,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/backrooms",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/backrooms",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
-  },
-  {
-    "title": "Obsession",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 4 trending movie on Prime Video. After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "genres": [
-      "Horror",
-      "Romance",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/346817191/s592/obsession-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346817191/s592/obsession-2026.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/obsession-2026",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/obsession-2026",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
-  },
-  {
-    "title": "The Invite",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 5 trending movie on Prime Video. Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/346669746/s592/the-invite-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346669746/s592/the-invite-2026.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-invite-2026",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-invite-2026",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
+    "updated_at": "2026-09-12T08:57:41Z"
   },
   {
     "title": "Supergirl",
@@ -131,7 +81,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 6 trending movie on Prime Video. When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+    "overview": "Top 4 trending movie on Prime Video. When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
     "genres": [
       "Action",
       "Drama",
@@ -143,39 +93,63 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/supergirl-woman-of-tomorrow",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/supergirl-woman-of-tomorrow",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
+    "updated_at": "2026-09-12T08:57:41Z"
   },
   {
-    "title": "The Mandalorian and Grogu",
+    "title": "Obsession",
     "year": 2026,
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 7 trending movie on Prime Video. Once a lone bounty hunter, Mandalorian Din Djarin and his apprentice Grogu embark on an exciting new Star Wars adventure.",
+    "overview": "Top 5 trending movie on Prime Video. After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "genres": [
-      "Action",
-      "Family",
-      "Fantasy",
-      "Sci-Fi"
+      "Horror",
+      "Romance",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/336088085/s592/the-mandalorian-and-grogu.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/336088085/s592/the-mandalorian-and-grogu.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/346817191/s592/obsession-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/346817191/s592/obsession-2026.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/obsession-2026",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
+    "article_url": "https://www.justwatch.com/us/movie/obsession-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
+    "updated_at": "2026-09-12T08:57:41Z"
+  },
+  {
+    "title": "The Invite",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 6 trending movie on Prime Video. Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/346669746/s592/the-invite-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/346669746/s592/the-invite-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/the-invite-2026",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/the-invite-2026",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-09-12T08:57:41Z"
   },
   {
     "title": "Hope",
@@ -183,7 +157,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 8 trending movie on Prime Video. In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "overview": "Top 7 trending movie on Prime Video. In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
     "genres": [
       "Action",
       "Drama",
@@ -196,13 +170,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/hope-2026",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/hope-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
+    "updated_at": "2026-09-12T08:57:41Z"
   },
   {
     "title": "You Can See Everything",
@@ -210,7 +184,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 9 trending movie on Prime Video. Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+    "overview": "Top 8 trending movie on Prime Video. Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
     "genres": [
       "Documentary"
     ],
@@ -219,13 +193,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/you-can-see-everything",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/you-can-see-everything",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
+    "updated_at": "2026-09-12T08:57:41Z"
   },
   {
     "title": "Disclosure Day",
@@ -233,7 +207,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 10 trending movie on Prime Video. If you found out we weren’t alone in the universe, would that frighten you?",
+    "overview": "Top 9 trending movie on Prime Video. If you found out we weren’t alone in the universe, would that frighten you?",
     "genres": [
       "Action",
       "Drama",
@@ -245,13 +219,39 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-dish-2026-1",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-dish-2026-1",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
+    "updated_at": "2026-09-12T08:57:41Z"
+  },
+  {
+    "title": "Project Hail Mary",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 10 trending movie on Prime Video. Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/342918190/s592/project-hail-mary.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/342918190/s592/project-hail-mary.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/project-hail-mary",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/project-hail-mary",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-09-12T08:57:41Z"
   },
   {
     "title": "The Gentlemen",
@@ -271,13 +271,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-gentlemen",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-gentlemen",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
+    "updated_at": "2026-09-12T08:57:41Z"
   },
   {
     "title": "Chad Powers",
@@ -295,13 +295,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/chad-powers",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/chad-powers",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
+    "updated_at": "2026-09-12T08:57:41Z"
   },
   {
     "title": "Silo",
@@ -319,39 +319,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/silo",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/silo",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
-  },
-  {
-    "title": "The Beauty",
-    "year": 2026,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 4 trending series on Prime Video. The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.",
-    "genres": [
-      "Drama",
-      "Horror",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/348452653/s592/the-beauty.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/348452653/s592/the-beauty.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-beauty",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-beauty",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
+    "updated_at": "2026-09-12T08:57:41Z"
   },
   {
     "title": "Lanterns",
@@ -359,7 +333,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 5 trending series on Prime Video. Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "overview": "Top 4 trending series on Prime Video. Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "genres": [
       "Action",
       "Crime",
@@ -372,13 +346,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/lanterns",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
+    "updated_at": "2026-09-12T08:57:41Z"
   },
   {
     "title": "Reacher",
@@ -386,7 +360,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2022-01-01",
-    "overview": "Top 6 trending series on Prime Video. Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "overview": "Top 5 trending series on Prime Video. Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "genres": [
       "Action",
       "Crime",
@@ -398,63 +372,39 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/jack-reacher",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/jack-reacher",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
+    "updated_at": "2026-09-12T08:57:41Z"
   },
   {
-    "title": "Ted Lasso",
-    "year": 2020,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2020-01-01",
-    "overview": "Top 7 trending series on Prime Video. American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Sport"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/320936342/s592/ted-lasso.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/320936342/s592/ted-lasso.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/ted-lasso",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/ted-lasso",
-    "content_type": "platform_release",
-    "published_at": "2020-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
-  },
-  {
-    "title": "Furious",
+    "title": "The Beauty",
     "year": 2026,
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 8 trending series on Prime Video. FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+    "overview": "Top 6 trending series on Prime Video. The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.",
     "genres": [
-      "Crime",
       "Drama",
+      "Horror",
+      "Sci-Fi",
       "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/348297009/s592/furious.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/348297009/s592/furious.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/348452653/s592/the-beauty.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/348452653/s592/the-beauty.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/furious",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/the-beauty",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/furious",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-beauty",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
+    "updated_at": "2026-09-12T08:57:41Z"
   },
   {
     "title": "Lioness",
@@ -462,7 +412,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2023-01-01",
-    "overview": "Top 9 trending series on Prime Video. Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "overview": "Top 7 trending series on Prime Video. Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "genres": [
       "Action",
       "Drama",
@@ -474,38 +424,86 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/special-ops-lioness",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/special-ops-lioness",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
+    "updated_at": "2026-09-12T08:57:41Z"
   },
   {
-    "title": "The Pendragon Cycle: Rise of the Merlin",
+    "title": "Ted Lasso",
+    "year": 2020,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2020-01-01",
+    "overview": "Top 8 trending series on Prime Video. American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sport"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/320936342/s592/ted-lasso.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/320936342/s592/ted-lasso.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/ted-lasso",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/ted-lasso",
+    "content_type": "platform_release",
+    "published_at": "2020-01-01T00:00:00Z",
+    "updated_at": "2026-09-12T08:57:41Z"
+  },
+  {
+    "title": "Nathan for You",
+    "year": 2013,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2013-01-01",
+    "overview": "Top 9 trending series on Prime Video. Self-proclaimed business expert, writer, director and comedian Nathan Fielder helps real small businesses turn a profit with marketing tactics that no ordinary consultant would dare to attempt. From driving foot traffic to an off-the-strip souvenir shop by using Hollywood flair and a Johnny Depp impersonator, to creating a rebate that can only be redeemed by climbing a mountain, to founding a coffee shop called \"Dumb Starbucks,” Nathan has always gone to...",
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
+    "content_type": "platform_release",
+    "published_at": "2013-01-01T00:00:00Z",
+    "updated_at": "2026-09-12T08:57:41Z"
+  },
+  {
+    "title": "Furious",
     "year": 2026,
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 10 trending series on Prime Video. Showcases a retelling of the Arthurian legend set in a Roman-occupied Britain where barbarian invaders threaten to lay claim to the island.",
+    "overview": "Top 10 trending series on Prime Video. FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
     "genres": [
-      "Action",
+      "Crime",
       "Drama",
-      "Fantasy",
-      "Sci-Fi"
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/339887859/s592/the-pendragon-cycle-rise-of-the-merlin.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/339887859/s592/the-pendragon-cycle-rise-of-the-merlin.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/348297009/s592/furious.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/348297009/s592/furious.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-pendragon-cycle-rise-of-the-merlin",
-    "scraped_at": "2026-09-11T09:17:09+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/furious",
+    "scraped_at": "2026-09-12T08:57:41+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-pendragon-cycle-rise-of-the-merlin",
+    "article_url": "https://www.justwatch.com/us/tv-show/furious",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-11T09:17:09Z"
+    "updated_at": "2026-09-12T08:57:41Z"
   }
 ]
