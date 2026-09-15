@@ -12,13 +12,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt36983905/",
-    "scraped_at": "2026-09-14T10:20:35+00:00",
+    "scraped_at": "2026-09-15T09:50:39+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt36983905/",
     "content_type": "cinema_release",
     "published_at": "2026-09-11T00:00:00Z",
-    "updated_at": "2026-09-14T10:20:35Z"
+    "updated_at": "2026-09-15T09:50:39Z"
   },
   {
     "title": "Practical Magic 2",
@@ -33,13 +33,34 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt32588798/",
-    "scraped_at": "2026-09-14T10:20:35+00:00",
+    "scraped_at": "2026-09-15T09:50:39+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt32588798/",
     "content_type": "cinema_release",
     "published_at": "2026-09-11T00:00:00Z",
-    "updated_at": "2026-09-14T10:20:35Z"
+    "updated_at": "2026-09-15T09:50:39Z"
+  },
+  {
+    "title": "Hanuman Ansh",
+    "year": 2026,
+    "type": "movie",
+    "platform": "cinema",
+    "release_date": "2026-09-11",
+    "overview": "Movie currently playing in cinema theaters. Distributed by Prathyangira Cinemas.",
+    "genres": [],
+    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BM2IyZWQxZjEtZWM4YS00MjRhLWFkNWEtNjZhNTZlMDgxYWUxXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BM2IyZWQxZjEtZWM4YS00MjRhLWFkNWEtNjZhNTZlMDgxYWUxXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.imdb.com/title/tt39390582/",
+    "scraped_at": "2026-09-15T09:50:39+00:00",
+    "source_name": "IMDb",
+    "source_domain": "imdb.com",
+    "article_url": "https://www.imdb.com/title/tt39390582/",
+    "content_type": "cinema_release",
+    "published_at": "2026-09-11T00:00:00Z",
+    "updated_at": "2026-09-15T09:50:39Z"
   },
   {
     "title": "Don't Look Back in Anger",
@@ -54,13 +75,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt36150957/",
-    "scraped_at": "2026-09-14T10:20:35+00:00",
+    "scraped_at": "2026-09-15T09:50:39+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt36150957/",
     "content_type": "cinema_release",
     "published_at": "2026-09-11T00:00:00Z",
-    "updated_at": "2026-09-14T10:20:35Z"
+    "updated_at": "2026-09-15T09:50:39Z"
   },
   {
     "title": "Onslaught",
@@ -75,13 +96,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt32268691/",
-    "scraped_at": "2026-09-14T10:20:35+00:00",
+    "scraped_at": "2026-09-15T09:50:39+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt32268691/",
     "content_type": "cinema_release",
     "published_at": "2026-09-04T00:00:00Z",
-    "updated_at": "2026-09-14T10:20:35Z"
+    "updated_at": "2026-09-15T09:50:39Z"
   },
   {
     "title": "By Any Means",
@@ -96,13 +117,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt34379051/",
-    "scraped_at": "2026-09-14T10:20:35+00:00",
+    "scraped_at": "2026-09-15T09:50:39+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt34379051/",
     "content_type": "cinema_release",
     "published_at": "2026-09-04T00:00:00Z",
-    "updated_at": "2026-09-14T10:20:35Z"
+    "updated_at": "2026-09-15T09:50:39Z"
   },
   {
     "title": "Fall 2: Deadpoint",
@@ -117,34 +138,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt31192372/",
-    "scraped_at": "2026-09-14T10:20:35+00:00",
+    "scraped_at": "2026-09-15T09:50:39+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt31192372/",
     "content_type": "cinema_release",
     "published_at": "2026-09-02T00:00:00Z",
-    "updated_at": "2026-09-14T10:20:35Z"
-  },
-  {
-    "title": "The Dog Stars",
-    "year": 2026,
-    "type": "movie",
-    "platform": "cinema",
-    "release_date": "2026-08-28",
-    "overview": "Movie currently playing in cinema theaters. Distributed by Walt Disney Studios Motion Pictures. Showing in -2,300 theaters.",
-    "genres": [],
-    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.imdb.com/title/tt21285562/",
-    "scraped_at": "2026-09-14T10:20:35+00:00",
-    "source_name": "IMDb",
-    "source_domain": "imdb.com",
-    "article_url": "https://www.imdb.com/title/tt21285562/",
-    "content_type": "cinema_release",
-    "published_at": "2026-08-28T00:00:00Z",
-    "updated_at": "2026-09-14T10:20:35Z"
+    "updated_at": "2026-09-15T09:50:39Z"
   },
   {
     "title": "Coyote vs. Acme",
@@ -159,13 +159,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt1756855/",
-    "scraped_at": "2026-09-14T10:20:35+00:00",
+    "scraped_at": "2026-09-15T09:50:39+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt1756855/",
     "content_type": "cinema_release",
     "published_at": "2026-08-28T00:00:00Z",
-    "updated_at": "2026-09-14T10:20:35Z"
+    "updated_at": "2026-09-15T09:50:39Z"
   },
   {
     "title": "Insidious: Out of the Further",
@@ -180,13 +180,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt32393988/",
-    "scraped_at": "2026-09-14T10:20:35+00:00",
+    "scraped_at": "2026-09-15T09:50:39+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt32393988/",
     "content_type": "cinema_release",
     "published_at": "2026-08-21T00:00:00Z",
-    "updated_at": "2026-09-14T10:20:35Z"
+    "updated_at": "2026-09-15T09:50:39Z"
   },
   {
     "title": "The End of Oak Street",
@@ -201,13 +201,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt27165187/",
-    "scraped_at": "2026-09-14T10:20:35+00:00",
+    "scraped_at": "2026-09-15T09:50:39+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt27165187/",
     "content_type": "cinema_release",
     "published_at": "2026-08-14T00:00:00Z",
-    "updated_at": "2026-09-14T10:20:35Z"
+    "updated_at": "2026-09-15T09:50:39Z"
   },
   {
     "title": "PAW Patrol: The Dino Movie",
@@ -222,13 +222,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt29356163/",
-    "scraped_at": "2026-09-14T10:20:35+00:00",
+    "scraped_at": "2026-09-15T09:50:39+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt29356163/",
     "content_type": "cinema_release",
     "published_at": "2026-08-14T00:00:00Z",
-    "updated_at": "2026-09-14T10:20:35Z"
+    "updated_at": "2026-09-15T09:50:39Z"
   },
   {
     "title": "Spider-Man: Brand New Day",
@@ -243,13 +243,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt22084616/",
-    "scraped_at": "2026-09-14T10:20:35+00:00",
+    "scraped_at": "2026-09-15T09:50:39+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt22084616/",
     "content_type": "cinema_release",
     "published_at": "2026-07-31T00:00:00Z",
-    "updated_at": "2026-09-14T10:20:35Z"
+    "updated_at": "2026-09-15T09:50:39Z"
   },
   {
     "title": "The Odyssey",
@@ -264,33 +264,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt33764258/",
-    "scraped_at": "2026-09-14T10:20:35+00:00",
+    "scraped_at": "2026-09-15T09:50:39+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt33764258/",
     "content_type": "cinema_release",
     "published_at": "2026-07-17T00:00:00Z",
-    "updated_at": "2026-09-14T10:20:35Z"
-  },
-  {
-    "title": "Toy Story 5",
-    "year": 2026,
-    "type": "movie",
-    "platform": "cinema",
-    "release_date": "2026-06-19",
-    "overview": "Movie currently playing in cinema theaters. Distributed by Walt Disney Studios Motion Pictures. Showing in -900 theaters.",
-    "genres": [],
-    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.imdb.com/title/tt29355505/",
-    "scraped_at": "2026-09-14T10:20:35+00:00",
-    "source_name": "IMDb",
-    "source_domain": "imdb.com",
-    "article_url": "https://www.imdb.com/title/tt29355505/",
-    "content_type": "cinema_release",
-    "published_at": "2026-06-19T00:00:00Z",
-    "updated_at": "2026-09-14T10:20:35Z"
+    "updated_at": "2026-09-15T09:50:39Z"
   }
 ]
