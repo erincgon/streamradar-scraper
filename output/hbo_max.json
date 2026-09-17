@@ -17,13 +17,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/practical-magic",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/practical-magic",
     "content_type": "platform_release",
     "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
+    "updated_at": "2026-09-17T09:45:13Z"
   },
   {
     "title": "Supergirl",
@@ -42,13 +42,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/supergirl-woman-of-tomorrow",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/supergirl-woman-of-tomorrow",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
+    "updated_at": "2026-09-17T09:45:13Z"
   },
   {
     "title": "The Drama",
@@ -68,13 +68,61 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-drama",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-drama",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
+    "updated_at": "2026-09-17T09:45:13Z"
+  },
+  {
+    "title": "Barbarian",
+    "year": 2022,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2022-01-01",
+    "overview": "Top 4 trending movie on Hbo Max. In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/301118658/s592/barbarian.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/301118658/s592/barbarian.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/barbarian",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/barbarian",
+    "content_type": "platform_release",
+    "published_at": "2022-01-01T00:00:00Z",
+    "updated_at": "2026-09-17T09:45:13Z"
+  },
+  {
+    "title": "Weapons",
+    "year": 2025,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2025-01-01",
+    "overview": "Top 5 trending movie on Hbo Max. When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/weapons-2026",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/weapons-2026",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-09-17T09:45:13Z"
   },
   {
     "title": "Normal",
@@ -82,7 +130,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 4 trending movie on Hbo Max. An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+    "overview": "Top 6 trending movie on Hbo Max. An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
     "genres": [
       "Action",
       "Crime",
@@ -93,13 +141,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/normal-2025",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/normal-2025",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
+    "updated_at": "2026-09-17T09:45:13Z"
   },
   {
     "title": "The Substance",
@@ -107,7 +155,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2024-01-01",
-    "overview": "Top 5 trending movie on Hbo Max. A fading celebrity takes a black-market drug: a cell-replicating substance that helps her create a younger, better version of herself.",
+    "overview": "Top 7 trending movie on Hbo Max. A fading celebrity takes a black-market drug: a cell-replicating substance that helps her create a younger, better version of herself.",
     "genres": [
       "Drama",
       "Horror",
@@ -118,13 +166,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-substance",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-substance",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
+    "updated_at": "2026-09-17T09:45:13Z"
   },
   {
     "title": "Band of Brothers: Legacy",
@@ -132,7 +180,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 6 trending movie on Hbo Max. This tribute to the groundbreaking series that helped preserve the story of Easy Company and deepened public appreciation for the sacrifices of the Greatest Generation features new interviews with cast members Damian Lewis, Ron Livingston, Michael Cudlitz, Capt. Dale Dye, USMC (Ret.), David Schwimmer, and more. Through personal reflections and behind-the-scenes stories, participants revisit the experience of making the series and explore its lasting cultural...",
+    "overview": "Top 8 trending movie on Hbo Max. This tribute to the groundbreaking series that helped preserve the story of Easy Company and deepened public appreciation for the sacrifices of the Greatest Generation features new interviews with cast members Damian Lewis, Ron Livingston, Michael Cudlitz, Capt. Dale Dye, USMC (Ret.), David Schwimmer, and more. Through personal reflections and behind-the-scenes stories, participants revisit the experience of making the series and explore its lasting cultural...",
     "genres": [
       "Documentary",
       "War"
@@ -142,13 +190,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/band-of-brothers-legacy",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/band-of-brothers-legacy",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
+    "updated_at": "2026-09-17T09:45:13Z"
   },
   {
     "title": "The Inventor: Out for Blood in Silicon Valley",
@@ -156,7 +204,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2019-01-01",
-    "overview": "Top 7 trending movie on Hbo Max. With a magical new invention that promised to revolutionize blood testing, Elizabeth Holmes became the world’s youngest self-made billionaire, heralded as the next Steve Jobs. Then, overnight, her 10-billion-dollar company dissolved. The rise and fall of Theranos is a window into the psychology of fraud.",
+    "overview": "Top 9 trending movie on Hbo Max. With a magical new invention that promised to revolutionize blood testing, Elizabeth Holmes became the world’s youngest self-made billionaire, heralded as the next Steve Jobs. Then, overnight, her 10-billion-dollar company dissolved. The rise and fall of Theranos is a window into the psychology of fraud.",
     "genres": [
       "Crime",
       "Documentary"
@@ -166,86 +214,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-inventor-out-for-blood-in-silicon-valley",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-inventor-out-for-blood-in-silicon-valley",
     "content_type": "platform_release",
     "published_at": "2019-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
+    "updated_at": "2026-09-17T09:45:13Z"
   },
   {
-    "title": "Barbarian",
-    "year": 2022,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2022-01-01",
-    "overview": "Top 8 trending movie on Hbo Max. In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/301118658/s592/barbarian.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/301118658/s592/barbarian.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/barbarian",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/barbarian",
-    "content_type": "platform_release",
-    "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
-  },
-  {
-    "title": "Weapons",
+    "title": "My Mom Jayne",
     "year": 2025,
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 9 trending movie on Hbo Max. When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "overview": "Top 10 trending movie on Hbo Max. Through deeply personal interviews with her siblings and an examination of the photographs, letters, and belongings left behind, Mariska assembles a new portrait of her mother Jayne Mansfield, an extraordinary and complex woman.",
     "genres": [
-      "Horror"
+      "Documentary",
+      "Family"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/332433004/s592/my-mom-jayne-a-film-by-mariska-hargitay.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/332433004/s592/my-mom-jayne-a-film-by-mariska-hargitay.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/weapons-2026",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/my-mom-jayne-a-film-by-mariska-hargitay",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/weapons-2026",
+    "article_url": "https://www.justwatch.com/us/movie/my-mom-jayne-a-film-by-mariska-hargitay",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
-  },
-  {
-    "title": "Fuze",
-    "year": 2026,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 10 trending movie on Hbo Max. An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller",
-      "War"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/345838728/s592/fuze.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/345838728/s592/fuze.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/fuze",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/fuze",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
+    "updated_at": "2026-09-17T09:45:13Z"
   },
   {
     "title": "Lanterns",
@@ -266,37 +265,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/lanterns",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
-  },
-  {
-    "title": "Nathan for You",
-    "year": 2013,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2013-01-01",
-    "overview": "Top 2 trending series on Hbo Max. Self-proclaimed business expert, writer, director and comedian Nathan Fielder helps real small businesses turn a profit with marketing tactics that no ordinary consultant would dare to attempt. From driving foot traffic to an off-the-strip souvenir shop by using Hollywood flair and a Johnny Depp impersonator, to creating a rebate that can only be redeemed by climbing a mountain, to founding a coffee shop called \"Dumb Starbucks,” Nathan has always gone to the...",
-    "genres": [
-      "Comedy",
-      "Documentary"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
-    "content_type": "platform_release",
-    "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
+    "updated_at": "2026-09-17T09:45:13Z"
   },
   {
     "title": "A Killer Story",
@@ -304,7 +279,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 3 trending series on Hbo Max. Investigative journalist Joe Sexton looks into a 2002 double homicide case in Kansas after receiving thousands of emails from Eileen Umbehr, a homemaker turned citizen sleuth. Eileen and her husband Keen are convinced that Dana Chandler, the woman accused of killing her ex-husband and his girlfriend, did not commit the crime and devote their lives to fighting for Chandler's innocence.",
+    "overview": "Top 2 trending series on Hbo Max. Investigative journalist Joe Sexton looks into a 2002 double homicide case in Kansas after receiving thousands of emails from Eileen Umbehr, a homemaker turned citizen sleuth. Eileen and her husband Keen are convinced that Dana Chandler, the woman accused of killing her ex-husband and his girlfriend, did not commit the crime and devote their lives to fighting for Chandler's innocence.",
     "genres": [
       "Crime",
       "Documentary"
@@ -314,13 +289,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/a-killer-story",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/a-killer-story",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
+    "updated_at": "2026-09-17T09:45:13Z"
   },
   {
     "title": "The Pitt",
@@ -328,7 +303,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 4 trending series on Hbo Max. The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+    "overview": "Top 3 trending series on Hbo Max. The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
     "genres": [
       "Drama"
     ],
@@ -337,38 +312,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-pitt",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-pitt",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
-  },
-  {
-    "title": "Stuart Fails to Save the Universe",
-    "year": 2026,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 5 trending series on Hbo Max. Comic book store owner Stuart Bloom, from The Big Bang Theory (2007), returns in a new series where he attempts—and apparently fails—to save the universe, staying true to his unlucky nature.",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/346640192/s592/stuart-fails-to-save-the-universe.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346640192/s592/stuart-fails-to-save-the-universe.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/stuart-fails-to-save-the-universe",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/stuart-fails-to-save-the-universe",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
+    "updated_at": "2026-09-17T09:45:13Z"
   },
   {
     "title": "DTF St. Louis",
@@ -376,7 +326,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 6 trending series on Hbo Max. A love triangle among three adults experiencing middle-age malaise leads to one of them ending up dead.",
+    "overview": "Top 4 trending series on Hbo Max. A love triangle among three adults experiencing middle-age malaise leads to one of them ending up dead.",
     "genres": [
       "Comedy",
       "Drama",
@@ -387,13 +337,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/dtf-st-louis",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/dtf-st-louis",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
+    "updated_at": "2026-09-17T09:45:13Z"
   },
   {
     "title": "Hacks",
@@ -401,7 +351,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2021-01-01",
-    "overview": "Top 7 trending series on Hbo Max. Explore a dark mentorship that forms between Deborah Vance, a legendary Las Vegas comedian, and an entitled, outcast 25-year-old.",
+    "overview": "Top 5 trending series on Hbo Max. Explore a dark mentorship that forms between Deborah Vance, a legendary Las Vegas comedian, and an entitled, outcast 25-year-old.",
     "genres": [
       "Comedy",
       "Drama"
@@ -411,60 +361,62 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/hacks",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/hacks",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
+    "updated_at": "2026-09-17T09:45:13Z"
   },
   {
-    "title": "The Rehearsal",
-    "year": 2022,
+    "title": "Nathan for You",
+    "year": 2013,
     "type": "series",
     "platform": "hbo_max",
-    "release_date": "2022-01-01",
-    "overview": "Top 8 trending series on Hbo Max. Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
+    "release_date": "2013-01-01",
+    "overview": "Top 6 trending series on Hbo Max. Self-proclaimed business expert, writer, director and comedian Nathan Fielder helps real small businesses turn a profit with marketing tactics that no ordinary consultant would dare to attempt. From driving foot traffic to an off-the-strip souvenir shop by using Hollywood flair and a Johnny Depp impersonator, to creating a rebate that can only be redeemed by climbing a mountain, to founding a coffee shop called \"Dumb Starbucks,” Nathan has always gone to the...",
     "genres": [
       "Comedy",
       "Documentary"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/331181889/s592/the-rehearsal.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/331181889/s592/the-rehearsal.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
+    "article_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
     "content_type": "platform_release",
-    "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
+    "published_at": "2013-01-01T00:00:00Z",
+    "updated_at": "2026-09-17T09:45:13Z"
   },
   {
-    "title": "Collision",
+    "title": "Stuart Fails to Save the Universe",
     "year": 2026,
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 9 trending series on Hbo Max. When business magnate Miguel Ángel dies in a mysterious crash, his daughter Zoé and estranged wife Belén fight for control of his company.",
+    "overview": "Top 7 trending series on Hbo Max. Comic book store owner Stuart Bloom, from The Big Bang Theory (2007), returns in a new series where he attempts—and apparently fails—to save the universe, staying true to his unlucky nature.",
     "genres": [
-      "Drama"
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/354661015/s592/colision.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354661015/s592/colision.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/346640192/s592/stuart-fails-to-save-the-universe.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/346640192/s592/stuart-fails-to-save-the-universe.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/colision",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/stuart-fails-to-save-the-universe",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/colision",
+    "article_url": "https://www.justwatch.com/us/tv-show/stuart-fails-to-save-the-universe",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
+    "updated_at": "2026-09-17T09:45:13Z"
   },
   {
     "title": "Task",
@@ -472,7 +424,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 10 trending series on Hbo Max. In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+    "overview": "Top 8 trending series on Hbo Max. In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
     "genres": [
       "Crime",
       "Drama",
@@ -483,12 +435,61 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/task",
-    "scraped_at": "2026-09-16T09:36:51+00:00",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/task",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-16T09:36:51Z"
+    "updated_at": "2026-09-17T09:45:13Z"
+  },
+  {
+    "title": "Banshee",
+    "year": 2013,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2013-01-01",
+    "overview": "Top 9 trending series on Hbo Max. Banshee is an American drama television series set in a small town in Pennsylvania Amish country and features an enigmatic ex-con posing as a murdered sheriff who imposes his own brand of justice while also cooking up plans that serve his own interests.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/175475823/s592/banshee.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/175475823/s592/banshee.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/banshee",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/banshee",
+    "content_type": "platform_release",
+    "published_at": "2013-01-01T00:00:00Z",
+    "updated_at": "2026-09-17T09:45:13Z"
+  },
+  {
+    "title": "Mad Men",
+    "year": 2007,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2007-01-01",
+    "overview": "Top 10 trending series on Hbo Max. A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/176952716/s592/mad-men.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/176952716/s592/mad-men.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/mad-men",
+    "scraped_at": "2026-09-17T09:45:13+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/mad-men",
+    "content_type": "platform_release",
+    "published_at": "2007-01-01T00:00:00Z",
+    "updated_at": "2026-09-17T09:45:13Z"
   }
 ]
