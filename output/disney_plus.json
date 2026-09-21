@@ -17,13 +17,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
+    "updated_at": "2026-09-21T10:19:45Z"
   },
   {
     "title": "Ready or Not 2: Here I Come",
@@ -42,37 +42,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/ready-or-not-here-i-come",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/ready-or-not-here-i-come",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
-  },
-  {
-    "title": "Kraven the Hunter",
-    "year": 2024,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "2024-01-01",
-    "overview": "Top 3 trending movie on Disney Plus. Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/324176253/s592/kraven-the-hunter.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/324176253/s592/kraven-the-hunter.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/kraven-the-hunter",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/kraven-the-hunter",
-    "content_type": "platform_release",
-    "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
+    "updated_at": "2026-09-21T10:19:45Z"
   },
   {
     "title": "10 Things I Hate About You",
@@ -80,7 +56,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "1999-01-01",
-    "overview": "Top 4 trending movie on Disney Plus. A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat.",
+    "overview": "Top 3 trending movie on Disney Plus. A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat.",
     "genres": [
       "Comedy",
       "Drama",
@@ -91,13 +67,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/10-things-i-hate-about-you",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/10-things-i-hate-about-you",
     "content_type": "platform_release",
     "published_at": "1999-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
+    "updated_at": "2026-09-21T10:19:45Z"
+  },
+  {
+    "title": "Kraven the Hunter",
+    "year": 2024,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "2024-01-01",
+    "overview": "Top 4 trending movie on Disney Plus. Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/324176253/s592/kraven-the-hunter.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/324176253/s592/kraven-the-hunter.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/kraven-the-hunter",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/kraven-the-hunter",
+    "content_type": "platform_release",
+    "published_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2026-09-21T10:19:45Z"
   },
   {
     "title": "Jurassic Park",
@@ -115,13 +115,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/jurassic-park-i",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/jurassic-park-i",
     "content_type": "platform_release",
     "published_at": "1993-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
+    "updated_at": "2026-09-21T10:19:45Z"
   },
   {
     "title": "Spider-Man: No Way Home",
@@ -140,13 +140,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/spider-man-no-way-home",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/spider-man-no-way-home",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
+    "updated_at": "2026-09-21T10:19:45Z"
   },
   {
     "title": "Spider-Man: Across the Spider-Verse",
@@ -167,13 +167,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/spider-man-into-the-spider-verse-2",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/spider-man-into-the-spider-verse-2",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
+    "updated_at": "2026-09-21T10:19:45Z"
   },
   {
     "title": "Avatar: Fire and Ash",
@@ -193,13 +193,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/avatar-3",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/avatar-3",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
+    "updated_at": "2026-09-21T10:19:45Z"
   },
   {
     "title": "Hoppers",
@@ -209,6 +209,7 @@
     "release_date": "2026-01-01",
     "overview": "Top 9 trending movie on Disney Plus. Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
     "genres": [
+      "Action",
       "Animation",
       "Comedy",
       "Family",
@@ -219,39 +220,40 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/hoppers",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/hoppers",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
+    "updated_at": "2026-09-21T10:19:45Z"
   },
   {
-    "title": "Ice Princess",
-    "year": 2005,
+    "title": "Fantastic Mr. Fox",
+    "year": 2009,
     "type": "movie",
     "platform": "disney_plus",
-    "release_date": "2005-01-01",
-    "overview": "Top 10 trending movie on Disney Plus. With the help of her coach, her mom, and the boy who drives the Zamboni, nothing can stop Casey Carlyle from realizing her dream to be a champion figure skater.",
+    "release_date": "2009-01-01",
+    "overview": "Top 10 trending movie on Disney Plus. The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
     "genres": [
+      "Animation",
       "Comedy",
+      "Crime",
       "Drama",
-      "Family",
-      "Sport"
+      "Family"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/268090120/s592/ice-princess.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/268090120/s592/ice-princess.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/309823893/s592/fantastic-mr-fox.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/309823893/s592/fantastic-mr-fox.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/ice-princess",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/fantastic-mr-fox",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/ice-princess",
+    "article_url": "https://www.justwatch.com/us/movie/fantastic-mr-fox",
     "content_type": "platform_release",
-    "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
+    "published_at": "2009-01-01T00:00:00Z",
+    "updated_at": "2026-09-21T10:19:45Z"
   },
   {
     "title": "Dancing with the Stars",
@@ -269,38 +271,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/dancing-with-the-stars",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/dancing-with-the-stars",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
-  },
-  {
-    "title": "City of Blood",
-    "year": 2026,
-    "type": "series",
-    "platform": "disney_plus",
-    "release_date": "2026-01-01",
-    "overview": "Top 2 trending series on Disney Plus. In climate-ravaged Berlin, two sisters separated since childhood reunite as elections loom. One grew up sheltered under a dome, the other survived the violent streets—where they discover vampires control the underworld.",
-    "genres": [
-      "Fantasy",
-      "Horror",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/354524217/s592/city-of-blood.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354524217/s592/city-of-blood.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/city-of-blood",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/city-of-blood",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
+    "updated_at": "2026-09-21T10:19:45Z"
   },
   {
     "title": "Over the Garden Wall",
@@ -308,7 +285,7 @@
     "type": "series",
     "platform": "disney_plus",
     "release_date": "2014-01-01",
-    "overview": "Top 3 trending series on Disney Plus. Two brothers, Wirt and Greg, find themselves lost in the Unknown; a strange forest adrift in time. With the help of a wise old Woodsman and a foul-tempered bluebird named Beatrice, Wirt and Greg must travel across this strange land, in hope of finding their way home. Join them as they encounter surprises and obstacles on their journey through the wood.",
+    "overview": "Top 2 trending series on Disney Plus. Two brothers, Wirt and Greg, find themselves lost in the Unknown; a strange forest adrift in time. With the help of a wise old Woodsman and a foul-tempered bluebird named Beatrice, Wirt and Greg must travel across this strange land, in hope of finding their way home. Join them as they encounter surprises and obstacles on their journey through the wood.",
     "genres": [
       "Animation",
       "Comedy",
@@ -324,13 +301,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/over-the-garden-wall",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/over-the-garden-wall",
     "content_type": "platform_release",
     "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
+    "updated_at": "2026-09-21T10:19:45Z"
   },
   {
     "title": "The Bear",
@@ -338,7 +315,7 @@
     "type": "series",
     "platform": "disney_plus",
     "release_date": "2022-01-01",
-    "overview": "Top 4 trending series on Disney Plus. A young chef from the fine-dining world returns to Chicago to run his family's sandwich shop.",
+    "overview": "Top 3 trending series on Disney Plus. A young chef from the fine-dining world returns to Chicago to run his family's sandwich shop.",
     "genres": [
       "Comedy",
       "Drama"
@@ -348,60 +325,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-bear",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-bear",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
-  },
-  {
-    "title": "The Simpsons",
-    "year": 1989,
-    "type": "series",
-    "platform": "disney_plus",
-    "release_date": "1989-01-01",
-    "overview": "Top 5 trending series on Disney Plus. Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "genres": [
-      "Animation",
-      "Comedy"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/307635545/s592/the-simpsons.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/307635545/s592/the-simpsons.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
-    "content_type": "platform_release",
-    "published_at": "1989-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
-  },
-  {
-    "title": "MasterChef",
-    "year": 2010,
-    "type": "series",
-    "platform": "disney_plus",
-    "release_date": "2010-01-01",
-    "overview": "Top 6 trending series on Disney Plus. This hit cooking competition series sees award-winning chef Gordon Ramsay and other celebrity chefs put a group of contestants through a series of challenges and elimination rounds, in order to turn one home cook into a culinary master.",
-    "genres": [
-      "Reality"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/320017611/s592/masterchef.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/320017611/s592/masterchef.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/masterchef",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/masterchef",
-    "content_type": "platform_release",
-    "published_at": "2010-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
+    "updated_at": "2026-09-21T10:19:45Z"
   },
   {
     "title": "Only Murders in the Building",
@@ -409,7 +339,7 @@
     "type": "series",
     "platform": "disney_plus",
     "release_date": "2021-01-01",
-    "overview": "Top 7 trending series on Disney Plus. Charles, Oliver and Mabel, three eccentric neighbors, find purpose and chaos in solving murders that hit close to home through their true-crime podcast, turning their New York apartment building into a playground of mystery and mischief.",
+    "overview": "Top 4 trending series on Disney Plus. Charles, Oliver and Mabel, three eccentric neighbors, find purpose and chaos in solving murders that hit close to home through their true-crime podcast, turning their New York apartment building into a playground of mystery and mischief.",
     "genres": [
       "Comedy",
       "Crime",
@@ -421,13 +351,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
+    "updated_at": "2026-09-21T10:19:45Z"
   },
   {
     "title": "8 Simple Rules",
@@ -435,7 +365,7 @@
     "type": "series",
     "platform": "disney_plus",
     "release_date": "2002-01-01",
-    "overview": "Top 8 trending series on Disney Plus. Paul and Cate are raising their three children -- Bridget, Kerry and Rory -- which is no easy task. Oldest daughter Bridget is traversing the dating scene. Kerry is cute and smart, but she has a hard time getting in touch with her true feelings because of her lack of self-confidence. The youngest of the three children, and only boy, Rory is beginning to discover one of life's greatest mysteries -- girls.",
+    "overview": "Top 5 trending series on Disney Plus. Paul and Cate are raising their three children -- Bridget, Kerry and Rory -- which is no easy task. Oldest daughter Bridget is traversing the dating scene. Kerry is cute and smart, but she has a hard time getting in touch with her true feelings because of her lack of self-confidence. The youngest of the three children, and only boy, Rory is beginning to discover one of life's greatest mysteries -- girls.",
     "genres": [
       "Comedy",
       "Drama"
@@ -445,37 +375,60 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/8-simple-rules",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/8-simple-rules",
     "content_type": "platform_release",
     "published_at": "2002-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
+    "updated_at": "2026-09-21T10:19:45Z"
   },
   {
-    "title": "The Golden Girls",
-    "year": 1985,
+    "title": "The Simpsons",
+    "year": 1989,
     "type": "series",
     "platform": "disney_plus",
-    "release_date": "1985-01-01",
-    "overview": "Top 9 trending series on Disney Plus. Four Southern Florida seniors share a house, their dreams, and a whole lot of cheesecake. Bright, promiscuous, clueless and hilarious, these lovely, mismatched ladies form the perfect circle of friends.",
+    "release_date": "1989-01-01",
+    "overview": "Top 6 trending series on Disney Plus. Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
     "genres": [
-      "Comedy",
-      "Drama"
+      "Animation",
+      "Comedy"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/335725337/s592/the-golden-girls.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/335725337/s592/the-golden-girls.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/307635545/s592/the-simpsons.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/307635545/s592/the-simpsons.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-golden-girls",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-golden-girls",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
     "content_type": "platform_release",
-    "published_at": "1985-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
+    "published_at": "1989-01-01T00:00:00Z",
+    "updated_at": "2026-09-21T10:19:45Z"
+  },
+  {
+    "title": "MasterChef",
+    "year": 2010,
+    "type": "series",
+    "platform": "disney_plus",
+    "release_date": "2010-01-01",
+    "overview": "Top 7 trending series on Disney Plus. This hit cooking competition series sees award-winning chef Gordon Ramsay and other celebrity chefs put a group of contestants through a series of challenges and elimination rounds, in order to turn one home cook into a culinary master.",
+    "genres": [
+      "Reality"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/320017611/s592/masterchef.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/320017611/s592/masterchef.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/masterchef",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/masterchef",
+    "content_type": "platform_release",
+    "published_at": "2010-01-01T00:00:00Z",
+    "updated_at": "2026-09-21T10:19:45Z"
   },
   {
     "title": "Grey's Anatomy",
@@ -483,7 +436,7 @@
     "type": "series",
     "platform": "disney_plus",
     "release_date": "2005-01-01",
-    "overview": "Top 10 trending series on Disney Plus. A drama centered on the personal and professional lives of five surgical interns and their supervisors.",
+    "overview": "Top 8 trending series on Disney Plus. A drama centered on the personal and professional lives of five surgical interns and their supervisors.",
     "genres": [
       "Drama",
       "Romance"
@@ -493,12 +446,66 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/greys-anatomy",
-    "scraped_at": "2026-09-20T09:32:26+00:00",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/greys-anatomy",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-09-20T09:32:26Z"
+    "updated_at": "2026-09-21T10:19:45Z"
+  },
+  {
+    "title": "9-1-1",
+    "year": 2018,
+    "type": "series",
+    "platform": "disney_plus",
+    "release_date": "2018-01-01",
+    "overview": "Top 9 trending series on Disney Plus. Explore the high-pressure experiences of police officers, paramedics and firefighters who are thrust into the most frightening, shocking and heart-stopping situations. These emergency responders must try to balance saving those who are at their most vulnerable with solving the problems in their own lives.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/313477940/s592/9-1-1.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/313477940/s592/9-1-1.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/9-1-1",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/9-1-1",
+    "content_type": "platform_release",
+    "published_at": "2018-01-01T00:00:00Z",
+    "updated_at": "2026-09-21T10:19:45Z"
+  },
+  {
+    "title": "Pokémon",
+    "year": 1997,
+    "type": "series",
+    "platform": "disney_plus",
+    "release_date": "1997-01-01",
+    "overview": "Top 10 trending series on Disney Plus. Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/245378575/s592/pokemon.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/245378575/s592/pokemon.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/pokemon",
+    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/pokemon",
+    "content_type": "platform_release",
+    "published_at": "1997-01-01T00:00:00Z",
+    "updated_at": "2026-09-21T10:19:45Z"
   }
 ]
