@@ -16,13 +16,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/flowervale-street",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/flowervale-street",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "updated_at": "2026-09-22T09:34:25Z"
   },
   {
     "title": "Backrooms",
@@ -41,13 +41,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/backrooms",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/backrooms",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "updated_at": "2026-09-22T09:34:25Z"
   },
   {
     "title": "Resident Evil",
@@ -66,13 +66,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/resident-evil-2026",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/resident-evil-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "updated_at": "2026-09-22T09:34:25Z"
   },
   {
     "title": "Obsession",
@@ -91,13 +91,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/obsession-2026",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/obsession-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "updated_at": "2026-09-22T09:34:25Z"
   },
   {
     "title": "The Invite",
@@ -116,13 +116,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-invite-2026",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-invite-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "updated_at": "2026-09-22T09:34:25Z"
   },
   {
     "title": "The Ministry of Ungentlemanly Warfare",
@@ -141,38 +141,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-ministry-of-ungentlemanly-warfare",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-ministry-of-ungentlemanly-warfare",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
-  },
-  {
-    "title": "Practical Magic",
-    "year": 1998,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "1998-01-01",
-    "overview": "Top 7 trending movie on Prime Video. Sally and Gillian Owens, born into a magical family, have mostly avoided witchcraft themselves. But when Gillian's vicious boyfriend, Jimmy Angelov, dies unexpectedly, the Owens sisters give themselves a crash course in hard magic. With policeman Gary Hallet growing suspicious, the girls struggle to resurrect Angelov -- and unwittingly inject his corpse with an evil spirit that threatens to end their family line.",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/11005490/s592/practical-magic.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/11005490/s592/practical-magic.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/practical-magic",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/practical-magic",
-    "content_type": "platform_release",
-    "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "updated_at": "2026-09-22T09:34:25Z"
   },
   {
     "title": "Disclosure Day",
@@ -180,7 +155,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 8 trending movie on Prime Video. If you found out we weren’t alone in the universe, would that frighten you?",
+    "overview": "Top 7 trending movie on Prime Video. If you found out we weren’t alone in the universe, would that frighten you?",
     "genres": [
       "Action",
       "Sci-Fi",
@@ -191,13 +166,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-dish-2026-1",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-dish-2026-1",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "updated_at": "2026-09-22T09:34:25Z"
   },
   {
     "title": "Tony",
@@ -205,7 +180,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 9 trending movie on Prime Video. A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+    "overview": "Top 8 trending movie on Prime Video. A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
     "genres": [
       "Comedy",
       "Drama"
@@ -215,13 +190,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/tony-2026",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/tony-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "updated_at": "2026-09-22T09:34:25Z"
   },
   {
     "title": "In the Grey",
@@ -229,7 +204,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 10 trending movie on Prime Video. A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+    "overview": "Top 9 trending movie on Prime Video. A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
     "genres": [
       "Action",
       "Crime",
@@ -241,13 +216,40 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/in-the-grey",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/in-the-grey",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "updated_at": "2026-09-22T09:34:25Z"
+  },
+  {
+    "title": "Hope",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 10 trending movie on Prime Video. In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/347716279/s592/hope-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/347716279/s592/hope-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/hope-2026",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/hope-2026",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-09-22T09:34:25Z"
   },
   {
     "title": "Widow's Bay",
@@ -267,13 +269,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/widows-bay",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/widows-bay",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "updated_at": "2026-09-22T09:34:25Z"
   },
   {
     "title": "Line of Fire",
@@ -291,13 +293,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/line-of-fire-2026",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/line-of-fire-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "updated_at": "2026-09-22T09:34:25Z"
   },
   {
     "title": "Neagley",
@@ -317,13 +319,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/neagley",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/neagley",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "updated_at": "2026-09-22T09:34:25Z"
   },
   {
     "title": "Slow Horses",
@@ -342,13 +344,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/slow-horses",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/slow-horses",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "updated_at": "2026-09-22T09:34:25Z"
+  },
+  {
+    "title": "MobLand",
+    "year": 2025,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2025-01-01",
+    "overview": "Top 5 trending series on Prime Video. Two mob families clash in a war that threatens to topple empires and lives.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/326902644/s592/mobland.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/326902644/s592/mobland.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/mobland",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/mobland",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-09-22T09:34:25Z"
   },
   {
     "title": "Reacher",
@@ -356,7 +382,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2022-01-01",
-    "overview": "Top 5 trending series on Prime Video. Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "overview": "Top 6 trending series on Prime Video. Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "genres": [
       "Action",
       "Crime",
@@ -367,37 +393,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/jack-reacher",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/jack-reacher",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
-  },
-  {
-    "title": "MobLand",
-    "year": 2025,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2025-01-01",
-    "overview": "Top 6 trending series on Prime Video. Two mob families clash in a war that threatens to topple empires and lives.",
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/326902644/s592/mobland.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/326902644/s592/mobland.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/mobland",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/mobland",
-    "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "updated_at": "2026-09-22T09:34:25Z"
   },
   {
     "title": "Monster: The Lizzie Borden Story",
@@ -415,13 +417,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/monster-the-lizzie-borden-story",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/monster-the-lizzie-borden-story",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "updated_at": "2026-09-22T09:34:25Z"
   },
   {
     "title": "Lanterns",
@@ -442,13 +444,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/lanterns",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "updated_at": "2026-09-22T09:34:25Z"
   },
   {
     "title": "Lioness",
@@ -468,36 +470,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/special-ops-lioness",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/special-ops-lioness",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "updated_at": "2026-09-22T09:34:25Z"
   },
   {
-    "title": "The Doll",
-    "year": 2026,
+    "title": "South Park",
+    "year": 1997,
     "type": "series",
     "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 10 trending series on Prime Video. A Polish literary classic reimagined for modern times explores the dangerous intersection of love and obsession. An ambitious man's ruthless pursuit of high society status becomes entangled with his fixation on a woman named Izabela.",
+    "release_date": "1997-01-01",
+    "overview": "Top 10 trending series on Prime Video. Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
     "genres": [
-      "Drama",
-      "Romance"
+      "Animation",
+      "Comedy"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/346742472/s592/the-doll.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346742472/s592/the-doll.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/138472468/s592/south-park.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/138472468/s592/south-park.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-doll",
-    "scraped_at": "2026-09-21T10:19:45+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/south-park",
+    "scraped_at": "2026-09-22T09:34:25+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-doll",
+    "article_url": "https://www.justwatch.com/us/tv-show/south-park",
     "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-21T10:19:45Z"
+    "published_at": "1997-01-01T00:00:00Z",
+    "updated_at": "2026-09-22T09:34:25Z"
   }
 ]
