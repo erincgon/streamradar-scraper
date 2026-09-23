@@ -1,11 +1,38 @@
 [
   {
+    "title": "Toy Story 5",
+    "year": 2026,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "2026-01-01",
+    "overview": "Top 1 trending movie on Disney Plus. When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "poster_image_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+    "backdrop_image_url": "https://image.tmdb.org/t/p/w1280/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/toy-story-5",
+    "scraped_at": "2026-09-23T09:40:04+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/toy-story-5",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-09-23T09:40:04Z"
+  },
+  {
     "title": "The Mandalorian and Grogu",
     "year": 2026,
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2026-01-01",
-    "overview": "Top 1 trending movie on Disney Plus. Once a lone bounty hunter, Mandalorian Din Djarin and his apprentice Grogu embark on an exciting new Star Wars adventure.",
+    "overview": "Top 2 trending movie on Disney Plus. Once a lone bounty hunter, Mandalorian Din Djarin and his apprentice Grogu embark on an exciting new Star Wars adventure.",
     "genres": [
       "Action",
       "Family",
@@ -17,13 +44,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
     "title": "Ready or Not 2: Here I Come",
@@ -31,7 +58,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2026-01-01",
-    "overview": "Top 2 trending movie on Disney Plus. Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+    "overview": "Top 3 trending movie on Disney Plus. Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
     "genres": [
       "Comedy",
       "Horror",
@@ -42,13 +69,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/ready-or-not-here-i-come",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/ready-or-not-here-i-come",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
     "title": "10 Things I Hate About You",
@@ -56,7 +83,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "1999-01-01",
-    "overview": "Top 3 trending movie on Disney Plus. A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat.",
+    "overview": "Top 4 trending movie on Disney Plus. A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat.",
     "genres": [
       "Comedy",
       "Drama",
@@ -67,13 +94,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/10-things-i-hate-about-you",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/10-things-i-hate-about-you",
     "content_type": "platform_release",
     "published_at": "1999-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
     "title": "Kraven the Hunter",
@@ -81,7 +108,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2024-01-01",
-    "overview": "Top 4 trending movie on Disney Plus. Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+    "overview": "Top 5 trending movie on Disney Plus. Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
     "genres": [
       "Action",
       "Thriller"
@@ -91,13 +118,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/kraven-the-hunter",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/kraven-the-hunter",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
     "title": "Jurassic Park",
@@ -105,9 +132,8 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "1993-01-01",
-    "overview": "Top 5 trending movie on Disney Plus. A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+    "overview": "Top 6 trending movie on Disney Plus. A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
     "genres": [
-      "Action",
       "Sci-Fi"
     ],
     "poster_image_url": "https://images.justwatch.com/poster/315685081/s592/jurassic-park-i.webp",
@@ -115,13 +141,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/jurassic-park-i",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/jurassic-park-i",
     "content_type": "platform_release",
     "published_at": "1993-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
     "title": "Spider-Man: No Way Home",
@@ -129,7 +155,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2021-01-01",
-    "overview": "Top 6 trending movie on Disney Plus. Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "overview": "Top 7 trending movie on Disney Plus. Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
     "genres": [
       "Action",
       "Fantasy",
@@ -140,13 +166,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/spider-man-no-way-home",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/spider-man-no-way-home",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
     "title": "Spider-Man: Across the Spider-Verse",
@@ -154,7 +180,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2023-01-01",
-    "overview": "Top 7 trending movie on Disney Plus. After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+    "overview": "Top 8 trending movie on Disney Plus. After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
     "genres": [
       "Action",
       "Animation",
@@ -167,13 +193,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/spider-man-into-the-spider-verse-2",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/spider-man-into-the-spider-verse-2",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
     "title": "Avatar: Fire and Ash",
@@ -181,7 +207,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2025-01-01",
-    "overview": "Top 8 trending movie on Disney Plus. In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+    "overview": "Top 9 trending movie on Disney Plus. In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
     "genres": [
       "Action",
       "Drama",
@@ -193,13 +219,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/avatar-3",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/avatar-3",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
     "title": "Hoppers",
@@ -207,7 +233,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2026-01-01",
-    "overview": "Top 9 trending movie on Disney Plus. Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+    "overview": "Top 10 trending movie on Disney Plus. Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
     "genres": [
       "Action",
       "Animation",
@@ -220,38 +246,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/hoppers",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/hoppers",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
-  },
-  {
-    "title": "Deadpool & Wolverine",
-    "year": 2024,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "2024-01-01",
-    "overview": "Top 10 trending movie on Disney Plus. A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/318387357/s592/deadpool-3.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/318387357/s592/deadpool-3.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/deadpool-3",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/deadpool-3",
-    "content_type": "platform_release",
-    "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
     "title": "Dancing with the Stars",
@@ -261,7 +262,6 @@
     "release_date": "2005-01-01",
     "overview": "Top 1 trending series on Disney Plus. The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom experts and voted on by viewers. Enjoy sizzling salsas, sambas and spray-tans as they vie for the coveted Mirrorball Trophy.",
     "genres": [
-      "Family",
       "Reality"
     ],
     "poster_image_url": "https://images.justwatch.com/poster/354170538/s592/dancing-with-the-stars.webp",
@@ -269,13 +269,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/dancing-with-the-stars",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/dancing-with-the-stars",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
     "title": "Over the Garden Wall",
@@ -299,13 +299,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/over-the-garden-wall",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/over-the-garden-wall",
     "content_type": "platform_release",
     "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
     "title": "The Bear",
@@ -323,37 +323,42 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-bear",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-bear",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
-    "title": "8 Simple Rules",
-    "year": 2002,
+    "title": "Pokémon",
+    "year": 1997,
     "type": "series",
     "platform": "disney_plus",
-    "release_date": "2002-01-01",
-    "overview": "Top 4 trending series on Disney Plus. Paul and Cate are raising their three children -- Bridget, Kerry and Rory -- which is no easy task. Oldest daughter Bridget is traversing the dating scene. Kerry is cute and smart, but she has a hard time getting in touch with her true feelings because of her lack of self-confidence. The youngest of the three children, and only boy, Rory is beginning to discover one of life's greatest mysteries -- girls.",
+    "release_date": "1997-01-01",
+    "overview": "Top 4 trending series on Disney Plus. Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
     "genres": [
+      "Action",
+      "Animation",
       "Comedy",
-      "Drama"
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Sci-Fi"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/344557659/s592/8-simple-rules.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/344557659/s592/8-simple-rules.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/245378575/s592/pokemon.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/245378575/s592/pokemon.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/8-simple-rules",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/pokemon",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/8-simple-rules",
+    "article_url": "https://www.justwatch.com/us/tv-show/pokemon",
     "content_type": "platform_release",
-    "published_at": "2002-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "published_at": "1997-01-01T00:00:00Z",
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
     "title": "The Simpsons",
@@ -371,13 +376,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
     "content_type": "platform_release",
     "published_at": "1989-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
     "title": "9-1-1",
@@ -396,42 +401,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/9-1-1",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/9-1-1",
     "content_type": "platform_release",
     "published_at": "2018-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
-    "title": "Pokémon",
-    "year": 1997,
+    "title": "8 Simple Rules",
+    "year": 2002,
     "type": "series",
     "platform": "disney_plus",
-    "release_date": "1997-01-01",
-    "overview": "Top 7 trending series on Disney Plus. Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
+    "release_date": "2002-01-01",
+    "overview": "Top 7 trending series on Disney Plus. Paul and Cate are raising their three children -- Bridget, Kerry and Rory -- which is no easy task. Oldest daughter Bridget is traversing the dating scene. Kerry is cute and smart, but she has a hard time getting in touch with her true feelings because of her lack of self-confidence. The youngest of the three children, and only boy, Rory is beginning to discover one of life's greatest mysteries -- girls.",
     "genres": [
-      "Action",
-      "Animation",
       "Comedy",
-      "Drama",
-      "Family",
-      "Fantasy",
-      "Sci-Fi"
+      "Drama"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/245378575/s592/pokemon.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/245378575/s592/pokemon.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/344557659/s592/8-simple-rules.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/344557659/s592/8-simple-rules.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/pokemon",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/8-simple-rules",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/pokemon",
+    "article_url": "https://www.justwatch.com/us/tv-show/8-simple-rules",
     "content_type": "platform_release",
-    "published_at": "1997-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "published_at": "2002-01-01T00:00:00Z",
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
     "title": "MasterChef",
@@ -448,13 +448,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/masterchef",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/masterchef",
     "content_type": "platform_release",
     "published_at": "2010-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
     "title": "Only Murders in the Building",
@@ -474,36 +474,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "updated_at": "2026-09-23T09:40:06Z"
   },
   {
-    "title": "Minimum Security",
-    "year": 2026,
+    "title": "How I Met Your Mother",
+    "year": 2005,
     "type": "series",
     "platform": "disney_plus",
-    "release_date": "2026-01-01",
-    "overview": "Top 10 trending series on Disney Plus. Corinne runs Chénoise prison with her unlikely team: By-the-book Jeff, JP who's always been closer to inmates than colleagues, and rookie Stéphanie.",
+    "release_date": "2005-01-01",
+    "overview": "Top 10 trending series on Disney Plus. A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
     "genres": [
       "Comedy",
-      "Drama"
+      "Drama",
+      "Romance"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/354557490/s592/discipline-and-punish.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354557490/s592/discipline-and-punish.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/178160024/s592/how-i-met-your-mother.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/178160024/s592/how-i-met-your-mother.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/discipline-and-punish",
-    "scraped_at": "2026-09-22T09:34:25+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/how-i-met-your-mother",
+    "scraped_at": "2026-09-23T09:40:06+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/discipline-and-punish",
+    "article_url": "https://www.justwatch.com/us/tv-show/how-i-met-your-mother",
     "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-22T09:34:25Z"
+    "published_at": "2005-01-01T00:00:00Z",
+    "updated_at": "2026-09-23T09:40:06Z"
   }
 ]
