@@ -1,27 +1,28 @@
 [
   {
-    "title": "Barbarian",
-    "year": 2022,
+    "title": "Backrooms",
+    "year": 2026,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "2022-01-01",
-    "overview": "Top 1 trending movie on Hbo Max. In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+    "release_date": "2026-01-01",
+    "overview": "Top 1 trending movie on Hbo Max. A strange doorway appears in the basement of a furniture showroom.",
     "genres": [
       "Horror",
+      "Sci-Fi",
       "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/301788386/s592/barbarian.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/301788386/s592/barbarian.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/347350367/s592/backrooms.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/347350367/s592/backrooms.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/barbarian",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/backrooms",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/barbarian",
+    "article_url": "https://www.justwatch.com/us/movie/backrooms",
     "content_type": "platform_release",
-    "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-09-25T09:56:42Z"
   },
   {
     "title": "Weapons",
@@ -39,13 +40,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/weapons-2026",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/weapons-2026",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
+    "updated_at": "2026-09-25T09:56:42Z"
+  },
+  {
+    "title": "Barbarian",
+    "year": 2022,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2022-01-01",
+    "overview": "Top 3 trending movie on Hbo Max. In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/301788386/s592/barbarian.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/301788386/s592/barbarian.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/barbarian",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/barbarian",
+    "content_type": "platform_release",
+    "published_at": "2022-01-01T00:00:00Z",
+    "updated_at": "2026-09-25T09:56:42Z"
   },
   {
     "title": "The Drama",
@@ -53,7 +78,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 3 trending movie on Hbo Max. A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+    "overview": "Top 4 trending movie on Hbo Max. A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
     "genres": [
       "Comedy",
       "Crime",
@@ -65,13 +90,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-drama",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-drama",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
+    "updated_at": "2026-09-25T09:56:42Z"
+  },
+  {
+    "title": "Siren: The Voices of Shelley Beattie",
+    "year": 2025,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2025-01-01",
+    "overview": "Top 5 trending movie on Hbo Max. Shelley Beattie, a Deaf woman and champion bodybuilder, found fame in the 1990s on the hit TV show American Gladiators, where she competed under the name \"Siren\" before her untimely death in 2008. While charismatic, gorgeous, and a fierce competitor, Beattie also battled personal demons, struggling with mental illness, addiction, and questions of her own identity. Framed by the insight of another Deaf woman in Hollywood who found herself in the spotlight at the...",
+    "genres": [
+      "Documentary"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/354941872/s592/siren-the-voices-of-shelley-beattie.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354941872/s592/siren-the-voices-of-shelley-beattie.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/siren-the-voices-of-shelley-beattie",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/siren-the-voices-of-shelley-beattie",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-09-25T09:56:42Z"
   },
   {
     "title": "Practical Magic",
@@ -79,7 +127,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "1998-01-01",
-    "overview": "Top 4 trending movie on Hbo Max. Sally and Gillian Owens, born into a magical family, have mostly avoided witchcraft themselves. But when Gillian's vicious boyfriend, Jimmy Angelov, dies unexpectedly, the Owens sisters give themselves a crash course in hard magic. With policeman Gary Hallet growing suspicious, the girls struggle to resurrect Angelov -- and unwittingly inject his corpse with an evil spirit that threatens to end their family line.",
+    "overview": "Top 6 trending movie on Hbo Max. Sally and Gillian Owens, born into a magical family, have mostly avoided witchcraft themselves. But when Gillian's vicious boyfriend, Jimmy Angelov, dies unexpectedly, the Owens sisters give themselves a crash course in hard magic. With policeman Gary Hallet growing suspicious, the girls struggle to resurrect Angelov -- and unwittingly inject his corpse with an evil spirit that threatens to end their family line.",
     "genres": [
       "Comedy",
       "Fantasy",
@@ -90,38 +138,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/practical-magic",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/practical-magic",
     "content_type": "platform_release",
     "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
-  },
-  {
-    "title": "Normal",
-    "year": 2026,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 5 trending movie on Hbo Max. An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/344392652/s592/normal-2025.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/344392652/s592/normal-2025.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/normal-2025",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/normal-2025",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
+    "updated_at": "2026-09-25T09:56:42Z"
   },
   {
     "title": "Sinners",
@@ -129,7 +152,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 6 trending movie on Hbo Max. Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+    "overview": "Top 7 trending movie on Hbo Max. Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
     "genres": [
       "Action",
       "Horror",
@@ -140,13 +163,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/sinners-2025",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/sinners-2025",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
+    "updated_at": "2026-09-25T09:56:42Z"
   },
   {
     "title": "The Substance",
@@ -154,7 +177,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2024-01-01",
-    "overview": "Top 7 trending movie on Hbo Max. A fading celebrity takes a black-market drug: a cell-replicating substance that helps her create a younger, better version of herself.",
+    "overview": "Top 8 trending movie on Hbo Max. A fading celebrity takes a black-market drug: a cell-replicating substance that helps her create a younger, better version of herself.",
     "genres": [
       "Drama",
       "Horror",
@@ -165,86 +188,88 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-substance",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-substance",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
+    "updated_at": "2026-09-25T09:56:42Z"
   },
   {
-    "title": "Mother Mary",
-    "year": 2026,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 8 trending movie on Hbo Max. Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
-    "genres": [
-      "Drama",
-      "Music"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/339367950/s592/mother-mary.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/339367950/s592/mother-mary.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/mother-mary",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/mother-mary",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
-  },
-  {
-    "title": "Marty Supreme",
+    "title": "Fuze",
     "year": 2025,
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 9 trending movie on Hbo Max. Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+    "overview": "Top 9 trending movie on Hbo Max. An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller",
+      "War"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/345838728/s592/fuze.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/345838728/s592/fuze.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/fuze",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/fuze",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-09-25T09:56:42Z"
+  },
+  {
+    "title": "One Battle After Another",
+    "year": 2025,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2025-01-01",
+    "overview": "Top 10 trending movie on Hbo Max. Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
     "genres": [
       "Comedy",
-      "Drama",
-      "Sport",
+      "Crime",
       "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/341442240/s592/marty-supreme.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/341442240/s592/marty-supreme.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/334846074/s592/the-battle-of-baktan-cross.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/334846074/s592/the-battle-of-baktan-cross.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/marty-supreme",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/the-battle-of-baktan-cross",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/marty-supreme",
+    "article_url": "https://www.justwatch.com/us/movie/the-battle-of-baktan-cross",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
+    "updated_at": "2026-09-25T09:56:42Z"
   },
   {
-    "title": "Siren: The Voices of Shelley Beattie",
-    "year": 2025,
-    "type": "movie",
+    "title": "Youth",
+    "year": 2026,
+    "type": "series",
     "platform": "hbo_max",
-    "release_date": "2025-01-01",
-    "overview": "Top 10 trending movie on Hbo Max. Shelley Beattie, a Deaf woman and champion bodybuilder, found fame in the 1990s on the hit TV show American Gladiators, where she competed under the name \"Siren\" before her untimely death in 2008. While charismatic, gorgeous, and a fierce competitor, Beattie also battled personal demons, struggling with mental illness, addiction, and questions of her own identity. Framed by the insight of another Deaf woman in Hollywood who found herself in the spotlight at...",
+    "release_date": "2026-01-01",
+    "overview": "Top 1 trending series on Hbo Max. A 50-year-old divorcee juggles dating life while taking care of her parents and adult son.",
     "genres": [
-      "Documentary"
+      "Comedy",
+      "Drama"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/340348554/s592/siren-the-voices-of-shelley-beattie.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/340348554/s592/siren-the-voices-of-shelley-beattie.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/354909766/s592/youth-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354909766/s592/youth-2026.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/siren-the-voices-of-shelley-beattie",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/youth-2026",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/siren-the-voices-of-shelley-beattie",
+    "article_url": "https://www.justwatch.com/us/tv-show/youth-2026",
     "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-09-25T09:56:42Z"
   },
   {
     "title": "Lanterns",
@@ -252,7 +277,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 1 trending series on Hbo Max. Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "overview": "Top 2 trending series on Hbo Max. Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "genres": [
       "Action",
       "Crime",
@@ -265,37 +290,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/lanterns",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
-  },
-  {
-    "title": "Youth",
-    "year": 2026,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 2 trending series on Hbo Max. A 50-year-old divorcee juggles dating life while taking care of her parents and adult son.",
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/350301996/s592/youth-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/350301996/s592/youth-2026.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/youth-2026",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/youth-2026",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
+    "updated_at": "2026-09-25T09:56:42Z"
   },
   {
     "title": "Stuart Fails to Save the Universe",
@@ -314,13 +315,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/stuart-fails-to-save-the-universe",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/stuart-fails-to-save-the-universe",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
+    "updated_at": "2026-09-25T09:56:42Z"
   },
   {
     "title": "Last Week Tonight with John Oliver",
@@ -337,13 +338,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
     "content_type": "platform_release",
     "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
+    "updated_at": "2026-09-25T09:56:42Z"
   },
   {
     "title": "Mad Men",
@@ -360,36 +361,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/mad-men",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/mad-men",
     "content_type": "platform_release",
     "published_at": "2007-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
-  },
-  {
-    "title": "The Pitt",
-    "year": 2025,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2025-01-01",
-    "overview": "Top 6 trending series on Hbo Max. The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-    "genres": [
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/326276773/s592/the-pitt.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/326276773/s592/the-pitt.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-pitt",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-pitt",
-    "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
+    "updated_at": "2026-09-25T09:56:42Z"
   },
   {
     "title": "Station Eleven",
@@ -397,7 +375,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2021-01-01",
-    "overview": "Top 7 trending series on Hbo Max. A post apocalyptic saga spanning multiple timelines, telling the stories of survivors of a devastating flu as they attempt to rebuild and reimagine the world anew while holding on to the best of what's been lost.",
+    "overview": "Top 6 trending series on Hbo Max. A post apocalyptic saga spanning multiple timelines, telling the stories of survivors of a devastating flu as they attempt to rebuild and reimagine the world anew while holding on to the best of what's been lost.",
     "genres": [
       "Drama",
       "Fantasy",
@@ -409,13 +387,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/station-eleven",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/station-eleven",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
+    "updated_at": "2026-09-25T09:56:42Z"
+  },
+  {
+    "title": "True Detective",
+    "year": 2014,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2014-01-01",
+    "overview": "Top 7 trending series on Hbo Max. An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/243933920/s592/true-detective.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/243933920/s592/true-detective.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/true-detective",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/true-detective",
+    "content_type": "platform_release",
+    "published_at": "2014-01-01T00:00:00Z",
+    "updated_at": "2026-09-25T09:56:42Z"
   },
   {
     "title": "How To with John Wilson",
@@ -433,38 +436,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/how-to-with-john-wilson",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/how-to-with-john-wilson",
     "content_type": "platform_release",
     "published_at": "2020-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
-  },
-  {
-    "title": "True Detective",
-    "year": 2014,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2014-01-01",
-    "overview": "Top 9 trending series on Hbo Max. An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/243933920/s592/true-detective.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/243933920/s592/true-detective.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/true-detective",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/true-detective",
-    "content_type": "platform_release",
-    "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
+    "updated_at": "2026-09-25T09:56:42Z"
   },
   {
     "title": "The West Wing",
@@ -472,7 +450,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "1999-01-01",
-    "overview": "Top 10 trending series on Hbo Max. The West Wing provides a glimpse into presidential politics in the nation's capital as it tells the stories of the members of a fictional presidential administration. These interesting characters have humor and dedication that touches the heart while the politics that they discuss touch on everyday life.",
+    "overview": "Top 9 trending series on Hbo Max. The West Wing provides a glimpse into presidential politics in the nation's capital as it tells the stories of the members of a fictional presidential administration. These interesting characters have humor and dedication that touches the heart while the politics that they discuss touch on everyday life.",
     "genres": [
       "Drama"
     ],
@@ -481,12 +459,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-west-wing",
-    "scraped_at": "2026-09-24T09:38:56+00:00",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-west-wing",
     "content_type": "platform_release",
     "published_at": "1999-01-01T00:00:00Z",
-    "updated_at": "2026-09-24T09:38:56Z"
+    "updated_at": "2026-09-25T09:56:42Z"
+  },
+  {
+    "title": "The Rehearsal",
+    "year": 2022,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2022-01-01",
+    "overview": "Top 10 trending series on Hbo Max. Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/331181889/s592/the-rehearsal.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/331181889/s592/the-rehearsal.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
+    "scraped_at": "2026-09-25T09:56:42+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
+    "content_type": "platform_release",
+    "published_at": "2022-01-01T00:00:00Z",
+    "updated_at": "2026-09-25T09:56:42Z"
   }
 ]
