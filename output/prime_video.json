@@ -16,13 +16,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/backrooms",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/backrooms",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "The Love Hypothesis",
@@ -40,13 +40,40 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-love-hypothesis",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-love-hypothesis",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
+  },
+  {
+    "title": "Toy Story 5",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 3 trending movie on Prime Video. When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/346646489/s592/toy-story-5.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/346646489/s592/toy-story-5.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/toy-story-5",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/toy-story-5",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Tuner",
@@ -54,7 +81,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 3 trending movie on Prime Video. A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+    "overview": "Top 4 trending movie on Prime Video. A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
     "genres": [
       "Crime",
       "Drama",
@@ -67,66 +94,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/tuner",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/tuner",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
-  },
-  {
-    "title": "Toy Story 5",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 4 trending movie on Prime Video. When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-    "genres": [
-      "Action",
-      "Animation",
-      "Comedy",
-      "Drama",
-      "Family",
-      "Fantasy"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/346646489/s592/toy-story-5.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346646489/s592/toy-story-5.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/toy-story-5",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/toy-story-5",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
-  },
-  {
-    "title": "Resident Evil",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 5 trending movie on Prime Video. Described as a revamp that will return to the franchise's horror roots and be more faithful to the initial games.",
-    "genres": [
-      "Action",
-      "Horror",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/354637476/s592/resident-evil-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354637476/s592/resident-evil-2026.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/resident-evil-2026",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/resident-evil-2026",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Spa Weekend",
@@ -134,7 +108,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 6 trending movie on Prime Video. Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
+    "overview": "Top 5 trending movie on Prime Video. Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
     "genres": [
       "Comedy"
     ],
@@ -143,13 +117,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/spa-weekend",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/spa-weekend",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
+  },
+  {
+    "title": "Unabomber",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 6 trending movie on Prime Video. In this drama inspired by true events, Ted Kaczynski's transformation from Harvard prodigy to the infamous Unabomber unfolds as the FBI hunts him down.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/354939438/s592/unabomber.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354939438/s592/unabomber.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/unabomber",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/unabomber",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Obsession",
@@ -168,38 +167,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/obsession-2026",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/obsession-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
-    "title": "Unabomber",
+    "title": "Primetime",
     "year": 2026,
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 8 trending movie on Prime Video. In this drama inspired by true events, Ted Kaczynski's transformation from Harvard prodigy to the infamous Unabomber unfolds as the FBI hunts him down.",
+    "overview": "Top 8 trending movie on Prime Video. In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
     "genres": [
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/354939438/s592/unabomber.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354939438/s592/unabomber.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/345847301/s592/primetime.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/345847301/s592/primetime.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/unabomber",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/primetime",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/unabomber",
+    "article_url": "https://www.justwatch.com/us/movie/primetime",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Heart of the Beast",
@@ -218,38 +217,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/heart-of-the-beast",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/heart-of-the-beast",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
-    "title": "Primetime",
+    "title": "Resident Evil",
     "year": 2026,
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 10 trending movie on Prime Video. In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
+    "overview": "Top 10 trending movie on Prime Video. Described as a revamp that will return to the franchise's horror roots and be more faithful to the initial games.",
     "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
+      "Action",
+      "Horror",
+      "Sci-Fi"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/345847301/s592/primetime.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/345847301/s592/primetime.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/354637476/s592/resident-evil-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354637476/s592/resident-evil-2026.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/primetime",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/resident-evil-2026",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/primetime",
+    "article_url": "https://www.justwatch.com/us/movie/resident-evil-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Slow Horses",
@@ -268,13 +267,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/slow-horses",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/slow-horses",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "American Horror Story",
@@ -294,13 +293,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/american-horror-story-freak-show",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/american-horror-story-freak-show",
     "content_type": "platform_release",
     "published_at": "2011-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Brothers",
@@ -317,38 +316,40 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/brothers-1",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/brothers-1",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
-    "title": "American Hostage",
+    "title": "Lanterns",
     "year": 2026,
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 4 trending series on Prime Video. A psychological thriller anthology series focusing on a different hostage case every season.",
+    "overview": "Top 4 trending series on Prime Video. Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "genres": [
+      "Action",
       "Crime",
       "Drama",
+      "Sci-Fi",
       "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/346423370/s592/american-hostage.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346423370/s592/american-hostage.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/347103107/s592/lanterns.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/347103107/s592/lanterns.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/american-hostage",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/lanterns",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/american-hostage",
+    "article_url": "https://www.justwatch.com/us/tv-show/lanterns",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Ted Lasso",
@@ -367,13 +368,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/ted-lasso",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/ted-lasso",
     "content_type": "platform_release",
     "published_at": "2020-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Lioness",
@@ -393,40 +394,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/special-ops-lioness",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/special-ops-lioness",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
-  },
-  {
-    "title": "Lanterns",
-    "year": 2026,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 7 trending series on Prime Video. Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/347103107/s592/lanterns.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/347103107/s592/lanterns.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Best Medicine",
@@ -434,7 +408,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 8 trending series on Prime Video. Martin Best is a brilliant surgeon who abruptly leaves his illustrious career in Boston to become the general practitioner in a quaint East Coast fishing village where he spent summers as a child. Unfortunately, Martin's blunt and borderline rude bedside manner rubs the quirky, needy locals the wrong way, and he quickly alienates the town, even though he's all they’ve got.",
+    "overview": "Top 7 trending series on Prime Video. Martin Best is a brilliant surgeon who abruptly leaves his illustrious career in Boston to become the general practitioner in a quaint East Coast fishing village where he spent summers as a child. Unfortunately, Martin's blunt and borderline rude bedside manner rubs the quirky, needy locals the wrong way, and he quickly alienates the town, even though he's all they’ve got.",
     "genres": [
       "Comedy",
       "Drama"
@@ -444,37 +418,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/best-medicine",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/best-medicine",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
-    "title": "Youth",
+    "title": "American Hostage",
     "year": 2026,
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 9 trending series on Prime Video. A 50-year-old divorcee juggles dating life while taking care of her parents and adult son.",
+    "overview": "Top 8 trending series on Prime Video. A psychological thriller anthology series focusing on a different hostage case every season.",
     "genres": [
-      "Comedy",
-      "Drama"
+      "Crime",
+      "Drama",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/354909766/s592/youth-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354909766/s592/youth-2026.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/346423370/s592/american-hostage.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/346423370/s592/american-hostage.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/youth-2026",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/american-hostage",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/youth-2026",
+    "article_url": "https://www.justwatch.com/us/tv-show/american-hostage",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "MobLand",
@@ -482,7 +457,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2025-01-01",
-    "overview": "Top 10 trending series on Prime Video. Two mob families clash in a war that threatens to topple empires and lives.",
+    "overview": "Top 9 trending series on Prime Video. Two mob families clash in a war that threatens to topple empires and lives.",
     "genres": [
       "Crime",
       "Drama"
@@ -492,12 +467,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/mobland",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/mobland",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
+  },
+  {
+    "title": "Youth",
+    "year": 2026,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 10 trending series on Prime Video. A 50-year-old divorcee juggles dating life while taking care of her parents and adult son.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/354909766/s592/youth-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354909766/s592/youth-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/youth-2026",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/youth-2026",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-09-29T10:59:54Z"
   }
 ]

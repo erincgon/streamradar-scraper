@@ -4,7 +4,7 @@
     "year": 2026,
     "type": "movie",
     "platform": "cinema",
-    "release_date": "2026-09-28",
+    "release_date": "2026-09-29",
     "overview": "Movie currently playing in cinema theaters. Distributed by Orion Pictures.",
     "genres": [],
     "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
@@ -12,13 +12,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt35856037/",
-    "scraped_at": "2026-09-28T11:28:43+00:00",
+    "scraped_at": "2026-09-29T11:09:00+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt35856037/",
     "content_type": "cinema_release",
-    "published_at": "2026-09-28T00:00:00Z",
-    "updated_at": "2026-09-28T11:28:43Z"
+    "published_at": "2026-09-29T00:00:00Z",
+    "updated_at": "2026-09-29T11:09:00Z"
   },
   {
     "title": "Primetime",
@@ -33,13 +33,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt34206385/",
-    "scraped_at": "2026-09-28T11:28:43+00:00",
+    "scraped_at": "2026-09-29T11:09:00+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt34206385/",
     "content_type": "cinema_release",
     "published_at": "2026-09-25T00:00:00Z",
-    "updated_at": "2026-09-28T11:28:43Z"
+    "updated_at": "2026-09-29T11:09:00Z"
   },
   {
     "title": "Heart of the Beast",
@@ -54,13 +54,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt7526136/",
-    "scraped_at": "2026-09-28T11:28:43+00:00",
+    "scraped_at": "2026-09-29T11:09:00+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt7526136/",
     "content_type": "cinema_release",
     "published_at": "2026-09-25T00:00:00Z",
-    "updated_at": "2026-09-28T11:28:43Z"
+    "updated_at": "2026-09-29T11:09:00Z"
   },
   {
     "title": "Ha-Chan, Shake Your Booty!",
@@ -75,13 +75,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt39149197/",
-    "scraped_at": "2026-09-28T11:28:43+00:00",
+    "scraped_at": "2026-09-29T11:09:00+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt39149197/",
     "content_type": "cinema_release",
     "published_at": "2026-09-25T00:00:00Z",
-    "updated_at": "2026-09-28T11:28:43Z"
+    "updated_at": "2026-09-29T11:09:00Z"
   },
   {
     "title": "Forgotten Island",
@@ -96,13 +96,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt36583977/",
-    "scraped_at": "2026-09-28T11:28:43+00:00",
+    "scraped_at": "2026-09-29T11:09:00+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt36583977/",
     "content_type": "cinema_release",
     "published_at": "2026-09-25T00:00:00Z",
-    "updated_at": "2026-09-28T11:28:43Z"
+    "updated_at": "2026-09-29T11:09:00Z"
   },
   {
     "title": "Avengers Endgame: Encore",
@@ -117,13 +117,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt4154796/",
-    "scraped_at": "2026-09-28T11:28:43+00:00",
+    "scraped_at": "2026-09-29T11:09:00+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt4154796/",
     "content_type": "cinema_release",
     "published_at": "2026-09-25T00:00:00Z",
-    "updated_at": "2026-09-28T11:28:43Z"
+    "updated_at": "2026-09-29T11:09:00Z"
   },
   {
     "title": "The History of Concrete",
@@ -131,20 +131,41 @@
     "type": "movie",
     "platform": "cinema",
     "release_date": "2026-09-18",
-    "overview": "Movie currently playing in cinema theaters. Distributed by -. Showing in 49 theaters.",
+    "overview": "Movie currently playing in cinema theaters. Distributed by -. Showing in 51 theaters.",
     "genres": [],
     "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMzRhOTZhNGMtNDM2ZS00YTA1LTg1ZGItZDEyNTI1NTdlOTgzXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
     "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BMzRhOTZhNGMtNDM2ZS00YTA1LTg1ZGItZDEyNTI1NTdlOTgzXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt39150234/",
-    "scraped_at": "2026-09-28T11:28:43+00:00",
+    "scraped_at": "2026-09-29T11:09:00+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt39150234/",
     "content_type": "cinema_release",
     "published_at": "2026-09-18T00:00:00Z",
-    "updated_at": "2026-09-28T11:28:43Z"
+    "updated_at": "2026-09-29T11:09:00Z"
+  },
+  {
+    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "year": 2026,
+    "type": "movie",
+    "platform": "cinema",
+    "release_date": "2026-09-18",
+    "overview": "Movie currently playing in cinema theaters. Distributed by GKIDS. Showing in -1,247 theaters.",
+    "genres": [],
+    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOTA5NWIxODktNjcwOC00MjNjLWE1ZDctNWNmODkzYzc2Y2RhXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BOTA5NWIxODktNjcwOC00MjNjLWE1ZDctNWNmODkzYzc2Y2RhXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.imdb.com/title/tt36841161/",
+    "scraped_at": "2026-09-29T11:09:00+00:00",
+    "source_name": "IMDb",
+    "source_domain": "imdb.com",
+    "article_url": "https://www.imdb.com/title/tt36841161/",
+    "content_type": "cinema_release",
+    "published_at": "2026-09-18T00:00:00Z",
+    "updated_at": "2026-09-29T11:09:00Z"
   },
   {
     "title": "Resident Evil",
@@ -159,13 +180,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt35538033/",
-    "scraped_at": "2026-09-28T11:28:43+00:00",
+    "scraped_at": "2026-09-29T11:09:00+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt35538033/",
     "content_type": "cinema_release",
     "published_at": "2026-09-18T00:00:00Z",
-    "updated_at": "2026-09-28T11:28:43Z"
+    "updated_at": "2026-09-29T11:09:00Z"
   },
   {
     "title": "Daniel and the Fiery Furnace",
@@ -180,13 +201,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt37542993/",
-    "scraped_at": "2026-09-28T11:28:43+00:00",
+    "scraped_at": "2026-09-29T11:09:00+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt37542993/",
     "content_type": "cinema_release",
     "published_at": "2026-09-18T00:00:00Z",
-    "updated_at": "2026-09-28T11:28:43Z"
+    "updated_at": "2026-09-29T11:09:00Z"
   },
   {
     "title": "Practical Magic 2",
@@ -201,13 +222,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt32588798/",
-    "scraped_at": "2026-09-28T11:28:43+00:00",
+    "scraped_at": "2026-09-29T11:09:00+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt32588798/",
     "content_type": "cinema_release",
     "published_at": "2026-09-11T00:00:00Z",
-    "updated_at": "2026-09-28T11:28:43Z"
+    "updated_at": "2026-09-29T11:09:00Z"
   },
   {
     "title": "If I Go Will They Miss Me",
@@ -222,34 +243,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt39151344/",
-    "scraped_at": "2026-09-28T11:28:43+00:00",
+    "scraped_at": "2026-09-29T11:09:00+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt39151344/",
     "content_type": "cinema_release",
     "published_at": "2026-09-11T00:00:00Z",
-    "updated_at": "2026-09-28T11:28:43Z"
-  },
-  {
-    "title": "By Any Means",
-    "year": 2026,
-    "type": "movie",
-    "platform": "cinema",
-    "release_date": "2026-09-04",
-    "overview": "Movie currently playing in cinema theaters. Distributed by Paramount Pictures. Showing in -1,102 theaters.",
-    "genres": [],
-    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZTUwODQ5N2QtMGM3Ny00YTk1LWJlZTctMTE5ZTAzNTMwOGQxXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "backdrop_image_url": "https://m.media-amazon.com/images/M/MV5BZTUwODQ5N2QtMGM3Ny00YTk1LWJlZTctMTE5ZTAzNTMwOGQxXkEyXkFqcGc@._V1_QL75_UX380_.jpg",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.imdb.com/title/tt34379051/",
-    "scraped_at": "2026-09-28T11:28:43+00:00",
-    "source_name": "IMDb",
-    "source_domain": "imdb.com",
-    "article_url": "https://www.imdb.com/title/tt34379051/",
-    "content_type": "cinema_release",
-    "published_at": "2026-09-04T00:00:00Z",
-    "updated_at": "2026-09-28T11:28:43Z"
+    "updated_at": "2026-09-29T11:09:00Z"
   },
   {
     "title": "Coyote vs. Acme",
@@ -264,13 +264,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt1756855/",
-    "scraped_at": "2026-09-28T11:28:43+00:00",
+    "scraped_at": "2026-09-29T11:09:00+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt1756855/",
     "content_type": "cinema_release",
     "published_at": "2026-08-28T00:00:00Z",
-    "updated_at": "2026-09-28T11:28:43Z"
+    "updated_at": "2026-09-29T11:09:00Z"
   },
   {
     "title": "Insidious: Out of the Further",
@@ -285,13 +285,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt32393988/",
-    "scraped_at": "2026-09-28T11:28:43+00:00",
+    "scraped_at": "2026-09-29T11:09:00+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt32393988/",
     "content_type": "cinema_release",
     "published_at": "2026-08-21T00:00:00Z",
-    "updated_at": "2026-09-28T11:28:43Z"
+    "updated_at": "2026-09-29T11:09:00Z"
   },
   {
     "title": "PAW Patrol: The Dino Movie",
@@ -306,13 +306,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt29356163/",
-    "scraped_at": "2026-09-28T11:28:43+00:00",
+    "scraped_at": "2026-09-29T11:09:00+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt29356163/",
     "content_type": "cinema_release",
     "published_at": "2026-08-14T00:00:00Z",
-    "updated_at": "2026-09-28T11:28:43Z"
+    "updated_at": "2026-09-29T11:09:00Z"
   },
   {
     "title": "Spider-Man: Brand New Day",
@@ -327,13 +327,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt22084616/",
-    "scraped_at": "2026-09-28T11:28:43+00:00",
+    "scraped_at": "2026-09-29T11:09:00+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt22084616/",
     "content_type": "cinema_release",
     "published_at": "2026-07-31T00:00:00Z",
-    "updated_at": "2026-09-28T11:28:43Z"
+    "updated_at": "2026-09-29T11:09:00Z"
   },
   {
     "title": "The Odyssey",
@@ -348,12 +348,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/title/tt33764258/",
-    "scraped_at": "2026-09-28T11:28:43+00:00",
+    "scraped_at": "2026-09-29T11:09:00+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/title/tt33764258/",
     "content_type": "cinema_release",
     "published_at": "2026-07-17T00:00:00Z",
-    "updated_at": "2026-09-28T11:28:43Z"
+    "updated_at": "2026-09-29T11:09:00Z"
   }
 ]

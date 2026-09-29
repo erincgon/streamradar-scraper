@@ -7,7 +7,6 @@
     "release_date": "2026-01-01",
     "overview": "Top 1 trending movie on Disney Plus. When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
     "genres": [
-      "Action",
       "Animation",
       "Comedy",
       "Drama",
@@ -19,13 +18,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/toy-story-5",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/toy-story-5",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Avengers: Endgame",
@@ -44,13 +43,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/avengers-endgame",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/avengers-endgame",
     "content_type": "platform_release",
     "published_at": "2019-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Ready or Not 2: Here I Come",
@@ -69,13 +68,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/ready-or-not-here-i-come",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/ready-or-not-here-i-come",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "The Mandalorian and Grogu",
@@ -95,13 +94,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Jurassic Park",
@@ -118,13 +117,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/jurassic-park-i",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/jurassic-park-i",
     "content_type": "platform_release",
     "published_at": "1993-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Kraven the Hunter",
@@ -142,13 +141,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/kraven-the-hunter",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/kraven-the-hunter",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
+  },
+  {
+    "title": "Hocus Pocus",
+    "year": 1993,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "1993-01-01",
+    "overview": "Top 7 trending movie on Disney Plus. After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all.",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/158050840/s592/hocus-pocus.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/158050840/s592/hocus-pocus.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/hocus-pocus",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/hocus-pocus",
+    "content_type": "platform_release",
+    "published_at": "1993-01-01T00:00:00Z",
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "The Princess Bride",
@@ -156,7 +180,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "1987-01-01",
-    "overview": "Top 7 trending movie on Disney Plus. In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+    "overview": "Top 8 trending movie on Disney Plus. In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
     "genres": [
       "Action",
       "Comedy",
@@ -169,38 +193,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-princess-bride",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-princess-bride",
     "content_type": "platform_release",
     "published_at": "1987-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
-  },
-  {
-    "title": "Hocus Pocus",
-    "year": 1993,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "1993-01-01",
-    "overview": "Top 8 trending movie on Disney Plus. After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all.",
-    "genres": [
-      "Comedy",
-      "Family",
-      "Fantasy"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/158050840/s592/hocus-pocus.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/158050840/s592/hocus-pocus.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/hocus-pocus",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/hocus-pocus",
-    "content_type": "platform_release",
-    "published_at": "1993-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Fantastic Mr. Fox",
@@ -222,13 +221,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/fantastic-mr-fox",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/fantastic-mr-fox",
     "content_type": "platform_release",
     "published_at": "2009-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Toy Story",
@@ -249,13 +248,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/toy-story",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/toy-story",
     "content_type": "platform_release",
     "published_at": "1995-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Over the Garden Wall",
@@ -280,13 +279,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/over-the-garden-wall",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/over-the-garden-wall",
     "content_type": "platform_release",
     "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "The Bear",
@@ -304,42 +303,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-bear",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-bear",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
-    "title": "Pokémon",
-    "year": 1997,
+    "title": "The Simpsons",
+    "year": 1989,
     "type": "series",
     "platform": "disney_plus",
-    "release_date": "1997-01-01",
-    "overview": "Top 3 trending series on Disney Plus. Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
+    "release_date": "1989-01-01",
+    "overview": "Top 3 trending series on Disney Plus. Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
     "genres": [
-      "Action",
       "Animation",
-      "Comedy",
-      "Drama",
-      "Family",
-      "Fantasy",
-      "Sci-Fi"
+      "Comedy"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/245378575/s592/pokemon.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/245378575/s592/pokemon.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/307635545/s592/the-simpsons.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/307635545/s592/the-simpsons.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/pokemon",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/pokemon",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
     "content_type": "platform_release",
-    "published_at": "1997-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "published_at": "1989-01-01T00:00:00Z",
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Andor",
@@ -360,37 +354,42 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/andor",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/andor",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
-    "title": "The Simpsons",
-    "year": 1989,
+    "title": "Pokémon",
+    "year": 1997,
     "type": "series",
     "platform": "disney_plus",
-    "release_date": "1989-01-01",
-    "overview": "Top 5 trending series on Disney Plus. Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "release_date": "1997-01-01",
+    "overview": "Top 5 trending series on Disney Plus. Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
     "genres": [
+      "Action",
       "Animation",
-      "Comedy"
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Sci-Fi"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/307635545/s592/the-simpsons.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/307635545/s592/the-simpsons.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/245378575/s592/pokemon.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/245378575/s592/pokemon.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/pokemon",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
+    "article_url": "https://www.justwatch.com/us/tv-show/pokemon",
     "content_type": "platform_release",
-    "published_at": "1989-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "published_at": "1997-01-01T00:00:00Z",
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "How I Met Your Mother",
@@ -409,36 +408,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/how-i-met-your-mother",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/how-i-met-your-mother",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
-  },
-  {
-    "title": "Dancing with the Stars",
-    "year": 2005,
-    "type": "series",
-    "platform": "disney_plus",
-    "release_date": "2005-01-01",
-    "overview": "Top 7 trending series on Disney Plus. The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom experts and voted on by viewers. Enjoy sizzling salsas, sambas and spray-tans as they vie for the coveted Mirrorball Trophy.",
-    "genres": [
-      "Reality"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/354170538/s592/dancing-with-the-stars.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354170538/s592/dancing-with-the-stars.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/dancing-with-the-stars",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/dancing-with-the-stars",
-    "content_type": "platform_release",
-    "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Only Murders in the Building",
@@ -446,7 +422,7 @@
     "type": "series",
     "platform": "disney_plus",
     "release_date": "2021-01-01",
-    "overview": "Top 8 trending series on Disney Plus. Charles, Oliver and Mabel, three eccentric neighbors, find purpose and chaos in solving murders that hit close to home through their true-crime podcast, turning their New York apartment building into a playground of mystery and mischief.",
+    "overview": "Top 7 trending series on Disney Plus. Charles, Oliver and Mabel, three eccentric neighbors, find purpose and chaos in solving murders that hit close to home through their true-crime podcast, turning their New York apartment building into a playground of mystery and mischief.",
     "genres": [
       "Comedy",
       "Crime",
@@ -458,13 +434,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
     "title": "Daredevil: Born Again",
@@ -472,7 +448,7 @@
     "type": "series",
     "platform": "disney_plus",
     "release_date": "2025-01-01",
-    "overview": "Top 9 trending series on Disney Plus. Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+    "overview": "Top 8 trending series on Disney Plus. Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
     "genres": [
       "Action",
       "Crime",
@@ -486,38 +462,58 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/daredevil-born-again",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/daredevil-born-again",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "updated_at": "2026-09-29T10:59:54Z"
   },
   {
-    "title": "Loki",
-    "year": 2021,
+    "title": "Chilean Mine Rescue: Race Against Time",
+    "year": 2026,
     "type": "series",
     "platform": "disney_plus",
-    "release_date": "2021-01-01",
-    "overview": "Top 10 trending series on Disney Plus. The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
+    "release_date": "2026-01-01",
+    "overview": "Top 9 trending series on Disney Plus. Following a mining accident in northern Chile, 33 miners are trapped deep underground. As the search for them begins, the men are fighting for their lives under extreme conditions.",
     "genres": [
-      "Action",
-      "Drama",
-      "Fantasy",
-      "Sci-Fi"
+      "Documentary"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/245222645/s592/loki.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/245222645/s592/loki.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/354556157/s592/chilean-mine-rescue-race-against-time.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354556157/s592/chilean-mine-rescue-race-against-time.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/loki",
-    "scraped_at": "2026-09-28T11:21:48+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/chilean-mine-rescue-race-against-time",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/loki",
+    "article_url": "https://www.justwatch.com/us/tv-show/chilean-mine-rescue-race-against-time",
     "content_type": "platform_release",
-    "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-09-28T11:21:48Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-09-29T10:59:54Z"
+  },
+  {
+    "title": "Dancing with the Stars",
+    "year": 2005,
+    "type": "series",
+    "platform": "disney_plus",
+    "release_date": "2005-01-01",
+    "overview": "Top 10 trending series on Disney Plus. The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom experts and voted on by viewers. Enjoy sizzling salsas, sambas and spray-tans as they vie for the coveted Mirrorball Trophy.",
+    "genres": [
+      "Reality"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/354170538/s592/dancing-with-the-stars.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354170538/s592/dancing-with-the-stars.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/dancing-with-the-stars",
+    "scraped_at": "2026-09-29T10:59:54+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/dancing-with-the-stars",
+    "content_type": "platform_release",
+    "published_at": "2005-01-01T00:00:00Z",
+    "updated_at": "2026-09-29T10:59:54Z"
   }
 ]
