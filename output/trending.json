@@ -13,14 +13,14 @@
     "backdrop_image_url": null,
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.google.com/sorry/index?continue=https%3A%2F%2Fwww.thetvratingsguide.com%2F&q=EgQUqUJQGNbeiNYGIi3c2cQZNeW7Oj7NN2mPF2bBiL0zHBtQ_U2heOmYRCjKzXHcntm70T8E9ReyafkyAnJSWgFD",
-    "scraped_at": "2026-10-04T10:53:22+00:00",
+    "source_url": "https://www.google.com/sorry/index?continue=https%3A%2F%2Fwww.thetvratingsguide.com%2F&q=EgSHdyYxGIGijtYGIi3xzO55hEUq7NnEWodWTWXMxaoNpnesiYV-7lfstOAkPXQIk-YoqTegd2M_e74yAnJSWgFD",
+    "scraped_at": "2026-10-05T12:02:10+00:00",
     "source_name": "Google",
     "source_domain": "google.com",
-    "article_url": "https://www.google.com/sorry/index?continue=https%3A%2F%2Fwww.thetvratingsguide.com%2F&q=EgQUqUJQGNbeiNYGIi3c2cQZNeW7Oj7NN2mPF2bBiL0zHBtQ_U2heOmYRCjKzXHcntm70T8E9ReyafkyAnJSWgFD",
+    "article_url": "https://www.google.com/sorry/index?continue=https%3A%2F%2Fwww.thetvratingsguide.com%2F&q=EgSHdyYxGIGijtYGIi3xzO55hEUq7NnEWodWTWXMxaoNpnesiYV-7lfstOAkPXQIk-YoqTegd2M_e74yAnJSWgFD",
     "content_type": "trending",
     "published_at": "2026-10-03T00:00:00Z",
-    "updated_at": "2026-10-04T10:53:22Z"
+    "updated_at": "2026-10-05T12:02:10Z"
   },
   {
     "title": "StreamRadar Trending Spotlight",
@@ -37,13 +37,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/chart/moviemeter/",
-    "scraped_at": "2026-10-04T10:53:22+00:00",
+    "scraped_at": "2026-10-05T12:02:10+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/chart/moviemeter/",
     "content_type": "trending",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-10-04T10:53:22Z"
+    "updated_at": "2026-10-05T12:02:10Z"
   },
   {
     "title": "StreamRadar TV Buzz",
@@ -60,12 +60,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/chart/tvmeter/",
-    "scraped_at": "2026-10-04T10:53:22+00:00",
+    "scraped_at": "2026-10-05T12:02:10+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/chart/tvmeter/",
     "content_type": "trending",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-10-04T10:53:22Z"
+    "updated_at": "2026-10-05T12:02:10Z"
   }
 ]
