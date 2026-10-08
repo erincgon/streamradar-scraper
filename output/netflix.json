@@ -16,13 +16,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/unabomber",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/unabomber",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "The Widower: 'Til Death Do Us Part",
@@ -40,13 +40,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-widower-til-death-do-us-part",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-widower-til-death-do-us-part",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "Doing Life",
@@ -56,20 +56,21 @@
     "release_date": "2026-01-01",
     "overview": "Netflix Global Top 3 movie. A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
     "genres": [
-      "Drama"
+      "Drama",
+      "Romance"
     ],
     "poster_image_url": "https://images.justwatch.com/poster/354675632/s592/doing-life-2026.webp",
     "backdrop_image_url": "https://images.justwatch.com/poster/354675632/s592/doing-life-2026.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/doing-life-2026",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/doing-life-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "The Breadwinner",
@@ -87,13 +88,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-breadwinner-2026",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-breadwinner-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "The Equalizer 3",
@@ -112,13 +113,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-equalizer-3",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-equalizer-3",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "The Mummy",
@@ -136,13 +137,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-mummy-1999",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-mummy-1999",
     "content_type": "platform_release",
     "published_at": "1999-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "The Whisper Man",
@@ -161,13 +162,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-whisper-man",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-whisper-man",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "What's Your Number?",
@@ -185,13 +186,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/whats-your-number",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/whats-your-number",
     "content_type": "platform_release",
     "published_at": "2011-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "A Minecraft Movie",
@@ -212,13 +213,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/a-minecraft-movie",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/a-minecraft-movie",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "KPop Demon Hunters",
@@ -240,13 +241,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/k-pop-demon-hunters",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/k-pop-demon-hunters",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "East of Eden",
@@ -263,13 +264,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/east-of-eden-0",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/east-of-eden-0",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "Monster: The Lizzie Borden Story",
@@ -286,13 +287,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/monster-the-lizzie-borden-story",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/monster-the-lizzie-borden-story",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "A Different World",
@@ -310,13 +311,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/a-different-world-1",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/a-different-world-1",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "Wonka's The Golden Ticket",
@@ -334,13 +335,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/wonkas-the-golden-ticket",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/wonkas-the-golden-ticket",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "LEGO ONE PIECE",
@@ -362,13 +363,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/lego-one-piece",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/lego-one-piece",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "The Gentlemen",
@@ -387,13 +388,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-gentlemen",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-gentlemen",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "Crew Girl",
@@ -412,13 +413,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/crew-girl",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/crew-girl",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "Raw: 2026 - September 28, 2026",
@@ -438,13 +439,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/gto-2026",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/gto-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   },
   {
     "title": "Gabby's Dollhouse",
@@ -467,12 +468,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/gabbys-dollhouse",
-    "scraped_at": "2026-10-07T11:27:08+00:00",
+    "scraped_at": "2026-10-08T11:42:36+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/gabbys-dollhouse",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-10-07T11:27:08Z"
+    "updated_at": "2026-10-08T11:42:36Z"
   }
 ]

@@ -1,26 +1,5 @@
 [
   {
-    "title": "BritBox: best new shows streaming this week",
-    "year": 2026,
-    "type": "movie",
-    "platform": "multi_platform",
-    "release_date": "2026-10-07",
-    "overview": "BritBox: best new shows streaming this week ScreenHub Australia",
-    "genres": [],
-    "poster_image_url": null,
-    "backdrop_image_url": null,
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.screenhub.com.au/news/article/the-australian-screen-editors-going-mental-in-melbourne-238695-1382692/",
-    "scraped_at": "2026-10-07T11:31:05+00:00",
-    "source_name": "ScreenHub Australia",
-    "source_domain": "screenhub.com.au",
-    "article_url": "https://www.screenhub.com.au/news/article/the-australian-screen-editors-going-mental-in-melbourne-238695-1382692/",
-    "content_type": "trending",
-    "published_at": "2026-10-07T00:00:00Z",
-    "updated_at": "2026-10-07T11:31:05Z"
-  },
-  {
     "title": "StreamRadar Trending Spotlight",
     "year": 2026,
     "type": "movie",
@@ -35,13 +14,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/chart/moviemeter/",
-    "scraped_at": "2026-10-07T11:31:05+00:00",
+    "scraped_at": "2026-10-08T11:46:48+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/chart/moviemeter/",
     "content_type": "trending",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-10-07T11:31:05Z"
+    "updated_at": "2026-10-08T11:46:48Z"
   },
   {
     "title": "StreamRadar TV Buzz",
@@ -58,12 +37,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.imdb.com/chart/tvmeter/",
-    "scraped_at": "2026-10-07T11:31:05+00:00",
+    "scraped_at": "2026-10-08T11:46:48+00:00",
     "source_name": "IMDb",
     "source_domain": "imdb.com",
     "article_url": "https://www.imdb.com/chart/tvmeter/",
     "content_type": "trending",
     "published_at": "2026-05-08T00:00:00Z",
-    "updated_at": "2026-10-07T11:31:05Z"
+    "updated_at": "2026-10-08T11:46:48Z"
   }
 ]
