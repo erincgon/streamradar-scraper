@@ -14,13 +14,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/evil-dead-burn",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/evil-dead-burn",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "updated_at": "2026-10-09T11:35:56Z"
   },
   {
     "title": "Spider-Man: Brand New Day",
@@ -38,13 +38,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/spider-man-brand-new-day",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/spider-man-brand-new-day",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "updated_at": "2026-10-09T11:35:56Z"
   },
   {
     "title": "Obsession",
@@ -62,13 +62,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/obsession-2026",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/obsession-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "updated_at": "2026-10-09T11:35:56Z"
   },
   {
     "title": "Coyote vs. Acme",
@@ -89,13 +89,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/coyote-vs-acme",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/coyote-vs-acme",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "updated_at": "2026-10-09T11:35:56Z"
   },
   {
     "title": "Golden Arm",
@@ -112,13 +112,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/golden-arm",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/golden-arm",
     "content_type": "platform_release",
     "published_at": "2020-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "updated_at": "2026-10-09T11:35:56Z"
   },
   {
     "title": "Backrooms",
@@ -137,38 +137,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/backrooms",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/backrooms",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
-  },
-  {
-    "title": "Verity",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 7 trending movie on Prime Video. Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/345873745/s592/verity.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/345873745/s592/verity.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/verity",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/verity",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "updated_at": "2026-10-09T11:35:56Z"
   },
   {
     "title": "Disclosure Day",
@@ -176,7 +151,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 8 trending movie on Prime Video. If you found out we weren’t alone in the universe, would that frighten you?",
+    "overview": "Top 7 trending movie on Prime Video. If you found out we weren’t alone in the universe, would that frighten you?",
     "genres": [
       "Action",
       "Sci-Fi",
@@ -187,37 +162,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-dish-2026-1",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-dish-2026-1",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "updated_at": "2026-10-09T11:35:56Z"
   },
   {
-    "title": "Halloween",
-    "year": 1978,
+    "title": "Verity",
+    "year": 2026,
     "type": "movie",
     "platform": "prime_video",
-    "release_date": "1978-01-01",
-    "overview": "Top 9 trending movie on Prime Video. Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+    "release_date": "2026-01-01",
+    "overview": "Top 8 trending movie on Prime Video. Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
     "genres": [
-      "Horror",
+      "Crime",
+      "Drama",
       "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/253432919/s592/halloween.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/253432919/s592/halloween.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/345873745/s592/verity.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/345873745/s592/verity.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/halloween",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/verity",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/halloween",
+    "article_url": "https://www.justwatch.com/us/movie/verity",
     "content_type": "platform_release",
-    "published_at": "1978-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-10-09T11:35:56Z"
   },
   {
     "title": "Digger",
@@ -225,7 +201,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 10 trending movie on Prime Video. The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "overview": "Top 9 trending movie on Prime Video. The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "genres": [
       "Comedy",
       "Drama"
@@ -235,13 +211,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/digger-2026",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/digger-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "updated_at": "2026-10-09T11:35:56Z"
+  },
+  {
+    "title": "The Invite",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 10 trending movie on Prime Video. Joe and Angela's marriage is on the rocks. When they invite their enigmatic upstairs neighbors over for dinner, the evening takes an unexpected turn.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/346669746/s592/the-invite-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/346669746/s592/the-invite-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/the-invite-2026",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/the-invite-2026",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-10-09T11:35:56Z"
   },
   {
     "title": "East of Eden",
@@ -258,37 +258,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/east-of-eden-0",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/east-of-eden-0",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "updated_at": "2026-10-09T11:35:56Z"
   },
   {
-    "title": "War",
+    "title": "Carrie",
     "year": 2026,
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 2 trending series on Prime Video. Two top London law firms clash over a shocking divorce case that rocks the legal world, with elite attorneys from Cathcarts and Taylor and Byrne battling for supremacy.",
+    "overview": "Top 2 trending series on Prime Video. Misfit teenager Carrie White has spent her life in seclusion with her domineering mother, Margaret. After her father's sudden death, Carrie finds herself contending with the challenges of attending public high school, a bullying scandal, and the emergence of mysterious telekinetic powers.",
     "genres": [
       "Drama",
+      "Horror",
       "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/354890779/s592/war-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354890779/s592/war-2026.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/350899399/s592/carrie.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/350899399/s592/carrie.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/war-2026",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/carrie",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/war-2026",
+    "article_url": "https://www.justwatch.com/us/tv-show/carrie",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "updated_at": "2026-10-09T11:35:56Z"
   },
   {
     "title": "Lanterns",
@@ -309,38 +310,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/lanterns",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "updated_at": "2026-10-09T11:35:56Z"
   },
   {
-    "title": "Carrie",
+    "title": "War",
     "year": 2026,
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 4 trending series on Prime Video. Misfit teenager Carrie White has spent her life in seclusion with her domineering mother, Margaret. After her father's sudden death, Carrie finds herself contending with the challenges of attending public high school, a bullying scandal, and the emergence of mysterious telekinetic powers.",
+    "overview": "Top 4 trending series on Prime Video. Two top London law firms clash over a shocking divorce case that rocks the legal world, with elite attorneys from Cathcarts and Taylor and Byrne battling for supremacy.",
     "genres": [
       "Drama",
-      "Horror",
       "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/350899399/s592/carrie.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/350899399/s592/carrie.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/354890779/s592/war-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354890779/s592/war-2026.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/carrie",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/war-2026",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/carrie",
+    "article_url": "https://www.justwatch.com/us/tv-show/war-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "updated_at": "2026-10-09T11:35:56Z"
   },
   {
     "title": "Ted Lasso",
@@ -359,13 +359,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/ted-lasso",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/ted-lasso",
     "content_type": "platform_release",
     "published_at": "2020-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "updated_at": "2026-10-09T11:35:56Z"
   },
   {
     "title": "Outside",
@@ -382,13 +382,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/outside",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/outside",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "updated_at": "2026-10-09T11:35:56Z"
+  },
+  {
+    "title": "Law & Order: Special Victims Unit",
+    "year": 1999,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "1999-01-01",
+    "overview": "Top 7 trending series on Prime Video. Follows the NYPD's specially trained squad of detectives who investigate sex crimes, including rape, paedophilia, child abuse, human trafficking and domestic violence.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/355120582/s592/law-and-order-special-victims-unit.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/355120582/s592/law-and-order-special-victims-unit.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/law-and-order-special-victims-unit",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/law-and-order-special-victims-unit",
+    "content_type": "platform_release",
+    "published_at": "1999-01-01T00:00:00Z",
+    "updated_at": "2026-10-09T11:35:56Z"
   },
   {
     "title": "Coven Academy",
@@ -396,7 +421,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 7 trending series on Prime Video. In the haunted heart of New Orleans, three teenage witches and their warlock peers attend an elite magic boarding school where power is currency, secrets are lethal and attraction is a liability.",
+    "overview": "Top 8 trending series on Prime Video. In the haunted heart of New Orleans, three teenage witches and their warlock peers attend an elite magic boarding school where power is currency, secrets are lethal and attraction is a liability.",
     "genres": [
       "Comedy",
       "Drama",
@@ -411,38 +436,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/coven-academy",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/coven-academy",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
-  },
-  {
-    "title": "Law & Order: Special Victims Unit",
-    "year": 1999,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "1999-01-01",
-    "overview": "Top 8 trending series on Prime Video. Follows the NYPD's specially trained squad of detectives who investigate sex crimes, including rape, paedophilia, child abuse, human trafficking and domestic violence.",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/355120582/s592/law-and-order-special-victims-unit.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/355120582/s592/law-and-order-special-victims-unit.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/law-and-order-special-victims-unit",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/law-and-order-special-victims-unit",
-    "content_type": "platform_release",
-    "published_at": "1999-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "updated_at": "2026-10-09T11:35:56Z"
   },
   {
     "title": "Law & Order",
@@ -461,36 +461,35 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/law-and-order",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/law-and-order",
     "content_type": "platform_release",
     "published_at": "1990-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "updated_at": "2026-10-09T11:35:56Z"
   },
   {
-    "title": "South Park",
-    "year": 1997,
+    "title": "Chicago Med",
+    "year": 2015,
     "type": "series",
     "platform": "prime_video",
-    "release_date": "1997-01-01",
-    "overview": "Top 10 trending series on Prime Video. Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "release_date": "2015-01-01",
+    "overview": "Top 10 trending series on Prime Video. An emotional thrill ride through the day-to-day chaos of the city's most explosive hospital and the courageous team of doctors who hold it together. They will tackle unique new cases inspired by topical events, forging fiery relationships in the pulse-pounding pandemonium of the emergency room.",
     "genres": [
-      "Animation",
-      "Comedy"
+      "Drama"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/138472468/s592/south-park.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/138472468/s592/south-park.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/336305907/s592/chicago-med.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/336305907/s592/chicago-med.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/south-park",
-    "scraped_at": "2026-10-08T11:42:36+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/chicago-med",
+    "scraped_at": "2026-10-09T11:35:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/south-park",
+    "article_url": "https://www.justwatch.com/us/tv-show/chicago-med",
     "content_type": "platform_release",
-    "published_at": "1997-01-01T00:00:00Z",
-    "updated_at": "2026-10-08T11:42:36Z"
+    "published_at": "2015-01-01T00:00:00Z",
+    "updated_at": "2026-10-09T11:35:56Z"
   }
 ]
