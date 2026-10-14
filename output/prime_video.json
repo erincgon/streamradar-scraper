@@ -15,13 +15,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/spider-man-brand-new-day",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/spider-man-brand-new-day",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
+    "updated_at": "2026-10-14T09:51:28Z"
   },
   {
     "title": "Disclosure Day",
@@ -40,13 +40,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-dish-2026-1",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-dish-2026-1",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
+    "updated_at": "2026-10-14T09:51:28Z"
   },
   {
     "title": "Animals",
@@ -66,13 +66,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/animals-2026",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/animals-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
+    "updated_at": "2026-10-14T09:51:28Z"
   },
   {
     "title": "Golden Arm",
@@ -89,13 +89,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/golden-arm",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/golden-arm",
     "content_type": "platform_release",
     "published_at": "2020-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
+    "updated_at": "2026-10-14T09:51:28Z"
   },
   {
     "title": "Hokum",
@@ -113,13 +113,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/hokum-2026",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/hokum-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
+    "updated_at": "2026-10-14T09:51:28Z"
   },
   {
     "title": "Matchbox the Movie",
@@ -137,13 +137,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/matchbox-2026",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/matchbox-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
+    "updated_at": "2026-10-14T09:51:28Z"
   },
   {
     "title": "The Invite",
@@ -162,36 +162,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-invite-2026",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-invite-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
+    "updated_at": "2026-10-14T09:51:28Z"
   },
   {
-    "title": "The Social Network",
-    "year": 2010,
+    "title": "Carrie",
+    "year": 1976,
     "type": "movie",
     "platform": "prime_video",
-    "release_date": "2010-01-01",
-    "overview": "Top 8 trending movie on Prime Video. In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
+    "release_date": "1976-01-01",
+    "overview": "Top 8 trending movie on Prime Video. Withdrawn and sensitive teenager Carrie White faces bullying from her classmates and abuse from her fanatically pious mother. When she begins to suspect that she has supernatural powers, things take a dark and violent turn.",
     "genres": [
-      "Drama"
+      "Horror",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/162723522/s592/the-social-network.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/162723522/s592/the-social-network.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/268078360/s592/carrie-1976.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/268078360/s592/carrie-1976.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-social-network",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/carrie-1976",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-social-network",
+    "article_url": "https://www.justwatch.com/us/movie/carrie-1976",
     "content_type": "platform_release",
-    "published_at": "2010-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
+    "published_at": "1976-01-01T00:00:00Z",
+    "updated_at": "2026-10-14T09:51:28Z"
   },
   {
     "title": "Obsession",
@@ -209,13 +210,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/obsession-2026",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/obsession-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
+    "updated_at": "2026-10-14T09:51:28Z"
   },
   {
     "title": "The Social Reckoning",
@@ -233,38 +234,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-social-reckoning",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-social-reckoning",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
-  },
-  {
-    "title": "Carrie",
-    "year": 2026,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 1 trending series on Prime Video. Misfit teenager Carrie White has spent her life in seclusion with her domineering mother, Margaret. After her father's sudden death, Carrie finds herself contending with the challenges of attending public high school, a bullying scandal, and the emergence of mysterious telekinetic powers.",
-    "genres": [
-      "Drama",
-      "Horror",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/350899399/s592/carrie.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/350899399/s592/carrie.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/carrie",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/carrie",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
+    "updated_at": "2026-10-14T09:51:28Z"
   },
   {
     "title": "Below",
@@ -272,7 +248,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 2 trending series on Prime Video. When a mysterious sea creature terrorizes a remote town, a fisherman must fight to protect his family, his community, and his way of life.",
+    "overview": "Top 1 trending series on Prime Video. When a mysterious sea creature terrorizes a remote town, a fisherman must fight to protect his family, his community, and his way of life.",
     "genres": [
       "Drama",
       "Horror",
@@ -283,63 +259,63 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/below-2026",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/below-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
+    "updated_at": "2026-10-14T09:51:28Z"
   },
   {
-    "title": "Lanterns",
+    "title": "Cupertino",
     "year": 2026,
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 3 trending series on Prime Video. Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/347103107/s592/lanterns.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/347103107/s592/lanterns.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
-  },
-  {
-    "title": "East of Eden",
-    "year": 2026,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 4 trending series on Prime Video. In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+    "overview": "Top 2 trending series on Prime Video. A scrappy lawyer takes on a powerful tech giant in a high-stakes legal battle, navigating the cutthroat world of Silicon Valley while fighting for justice and the little guy's rights.",
     "genres": [
       "Drama"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/345990721/s592/east-of-eden-0.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/345990721/s592/east-of-eden-0.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/354321948/s592/cupertino.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354321948/s592/cupertino.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/east-of-eden-0",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/cupertino",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/east-of-eden-0",
+    "article_url": "https://www.justwatch.com/us/tv-show/cupertino",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
+    "updated_at": "2026-10-14T09:51:28Z"
+  },
+  {
+    "title": "Avatar: Seven Havens",
+    "year": 2026,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 3 trending series on Prime Video. In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
+    "genres": [
+      "Action",
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/348584130/s592/avatar-seven-havens.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/348584130/s592/avatar-seven-havens.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/avatar-seven-havens",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/avatar-seven-havens",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-10-14T09:51:28Z"
   },
   {
     "title": "Ted Lasso",
@@ -347,7 +323,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2020-01-01",
-    "overview": "Top 5 trending series on Prime Video. American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
+    "overview": "Top 4 trending series on Prime Video. American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
     "genres": [
       "Comedy",
       "Drama",
@@ -358,13 +334,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/ted-lasso",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/ted-lasso",
     "content_type": "platform_release",
     "published_at": "2020-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
+    "updated_at": "2026-10-14T09:51:28Z"
+  },
+  {
+    "title": "Phony",
+    "year": 2026,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 5 trending series on Prime Video. After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/355252671/s592/phony.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/355252671/s592/phony.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/phony",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/phony",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-10-14T09:51:28Z"
   },
   {
     "title": "Small Prophets",
@@ -384,88 +385,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/small-prophets",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/small-prophets",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
-  },
-  {
-    "title": "Avatar: Seven Havens",
-    "year": 2026,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 7 trending series on Prime Video. In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
-    "genres": [
-      "Action",
-      "Animation",
-      "Family",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/348584130/s592/avatar-seven-havens.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/348584130/s592/avatar-seven-havens.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/avatar-seven-havens",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/avatar-seven-havens",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
-  },
-  {
-    "title": "Cupertino",
-    "year": 2026,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 8 trending series on Prime Video. A scrappy lawyer takes on a powerful tech giant in a high-stakes legal battle, navigating the cutthroat world of Silicon Valley while fighting for justice and the little guy's rights.",
-    "genres": [
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/354321948/s592/cupertino.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354321948/s592/cupertino.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/cupertino",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/cupertino",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
-  },
-  {
-    "title": "Tracker",
-    "year": 2024,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2024-01-01",
-    "overview": "Top 9 trending series on Prime Video. Colter Shaw travels the country in his old-school RV, helping police and private citizens solve crimes and locate missing persons--until his latest case changes everything.",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/311327470/s592/tracker-2024.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/311327470/s592/tracker-2024.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/tracker-2024",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/tracker-2024",
-    "content_type": "platform_release",
-    "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
+    "updated_at": "2026-10-14T09:51:28Z"
   },
   {
     "title": "Slow Horses",
@@ -473,7 +399,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2022-01-01",
-    "overview": "Top 10 trending series on Prime Video. Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+    "overview": "Top 7 trending series on Prime Video. Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
     "genres": [
       "Crime",
       "Drama",
@@ -484,12 +410,85 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/slow-horses",
-    "scraped_at": "2026-10-13T12:23:34+00:00",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/slow-horses",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-10-13T12:23:34Z"
+    "updated_at": "2026-10-14T09:51:28Z"
+  },
+  {
+    "title": "Eternally Yours",
+    "year": 2026,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 8 trending series on Prime Video. Charles and Liz are a charming, married 500-year-old vampire couple whose relationship has survived centuries because, as vampires, divorce isn’t exactly an option. Together, they navigate modern society and their daughter dating a human.",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/355063790/s592/eternally-yours.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/355063790/s592/eternally-yours.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/eternally-yours",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/eternally-yours",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-10-14T09:51:28Z"
+  },
+  {
+    "title": "Abbott Elementary",
+    "year": 2021,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2021-01-01",
+    "overview": "Top 9 trending series on Prime Video. In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don’t love the school district’s less-than-stellar attitude toward educating...",
+    "genres": [
+      "Comedy"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/337910033/s592/abbott-elementary.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/337910033/s592/abbott-elementary.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
+    "content_type": "platform_release",
+    "published_at": "2021-01-01T00:00:00Z",
+    "updated_at": "2026-10-14T09:51:28Z"
+  },
+  {
+    "title": "Crystal Lake",
+    "year": 2026,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 10 trending series on Prime Video. Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/354826679/s592/crystal-lake.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354826679/s592/crystal-lake.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/crystal-lake",
+    "scraped_at": "2026-10-14T09:51:28+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/crystal-lake",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-10-14T09:51:28Z"
   }
 ]
