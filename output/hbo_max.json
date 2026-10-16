@@ -1,35 +1,11 @@
 [
   {
-    "title": "Carrie",
-    "year": 1976,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "1976-01-01",
-    "overview": "Top 1 trending movie on Hbo Max. Withdrawn and sensitive teenager Carrie White faces bullying from her classmates and abuse from her fanatically pious mother. When she begins to suspect that she has supernatural powers, things take a dark and violent turn.",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/268078360/s592/carrie-1976.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/268078360/s592/carrie-1976.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/carrie-1976",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/carrie-1976",
-    "content_type": "platform_release",
-    "published_at": "1976-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
-  },
-  {
     "title": "The Housemaid",
     "year": 2025,
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 2 trending movie on Hbo Max. Millie, a struggling young woman, becomes a live-in maid for a wealthy couple, Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
+    "overview": "Top 1 trending movie on Hbo Max. Millie, a struggling young woman, becomes a live-in maid for a wealthy couple, Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
     "genres": [
       "Drama",
       "Thriller"
@@ -39,13 +15,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-housemaid-0",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-housemaid-0",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
+    "updated_at": "2026-10-16T09:25:08Z"
+  },
+  {
+    "title": "Carrie",
+    "year": 1976,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "1976-01-01",
+    "overview": "Top 2 trending movie on Hbo Max. Withdrawn and sensitive teenager Carrie White faces bullying from her classmates and abuse from her fanatically pious mother. When she begins to suspect that she has supernatural powers, things take a dark and violent turn.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/268078360/s592/carrie-1976.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/268078360/s592/carrie-1976.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/carrie-1976",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/carrie-1976",
+    "content_type": "platform_release",
+    "published_at": "1976-01-01T00:00:00Z",
+    "updated_at": "2026-10-16T09:25:08Z"
   },
   {
     "title": "Practical Magic",
@@ -64,13 +64,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/practical-magic",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/practical-magic",
     "content_type": "platform_release",
     "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
+    "updated_at": "2026-10-16T09:25:08Z"
   },
   {
     "title": "Coraline",
@@ -91,13 +91,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/coraline",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/coraline",
     "content_type": "platform_release",
     "published_at": "2009-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
+    "updated_at": "2026-10-16T09:25:08Z"
   },
   {
     "title": "Backrooms",
@@ -116,37 +116,61 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/backrooms",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/backrooms",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
+    "updated_at": "2026-10-16T09:25:08Z"
   },
   {
-    "title": "Beetlejuice",
-    "year": 1988,
+    "title": "The Shining",
+    "year": 1980,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "1988-01-01",
-    "overview": "Top 6 trending movie on Hbo Max. A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+    "release_date": "1980-01-01",
+    "overview": "Top 6 trending movie on Hbo Max. Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
     "genres": [
-      "Comedy",
-      "Fantasy"
+      "Drama",
+      "Horror",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/153795111/s592/beetlejuice.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/153795111/s592/beetlejuice.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/320204653/s592/the-shining.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/320204653/s592/the-shining.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/beetlejuice",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/the-shining",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/beetlejuice",
+    "article_url": "https://www.justwatch.com/us/movie/the-shining",
     "content_type": "platform_release",
-    "published_at": "1988-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
+    "published_at": "1980-01-01T00:00:00Z",
+    "updated_at": "2026-10-16T09:25:08Z"
+  },
+  {
+    "title": "The Exorcist",
+    "year": 1973,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "1973-01-01",
+    "overview": "Top 7 trending movie on Hbo Max. When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+    "genres": [
+      "Horror"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/248371483/s592/the-exorcist.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/248371483/s592/the-exorcist.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/the-exorcist",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/the-exorcist",
+    "content_type": "platform_release",
+    "published_at": "1973-01-01T00:00:00Z",
+    "updated_at": "2026-10-16T09:25:08Z"
   },
   {
     "title": "Corpse Bride",
@@ -154,7 +178,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2005-01-01",
-    "overview": "Top 7 trending movie on Hbo Max. In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
+    "overview": "Top 8 trending movie on Hbo Max. In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
     "genres": [
       "Animation",
       "Comedy",
@@ -168,86 +192,61 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/tim-burtons-corpse-bride",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/tim-burtons-corpse-bride",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
+    "updated_at": "2026-10-16T09:25:08Z"
   },
   {
-    "title": "The Exorcist",
-    "year": 1973,
+    "title": "Beetlejuice",
+    "year": 1988,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "1973-01-01",
-    "overview": "Top 8 trending movie on Hbo Max. When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+    "release_date": "1988-01-01",
+    "overview": "Top 9 trending movie on Hbo Max. A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
     "genres": [
-      "Horror"
+      "Comedy",
+      "Fantasy"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/248371483/s592/the-exorcist.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/248371483/s592/the-exorcist.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/153795111/s592/beetlejuice.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/153795111/s592/beetlejuice.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-exorcist",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/beetlejuice",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-exorcist",
+    "article_url": "https://www.justwatch.com/us/movie/beetlejuice",
     "content_type": "platform_release",
-    "published_at": "1973-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
+    "published_at": "1988-01-01T00:00:00Z",
+    "updated_at": "2026-10-16T09:25:08Z"
   },
   {
-    "title": "Supergirl",
-    "year": 2026,
+    "title": "Weapons",
+    "year": 2025,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 9 trending movie on Hbo Max. When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+    "release_date": "2025-01-01",
+    "overview": "Top 10 trending movie on Hbo Max. When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
     "genres": [
-      "Action",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/346716416/s592/supergirl-woman-of-tomorrow.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346716416/s592/supergirl-woman-of-tomorrow.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/supergirl-woman-of-tomorrow",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/supergirl-woman-of-tomorrow",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
-  },
-  {
-    "title": "Hereditary",
-    "year": 2018,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2018-01-01",
-    "overview": "Top 10 trending movie on Hbo Max. Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
-    "genres": [
-      "Drama",
       "Horror",
       "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/66952648/s592/hereditary.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/66952648/s592/hereditary.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/hereditary",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/weapons-2026",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/hereditary",
+    "article_url": "https://www.justwatch.com/us/movie/weapons-2026",
     "content_type": "platform_release",
-    "published_at": "2018-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-10-16T09:25:08Z"
   },
   {
     "title": "Abbott Elementary",
@@ -264,13 +263,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
+    "updated_at": "2026-10-16T09:25:08Z"
   },
   {
     "title": "Georgie & Mandy's First Marriage",
@@ -287,13 +286,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
+    "updated_at": "2026-10-16T09:25:08Z"
   },
   {
     "title": "The Pet Cemetery Murders: A Ghost Story",
@@ -305,18 +304,18 @@
     "genres": [
       "Documentary"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/355451076/s592/the-pet-cemetery-murders-a-ghost-story.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/355451076/s592/the-pet-cemetery-murders-a-ghost-story.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/355553887/s592/the-pet-cemetery-murders-a-ghost-story.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/355553887/s592/the-pet-cemetery-murders-a-ghost-story.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-pet-cemetery-murders-a-ghost-story",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-pet-cemetery-murders-a-ghost-story",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
+    "updated_at": "2026-10-16T09:25:08Z"
   },
   {
     "title": "Youth",
@@ -334,13 +333,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/youth-2026",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/youth-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
+    "updated_at": "2026-10-16T09:25:08Z"
   },
   {
     "title": "The Pitt",
@@ -357,13 +356,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-pitt",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-pitt",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
+    "updated_at": "2026-10-16T09:25:08Z"
   },
   {
     "title": "True Detective",
@@ -382,39 +381,60 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/true-detective",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/true-detective",
     "content_type": "platform_release",
     "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
+    "updated_at": "2026-10-16T09:25:08Z"
   },
   {
-    "title": "Game of Thrones",
-    "year": 2011,
+    "title": "The Big Bang Theory",
+    "year": 2007,
     "type": "series",
     "platform": "hbo_max",
-    "release_date": "2011-01-01",
-    "overview": "Top 7 trending series on Hbo Max. Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+    "release_date": "2007-01-01",
+    "overview": "Top 7 trending series on Hbo Max. Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door.",
     "genres": [
-      "Action",
-      "Drama",
-      "Fantasy",
-      "Sci-Fi"
+      "Comedy",
+      "Romance"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/297859466/s592/game-of-thrones.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/297859466/s592/game-of-thrones.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/86201639/s592/the-big-bang-theory.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/86201639/s592/the-big-bang-theory.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/game-of-thrones",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/the-big-bang-theory",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/game-of-thrones",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-big-bang-theory",
     "content_type": "platform_release",
-    "published_at": "2011-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
+    "published_at": "2007-01-01T00:00:00Z",
+    "updated_at": "2026-10-16T09:25:08Z"
+  },
+  {
+    "title": "Last Week Tonight with John Oliver",
+    "year": 2014,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2014-01-01",
+    "overview": "Top 8 trending series on Hbo Max. A half-hour satirical look at the week in news, politics and current events.",
+    "genres": [
+      "Comedy"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/342752049/s592/last-week-tonight-with-john-oliver.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/342752049/s592/last-week-tonight-with-john-oliver.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
+    "content_type": "platform_release",
+    "published_at": "2014-01-01T00:00:00Z",
+    "updated_at": "2026-10-16T09:25:08Z"
   },
   {
     "title": "IT: Welcome to Derry",
@@ -422,7 +442,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 8 trending series on Hbo Max. In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+    "overview": "Top 9 trending series on Hbo Max. In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
     "genres": [
       "Drama",
       "Fantasy",
@@ -434,59 +454,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/welcome-to-derry",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/welcome-to-derry",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
+    "updated_at": "2026-10-16T09:25:08Z"
   },
   {
-    "title": "Last Week Tonight with John Oliver",
-    "year": 2014,
+    "title": "High Value Target: The Hunt for Saddam",
+    "year": 2026,
     "type": "series",
     "platform": "hbo_max",
-    "release_date": "2014-01-01",
-    "overview": "Top 9 trending series on Hbo Max. A half-hour satirical look at the week in news, politics and current events.",
+    "release_date": "2026-01-01",
+    "overview": "Top 10 trending series on Hbo Max. The first American to interrogate Saddam Hussein slowly starts to realize that the US invasion of Iraq is not as cut and dry, nor its outlook as positive, as Washington believes.",
     "genres": [
-      "Comedy"
+      "Drama",
+      "History",
+      "Thriller",
+      "War"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/342752049/s592/last-week-tonight-with-john-oliver.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/342752049/s592/last-week-tonight-with-john-oliver.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/354641820/s592/high-value-target-the-hunt-for-saddam.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354641820/s592/high-value-target-the-hunt-for-saddam.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/high-value-target-the-hunt-for-saddam",
+    "scraped_at": "2026-10-16T09:25:08+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
+    "article_url": "https://www.justwatch.com/us/tv-show/high-value-target-the-hunt-for-saddam",
     "content_type": "platform_release",
-    "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
-  },
-  {
-    "title": "Friends",
-    "year": 1994,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "1994-01-01",
-    "overview": "Top 10 trending series on Hbo Max. The personal and professional lives of six friends living in the Manhattan borough of New York City.",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/300603462/s592/friends.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/300603462/s592/friends.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/friends",
-    "scraped_at": "2026-10-15T09:32:13+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/friends",
-    "content_type": "platform_release",
-    "published_at": "1994-01-01T00:00:00Z",
-    "updated_at": "2026-10-15T09:32:13Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-10-16T09:25:08Z"
   }
 ]
