@@ -1,34 +1,34 @@
 {
-  "version": 80,
-  "updated_at": "2026-10-18T09:26:59Z",
+  "version": 81,
+  "updated_at": "2026-10-19T10:34:17Z",
   "feeds": {
     "hbo_max": {
       "count": 20,
-      "hash": "d1839e57afc2c5fafe8f40eb91ec14a0576542888b02ecf974be8636899ad160"
-    },
-    "disney_plus": {
-      "count": 20,
-      "hash": "2505eccce08a839969cd8b26ede336a6484fba540769325bfbe4339a216dcdbe"
+      "hash": "6d0dc90106c67d737b532fc64417b150252e0a9fdd8a6fa625aa8e01990a79f0"
     },
     "prime_video": {
       "count": 20,
-      "hash": "1c3e78024caf2a0a61e717a51b3dee599a75e73547a8a7ffd68456eac21e34b6"
+      "hash": "9d1abfa72476767a945f5ed9903305026bf2384fc5e6714073267d1973d6e6af"
+    },
+    "disney_plus": {
+      "count": 20,
+      "hash": "6a49146e738cb2d968de0d2b39dc73acb65c83a99e8b9653cdce8f2c64ac4c46"
     },
     "netflix": {
       "count": 20,
-      "hash": "96987f648213bfc054fee22b722f57e340fd66c45ab76a4f09c798370c132018"
+      "hash": "614f53a9132710c910e4651a52987fcc865493a05a1d30d29256e8e842b3f6cd"
     },
     "trending": {
-      "count": 3,
-      "hash": "299a0f7655381c747ee59eb41cb407a247749e792b9d20c286662a208e05074b"
+      "count": 2,
+      "hash": "68b5ed25a4f91b364b2718a9c2c3b2c131be6303c8c696a824f6be9dc317f50f"
     },
     "upcoming": {
-      "count": 16,
-      "hash": "7a600ac2b199e8d15d1a69c1d815e6e736908b75688d133505db232b16f6c886"
+      "count": 18,
+      "hash": "207a0d10a8303de668d7ff8ab7cc6e3686f7c48ac86c6f0b36d6e53d330b64b4"
     },
     "cinema_releases": {
       "count": 17,
-      "hash": "d8461bc10f94b94822f2146b5c7a8b51cbeb37394ebd7499af73db107d5f078d"
+      "hash": "4fb34fda005bb32565be7c53a30796274eebca9818e7fd072d16394afb3cfaf4"
     }
   }
 }

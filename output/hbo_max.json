@@ -1,59 +1,11 @@
 [
   {
-    "title": "The Housemaid",
-    "year": 2025,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2025-01-01",
-    "overview": "Top 1 trending movie on Hbo Max. Millie, a struggling young woman, becomes a live-in maid for a wealthy couple, Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/339973083/s592/the-housemaid-0.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/339973083/s592/the-housemaid-0.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-housemaid-0",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-housemaid-0",
-    "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
-  },
-  {
-    "title": "Carrie",
-    "year": 1976,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "1976-01-01",
-    "overview": "Top 2 trending movie on Hbo Max. Withdrawn and sensitive teenager Carrie White faces bullying from her classmates and abuse from her fanatically pious mother. When she begins to suspect that she has supernatural powers, things take a dark and violent turn.",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/268078360/s592/carrie-1976.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/268078360/s592/carrie-1976.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/carrie-1976",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/carrie-1976",
-    "content_type": "platform_release",
-    "published_at": "1976-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
-  },
-  {
     "title": "The Death of Robin Hood",
     "year": 2026,
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 3 trending movie on Hbo Max. Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+    "overview": "Top 1 trending movie on Hbo Max. Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
     "genres": [
       "Action",
       "Drama"
@@ -63,13 +15,61 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-death-of-robin-hood",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-death-of-robin-hood",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
+    "updated_at": "2026-10-19T10:25:38Z"
+  },
+  {
+    "title": "The Housemaid",
+    "year": 2025,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2025-01-01",
+    "overview": "Top 2 trending movie on Hbo Max. Millie, a struggling young woman, becomes a live-in maid for a wealthy couple, Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/339973083/s592/the-housemaid-0.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/339973083/s592/the-housemaid-0.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/the-housemaid-0",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/the-housemaid-0",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-10-19T10:25:38Z"
+  },
+  {
+    "title": "Carrie",
+    "year": 1976,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "1976-01-01",
+    "overview": "Top 3 trending movie on Hbo Max. Withdrawn and sensitive teenager Carrie White faces bullying from her classmates and abuse from her fanatically pious mother. When she begins to suspect that she has supernatural powers, things take a dark and violent turn.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/268078360/s592/carrie-1976.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/268078360/s592/carrie-1976.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/carrie-1976",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/carrie-1976",
+    "content_type": "platform_release",
+    "published_at": "1976-01-01T00:00:00Z",
+    "updated_at": "2026-10-19T10:25:38Z"
   },
   {
     "title": "Backrooms",
@@ -88,13 +88,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/backrooms",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/backrooms",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
+    "updated_at": "2026-10-19T10:25:38Z"
   },
   {
     "title": "Practical Magic",
@@ -113,13 +113,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/practical-magic",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/practical-magic",
     "content_type": "platform_release",
     "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
+    "updated_at": "2026-10-19T10:25:38Z"
   },
   {
     "title": "Coraline",
@@ -140,13 +140,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/coraline",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/coraline",
     "content_type": "platform_release",
     "published_at": "2009-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
+    "updated_at": "2026-10-19T10:25:38Z"
+  },
+  {
+    "title": "Weapons",
+    "year": 2025,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2025-01-01",
+    "overview": "Top 7 trending movie on Hbo Max. When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/weapons-2026",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/weapons-2026",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-10-19T10:25:38Z"
   },
   {
     "title": "The Shining",
@@ -154,7 +178,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "1980-01-01",
-    "overview": "Top 7 trending movie on Hbo Max. Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+    "overview": "Top 8 trending movie on Hbo Max. Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
     "genres": [
       "Drama",
       "Horror",
@@ -165,37 +189,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-shining",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-shining",
     "content_type": "platform_release",
     "published_at": "1980-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
-  },
-  {
-    "title": "Weapons",
-    "year": 2025,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2025-01-01",
-    "overview": "Top 8 trending movie on Hbo Max. When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/330423135/s592/weapons-2026.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/weapons-2026",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/weapons-2026",
-    "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
+    "updated_at": "2026-10-19T10:25:38Z"
   },
   {
     "title": "The Exorcist",
@@ -212,13 +212,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-exorcist",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-exorcist",
     "content_type": "platform_release",
     "published_at": "1973-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
+    "updated_at": "2026-10-19T10:25:38Z"
   },
   {
     "title": "Corpse Bride",
@@ -240,13 +240,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/tim-burtons-corpse-bride",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/tim-burtons-corpse-bride",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
+    "updated_at": "2026-10-19T10:25:38Z"
+  },
+  {
+    "title": "Nathan for You",
+    "year": 2013,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2013-01-01",
+    "overview": "Top 1 trending series on Hbo Max. Self-proclaimed business expert, writer, director and comedian Nathan Fielder helps real small businesses turn a profit with marketing tactics that no ordinary consultant would dare to attempt. From driving foot traffic to an off-the-strip souvenir shop by using Hollywood flair and a Johnny Depp impersonator, to creating a rebate that can only be redeemed by climbing a mountain, to founding a coffee shop called \"Dumb Starbucks,” Nathan has always gone to the...",
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
+    "content_type": "platform_release",
+    "published_at": "2013-01-01T00:00:00Z",
+    "updated_at": "2026-10-19T10:25:38Z"
   },
   {
     "title": "Abbott Elementary",
@@ -254,7 +278,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2021-01-01",
-    "overview": "Top 1 trending series on Hbo Max. In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don’t love the school district’s less-than-stellar attitude toward educating children.",
+    "overview": "Top 2 trending series on Hbo Max. In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don’t love the school district’s less-than-stellar attitude toward educating children.",
     "genres": [
       "Comedy"
     ],
@@ -263,36 +287,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
-  },
-  {
-    "title": "Georgie & Mandy's First Marriage",
-    "year": 2024,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2024-01-01",
-    "overview": "Top 2 trending series on Hbo Max. Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage.",
-    "genres": [
-      "Comedy"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/321593477/s592/georgie-and-mandys-first-marriage.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/321593477/s592/georgie-and-mandys-first-marriage.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
-    "content_type": "platform_release",
-    "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
+    "updated_at": "2026-10-19T10:25:38Z"
   },
   {
     "title": "The Pet Cemetery Murders: A Ghost Story",
@@ -309,61 +310,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-pet-cemetery-murders-a-ghost-story",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-pet-cemetery-murders-a-ghost-story",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
+    "updated_at": "2026-10-19T10:25:38Z"
   },
   {
-    "title": "Nathan for You",
-    "year": 2013,
+    "title": "Georgie & Mandy's First Marriage",
+    "year": 2024,
     "type": "series",
     "platform": "hbo_max",
-    "release_date": "2013-01-01",
-    "overview": "Top 4 trending series on Hbo Max. Self-proclaimed business expert, writer, director and comedian Nathan Fielder helps real small businesses turn a profit with marketing tactics that no ordinary consultant would dare to attempt. From driving foot traffic to an off-the-strip souvenir shop by using Hollywood flair and a Johnny Depp impersonator, to creating a rebate that can only be redeemed by climbing a mountain, to founding a coffee shop called \"Dumb Starbucks,” Nathan has always gone to the...",
+    "release_date": "2024-01-01",
+    "overview": "Top 4 trending series on Hbo Max. Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage.",
     "genres": [
-      "Comedy",
-      "Documentary"
+      "Comedy"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/321593477/s592/georgie-and-mandys-first-marriage.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/321593477/s592/georgie-and-mandys-first-marriage.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
+    "article_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
     "content_type": "platform_release",
-    "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
-  },
-  {
-    "title": "Youth",
-    "year": 2026,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 5 trending series on Hbo Max. A 50-year-old divorcee juggles dating life while taking care of her parents and adult son.",
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/354909766/s592/youth-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354909766/s592/youth-2026.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/youth-2026",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/youth-2026",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
+    "published_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2026-10-19T10:25:38Z"
   },
   {
     "title": "The Rehearsal",
@@ -371,7 +347,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2022-01-01",
-    "overview": "Top 6 trending series on Hbo Max. Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
+    "overview": "Top 5 trending series on Hbo Max. Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
     "genres": [
       "Comedy",
       "Documentary"
@@ -381,13 +357,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
+    "updated_at": "2026-10-19T10:25:38Z"
+  },
+  {
+    "title": "Youth",
+    "year": 2026,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2026-01-01",
+    "overview": "Top 6 trending series on Hbo Max. A 50-year-old divorcee juggles dating life while taking care of her parents and adult son.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/354909766/s592/youth-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354909766/s592/youth-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/youth-2026",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/youth-2026",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-10-19T10:25:38Z"
   },
   {
     "title": "The Pitt",
@@ -404,13 +404,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-pitt",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-pitt",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
+    "updated_at": "2026-10-19T10:25:38Z"
   },
   {
     "title": "True Detective",
@@ -429,13 +429,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/true-detective",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/true-detective",
     "content_type": "platform_release",
     "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
+    "updated_at": "2026-10-19T10:25:38Z"
   },
   {
     "title": "High Value Target: The Hunt for Saddam",
@@ -455,35 +455,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/high-value-target-the-hunt-for-saddam",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/high-value-target-the-hunt-for-saddam",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
+    "updated_at": "2026-10-19T10:25:38Z"
   },
   {
-    "title": "Mad Men",
-    "year": 2007,
+    "title": "Orphan Black",
+    "year": 2013,
     "type": "series",
     "platform": "hbo_max",
-    "release_date": "2007-01-01",
-    "overview": "Top 10 trending series on Hbo Max. A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.",
+    "release_date": "2013-01-01",
+    "overview": "Top 10 trending series on Hbo Max. A streetwise hustler is pulled into a compelling conspiracy after witnessing the suicide of a girl who looks just like her.",
     "genres": [
-      "Drama"
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/176952716/s592/mad-men.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/176952716/s592/mad-men.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/245355997/s592/orphan-black.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/245355997/s592/orphan-black.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/mad-men",
-    "scraped_at": "2026-10-18T09:15:32+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/orphan-black",
+    "scraped_at": "2026-10-19T10:25:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/mad-men",
+    "article_url": "https://www.justwatch.com/us/tv-show/orphan-black",
     "content_type": "platform_release",
-    "published_at": "2007-01-01T00:00:00Z",
-    "updated_at": "2026-10-18T09:15:32Z"
+    "published_at": "2013-01-01T00:00:00Z",
+    "updated_at": "2026-10-19T10:25:38Z"
   }
 ]
