@@ -16,13 +16,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-invite-2026",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-invite-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
+    "updated_at": "2026-10-29T11:12:29Z"
   },
   {
     "title": "Backrooms",
@@ -41,13 +41,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/backrooms",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/backrooms",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
+    "updated_at": "2026-10-29T11:12:29Z"
   },
   {
     "title": "A Nightmare on Elm Street",
@@ -64,13 +64,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/a-nightmare-on-elm-street",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/a-nightmare-on-elm-street",
     "content_type": "platform_release",
     "published_at": "1984-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
+    "updated_at": "2026-10-29T11:12:29Z"
   },
   {
     "title": "Coraline",
@@ -91,38 +91,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/coraline",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/coraline",
     "content_type": "platform_release",
     "published_at": "2009-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
-  },
-  {
-    "title": "Practical Magic",
-    "year": 1998,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "1998-01-01",
-    "overview": "Top 5 trending movie on Hbo Max. Sally and Gillian Owens, born into a magical family, have mostly avoided witchcraft themselves. But when Gillian's vicious boyfriend, Jimmy Angelov, dies unexpectedly, the Owens sisters give themselves a crash course in hard magic. With policeman Gary Hallet growing suspicious, the girls struggle to resurrect Angelov -- and unwittingly inject his corpse with an evil spirit that threatens to end their family line.",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/11005490/s592/practical-magic.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/11005490/s592/practical-magic.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/practical-magic",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/practical-magic",
-    "content_type": "platform_release",
-    "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
+    "updated_at": "2026-10-29T11:12:29Z"
   },
   {
     "title": "Trick 'r Treat",
@@ -130,7 +105,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2007-01-01",
-    "overview": "Top 6 trending movie on Hbo Max. Four interwoven stories that occur on Halloween: an everyday high school principal has a secret life as a serial killer; a college virgin might have just met the one guy for her; a group of teenagers pull a mean prank, and a bitter old recluse receives an uninvited guest.",
+    "overview": "Top 5 trending movie on Hbo Max. Four interwoven stories that occur on Halloween: an everyday high school principal has a secret life as a serial killer; a college virgin might have just met the one guy for her; a group of teenagers pull a mean prank, and a bitter old recluse receives an uninvited guest.",
     "genres": [
       "Comedy",
       "Fantasy",
@@ -141,13 +116,62 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/trick-r-treat",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/trick-r-treat",
     "content_type": "platform_release",
     "published_at": "2007-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
+    "updated_at": "2026-10-29T11:12:29Z"
+  },
+  {
+    "title": "Beetlejuice",
+    "year": 1988,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "1988-01-01",
+    "overview": "Top 6 trending movie on Hbo Max. A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/153795111/s592/beetlejuice.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/153795111/s592/beetlejuice.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/beetlejuice",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/beetlejuice",
+    "content_type": "platform_release",
+    "published_at": "1988-01-01T00:00:00Z",
+    "updated_at": "2026-10-29T11:12:29Z"
+  },
+  {
+    "title": "Practical Magic",
+    "year": 1998,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "1998-01-01",
+    "overview": "Top 7 trending movie on Hbo Max. Sally and Gillian Owens, born into a magical family, have mostly avoided witchcraft themselves. But when Gillian's vicious boyfriend, Jimmy Angelov, dies unexpectedly, the Owens sisters give themselves a crash course in hard magic. With policeman Gary Hallet growing suspicious, the girls struggle to resurrect Angelov -- and unwittingly inject his corpse with an evil spirit that threatens to end their family line.",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/11005490/s592/practical-magic.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/11005490/s592/practical-magic.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/practical-magic",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/practical-magic",
+    "content_type": "platform_release",
+    "published_at": "1998-01-01T00:00:00Z",
+    "updated_at": "2026-10-29T11:12:29Z"
   },
   {
     "title": "The Shining",
@@ -155,7 +179,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "1980-01-01",
-    "overview": "Top 7 trending movie on Hbo Max. Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+    "overview": "Top 8 trending movie on Hbo Max. Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
     "genres": [
       "Drama",
       "Horror",
@@ -166,13 +190,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-shining",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-shining",
     "content_type": "platform_release",
     "published_at": "1980-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
+    "updated_at": "2026-10-29T11:12:29Z"
+  },
+  {
+    "title": "Hereditary",
+    "year": 2018,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2018-01-01",
+    "overview": "Top 9 trending movie on Hbo Max. When the matriarch of the Graham family passes away, her daughter begins to unravel cryptic and increasingly terrifying secrets about her ancestry.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/66952648/s592/hereditary.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/66952648/s592/hereditary.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/hereditary",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/hereditary",
+    "content_type": "platform_release",
+    "published_at": "2018-01-01T00:00:00Z",
+    "updated_at": "2026-10-29T11:12:29Z"
   },
   {
     "title": "The Bride!",
@@ -180,7 +229,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 8 trending movie on Hbo Max. A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
+    "overview": "Top 10 trending movie on Hbo Max. A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
     "genres": [
       "Drama",
       "Fantasy",
@@ -193,61 +242,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-bride-2025",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-bride-2025",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
-  },
-  {
-    "title": "Beetlejuice",
-    "year": 1988,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "1988-01-01",
-    "overview": "Top 9 trending movie on Hbo Max. A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/153795111/s592/beetlejuice.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/153795111/s592/beetlejuice.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/beetlejuice",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/beetlejuice",
-    "content_type": "platform_release",
-    "published_at": "1988-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
-  },
-  {
-    "title": "The Death of Robin Hood",
-    "year": 2026,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 10 trending movie on Hbo Max. Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-    "genres": [
-      "Action",
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/346014758/s592/the-death-of-robin-hood.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346014758/s592/the-death-of-robin-hood.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-death-of-robin-hood",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-death-of-robin-hood",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
+    "updated_at": "2026-10-29T11:12:29Z"
   },
   {
     "title": "Nathan for You",
@@ -265,13 +266,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
     "content_type": "platform_release",
     "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
+    "updated_at": "2026-10-29T11:12:29Z"
   },
   {
     "title": "War",
@@ -289,13 +290,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/war-2026",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/war-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
+    "updated_at": "2026-10-29T11:12:29Z"
+  },
+  {
+    "title": "Abbott Elementary",
+    "year": 2021,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2021-01-01",
+    "overview": "Top 3 trending series on Hbo Max. In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don’t love the school district’s less-than-stellar attitude toward educating children.",
+    "genres": [
+      "Comedy"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/337910033/s592/abbott-elementary.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/337910033/s592/abbott-elementary.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
+    "content_type": "platform_release",
+    "published_at": "2021-01-01T00:00:00Z",
+    "updated_at": "2026-10-29T11:12:29Z"
   },
   {
     "title": "The Rehearsal",
@@ -303,7 +327,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2022-01-01",
-    "overview": "Top 3 trending series on Hbo Max. Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
+    "overview": "Top 4 trending series on Hbo Max. Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
     "genres": [
       "Comedy",
       "Documentary"
@@ -313,36 +337,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
+    "updated_at": "2026-10-29T11:12:29Z"
   },
   {
-    "title": "Abbott Elementary",
-    "year": 2021,
+    "title": "The Gilded Age",
+    "year": 2022,
     "type": "series",
     "platform": "hbo_max",
-    "release_date": "2021-01-01",
-    "overview": "Top 4 trending series on Hbo Max. In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don’t love the school district’s less-than-stellar attitude toward educating children.",
+    "release_date": "2022-01-01",
+    "overview": "Top 5 trending series on Hbo Max. The conflicts surrounding the new money Russell family and their old money neighbors, the van Rhijn family, in 1880s New York City high society.",
     "genres": [
-      "Comedy"
+      "Drama"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/337910033/s592/abbott-elementary.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/337910033/s592/abbott-elementary.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/319942171/s592/the-gilded-age.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/319942171/s592/the-gilded-age.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
     "content_type": "platform_release",
-    "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
+    "published_at": "2022-01-01T00:00:00Z",
+    "updated_at": "2026-10-29T11:12:29Z"
   },
   {
     "title": "Youth",
@@ -350,7 +374,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 5 trending series on Hbo Max. A 50-year-old divorcee juggles dating life while taking care of her parents and adult son.",
+    "overview": "Top 6 trending series on Hbo Max. A 50-year-old divorcee juggles dating life while taking care of her parents and adult son.",
     "genres": [
       "Comedy",
       "Drama"
@@ -360,13 +384,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/youth-2026",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/youth-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
+    "updated_at": "2026-10-29T11:12:29Z"
   },
   {
     "title": "Georgie & Mandy's First Marriage",
@@ -374,7 +398,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2024-01-01",
-    "overview": "Top 6 trending series on Hbo Max. Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage.",
+    "overview": "Top 7 trending series on Hbo Max. Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage.",
     "genres": [
       "Comedy"
     ],
@@ -383,36 +407,59 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
+    "updated_at": "2026-10-29T11:12:29Z"
   },
   {
-    "title": "The Gilded Age",
-    "year": 2022,
+    "title": "Last Week Tonight with John Oliver",
+    "year": 2014,
     "type": "series",
     "platform": "hbo_max",
-    "release_date": "2022-01-01",
-    "overview": "Top 7 trending series on Hbo Max. The conflicts surrounding the new money Russell family and their old money neighbors, the van Rhijn family, in 1880s New York City high society.",
+    "release_date": "2014-01-01",
+    "overview": "Top 8 trending series on Hbo Max. A half-hour satirical look at the week in news, politics and current events.",
+    "genres": [
+      "Comedy"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/342752049/s592/last-week-tonight-with-john-oliver.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/342752049/s592/last-week-tonight-with-john-oliver.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
+    "content_type": "platform_release",
+    "published_at": "2014-01-01T00:00:00Z",
+    "updated_at": "2026-10-29T11:12:29Z"
+  },
+  {
+    "title": "The Pitt",
+    "year": 2025,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2025-01-01",
+    "overview": "Top 9 trending series on Hbo Max. The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
     "genres": [
       "Drama"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/319942171/s592/the-gilded-age.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/319942171/s592/the-gilded-age.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/326276773/s592/the-pitt.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/326276773/s592/the-pitt.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/the-pitt",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-pitt",
     "content_type": "platform_release",
-    "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-10-29T11:12:29Z"
   },
   {
     "title": "The Great Pottery Throw Down",
@@ -420,7 +467,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2015-01-01",
-    "overview": "Top 8 trending series on Hbo Max. Ten home potters from around the country head to Stoke-on-Trent, the home of pottery, in their quest to become Top Potter.",
+    "overview": "Top 10 trending series on Hbo Max. Ten home potters from around the country head to Stoke-on-Trent, the home of pottery, in their quest to become Top Potter.",
     "genres": [
       "Reality"
     ],
@@ -429,65 +476,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-great-pottery-throw-down",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
+    "scraped_at": "2026-10-29T11:12:29+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-great-pottery-throw-down",
     "content_type": "platform_release",
     "published_at": "2015-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
-  },
-  {
-    "title": "Lanterns",
-    "year": 2026,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 9 trending series on Hbo Max. Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/347103107/s592/lanterns.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/347103107/s592/lanterns.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
-  },
-  {
-    "title": "Game of Thrones",
-    "year": 2011,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2011-01-01",
-    "overview": "Top 10 trending series on Hbo Max. Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
-    "genres": [
-      "Action",
-      "Drama",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/297859466/s592/game-of-thrones.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/297859466/s592/game-of-thrones.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/game-of-thrones",
-    "scraped_at": "2026-10-28T10:54:49+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/game-of-thrones",
-    "content_type": "platform_release",
-    "published_at": "2011-01-01T00:00:00Z",
-    "updated_at": "2026-10-28T10:54:49Z"
+    "updated_at": "2026-10-29T11:12:29Z"
   }
 ]
