@@ -15,13 +15,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-invite-2026",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-invite-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
+    "updated_at": "2026-11-02T12:58:54Z"
   },
   {
     "title": "Backrooms",
@@ -40,13 +40,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/backrooms",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/backrooms",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
+    "updated_at": "2026-11-02T12:58:54Z"
+  },
+  {
+    "title": "Scream",
+    "year": 1996,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "1996-01-01",
+    "overview": "Top 3 trending movie on Hbo Max. A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/267309449/s592/scream-1.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/267309449/s592/scream-1.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/scream-1",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/scream-1",
+    "content_type": "platform_release",
+    "published_at": "1996-01-01T00:00:00Z",
+    "updated_at": "2026-11-02T12:58:54Z"
   },
   {
     "title": "Coraline",
@@ -54,7 +79,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2009-01-01",
-    "overview": "Top 3 trending movie on Hbo Max. Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+    "overview": "Top 4 trending movie on Hbo Max. Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
     "genres": [
       "Animation",
       "Drama",
@@ -67,38 +92,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/coraline",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/coraline",
     "content_type": "platform_release",
     "published_at": "2009-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
-  },
-  {
-    "title": "Scream",
-    "year": 1996,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "1996-01-01",
-    "overview": "Top 4 trending movie on Hbo Max. A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
-    "genres": [
-      "Crime",
-      "Horror",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/267309449/s592/scream-1.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/267309449/s592/scream-1.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/scream-1",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/scream-1",
-    "content_type": "platform_release",
-    "published_at": "1996-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
+    "updated_at": "2026-11-02T12:58:54Z"
   },
   {
     "title": "Practical Magic",
@@ -117,13 +117,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/practical-magic",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/practical-magic",
     "content_type": "platform_release",
     "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
+    "updated_at": "2026-11-02T12:58:54Z"
+  },
+  {
+    "title": "The Cabin in the Woods",
+    "year": 2012,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2012-01-01",
+    "overview": "Top 6 trending movie on Hbo Max. Five teens visit a remote cabin and explore its cellar, finding strange items. When Dana reads from a book there, she unleashes zombie killers. But the situation is more complex than it appears.",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/15596200/s592/the-cabin-in-the-woods.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/15596200/s592/the-cabin-in-the-woods.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/the-cabin-in-the-woods",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/the-cabin-in-the-woods",
+    "content_type": "platform_release",
+    "published_at": "2012-01-01T00:00:00Z",
+    "updated_at": "2026-11-02T12:58:54Z"
   },
   {
     "title": "ParaNorman",
@@ -131,7 +156,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2012-01-01",
-    "overview": "Top 6 trending movie on Hbo Max. In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
+    "overview": "Top 7 trending movie on Hbo Max. In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
     "genres": [
       "Animation",
       "Comedy",
@@ -143,38 +168,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/paranorman",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/paranorman",
     "content_type": "platform_release",
     "published_at": "2012-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
-  },
-  {
-    "title": "The Cabin in the Woods",
-    "year": 2012,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2012-01-01",
-    "overview": "Top 7 trending movie on Hbo Max. Five teens visit a remote cabin and explore its cellar, finding strange items. When Dana reads from a book there, she unleashes zombie killers. But the situation is more complex than it appears.",
-    "genres": [
-      "Comedy",
-      "Horror",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/15596200/s592/the-cabin-in-the-woods.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/15596200/s592/the-cabin-in-the-woods.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-cabin-in-the-woods",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-cabin-in-the-woods",
-    "content_type": "platform_release",
-    "published_at": "2012-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
+    "updated_at": "2026-11-02T12:58:54Z"
   },
   {
     "title": "The Housemaid",
@@ -192,13 +192,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-housemaid-0",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-housemaid-0",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
+    "updated_at": "2026-11-02T12:58:54Z"
+  },
+  {
+    "title": "Sinners",
+    "year": 2025,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2025-01-01",
+    "overview": "Top 9 trending movie on Hbo Max. Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/320977032/s592/sinners-2025.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/320977032/s592/sinners-2025.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/sinners-2025",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/sinners-2025",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-11-02T12:58:54Z"
   },
   {
     "title": "Weapons",
@@ -206,7 +231,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 9 trending movie on Hbo Max. When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "overview": "Top 10 trending movie on Hbo Max. When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
     "genres": [
       "Horror",
       "Thriller"
@@ -216,38 +241,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/weapons-2026",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/weapons-2026",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
-  },
-  {
-    "title": "Beetlejuice Beetlejuice",
-    "year": 2024,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2024-01-01",
-    "overview": "Top 10 trending movie on Hbo Max. After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Horror"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/319094394/s592/beetlejuice-2.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/319094394/s592/beetlejuice-2.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/beetlejuice-2",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/beetlejuice-2",
-    "content_type": "platform_release",
-    "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
+    "updated_at": "2026-11-02T12:58:54Z"
   },
   {
     "title": "War",
@@ -265,36 +265,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/war-2026",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/war-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
-  },
-  {
-    "title": "Abbott Elementary",
-    "year": 2021,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2021-01-01",
-    "overview": "Top 2 trending series on Hbo Max. In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don’t love the school district’s less-than-stellar attitude toward educating children.",
-    "genres": [
-      "Comedy"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/337910033/s592/abbott-elementary.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/337910033/s592/abbott-elementary.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
-    "content_type": "platform_release",
-    "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
+    "updated_at": "2026-11-02T12:58:54Z"
   },
   {
     "title": "The Gilded Age",
@@ -302,7 +279,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2022-01-01",
-    "overview": "Top 3 trending series on Hbo Max. The conflicts surrounding the new money Russell family and their old money neighbors, the van Rhijn family, in 1880s New York City high society.",
+    "overview": "Top 2 trending series on Hbo Max. The conflicts surrounding the new money Russell family and their old money neighbors, the van Rhijn family, in 1880s New York City high society.",
     "genres": [
       "Drama"
     ],
@@ -311,37 +288,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
+    "updated_at": "2026-11-02T12:58:54Z"
   },
   {
-    "title": "Nathan for You",
-    "year": 2013,
+    "title": "Abbott Elementary",
+    "year": 2021,
     "type": "series",
     "platform": "hbo_max",
-    "release_date": "2013-01-01",
-    "overview": "Top 4 trending series on Hbo Max. Self-proclaimed business expert, writer, director and comedian Nathan Fielder helps real small businesses turn a profit with marketing tactics that no ordinary consultant would dare to attempt. From driving foot traffic to an off-the-strip souvenir shop by using Hollywood flair and a Johnny Depp impersonator, to creating a rebate that can only be redeemed by climbing a mountain, to founding a coffee shop called \"Dumb Starbucks,” Nathan has always gone to the...",
+    "release_date": "2021-01-01",
+    "overview": "Top 3 trending series on Hbo Max. In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don’t love the school district’s less-than-stellar attitude toward educating children.",
     "genres": [
-      "Comedy",
-      "Documentary"
+      "Comedy"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/337910033/s592/abbott-elementary.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/337910033/s592/abbott-elementary.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
+    "article_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
     "content_type": "platform_release",
-    "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
+    "published_at": "2021-01-01T00:00:00Z",
+    "updated_at": "2026-11-02T12:58:54Z"
   },
   {
     "title": "Last Week Tonight with John Oliver",
@@ -349,7 +325,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2014-01-01",
-    "overview": "Top 5 trending series on Hbo Max. A half-hour satirical look at the week in news, politics and current events.",
+    "overview": "Top 4 trending series on Hbo Max. A half-hour satirical look at the week in news, politics and current events.",
     "genres": [
       "Comedy"
     ],
@@ -358,13 +334,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
     "content_type": "platform_release",
     "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
+    "updated_at": "2026-11-02T12:58:54Z"
   },
   {
     "title": "Friends",
@@ -372,7 +348,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "1994-01-01",
-    "overview": "Top 6 trending series on Hbo Max. The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+    "overview": "Top 5 trending series on Hbo Max. The personal and professional lives of six friends living in the Manhattan borough of New York City.",
     "genres": [
       "Comedy",
       "Romance"
@@ -382,13 +358,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/friends",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/friends",
     "content_type": "platform_release",
     "published_at": "1994-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
+    "updated_at": "2026-11-02T12:58:54Z"
+  },
+  {
+    "title": "Nathan for You",
+    "year": 2013,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2013-01-01",
+    "overview": "Top 6 trending series on Hbo Max. Nathan Fielder uses his business degree and life experiences to help real small businesses turn a profit.",
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
+    "content_type": "platform_release",
+    "published_at": "2013-01-01T00:00:00Z",
+    "updated_at": "2026-11-02T12:58:54Z"
   },
   {
     "title": "Georgie & Mandy's First Marriage",
@@ -405,13 +405,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
+    "updated_at": "2026-11-02T12:58:54Z"
   },
   {
     "title": "The Rehearsal",
@@ -429,13 +429,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
+    "updated_at": "2026-11-02T12:58:54Z"
   },
   {
     "title": "The Pitt",
@@ -452,13 +452,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-pitt",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-pitt",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
+    "updated_at": "2026-11-02T12:58:54Z"
   },
   {
     "title": "Youth",
@@ -476,12 +476,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/youth-2026",
-    "scraped_at": "2026-11-01T11:36:06+00:00",
+    "scraped_at": "2026-11-02T12:58:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/youth-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-01T11:36:06Z"
+    "updated_at": "2026-11-02T12:58:54Z"
   }
 ]
