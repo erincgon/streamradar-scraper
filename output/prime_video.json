@@ -15,13 +15,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/green-room",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/green-room",
     "content_type": "platform_release",
     "published_at": "2016-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
+    "updated_at": "2026-11-05T12:52:14Z"
+  },
+  {
+    "title": "Resident Evil",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 2 trending movie on Prime Video. Described as a revamp that will return to the franchise's horror roots and be more faithful to the initial games.",
+    "genres": [
+      "Horror"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/354637476/s592/resident-evil-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354637476/s592/resident-evil-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/resident-evil-2026",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/resident-evil-2026",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-05T12:52:14Z"
   },
   {
     "title": "Halloween",
@@ -29,7 +52,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "1978-01-01",
-    "overview": "Top 2 trending movie on Prime Video. Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+    "overview": "Top 3 trending movie on Prime Video. Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
     "genres": [
       "Horror",
       "Thriller"
@@ -39,13 +62,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/halloween",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/halloween",
     "content_type": "platform_release",
     "published_at": "1978-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
+    "updated_at": "2026-11-05T12:52:14Z"
   },
   {
     "title": "Obsession",
@@ -53,7 +76,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 3 trending movie on Prime Video. After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "overview": "Top 4 trending movie on Prime Video. After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "genres": [
       "Fantasy",
       "Horror",
@@ -64,13 +87,39 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/obsession-2026",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/obsession-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
+    "updated_at": "2026-11-05T12:52:14Z"
+  },
+  {
+    "title": "Godzilla Minus One",
+    "year": 2023,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2023-01-01",
+    "overview": "Top 5 trending movie on Prime Video. In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/313783206/s592/godzilla-minus-one.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/313783206/s592/godzilla-minus-one.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/godzilla-minus-one",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/godzilla-minus-one",
+    "content_type": "platform_release",
+    "published_at": "2023-01-01T00:00:00Z",
+    "updated_at": "2026-11-05T12:52:14Z"
   },
   {
     "title": "Verity",
@@ -78,7 +127,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 4 trending movie on Prime Video. Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+    "overview": "Top 6 trending movie on Prime Video. Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
     "genres": [
       "Crime",
       "Drama",
@@ -89,60 +138,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/verity",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/verity",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
-  },
-  {
-    "title": "Resident Evil",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 5 trending movie on Prime Video. Described as a revamp that will return to the franchise's horror roots and be more faithful to the initial games.",
-    "genres": [
-      "Horror",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/354637476/s592/resident-evil-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354637476/s592/resident-evil-2026.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/resident-evil-2026",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/resident-evil-2026",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
-  },
-  {
-    "title": "Ali G: Who Iz I?",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 6 trending movie on Prime Video. After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
-    "genres": [
-      "Comedy"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/350077093/s592/ali-g-who-iz-i.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/350077093/s592/ali-g-who-iz-i.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/ali-g-who-iz-i",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/ali-g-who-iz-i",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
+    "updated_at": "2026-11-05T12:52:14Z"
   },
   {
     "title": "Wild Horse Nine",
@@ -163,38 +165,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/wild-horse-nine",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/wild-horse-nine",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
+    "updated_at": "2026-11-05T12:52:14Z"
   },
   {
-    "title": "The Cycle",
+    "title": "Primetime",
     "year": 2026,
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 8 trending movie on Prime Video. A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+    "overview": "Top 8 trending movie on Prime Video. In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
     "genres": [
       "Crime",
-      "Horror",
+      "Drama",
       "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/353464933/s592/the-cycle-2026-1.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/353464933/s592/the-cycle-2026-1.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/345847301/s592/primetime.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/345847301/s592/primetime.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-cycle-2026-1",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/primetime",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-cycle-2026-1",
+    "article_url": "https://www.justwatch.com/us/movie/primetime",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
+    "updated_at": "2026-11-05T12:52:14Z"
   },
   {
     "title": "Backrooms",
@@ -213,39 +215,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/backrooms",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/backrooms",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
+    "updated_at": "2026-11-05T12:52:14Z"
   },
   {
-    "title": "Godzilla Minus One",
-    "year": 2023,
+    "title": "A Story of Derry",
+    "year": 2026,
     "type": "movie",
     "platform": "prime_video",
-    "release_date": "2023-01-01",
-    "overview": "Top 10 trending movie on Prime Video. In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+    "release_date": "2026-01-01",
+    "overview": "Top 10 trending movie on Prime Video. Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
     "genres": [
-      "Action",
-      "Drama",
-      "Horror",
-      "Sci-Fi"
+      "Horror"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/313783206/s592/godzilla-minus-one.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/313783206/s592/godzilla-minus-one.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/356409958/s592/a-story-of-derry.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/356409958/s592/a-story-of-derry.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/godzilla-minus-one",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/a-story-of-derry",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/godzilla-minus-one",
+    "article_url": "https://www.justwatch.com/us/movie/a-story-of-derry",
     "content_type": "platform_release",
-    "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-05T12:52:14Z"
   },
   {
     "title": "Nocturne",
@@ -264,13 +263,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/nocturne",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/nocturne",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
+    "updated_at": "2026-11-05T12:52:14Z"
   },
   {
     "title": "Star Trek: The Next Generation",
@@ -290,13 +289,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/star-trek-the-next-generation",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/star-trek-the-next-generation",
     "content_type": "platform_release",
     "published_at": "1987-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
+    "updated_at": "2026-11-05T12:52:14Z"
+  },
+  {
+    "title": "Dexter: Resurrection",
+    "year": 2025,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2025-01-01",
+    "overview": "Top 3 trending series on Prime Video. Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/355231202/s592/dexter-resurrection.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/355231202/s592/dexter-resurrection.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/dexter-resurrection",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/dexter-resurrection",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-11-05T12:52:14Z"
   },
   {
     "title": "FROM",
@@ -304,7 +328,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2022-01-01",
-    "overview": "Top 3 trending series on Prime Video. Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+    "overview": "Top 4 trending series on Prime Video. Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
     "genres": [
       "Drama",
       "Fantasy",
@@ -317,38 +341,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/from",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/from",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
-  },
-  {
-    "title": "Dexter: Resurrection",
-    "year": 2025,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2025-01-01",
-    "overview": "Top 4 trending series on Prime Video. Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/355231202/s592/dexter-resurrection.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/355231202/s592/dexter-resurrection.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/dexter-resurrection",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/dexter-resurrection",
-    "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
+    "updated_at": "2026-11-05T12:52:14Z"
   },
   {
     "title": "The Gilded Age",
@@ -365,13 +364,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
+    "updated_at": "2026-11-05T12:52:14Z"
   },
   {
     "title": "VisionQuest",
@@ -390,13 +389,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/visionquest-1",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/visionquest-1",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
+    "updated_at": "2026-11-05T12:52:14Z"
   },
   {
     "title": "MobLand",
@@ -414,13 +413,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/mobland",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/mobland",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
+    "updated_at": "2026-11-05T12:52:14Z"
   },
   {
     "title": "Carrie",
@@ -440,13 +439,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/carrie",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/carrie",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
+    "updated_at": "2026-11-05T12:52:14Z"
   },
   {
     "title": "Over the Garden Wall",
@@ -471,37 +470,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/over-the-garden-wall",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/over-the-garden-wall",
     "content_type": "platform_release",
     "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
+    "updated_at": "2026-11-05T12:52:14Z"
   },
   {
-    "title": "Nobody Wants This",
-    "year": 2024,
+    "title": "Ghosts",
+    "year": 2021,
     "type": "series",
     "platform": "prime_video",
-    "release_date": "2024-01-01",
-    "overview": "Top 10 trending series on Prime Video. Follows the unexpected relationship between a rogue rabbi and an irascible, loud, agnostic woman.",
+    "release_date": "2021-01-01",
+    "overview": "Top 10 trending series on Prime Video. Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
     "genres": [
       "Comedy",
-      "Drama",
-      "Romance"
+      "Fantasy",
+      "Sci-Fi"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/337837451/s592/nobody-wants-this.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/337837451/s592/nobody-wants-this.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/322124929/s592/ghosts-2021.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/322124929/s592/ghosts-2021.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/nobody-wants-this",
-    "scraped_at": "2026-11-04T12:42:26+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/ghosts-2021",
+    "scraped_at": "2026-11-05T12:52:14+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/nobody-wants-this",
+    "article_url": "https://www.justwatch.com/us/tv-show/ghosts-2021",
     "content_type": "platform_release",
-    "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:26Z"
+    "published_at": "2021-01-01T00:00:00Z",
+    "updated_at": "2026-11-05T12:52:14Z"
   }
 ]

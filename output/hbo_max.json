@@ -16,13 +16,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/backrooms",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/backrooms",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
+    "updated_at": "2026-11-05T12:52:12Z"
+  },
+  {
+    "title": "A Story of Derry",
+    "year": 2026,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2026-01-01",
+    "overview": "Top 2 trending movie on Hbo Max. Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+    "genres": [
+      "Horror"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/356409958/s592/a-story-of-derry.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/356409958/s592/a-story-of-derry.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/a-story-of-derry",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/a-story-of-derry",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-05T12:52:12Z"
   },
   {
     "title": "Scream",
@@ -30,7 +53,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "1996-01-01",
-    "overview": "Top 2 trending movie on Hbo Max. A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+    "overview": "Top 3 trending movie on Hbo Max. A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
     "genres": [
       "Crime",
       "Horror",
@@ -41,38 +64,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/scream-1",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/scream-1",
     "content_type": "platform_release",
     "published_at": "1996-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
-  },
-  {
-    "title": "A Story of Derry",
-    "year": 2026,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 3 trending movie on Hbo Max. Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-    "genres": [
-      "Drama",
-      "Horror",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/356409958/s592/a-story-of-derry.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/356409958/s592/a-story-of-derry.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/a-story-of-derry",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/a-story-of-derry",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
+    "updated_at": "2026-11-05T12:52:12Z"
   },
   {
     "title": "Coraline",
@@ -93,37 +91,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/coraline",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/coraline",
     "content_type": "platform_release",
     "published_at": "2009-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
-  },
-  {
-    "title": "The Invite",
-    "year": 2026,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 5 trending movie on Hbo Max. Joe and Angela's marriage is on the rocks. When they invite their enigmatic upstairs neighbors over for dinner, the evening takes an unexpected turn.",
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/346669746/s592/the-invite-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346669746/s592/the-invite-2026.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-invite-2026",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-invite-2026",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
+    "updated_at": "2026-11-05T12:52:12Z"
   },
   {
     "title": "Practical Magic",
@@ -131,7 +105,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "1998-01-01",
-    "overview": "Top 6 trending movie on Hbo Max. Sally and Gillian Owens, born into a magical family, have mostly avoided witchcraft themselves. But when Gillian's vicious boyfriend, Jimmy Angelov, dies unexpectedly, the Owens sisters give themselves a crash course in hard magic. With policeman Gary Hallet growing suspicious, the girls struggle to resurrect Angelov -- and unwittingly inject his corpse with an evil spirit that threatens to end their family line.",
+    "overview": "Top 5 trending movie on Hbo Max. Sally and Gillian Owens, born into a magical family, have mostly avoided witchcraft themselves. But when Gillian's vicious boyfriend, Jimmy Angelov, dies unexpectedly, the Owens sisters give themselves a crash course in hard magic. With policeman Gary Hallet growing suspicious, the girls struggle to resurrect Angelov -- and unwittingly inject his corpse with an evil spirit that threatens to end their family line.",
     "genres": [
       "Comedy",
       "Fantasy",
@@ -142,37 +116,62 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/practical-magic",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/practical-magic",
     "content_type": "platform_release",
     "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
+    "updated_at": "2026-11-05T12:52:12Z"
   },
   {
-    "title": "The Cabin in the Woods",
-    "year": 2012,
+    "title": "The Invite",
+    "year": 2026,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "2012-01-01",
-    "overview": "Top 7 trending movie on Hbo Max. Five teens visit a remote cabin and explore its cellar, finding strange items. When Dana reads from a book there, she unleashes zombie killers. But the situation is more complex than it appears.",
+    "release_date": "2026-01-01",
+    "overview": "Top 6 trending movie on Hbo Max. Joe and Angela's marriage is on the rocks. When they invite their enigmatic upstairs neighbors over for dinner, the evening takes an unexpected turn.",
     "genres": [
-      "Horror",
-      "Thriller"
+      "Comedy",
+      "Drama",
+      "Romance"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/15596200/s592/the-cabin-in-the-woods.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/15596200/s592/the-cabin-in-the-woods.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/346669746/s592/the-invite-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/346669746/s592/the-invite-2026.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-cabin-in-the-woods",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/the-invite-2026",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-cabin-in-the-woods",
+    "article_url": "https://www.justwatch.com/us/movie/the-invite-2026",
     "content_type": "platform_release",
-    "published_at": "2012-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-05T12:52:12Z"
+  },
+  {
+    "title": "The Housemaid",
+    "year": 2025,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2025-01-01",
+    "overview": "Top 7 trending movie on Hbo Max. Millie, a struggling young woman, becomes a live-in maid for a wealthy couple, Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/339973083/s592/the-housemaid-0.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/339973083/s592/the-housemaid-0.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/the-housemaid-0",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/the-housemaid-0",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-11-05T12:52:12Z"
   },
   {
     "title": "Sinners",
@@ -191,63 +190,63 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/sinners-2025",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/sinners-2025",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
+    "updated_at": "2026-11-05T12:52:12Z"
   },
   {
-    "title": "The Housemaid",
-    "year": 2025,
+    "title": "Elf",
+    "year": 2003,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "2025-01-01",
-    "overview": "Top 9 trending movie on Hbo Max. Millie, a struggling young woman, becomes a live-in maid for a wealthy couple, Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
+    "release_date": "2003-01-01",
+    "overview": "Top 9 trending movie on Hbo Max. When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
     "genres": [
-      "Drama",
-      "Thriller"
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Romance"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/339973083/s592/the-housemaid-0.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/339973083/s592/the-housemaid-0.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/301531135/s592/elf.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/301531135/s592/elf.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-housemaid-0",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/elf",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-housemaid-0",
+    "article_url": "https://www.justwatch.com/us/movie/elf",
     "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
+    "published_at": "2003-01-01T00:00:00Z",
+    "updated_at": "2026-11-05T12:52:12Z"
   },
   {
-    "title": "ParaNorman",
+    "title": "The Cabin in the Woods",
     "year": 2012,
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2012-01-01",
-    "overview": "Top 10 trending movie on Hbo Max. In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
+    "overview": "Top 10 trending movie on Hbo Max. Five teens visit a remote cabin and explore its cellar, finding strange items. When Dana reads from a book there, she unleashes zombie killers. But the situation is more complex than it appears.",
     "genres": [
-      "Animation",
-      "Comedy",
-      "Family",
-      "Fantasy"
+      "Horror",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/176265677/s592/paranorman.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/176265677/s592/paranorman.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/15596200/s592/the-cabin-in-the-woods.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/15596200/s592/the-cabin-in-the-woods.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/paranorman",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/the-cabin-in-the-woods",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/paranorman",
+    "article_url": "https://www.justwatch.com/us/movie/the-cabin-in-the-woods",
     "content_type": "platform_release",
     "published_at": "2012-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
+    "updated_at": "2026-11-05T12:52:12Z"
   },
   {
     "title": "The Gilded Age",
@@ -264,13 +263,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
+    "updated_at": "2026-11-05T12:52:12Z"
   },
   {
     "title": "War",
@@ -288,13 +287,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/war-2026",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/war-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
+    "updated_at": "2026-11-05T12:52:12Z"
   },
   {
     "title": "Abbott Elementary",
@@ -311,37 +310,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
+    "updated_at": "2026-11-05T12:52:12Z"
   },
   {
-    "title": "Friends",
-    "year": 1994,
+    "title": "Youth",
+    "year": 2026,
     "type": "series",
     "platform": "hbo_max",
-    "release_date": "1994-01-01",
-    "overview": "Top 4 trending series on Hbo Max. The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+    "release_date": "2026-01-01",
+    "overview": "Top 4 trending series on Hbo Max. A 50-year-old divorcee juggles dating life while taking care of her parents and adult son.",
     "genres": [
       "Comedy",
-      "Romance"
+      "Drama"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/300603462/s592/friends.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/300603462/s592/friends.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/355694347/s592/youth-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/355694347/s592/youth-2026.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/friends",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/youth-2026",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/friends",
+    "article_url": "https://www.justwatch.com/us/tv-show/youth-2026",
     "content_type": "platform_release",
-    "published_at": "1994-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-05T12:52:12Z"
   },
   {
     "title": "Lanterns",
@@ -362,13 +361,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/lanterns",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
+    "updated_at": "2026-11-05T12:52:12Z"
+  },
+  {
+    "title": "Friends",
+    "year": 1994,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "1994-01-01",
+    "overview": "Top 6 trending series on Hbo Max. The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/300603462/s592/friends.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/300603462/s592/friends.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/friends",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/friends",
+    "content_type": "platform_release",
+    "published_at": "1994-01-01T00:00:00Z",
+    "updated_at": "2026-11-05T12:52:12Z"
   },
   {
     "title": "IT: Welcome to Derry",
@@ -376,7 +399,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 6 trending series on Hbo Max. In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+    "overview": "Top 7 trending series on Hbo Max. In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
     "genres": [
       "Drama",
       "Fantasy",
@@ -388,36 +411,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/welcome-to-derry",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/welcome-to-derry",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
-  },
-  {
-    "title": "Georgie & Mandy's First Marriage",
-    "year": 2024,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2024-01-01",
-    "overview": "Top 7 trending series on Hbo Max. Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage.",
-    "genres": [
-      "Comedy"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/321593477/s592/georgie-and-mandys-first-marriage.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/321593477/s592/georgie-and-mandys-first-marriage.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
-    "content_type": "platform_release",
-    "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
+    "updated_at": "2026-11-05T12:52:12Z"
   },
   {
     "title": "Nathan for You",
@@ -435,37 +435,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
     "content_type": "platform_release",
     "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
+    "updated_at": "2026-11-05T12:52:12Z"
   },
   {
-    "title": "Youth",
-    "year": 2026,
+    "title": "Georgie & Mandy's First Marriage",
+    "year": 2024,
     "type": "series",
     "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 9 trending series on Hbo Max. A 50-year-old divorcee juggles dating life while taking care of her parents and adult son.",
+    "release_date": "2024-01-01",
+    "overview": "Top 9 trending series on Hbo Max. Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage.",
     "genres": [
-      "Comedy",
-      "Drama"
+      "Comedy"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/355694347/s592/youth-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/355694347/s592/youth-2026.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/321593477/s592/georgie-and-mandys-first-marriage.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/321593477/s592/georgie-and-mandys-first-marriage.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/youth-2026",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/youth-2026",
+    "article_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
     "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
+    "published_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2026-11-05T12:52:12Z"
   },
   {
     "title": "Last Week Tonight with John Oliver",
@@ -482,12 +481,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
-    "scraped_at": "2026-11-04T12:42:24+00:00",
+    "scraped_at": "2026-11-05T12:52:12+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
     "content_type": "platform_release",
     "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-11-04T12:42:24Z"
+    "updated_at": "2026-11-05T12:52:12Z"
   }
 ]
