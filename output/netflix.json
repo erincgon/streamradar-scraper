@@ -17,13 +17,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/animals-2026",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/animals-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "Return to Sender",
@@ -41,13 +41,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/return-to-sender",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/return-to-sender",
     "content_type": "platform_release",
     "published_at": "2015-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "KPop Demon Hunters",
@@ -69,13 +69,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/k-pop-demon-hunters",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/k-pop-demon-hunters",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "Hot Wheels Let's Race: Attack of the T-Rex",
@@ -86,20 +86,21 @@
     "overview": "Netflix Global Top 4 movie. When a giant T-Rex threatens Hot Wheels City, it's up to Coop and his friends to race to the rescue and save the day.",
     "genres": [
       "Action",
-      "Animation"
+      "Animation",
+      "Family"
     ],
     "poster_image_url": "https://images.justwatch.com/poster/356304674/s592/hot-wheels-lets-race-attack-of-the-t-rex.webp",
     "backdrop_image_url": "https://images.justwatch.com/poster/356304674/s592/hot-wheels-lets-race-attack-of-the-t-rex.webp",
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/hot-wheels-lets-race-attack-of-the-t-rex",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/hot-wheels-lets-race-attack-of-the-t-rex",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "Ice Age 4: Continental Drift",
@@ -119,13 +120,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/ice-age-continental-drift",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/ice-age-continental-drift",
     "content_type": "platform_release",
     "published_at": "2012-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "Ice Age: Dawn of the Dinosaurs",
@@ -146,13 +147,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/ice-age-dawn-of-the-dinosaurs",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/ice-age-dawn-of-the-dinosaurs",
     "content_type": "platform_release",
     "published_at": "2009-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "Ice Age 5: Collision Course",
@@ -173,13 +174,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/ice-age-collision-course",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/ice-age-collision-course",
     "content_type": "platform_release",
     "published_at": "2016-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "This Is Not a Test",
@@ -197,13 +198,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/this-is-not-a-test-2025",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/this-is-not-a-test-2025",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "Ice Age",
@@ -223,13 +224,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/lere-de-glace",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/lere-de-glace",
     "content_type": "platform_release",
     "published_at": "2002-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "Aliens in the Attic",
@@ -250,13 +251,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/des-extraterrestres-dans-le-grenier",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/des-extraterrestres-dans-le-grenier",
     "content_type": "platform_release",
     "published_at": "2009-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "The One About Matthew Perry",
@@ -273,13 +274,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-one-about-matthew-perry",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-one-about-matthew-perry",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "Nobody Wants This",
@@ -298,13 +299,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/nobody-wants-this",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/nobody-wants-this",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "Below",
@@ -323,13 +324,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/below-2026",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/below-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "The Diplomat",
@@ -348,13 +349,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-diplomat",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-diplomat",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "Love Is Blind: S11: Boston",
@@ -372,13 +373,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/love-is-blind-uk",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/love-is-blind-uk",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "Minimum Wage",
@@ -395,13 +396,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/minimum-wage-2026",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/minimum-wage-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "Raw: 2026 - October 26, 2026",
@@ -421,13 +422,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/gto-2026",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/gto-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "From",
@@ -448,13 +449,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/from",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/from",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "East of Eden",
@@ -471,13 +472,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/east-of-eden-0",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/east-of-eden-0",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   },
   {
     "title": "Instadocs: Jane Doe v. Cornell",
@@ -494,12 +495,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/instadocs-jane-doe-v-cornell",
-    "scraped_at": "2026-11-08T11:37:43+00:00",
+    "scraped_at": "2026-11-09T13:30:20+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/instadocs-jane-doe-v-cornell",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-08T11:37:43Z"
+    "updated_at": "2026-11-09T13:30:20Z"
   }
 ]
