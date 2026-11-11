@@ -17,13 +17,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/godzilla-minus-one",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/godzilla-minus-one",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "Resident Evil",
@@ -42,13 +42,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/resident-evil-2026",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/resident-evil-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "Primetime",
@@ -67,13 +67,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/primetime",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/primetime",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
+  },
+  {
+    "title": "Super Troopers 3",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 4 trending movie on Prime Video. When Farva’s wildly over-the-top Indian engagement to Thorny’s sister spirals into chaos, the Super Troopers must navigate Thorny’s schemes to break up the relationship, while trying to crack a pernicious new drug ring — all to save the day and maybe the wedding itself.",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/346666835/s592/super-troopers-3.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/346666835/s592/super-troopers-3.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/super-troopers-3",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/super-troopers-3",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "Wild Horse Nine",
@@ -81,7 +106,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 4 trending movie on Prime Video. Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
+    "overview": "Top 5 trending movie on Prime Video. Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
     "genres": [
       "Action",
       "Comedy",
@@ -94,88 +119,63 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/wild-horse-nine",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/wild-horse-nine",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
-    "title": "Super Troopers 3",
+    "title": "Heart of the Beast",
     "year": 2026,
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 5 trending movie on Prime Video. When Farva’s wildly over-the-top Indian engagement to Thorny’s sister spirals into chaos, the Super Troopers must navigate Thorny’s schemes to break up the relationship, while trying to crack a pernicious new drug ring — all to save the day and maybe the wedding itself.",
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/346666835/s592/super-troopers-3.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346666835/s592/super-troopers-3.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/super-troopers-3",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/super-troopers-3",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 6 trending movie on Prime Video. Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/347907260/s592/spider-man-brand-new-day.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/347907260/s592/spider-man-brand-new-day.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/spider-man-brand-new-day",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/spider-man-brand-new-day",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
-  },
-  {
-    "title": "V for Vendetta",
-    "year": 2006,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2006-01-01",
-    "overview": "Top 7 trending movie on Prime Video. In a world in which Great Britain has become a fascist state, a masked vigilante known only as “V” conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.",
+    "overview": "Top 6 trending movie on Prime Video. After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
     "genres": [
       "Action",
       "Drama",
-      "Sci-Fi",
       "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/301257703/s592/v-for-vendetta.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/301257703/s592/v-for-vendetta.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/346361087/s592/heart-of-the-beast.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/346361087/s592/heart-of-the-beast.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/v-for-vendetta",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/heart-of-the-beast",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/v-for-vendetta",
+    "article_url": "https://www.justwatch.com/us/movie/heart-of-the-beast",
     "content_type": "platform_release",
-    "published_at": "2006-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-11T12:19:03Z"
+  },
+  {
+    "title": "The Odyssey",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 7 trending movie on Prime Video. Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/347473608/s592/the-odyssey-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/347473608/s592/the-odyssey-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/the-odyssey-2026",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/the-odyssey-2026",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "You Can See Everything",
@@ -194,65 +194,63 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/you-can-see-everything",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/you-can-see-everything",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
-    "title": "The Odyssey",
+    "title": "Spider-Man: Brand New Day",
     "year": 2026,
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 9 trending movie on Prime Video. Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "overview": "Top 9 trending movie on Prime Video. Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "genres": [
       "Action",
-      "Drama",
-      "Fantasy"
+      "Sci-Fi"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/347473608/s592/the-odyssey-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/347473608/s592/the-odyssey-2026.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/347907260/s592/spider-man-brand-new-day.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/347907260/s592/spider-man-brand-new-day.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-odyssey-2026",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/spider-man-brand-new-day",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-odyssey-2026",
+    "article_url": "https://www.justwatch.com/us/movie/spider-man-brand-new-day",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
-    "title": "Godzilla Minus Zero",
-    "year": 2026,
+    "title": "V for Vendetta",
+    "year": 2006,
     "type": "movie",
     "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 10 trending movie on Prime Video. War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+    "release_date": "2006-01-01",
+    "overview": "Top 10 trending movie on Prime Video. In a world in which Great Britain has become a fascist state, a masked vigilante known only as “V” conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.",
     "genres": [
       "Action",
       "Drama",
-      "Horror",
       "Sci-Fi",
       "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/347360982/s592/godzilla-minus-zero.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/347360982/s592/godzilla-minus-zero.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/301257703/s592/v-for-vendetta.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/301257703/s592/v-for-vendetta.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/godzilla-minus-zero",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/v-for-vendetta",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/godzilla-minus-zero",
+    "article_url": "https://www.justwatch.com/us/movie/v-for-vendetta",
     "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "published_at": "2006-01-01T00:00:00Z",
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "Black Doves",
@@ -272,13 +270,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/black-doves",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/black-doves",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "FROM",
@@ -299,13 +297,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/from",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/from",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "Stick",
@@ -324,36 +322,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/stick",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/stick",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
-  },
-  {
-    "title": "The Gilded Age",
-    "year": 2022,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2022-01-01",
-    "overview": "Top 4 trending series on Prime Video. The conflicts surrounding the new money Russell family and their old money neighbors, the van Rhijn family, in 1880s New York City high society.",
-    "genres": [
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/319942171/s592/the-gilded-age.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/319942171/s592/the-gilded-age.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
-    "content_type": "platform_release",
-    "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "VisionQuest",
@@ -361,7 +336,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 5 trending series on Prime Video. With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "overview": "Top 4 trending series on Prime Video. With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
     "genres": [
       "Action",
       "Drama",
@@ -372,38 +347,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/visionquest-1",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/visionquest-1",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
-  },
-  {
-    "title": "Nocturne",
-    "year": 2026,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 6 trending series on Prime Video. When a victim of serial killer Jurek Walter turns up alive, detective Jonah Lynn races to find the one person still missing, while his protégé Saga Bauer goes undercover for answers from the killer himself. Based on the bestselling novel by Lars Kepler.",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/354518072/s592/nocturne.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354518072/s592/nocturne.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/nocturne",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/nocturne",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "MobLand",
@@ -411,7 +361,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2025-01-01",
-    "overview": "Top 7 trending series on Prime Video. Two mob families clash in a war that threatens to topple empires and lives.",
+    "overview": "Top 5 trending series on Prime Video. Two mob families clash in a war that threatens to topple empires and lives.",
     "genres": [
       "Crime",
       "Drama"
@@ -421,13 +371,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/mobland",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/mobland",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
+  },
+  {
+    "title": "Cupertino",
+    "year": 2026,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 6 trending series on Prime Video. A scrappy lawyer takes on a powerful tech giant in a high-stakes legal battle, navigating the cutthroat world of Silicon Valley while fighting for justice and the little guy's rights.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/354321948/s592/cupertino.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354321948/s592/cupertino.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/cupertino",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/cupertino",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "Small Prophets",
@@ -435,7 +408,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 8 trending series on Prime Video. The magical and mundane unfold in a suburban shed as a lonely man stumbles on the supernatural.",
+    "overview": "Top 7 trending series on Prime Video. The magical and mundane unfold in a suburban shed as a lonely man stumbles on the supernatural.",
     "genres": [
       "Comedy",
       "Drama",
@@ -446,13 +419,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/small-prophets",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/small-prophets",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
+  },
+  {
+    "title": "The Gilded Age",
+    "year": 2022,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2022-01-01",
+    "overview": "Top 8 trending series on Prime Video. The conflicts surrounding the new money Russell family and their old money neighbors, the van Rhijn family, in 1880s New York City high society.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/319942171/s592/the-gilded-age.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/319942171/s592/the-gilded-age.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
+    "content_type": "platform_release",
+    "published_at": "2022-01-01T00:00:00Z",
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "The Remarried Empress",
@@ -469,35 +465,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-remarried-empress",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-remarried-empress",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
-    "title": "Cupertino",
+    "title": "Nocturne",
     "year": 2026,
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 10 trending series on Prime Video. A scrappy lawyer takes on a powerful tech giant in a high-stakes legal battle, navigating the cutthroat world of Silicon Valley while fighting for justice and the little guy's rights.",
+    "overview": "Top 10 trending series on Prime Video. When a victim of serial killer Jurek Walter turns up alive, detective Jonah Lynn races to find the one person still missing, while his protégé Saga Bauer goes undercover for answers from the killer himself. Based on the bestselling novel by Lars Kepler.",
     "genres": [
-      "Drama"
+      "Crime",
+      "Drama",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/354321948/s592/cupertino.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354321948/s592/cupertino.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/354518072/s592/nocturne.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354518072/s592/nocturne.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/cupertino",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/nocturne",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/cupertino",
+    "article_url": "https://www.justwatch.com/us/tv-show/nocturne",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   }
 ]

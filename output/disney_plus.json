@@ -18,13 +18,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/toy-story-5",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/toy-story-5",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "Home Alone",
@@ -42,13 +42,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/home-alone",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/home-alone",
     "content_type": "platform_release",
     "published_at": "1990-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "Fantastic Mr. Fox",
@@ -70,13 +70,39 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/fantastic-mr-fox",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/fantastic-mr-fox",
     "content_type": "platform_release",
     "published_at": "2009-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
+  },
+  {
+    "title": "The Mandalorian and Grogu",
+    "year": 2026,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "2026-01-01",
+    "overview": "Top 4 trending movie on Disney Plus. Once a lone bounty hunter, Mandalorian Din Djarin and his apprentice Grogu embark on an exciting new Star Wars adventure.",
+    "genres": [
+      "Action",
+      "Family",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/354570032/s592/the-mandalorian-and-grogu.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354570032/s592/the-mandalorian-and-grogu.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "The Princess Bride",
@@ -84,7 +110,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "1987-01-01",
-    "overview": "Top 4 trending movie on Disney Plus. In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+    "overview": "Top 5 trending movie on Disney Plus. In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
     "genres": [
       "Action",
       "Comedy",
@@ -97,64 +123,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-princess-bride",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-princess-bride",
     "content_type": "platform_release",
     "published_at": "1987-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
-  },
-  {
-    "title": "The Mandalorian and Grogu",
-    "year": 2026,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "2026-01-01",
-    "overview": "Top 5 trending movie on Disney Plus. Once a lone bounty hunter, Mandalorian Din Djarin and his apprentice Grogu embark on an exciting new Star Wars adventure.",
-    "genres": [
-      "Action",
-      "Family",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/354570032/s592/the-mandalorian-and-grogu.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354570032/s592/the-mandalorian-and-grogu.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
-  },
-  {
-    "title": "Halloweentown",
-    "year": 1998,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "1998-01-01",
-    "overview": "Top 6 trending movie on Disney Plus. On her 13th birthday, Marnie learns she's a witch, discovers a secret portal, and is transported to Halloweentown — a magical place where ghosts and ghouls, witches and werewolves live apart from the human world. But she soon finds herself battling wicked warlocks, evil curses, and endless surprises.",
-    "genres": [
-      "Comedy",
-      "Family",
-      "Fantasy"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/356536957/s592/halloweentown.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/356536957/s592/halloweentown.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/halloweentown",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/halloweentown",
-    "content_type": "platform_release",
-    "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "10 Things I Hate About You",
@@ -162,7 +137,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "1999-01-01",
-    "overview": "Top 7 trending movie on Disney Plus. A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat.",
+    "overview": "Top 6 trending movie on Disney Plus. A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat.",
     "genres": [
       "Comedy",
       "Drama",
@@ -173,13 +148,94 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/10-things-i-hate-about-you",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/10-things-i-hate-about-you",
     "content_type": "platform_release",
     "published_at": "1999-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
+  },
+  {
+    "title": "Halloweentown",
+    "year": 1998,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "1998-01-01",
+    "overview": "Top 7 trending movie on Disney Plus. On her 13th birthday, Marnie learns she's a witch, discovers a secret portal, and is transported to Halloweentown — a magical place where ghosts and ghouls, witches and werewolves live apart from the human world. But she soon finds herself battling wicked warlocks, evil curses, and endless surprises.",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/356536957/s592/halloweentown.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/356536957/s592/halloweentown.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/halloweentown",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/halloweentown",
+    "content_type": "platform_release",
+    "published_at": "1998-01-01T00:00:00Z",
+    "updated_at": "2026-11-11T12:19:03Z"
+  },
+  {
+    "title": "Moana",
+    "year": 2026,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "2026-01-01",
+    "overview": "Top 8 trending movie on Disney Plus. Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/343683458/s592/moana-2025.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/343683458/s592/moana-2025.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/moana-2025",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/moana-2025",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-11T12:19:03Z"
+  },
+  {
+    "title": "Coco",
+    "year": 2017,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "2017-01-01",
+    "overview": "Top 9 trending movie on Disney Plus. Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy",
+      "Drama",
+      "European",
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/35315559/s592/coco.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/35315559/s592/coco.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/coco",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/coco",
+    "content_type": "platform_release",
+    "published_at": "2017-01-01T00:00:00Z",
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "Spider-Man: No Way Home",
@@ -187,7 +243,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2021-01-01",
-    "overview": "Top 8 trending movie on Disney Plus. Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "overview": "Top 10 trending movie on Disney Plus. Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
     "genres": [
       "Action",
       "Fantasy",
@@ -198,65 +254,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/spider-man-no-way-home",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/spider-man-no-way-home",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
-  },
-  {
-    "title": "Noelle",
-    "year": 2019,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "2019-01-01",
-    "overview": "Top 9 trending movie on Disney Plus. Kris Kringle's daughter, Noelle, sets off on a mission to find and bring back her brother, after he gets cold feet when it's his turn to take over as Santa.",
-    "genres": [
-      "Comedy",
-      "Family",
-      "Fantasy"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/146805598/s592/noelle-2019.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/146805598/s592/noelle-2019.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/noelle-2019",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/noelle-2019",
-    "content_type": "platform_release",
-    "published_at": "2019-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
-  },
-  {
-    "title": "Spider-Man: Across the Spider-Verse",
-    "year": 2023,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "2023-01-01",
-    "overview": "Top 10 trending movie on Disney Plus. After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
-    "genres": [
-      "Action",
-      "Animation",
-      "Family",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/305309017/s592/spider-man-into-the-spider-verse-2.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/305309017/s592/spider-man-into-the-spider-verse-2.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/spider-man-into-the-spider-verse-2",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/spider-man-into-the-spider-verse-2",
-    "content_type": "platform_release",
-    "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "VisionQuest",
@@ -275,13 +279,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/visionquest-1",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/visionquest-1",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "Grey's Anatomy",
@@ -299,13 +303,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/greys-anatomy",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/greys-anatomy",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "Will Trent",
@@ -324,13 +328,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/will-trent",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/will-trent",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "9-1-1",
@@ -349,37 +353,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/9-1-1",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/9-1-1",
     "content_type": "platform_release",
     "published_at": "2018-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
-  },
-  {
-    "title": "Dancing with the Stars",
-    "year": 2005,
-    "type": "series",
-    "platform": "disney_plus",
-    "release_date": "2005-01-01",
-    "overview": "Top 5 trending series on Disney Plus. The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom experts and voted on by viewers. Enjoy sizzling salsas, sambas and spray-tans as they vie for the coveted Mirrorball Trophy.",
-    "genres": [
-      "Family",
-      "Reality"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/354170538/s592/dancing-with-the-stars.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354170538/s592/dancing-with-the-stars.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/dancing-with-the-stars",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/dancing-with-the-stars",
-    "content_type": "platform_release",
-    "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "The Bear",
@@ -387,7 +367,7 @@
     "type": "series",
     "platform": "disney_plus",
     "release_date": "2022-01-01",
-    "overview": "Top 6 trending series on Disney Plus. A young chef from the fine-dining world returns to Chicago to run his family's sandwich shop.",
+    "overview": "Top 5 trending series on Disney Plus. A young chef from the fine-dining world returns to Chicago to run his family's sandwich shop.",
     "genres": [
       "Comedy",
       "Drama"
@@ -397,13 +377,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-bear",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-bear",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "Pokémon",
@@ -411,7 +391,7 @@
     "type": "series",
     "platform": "disney_plus",
     "release_date": "1997-01-01",
-    "overview": "Top 7 trending series on Disney Plus. Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
+    "overview": "Top 6 trending series on Disney Plus. Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
     "genres": [
       "Action",
       "Animation",
@@ -426,13 +406,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/pokemon",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/pokemon",
     "content_type": "platform_release",
     "published_at": "1997-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "How I Met Your Mother",
@@ -440,7 +420,7 @@
     "type": "series",
     "platform": "disney_plus",
     "release_date": "2005-01-01",
-    "overview": "Top 8 trending series on Disney Plus. A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+    "overview": "Top 7 trending series on Disney Plus. A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
     "genres": [
       "Comedy",
       "Drama",
@@ -451,13 +431,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/how-i-met-your-mother",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/how-i-met-your-mother",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "The Simpsons",
@@ -465,7 +445,7 @@
     "type": "series",
     "platform": "disney_plus",
     "release_date": "1989-01-01",
-    "overview": "Top 9 trending series on Disney Plus. Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "overview": "Top 8 trending series on Disney Plus. Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
     "genres": [
       "Animation",
       "Comedy"
@@ -475,13 +455,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
     "content_type": "platform_release",
     "published_at": "1989-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
+  },
+  {
+    "title": "Scrubs",
+    "year": 2001,
+    "type": "series",
+    "platform": "disney_plus",
+    "release_date": "2001-01-01",
+    "overview": "Top 9 trending series on Disney Plus. In the unreal world of Sacred Heart Hospital, John \"J.D.\" Dorian learns the ways of medicine, friendship and life.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/179234265/s592/scrubs.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/179234265/s592/scrubs.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/scrubs",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/scrubs",
+    "content_type": "platform_release",
+    "published_at": "2001-01-01T00:00:00Z",
+    "updated_at": "2026-11-11T12:19:03Z"
   },
   {
     "title": "Andor",
@@ -502,12 +506,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/andor",
-    "scraped_at": "2026-11-10T13:09:33+00:00",
+    "scraped_at": "2026-11-11T12:19:03+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/andor",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-10T13:09:33Z"
+    "updated_at": "2026-11-11T12:19:03Z"
   }
 ]
