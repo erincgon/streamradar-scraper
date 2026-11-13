@@ -18,13 +18,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/toy-story-5",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/toy-story-5",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
+    "updated_at": "2026-11-13T12:45:11Z"
   },
   {
     "title": "Home Alone",
@@ -42,13 +42,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/home-alone",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/home-alone",
     "content_type": "platform_release",
     "published_at": "1990-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
+    "updated_at": "2026-11-13T12:45:11Z"
   },
   {
     "title": "The Mandalorian and Grogu",
@@ -68,13 +68,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
+    "updated_at": "2026-11-13T12:45:11Z"
+  },
+  {
+    "title": "Avengers Endgame: Encore",
+    "year": 2026,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "2026-01-01",
+    "overview": "Top 4 trending movie on Disney Plus. An extended PG-13 theatrical re-release of Marvel Studios' 2019 epic, featuring new footage and a revised ending to set up Avengers: Doomsday.",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/355031937/s592/avengers-endgame-encore-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/355031937/s592/avengers-endgame-encore-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/avengers-endgame-encore-2026",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/avengers-endgame-encore-2026",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-13T12:45:11Z"
   },
   {
     "title": "Fantastic Mr. Fox",
@@ -82,9 +106,8 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2009-01-01",
-    "overview": "Top 4 trending movie on Disney Plus. The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+    "overview": "Top 5 trending movie on Disney Plus. The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
     "genres": [
-      "Action",
       "Animation",
       "Comedy",
       "Crime",
@@ -96,13 +119,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/fantastic-mr-fox",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/fantastic-mr-fox",
     "content_type": "platform_release",
     "published_at": "2009-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
+    "updated_at": "2026-11-13T12:45:11Z"
   },
   {
     "title": "The Princess Bride",
@@ -110,7 +133,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "1987-01-01",
-    "overview": "Top 5 trending movie on Disney Plus. In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+    "overview": "Top 6 trending movie on Disney Plus. In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
     "genres": [
       "Action",
       "Comedy",
@@ -123,39 +146,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-princess-bride",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-princess-bride",
     "content_type": "platform_release",
     "published_at": "1987-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
-  },
-  {
-    "title": "Moana",
-    "year": 2026,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "2026-01-01",
-    "overview": "Top 6 trending movie on Disney Plus. Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Family",
-      "Fantasy"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/343683458/s592/moana-2025.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/343683458/s592/moana-2025.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/moana-2025",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/moana-2025",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
+    "updated_at": "2026-11-13T12:45:11Z"
   },
   {
     "title": "10 Things I Hate About You",
@@ -174,13 +171,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/10-things-i-hate-about-you",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/10-things-i-hate-about-you",
     "content_type": "platform_release",
     "published_at": "1999-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
+    "updated_at": "2026-11-13T12:45:11Z"
   },
   {
     "title": "Halloweentown",
@@ -199,67 +196,62 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/halloweentown",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/halloweentown",
     "content_type": "platform_release",
     "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
+    "updated_at": "2026-11-13T12:45:11Z"
   },
   {
-    "title": "Coco",
-    "year": 2017,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "2017-01-01",
-    "overview": "Top 9 trending movie on Disney Plus. Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
-    "genres": [
-      "Action",
-      "Animation",
-      "Comedy",
-      "Drama",
-      "European",
-      "Family",
-      "Fantasy",
-      "Music"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/35315559/s592/coco.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/35315559/s592/coco.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/coco",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/coco",
-    "content_type": "platform_release",
-    "published_at": "2017-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
-  },
-  {
-    "title": "Portrait of an Artist: Stephen Curry",
+    "title": "Moana",
     "year": 2026,
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2026-01-01",
-    "overview": "Top 10 trending movie on Disney Plus. Follows the journey to Curry's 4,000th career 3-pointer while exploring the creativity, discipline and repetition behind the shooting craft that changed basketball.",
+    "overview": "Top 9 trending movie on Disney Plus. Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
     "genres": [
-      "Documentary",
-      "Sport"
+      "Action",
+      "Comedy",
+      "Family",
+      "Fantasy"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/354638386/s592/portrait-of-an-artist-stephen-curry.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354638386/s592/portrait-of-an-artist-stephen-curry.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/343683458/s592/moana-2025.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/343683458/s592/moana-2025.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/portrait-of-an-artist-stephen-curry",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/moana-2025",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/portrait-of-an-artist-stephen-curry",
+    "article_url": "https://www.justwatch.com/us/movie/moana-2025",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
+    "updated_at": "2026-11-13T12:45:11Z"
+  },
+  {
+    "title": "Nine to Five",
+    "year": 1980,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "1980-01-01",
+    "overview": "Top 10 trending movie on Disney Plus. Three female employees of a sexist, egotistical, lying, hypocritical bigot find a way to turn the tables on him.",
+    "genres": [
+      "Comedy"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/247946480/s592/9-to-5.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/247946480/s592/9-to-5.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/9-to-5",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/9-to-5",
+    "content_type": "platform_release",
+    "published_at": "1980-01-01T00:00:00Z",
+    "updated_at": "2026-11-13T12:45:11Z"
   },
   {
     "title": "VisionQuest",
@@ -278,13 +270,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/visionquest-1",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/visionquest-1",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
+    "updated_at": "2026-11-13T12:45:11Z"
   },
   {
     "title": "Grey's Anatomy",
@@ -302,13 +294,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/greys-anatomy",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/greys-anatomy",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
+    "updated_at": "2026-11-13T12:45:11Z"
   },
   {
     "title": "9-1-1",
@@ -327,37 +319,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/9-1-1",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/9-1-1",
     "content_type": "platform_release",
     "published_at": "2018-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
-  },
-  {
-    "title": "Will Trent",
-    "year": 2023,
-    "type": "series",
-    "platform": "disney_plus",
-    "release_date": "2023-01-01",
-    "overview": "Top 4 trending series on Disney Plus. Special Agent Will Trent was abandoned at birth and endured a harsh coming-of-age in Atlanta's overwhelmed foster-care system. Determined to make sure that nobody else feels as he did, he now has the highest clearance rate.",
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/339862142/s592/will-trent.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/339862142/s592/will-trent.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/will-trent",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/will-trent",
-    "content_type": "platform_release",
-    "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
+    "updated_at": "2026-11-13T12:45:11Z"
   },
   {
     "title": "The Bear",
@@ -365,7 +333,7 @@
     "type": "series",
     "platform": "disney_plus",
     "release_date": "2022-01-01",
-    "overview": "Top 5 trending series on Disney Plus. A young chef from the fine-dining world returns to Chicago to run his family's sandwich shop.",
+    "overview": "Top 4 trending series on Disney Plus. A young chef from the fine-dining world returns to Chicago to run his family's sandwich shop.",
     "genres": [
       "Comedy",
       "Drama"
@@ -375,13 +343,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-bear",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-bear",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
+    "updated_at": "2026-11-13T12:45:11Z"
+  },
+  {
+    "title": "Will Trent",
+    "year": 2023,
+    "type": "series",
+    "platform": "disney_plus",
+    "release_date": "2023-01-01",
+    "overview": "Top 5 trending series on Disney Plus. Special Agent Will Trent was abandoned at birth and endured a harsh coming-of-age in Atlanta's overwhelmed foster-care system. Determined to make sure that nobody else feels as he did, he now has the highest clearance rate.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/339862142/s592/will-trent.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/339862142/s592/will-trent.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/will-trent",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/will-trent",
+    "content_type": "platform_release",
+    "published_at": "2023-01-01T00:00:00Z",
+    "updated_at": "2026-11-13T12:45:11Z"
   },
   {
     "title": "Pokémon",
@@ -404,13 +396,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/pokemon",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/pokemon",
     "content_type": "platform_release",
     "published_at": "1997-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
+    "updated_at": "2026-11-13T12:45:11Z"
   },
   {
     "title": "How I Met Your Mother",
@@ -429,13 +421,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/how-i-met-your-mother",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/how-i-met-your-mother",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
+    "updated_at": "2026-11-13T12:45:11Z"
   },
   {
     "title": "The Simpsons",
@@ -453,13 +445,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
     "content_type": "platform_release",
     "published_at": "1989-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
+    "updated_at": "2026-11-13T12:45:11Z"
   },
   {
     "title": "Malcolm in the Middle",
@@ -478,13 +470,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/malcolm-in-the-middle",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/malcolm-in-the-middle",
     "content_type": "platform_release",
     "published_at": "2000-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
+    "updated_at": "2026-11-13T12:45:11Z"
   },
   {
     "title": "Only Murders in the Building",
@@ -504,12 +496,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
-    "scraped_at": "2026-11-12T13:28:26+00:00",
+    "scraped_at": "2026-11-13T12:45:11+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-11-12T13:28:26Z"
+    "updated_at": "2026-11-13T12:45:11Z"
   }
 ]
