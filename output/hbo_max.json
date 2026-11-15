@@ -15,13 +15,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/flowervale-street",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/flowervale-street",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
+    "updated_at": "2026-11-15T12:23:56Z"
   },
   {
     "title": "The Invite",
@@ -40,13 +40,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-invite-2026",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-invite-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
+    "updated_at": "2026-11-15T12:23:56Z"
   },
   {
     "title": "Backrooms",
@@ -65,13 +65,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/backrooms",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/backrooms",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
+    "updated_at": "2026-11-15T12:23:56Z"
   },
   {
     "title": "Shin Godzilla",
@@ -91,13 +91,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/shingozira",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/shingozira",
     "content_type": "platform_release",
     "published_at": "2016-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
+    "updated_at": "2026-11-15T12:23:56Z"
+  },
+  {
+    "title": "Night of the Living Dead",
+    "year": 1968,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "1968-01-01",
+    "overview": "Top 5 trending movie on Hbo Max. A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/354325626/s592/night-of-the-living-dead.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354325626/s592/night-of-the-living-dead.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/night-of-the-living-dead",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/night-of-the-living-dead",
+    "content_type": "platform_release",
+    "published_at": "1968-01-01T00:00:00Z",
+    "updated_at": "2026-11-15T12:23:56Z"
   },
   {
     "title": "Enemy",
@@ -105,7 +130,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2014-01-01",
-    "overview": "Top 5 trending movie on Hbo Max. A mild-mannered college professor discovers a look-alike actor and delves into the other man's private affairs.",
+    "overview": "Top 6 trending movie on Hbo Max. A mild-mannered college professor discovers a look-alike actor and delves into the other man's private affairs.",
     "genres": [
       "Drama",
       "Thriller"
@@ -115,37 +140,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/ennemi",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/ennemi",
     "content_type": "platform_release",
     "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
-  },
-  {
-    "title": "The Housemaid",
-    "year": 2025,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2025-01-01",
-    "overview": "Top 6 trending movie on Hbo Max. Millie, a struggling young woman, becomes a live-in maid for a wealthy couple, Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/339973083/s592/the-housemaid-0.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/339973083/s592/the-housemaid-0.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-housemaid-0",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-housemaid-0",
-    "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
+    "updated_at": "2026-11-15T12:23:56Z"
   },
   {
     "title": "Elf",
@@ -165,13 +166,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/elf",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/elf",
     "content_type": "platform_release",
     "published_at": "2003-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
+    "updated_at": "2026-11-15T12:23:56Z"
+  },
+  {
+    "title": "The Housemaid",
+    "year": 2025,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2025-01-01",
+    "overview": "Top 8 trending movie on Hbo Max. Millie, a struggling young woman, becomes a live-in maid for a wealthy couple, Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/339973083/s592/the-housemaid-0.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/339973083/s592/the-housemaid-0.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/the-housemaid-0",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/the-housemaid-0",
+    "content_type": "platform_release",
+    "published_at": "2025-01-01T00:00:00Z",
+    "updated_at": "2026-11-15T12:23:56Z"
   },
   {
     "title": "The Death of Robin Hood",
@@ -179,7 +204,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 8 trending movie on Hbo Max. Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+    "overview": "Top 9 trending movie on Hbo Max. Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
     "genres": [
       "Action",
       "Drama"
@@ -189,13 +214,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-death-of-robin-hood",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-death-of-robin-hood",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
+    "updated_at": "2026-11-15T12:23:56Z"
   },
   {
     "title": "Dune",
@@ -203,7 +228,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2021-01-01",
-    "overview": "Top 9 trending movie on Hbo Max. Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
+    "overview": "Top 10 trending movie on Hbo Max. Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
     "genres": [
       "Action",
       "Drama",
@@ -214,61 +239,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/dune-2021",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/dune-2021",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
+    "updated_at": "2026-11-15T12:23:56Z"
   },
   {
-    "title": "Three Billboards Outside Ebbing, Missouri",
-    "year": 2017,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2017-01-01",
-    "overview": "Top 10 trending movie on Hbo Max. After seven months have passed without a culprit in her daughter's murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town's revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated.",
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/311483652/s592/three-billboards-outside-ebbing-missouri.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/311483652/s592/three-billboards-outside-ebbing-missouri.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/three-billboards-outside-ebbing-missouri",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/three-billboards-outside-ebbing-missouri",
-    "content_type": "platform_release",
-    "published_at": "2017-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
-  },
-  {
-    "title": "The Gilded Age",
-    "year": 2022,
+    "title": "War",
+    "year": 2026,
     "type": "series",
     "platform": "hbo_max",
-    "release_date": "2022-01-01",
-    "overview": "Top 1 trending series on Hbo Max. The conflicts surrounding the new money Russell family and their old money neighbors, the van Rhijn family, in 1880s New York City high society.",
+    "release_date": "2026-01-01",
+    "overview": "Top 1 trending series on Hbo Max. Two top London law firms clash over a shocking divorce case that rocks the legal world, with elite attorneys from Cathcarts and Taylor and Byrne battling for supremacy.",
     "genres": [
-      "Drama"
+      "Drama",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/356995562/s592/the-gilded-age.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/356995562/s592/the-gilded-age.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/354890779/s592/war-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354890779/s592/war-2026.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/war-2026",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
+    "article_url": "https://www.justwatch.com/us/tv-show/war-2026",
     "content_type": "platform_release",
-    "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-15T12:23:56Z"
   },
   {
     "title": "Abbott Elementary",
@@ -285,37 +286,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/abbott-elementary",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
+    "updated_at": "2026-11-15T12:23:56Z"
   },
   {
-    "title": "War",
-    "year": 2026,
+    "title": "The Gilded Age",
+    "year": 2022,
     "type": "series",
     "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 3 trending series on Hbo Max. Two top London law firms clash over a shocking divorce case that rocks the legal world, with elite attorneys from Cathcarts and Taylor and Byrne battling for supremacy.",
+    "release_date": "2022-01-01",
+    "overview": "Top 3 trending series on Hbo Max. The conflicts surrounding the new money Russell family and their old money neighbors, the van Rhijn family, in 1880s New York City high society.",
     "genres": [
-      "Drama",
-      "Thriller"
+      "Drama"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/354890779/s592/war-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354890779/s592/war-2026.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/356995562/s592/the-gilded-age.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/356995562/s592/the-gilded-age.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/war-2026",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/war-2026",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
     "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
+    "published_at": "2022-01-01T00:00:00Z",
+    "updated_at": "2026-11-15T12:23:56Z"
   },
   {
     "title": "Blue Lights",
@@ -334,13 +334,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/blue-lights",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/blue-lights",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
+    "updated_at": "2026-11-15T12:23:56Z"
   },
   {
     "title": "Last Week Tonight with John Oliver",
@@ -357,13 +357,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver",
     "content_type": "platform_release",
     "published_at": "2014-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
+    "updated_at": "2026-11-15T12:23:56Z"
   },
   {
     "title": "Lanterns",
@@ -384,13 +384,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/lanterns",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/lanterns",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
+    "updated_at": "2026-11-15T12:23:56Z"
   },
   {
     "title": "The Pitt",
@@ -407,13 +407,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-pitt",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-pitt",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
+    "updated_at": "2026-11-15T12:23:56Z"
   },
   {
     "title": "Mad Men",
@@ -430,36 +430,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/mad-men",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/mad-men",
     "content_type": "platform_release",
     "published_at": "2007-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
-  },
-  {
-    "title": "Georgie & Mandy's First Marriage",
-    "year": 2024,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2024-01-01",
-    "overview": "Top 9 trending series on Hbo Max. Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage.",
-    "genres": [
-      "Comedy"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/321593477/s592/georgie-and-mandys-first-marriage.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/321593477/s592/georgie-and-mandys-first-marriage.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
-    "content_type": "platform_release",
-    "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
+    "updated_at": "2026-11-15T12:23:56Z"
   },
   {
     "title": "Friends",
@@ -467,7 +444,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "1994-01-01",
-    "overview": "Top 10 trending series on Hbo Max. The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+    "overview": "Top 9 trending series on Hbo Max. The personal and professional lives of six friends living in the Manhattan borough of New York City.",
     "genres": [
       "Comedy",
       "Romance"
@@ -477,12 +454,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/friends",
-    "scraped_at": "2026-11-14T11:52:52+00:00",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/friends",
     "content_type": "platform_release",
     "published_at": "1994-01-01T00:00:00Z",
-    "updated_at": "2026-11-14T11:52:52Z"
+    "updated_at": "2026-11-15T12:23:56Z"
+  },
+  {
+    "title": "The Rehearsal",
+    "year": 2022,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2022-01-01",
+    "overview": "Top 10 trending series on Hbo Max. Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/331181889/s592/the-rehearsal.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/331181889/s592/the-rehearsal.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
+    "scraped_at": "2026-11-15T12:23:56+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-rehearsal",
+    "content_type": "platform_release",
+    "published_at": "2022-01-01T00:00:00Z",
+    "updated_at": "2026-11-15T12:23:56Z"
   }
 ]
