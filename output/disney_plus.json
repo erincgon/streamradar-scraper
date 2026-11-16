@@ -15,13 +15,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/avengers-endgame-encore-2026",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/avengers-endgame-encore-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "updated_at": "2026-11-16T13:16:10Z"
   },
   {
     "title": "Home Alone",
@@ -39,13 +39,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/home-alone",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/home-alone",
     "content_type": "platform_release",
     "published_at": "1990-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "updated_at": "2026-11-16T13:16:10Z"
   },
   {
     "title": "The Mandalorian and Grogu",
@@ -65,13 +65,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "updated_at": "2026-11-16T13:16:10Z"
   },
   {
     "title": "Toy Story 5",
@@ -92,13 +92,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/toy-story-5",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/toy-story-5",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "updated_at": "2026-11-16T13:16:10Z"
   },
   {
     "title": "Nine to Five",
@@ -115,13 +115,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/9-to-5",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/9-to-5",
     "content_type": "platform_release",
     "published_at": "1980-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "updated_at": "2026-11-16T13:16:10Z"
   },
   {
     "title": "The Princess Bride",
@@ -142,13 +142,39 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-princess-bride",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-princess-bride",
     "content_type": "platform_release",
     "published_at": "1987-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "updated_at": "2026-11-16T13:16:10Z"
+  },
+  {
+    "title": "The Muppet Christmas Carol",
+    "year": 1992,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "1992-01-01",
+    "overview": "Top 7 trending movie on Disney Plus. A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during nighttime visitations by the Ghosts of Christmas Past, Present and Future.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/240241908/s592/the-muppet-christmas-carol.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/240241908/s592/the-muppet-christmas-carol.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/the-muppet-christmas-carol",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/the-muppet-christmas-carol",
+    "content_type": "platform_release",
+    "published_at": "1992-01-01T00:00:00Z",
+    "updated_at": "2026-11-16T13:16:10Z"
   },
   {
     "title": "Fantastic Mr. Fox",
@@ -156,7 +182,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2009-01-01",
-    "overview": "Top 7 trending movie on Disney Plus. The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+    "overview": "Top 8 trending movie on Disney Plus. The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
     "genres": [
       "Animation",
       "Comedy",
@@ -169,13 +195,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/fantastic-mr-fox",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/fantastic-mr-fox",
     "content_type": "platform_release",
     "published_at": "2009-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "updated_at": "2026-11-16T13:16:10Z"
   },
   {
     "title": "Meet the Deedles",
@@ -183,7 +209,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "1998-01-01",
-    "overview": "Top 8 trending movie on Disney Plus. Two surfers end up as Yellowstone park rangers and have to stop a former ranger who is out for revenge.",
+    "overview": "Top 9 trending movie on Disney Plus. Two surfers end up as Yellowstone park rangers and have to stop a former ranger who is out for revenge.",
     "genres": [
       "Comedy",
       "Family",
@@ -194,13 +220,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/meet-the-deedles",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/meet-the-deedles",
     "content_type": "platform_release",
     "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "updated_at": "2026-11-16T13:16:10Z"
   },
   {
     "title": "10 Things I Hate About You",
@@ -208,7 +234,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "1999-01-01",
-    "overview": "Top 9 trending movie on Disney Plus. A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat.",
+    "overview": "Top 10 trending movie on Disney Plus. A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat.",
     "genres": [
       "Comedy",
       "Drama",
@@ -219,40 +245,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/10-things-i-hate-about-you",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/10-things-i-hate-about-you",
     "content_type": "platform_release",
     "published_at": "1999-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
-  },
-  {
-    "title": "Hoppers",
-    "year": 2026,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "2026-01-01",
-    "overview": "Top 10 trending movie on Disney Plus. Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-    "genres": [
-      "Action",
-      "Animation",
-      "Comedy",
-      "Family",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/347282291/s592/hoppers.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/347282291/s592/hoppers.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/hoppers",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/hoppers",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "updated_at": "2026-11-16T13:16:10Z"
   },
   {
     "title": "VisionQuest",
@@ -271,13 +270,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/visionquest-1",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/visionquest-1",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "updated_at": "2026-11-16T13:16:10Z"
   },
   {
     "title": "Grey's Anatomy",
@@ -295,37 +294,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/greys-anatomy",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/greys-anatomy",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "updated_at": "2026-11-16T13:16:10Z"
   },
   {
-    "title": "The Bear",
-    "year": 2022,
+    "title": "The Simpsons",
+    "year": 1989,
     "type": "series",
     "platform": "disney_plus",
-    "release_date": "2022-01-01",
-    "overview": "Top 3 trending series on Disney Plus. A young chef from the fine-dining world returns to Chicago to run his family's sandwich shop.",
+    "release_date": "1989-01-01",
+    "overview": "Top 3 trending series on Disney Plus. Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
     "genres": [
-      "Comedy",
-      "Drama"
+      "Animation",
+      "Comedy"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/346903971/s592/the-bear.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346903971/s592/the-bear.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/307635545/s592/the-simpsons.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/307635545/s592/the-simpsons.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-bear",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-bear",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
     "content_type": "platform_release",
-    "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "published_at": "1989-01-01T00:00:00Z",
+    "updated_at": "2026-11-16T13:16:10Z"
   },
   {
     "title": "9-1-1",
@@ -344,37 +343,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/9-1-1",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/9-1-1",
     "content_type": "platform_release",
     "published_at": "2018-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "updated_at": "2026-11-16T13:16:10Z"
   },
   {
-    "title": "The Simpsons",
-    "year": 1989,
+    "title": "The Bear",
+    "year": 2022,
     "type": "series",
     "platform": "disney_plus",
-    "release_date": "1989-01-01",
-    "overview": "Top 5 trending series on Disney Plus. Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "release_date": "2022-01-01",
+    "overview": "Top 5 trending series on Disney Plus. A young chef from the fine-dining world returns to Chicago to run his family's sandwich shop.",
     "genres": [
-      "Animation",
-      "Comedy"
+      "Comedy",
+      "Drama"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/307635545/s592/the-simpsons.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/307635545/s592/the-simpsons.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/346903971/s592/the-bear.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/346903971/s592/the-bear.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/the-bear",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-bear",
     "content_type": "platform_release",
-    "published_at": "1989-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "published_at": "2022-01-01T00:00:00Z",
+    "updated_at": "2026-11-16T13:16:10Z"
   },
   {
     "title": "How I Met Your Mother",
@@ -393,13 +392,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/how-i-met-your-mother",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/how-i-met-your-mother",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "updated_at": "2026-11-16T13:16:10Z"
   },
   {
     "title": "Pokémon",
@@ -422,13 +421,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/pokemon",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/pokemon",
     "content_type": "platform_release",
     "published_at": "1997-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "updated_at": "2026-11-16T13:16:10Z"
   },
   {
     "title": "Will Trent",
@@ -446,13 +445,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/will-trent",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/will-trent",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "updated_at": "2026-11-16T13:16:10Z"
+  },
+  {
+    "title": "Dancing with the Stars",
+    "year": 2005,
+    "type": "series",
+    "platform": "disney_plus",
+    "release_date": "2005-01-01",
+    "overview": "Top 9 trending series on Disney Plus. The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom experts and voted on by viewers. Enjoy sizzling salsas, sambas and spray-tans as they vie for the coveted Mirrorball Trophy.",
+    "genres": [
+      "Reality"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/354170538/s592/dancing-with-the-stars.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354170538/s592/dancing-with-the-stars.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/dancing-with-the-stars",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/dancing-with-the-stars",
+    "content_type": "platform_release",
+    "published_at": "2005-01-01T00:00:00Z",
+    "updated_at": "2026-11-16T13:16:10Z"
   },
   {
     "title": "Only Murders in the Building",
@@ -460,7 +482,7 @@
     "type": "series",
     "platform": "disney_plus",
     "release_date": "2021-01-01",
-    "overview": "Top 9 trending series on Disney Plus. Charles, Oliver and Mabel, three eccentric neighbors, find purpose and chaos in solving murders that hit close to home through their true-crime podcast, turning their New York apartment building into a playground of mystery and mischief.",
+    "overview": "Top 10 trending series on Disney Plus. Charles, Oliver and Mabel, three eccentric neighbors, find purpose and chaos in solving murders that hit close to home through their true-crime podcast, turning their New York apartment building into a playground of mystery and mischief.",
     "genres": [
       "Comedy",
       "Crime",
@@ -472,37 +494,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
+    "scraped_at": "2026-11-16T13:16:10+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
-  },
-  {
-    "title": "Malcolm in the Middle",
-    "year": 2000,
-    "type": "series",
-    "platform": "disney_plus",
-    "release_date": "2000-01-01",
-    "overview": "Top 10 trending series on Disney Plus. A gifted young teen tries to survive life with his dimwitted, dysfunctional family.",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Family"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/304859945/s592/malcolm-in-the-middle.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/304859945/s592/malcolm-in-the-middle.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/malcolm-in-the-middle",
-    "scraped_at": "2026-11-15T12:23:57+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/malcolm-in-the-middle",
-    "content_type": "platform_release",
-    "published_at": "2000-01-01T00:00:00Z",
-    "updated_at": "2026-11-15T12:23:57Z"
+    "updated_at": "2026-11-16T13:16:10Z"
   }
 ]
