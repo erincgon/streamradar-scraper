@@ -16,13 +16,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-odyssey-2026",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-odyssey-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
+    "updated_at": "2026-11-21T13:10:37Z"
   },
   {
     "title": "The End of Oak Street",
@@ -41,13 +41,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/flowervale-street",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/flowervale-street",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
+    "updated_at": "2026-11-21T13:10:37Z"
   },
   {
     "title": "Madden",
@@ -67,63 +67,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/madden",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/madden",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
-  },
-  {
-    "title": "You Can See Everything",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 4 trending movie on Prime Video. Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Documentary"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/357560466/s592/you-can-see-everything.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/357560466/s592/you-can-see-everything.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/you-can-see-everything",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/you-can-see-everything",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
-  },
-  {
-    "title": "Heart of the Beast",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 5 trending movie on Prime Video. After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "genres": [
-      "Action",
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/346361087/s592/heart-of-the-beast.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346361087/s592/heart-of-the-beast.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/heart-of-the-beast",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/heart-of-the-beast",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
+    "updated_at": "2026-11-21T13:10:37Z"
   },
   {
     "title": "Obsession",
@@ -131,7 +81,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 6 trending movie on Prime Video. After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "overview": "Top 4 trending movie on Prime Video. After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "genres": [
       "Fantasy",
       "Horror",
@@ -142,37 +92,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/obsession-2026",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/obsession-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
+    "updated_at": "2026-11-21T13:10:37Z"
   },
   {
-    "title": "Heartland",
+    "title": "You Can See Everything",
     "year": 2026,
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 7 trending movie on Prime Video. Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
+    "overview": "Top 5 trending movie on Prime Video. Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
     "genres": [
-      "Drama",
-      "Thriller"
+      "Comedy",
+      "Crime",
+      "Documentary"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/355278075/s592/heartland-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/355278075/s592/heartland-2026.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/357560466/s592/you-can-see-everything.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/357560466/s592/you-can-see-everything.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/heartland-2026",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/you-can-see-everything",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/heartland-2026",
+    "article_url": "https://www.justwatch.com/us/movie/you-can-see-everything",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
+    "updated_at": "2026-11-21T13:10:37Z"
   },
   {
     "title": "Tenet",
@@ -180,7 +131,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2020-01-01",
-    "overview": "Top 8 trending movie on Prime Video. Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+    "overview": "Top 6 trending movie on Prime Video. Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
     "genres": [
       "Action",
       "Sci-Fi",
@@ -191,38 +142,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/tenet",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/tenet",
     "content_type": "platform_release",
     "published_at": "2020-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
+    "updated_at": "2026-11-21T13:10:37Z"
   },
   {
-    "title": "The Invite",
-    "year": 2026,
+    "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "year": 2023,
     "type": "movie",
     "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 9 trending movie on Prime Video. Joe and Angela's marriage is on the rocks. When they invite their enigmatic upstairs neighbors over for dinner, the evening takes an unexpected turn.",
+    "release_date": "2023-01-01",
+    "overview": "Top 7 trending movie on Prime Video. Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
     "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
+      "Action",
+      "Sci-Fi"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/346669746/s592/the-invite-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346669746/s592/the-invite-2026.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/307659151/s592/the-hunger-games-the-ballad-of-songbirds-and-snakes.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/307659151/s592/the-hunger-games-the-ballad-of-songbirds-and-snakes.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-invite-2026",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/the-hunger-games-the-ballad-of-songbirds-and-snakes",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-invite-2026",
+    "article_url": "https://www.justwatch.com/us/movie/the-hunger-games-the-ballad-of-songbirds-and-snakes",
     "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
+    "published_at": "2023-01-01T00:00:00Z",
+    "updated_at": "2026-11-21T13:10:37Z"
   },
   {
     "title": "The Hunger Games",
@@ -230,7 +180,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2012-01-01",
-    "overview": "Top 10 trending movie on Prime Video. In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.",
+    "overview": "Top 8 trending movie on Prime Video. In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.",
     "genres": [
       "Action",
       "Sci-Fi",
@@ -241,13 +191,62 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-hunger-games",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-hunger-games",
     "content_type": "platform_release",
     "published_at": "2012-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
+    "updated_at": "2026-11-21T13:10:37Z"
+  },
+  {
+    "title": "Heart of the Beast",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 9 trending movie on Prime Video. After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/346361087/s592/heart-of-the-beast.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/346361087/s592/heart-of-the-beast.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/heart-of-the-beast",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/heart-of-the-beast",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-21T13:10:37Z"
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 10 trending movie on Prime Video. Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/347907260/s592/spider-man-brand-new-day.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/347907260/s592/spider-man-brand-new-day.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/spider-man-brand-new-day",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/spider-man-brand-new-day",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-21T13:10:37Z"
   },
   {
     "title": "The Body",
@@ -267,13 +266,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-body-2026",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-body-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
+    "updated_at": "2026-11-21T13:10:37Z"
+  },
+  {
+    "title": "The Circle",
+    "year": 2026,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 2 trending series on Prime Video. “The Circle” is back with a brand-new home on Hulu, reimagined as a fast-turnaround interactive event. For the first time, celebrities enter the ultimate game of popularity, playing alongside civilians, raising the stakes and the strategy like never before. Some players compete as themselves, while others are catfishing and doing whatever it takes to win. This time, America isn’t just watching. Viewers have the power to stir the pot and influence the game...",
+    "genres": [
+      "Reality"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/357359453/s592/the-circle-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/357359453/s592/the-circle-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/the-circle-2026",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-circle-2026",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-21T13:10:37Z"
   },
   {
     "title": "12 12 12",
@@ -281,7 +303,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 2 trending series on Prime Video. Three intertwined timelines follow the planning and execution of a daring heist in Zurich and its aftermath as an FBI agent pursues a master criminal across Europe.",
+    "overview": "Top 3 trending series on Prime Video. Three intertwined timelines follow the planning and execution of a daring heist in Zurich and its aftermath as an FBI agent pursues a master criminal across Europe.",
     "genres": [
       "Action",
       "Crime",
@@ -293,36 +315,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/12-12-12",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/12-12-12",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
-  },
-  {
-    "title": "The Circle",
-    "year": 2026,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 3 trending series on Prime Video. “The Circle” is back with a brand-new home on Hulu, reimagined as a fast-turnaround interactive event. For the first time, celebrities enter the ultimate game of popularity, playing alongside civilians, raising the stakes and the strategy like never before. Some players compete as themselves, while others are catfishing and doing whatever it takes to win. This time, America isn’t just watching. Viewers have the power to stir the pot and influence the game...",
-    "genres": [
-      "Reality"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/357359453/s592/the-circle-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/357359453/s592/the-circle-2026.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-circle-2026",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-circle-2026",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
+    "updated_at": "2026-11-21T13:10:37Z"
   },
   {
     "title": "The Good Daughter",
@@ -341,13 +340,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-good-daughter",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-good-daughter",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
+    "updated_at": "2026-11-21T13:10:37Z"
   },
   {
     "title": "The Lord of the Rings: The Rings of Power",
@@ -367,13 +366,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-lord-of-the-rings-the-rings-of-power",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-lord-of-the-rings-the-rings-of-power",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
+    "updated_at": "2026-11-21T13:10:37Z"
   },
   {
     "title": "FROM",
@@ -394,37 +393,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/from",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/from",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
-  },
-  {
-    "title": "Cunk on Cinema",
-    "year": 2026,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 7 trending series on Prime Video. Philomena Cunk explores the history of film, from early cameras and 1960s New Wave to CGI and artificial intelligence.",
-    "genres": [
-      "Comedy",
-      "Documentary"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/356995715/s592/cunk-on-cinema.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/356995715/s592/cunk-on-cinema.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/cunk-on-cinema",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/cunk-on-cinema",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
+    "updated_at": "2026-11-21T13:10:37Z"
   },
   {
     "title": "MobLand",
@@ -432,7 +407,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2025-01-01",
-    "overview": "Top 8 trending series on Prime Video. Two mob families clash in a war that threatens to topple empires and lives.",
+    "overview": "Top 7 trending series on Prime Video. Two mob families clash in a war that threatens to topple empires and lives.",
     "genres": [
       "Crime",
       "Drama"
@@ -442,13 +417,62 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/mobland",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/mobland",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
+    "updated_at": "2026-11-21T13:10:37Z"
+  },
+  {
+    "title": "Cunk on Cinema",
+    "year": 2026,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 8 trending series on Prime Video. Philomena Cunk explores the history of film, from early cameras and 1960s New Wave to CGI and artificial intelligence.",
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/356995715/s592/cunk-on-cinema.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/356995715/s592/cunk-on-cinema.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/cunk-on-cinema",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/cunk-on-cinema",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-21T13:10:37Z"
+  },
+  {
+    "title": "The Altruists",
+    "year": 2026,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 9 trending series on Prime Video. The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/357109853/s592/the-altruists.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/357109853/s592/the-altruists.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/the-altruists",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-altruists",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-21T13:10:37Z"
   },
   {
     "title": "The Chosen",
@@ -456,7 +480,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2019-01-01",
-    "overview": "Top 9 trending series on Prime Video. The life of Christ through the eyes of those who encountered him.",
+    "overview": "Top 10 trending series on Prime Video. The life of Christ through the eyes of those who encountered him.",
     "genres": [
       "Action",
       "Drama",
@@ -468,37 +492,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-chosen-0",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
+    "scraped_at": "2026-11-21T13:10:37+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-chosen-0",
     "content_type": "platform_release",
     "published_at": "2019-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
-  },
-  {
-    "title": "VisionQuest",
-    "year": 2026,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 10 trending series on Prime Video. With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "genres": [
-      "Action",
-      "Drama",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/visionquest-1",
-    "scraped_at": "2026-11-20T13:45:03+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/visionquest-1",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-20T13:45:03Z"
+    "updated_at": "2026-11-21T13:10:37Z"
   }
 ]
