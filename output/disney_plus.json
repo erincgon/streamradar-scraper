@@ -1,35 +1,11 @@
 [
   {
-    "title": "Avengers Endgame: Encore",
-    "year": 2026,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "2026-01-01",
-    "overview": "Top 1 trending movie on Disney Plus. An extended PG-13 theatrical re-release of Marvel Studios' 2019 epic, featuring new footage and a revised ending to set up Avengers: Doomsday.",
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/355031937/s592/avengers-endgame-encore-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/355031937/s592/avengers-endgame-encore-2026.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/avengers-endgame-encore-2026",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/avengers-endgame-encore-2026",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
-  },
-  {
     "title": "Home Alone",
     "year": 1990,
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "1990-01-01",
-    "overview": "Top 2 trending movie on Disney Plus. Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+    "overview": "Top 1 trending movie on Disney Plus. Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
     "genres": [
       "Comedy",
       "Family"
@@ -39,13 +15,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/home-alone",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/home-alone",
     "content_type": "platform_release",
     "published_at": "1990-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
+    "updated_at": "2026-11-22T12:57:54Z"
+  },
+  {
+    "title": "Avengers Endgame: Encore",
+    "year": 2026,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "2026-01-01",
+    "overview": "Top 2 trending movie on Disney Plus. An extended PG-13 theatrical re-release of Marvel Studios' 2019 epic, featuring new footage and a revised ending to set up Avengers: Doomsday.",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/355031937/s592/avengers-endgame-encore-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/355031937/s592/avengers-endgame-encore-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/avengers-endgame-encore-2026",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/avengers-endgame-encore-2026",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-22T12:57:54Z"
   },
   {
     "title": "Nine to Five",
@@ -62,13 +62,36 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/9-to-5",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/9-to-5",
     "content_type": "platform_release",
     "published_at": "1980-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
+    "updated_at": "2026-11-22T12:57:54Z"
+  },
+  {
+    "title": "The Pursuit: F1 ACADEMY",
+    "year": 2026,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "2026-01-01",
+    "overview": "Top 4 trending movie on Disney Plus. Offering unparalleled behind-the-scenes access to the 2025 F1 ACADEMY season, follow a group of elite female drivers, including Doriane Pin, Maya Weug, Chloe Chambers and Alisha Palmowski, as they navigate the pressures of competition and the personal sacrifices required to break into one of the most demanding sports in the world.",
+    "genres": [
+      "Documentary"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/357568237/s592/the-pursuit-f1-academy.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/357568237/s592/the-pursuit-f1-academy.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/the-pursuit-f1-academy",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/the-pursuit-f1-academy",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-22T12:57:54Z"
   },
   {
     "title": "Toy Story 5",
@@ -76,7 +99,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2026-01-01",
-    "overview": "Top 4 trending movie on Disney Plus. When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+    "overview": "Top 5 trending movie on Disney Plus. When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
     "genres": [
       "Animation",
       "Comedy",
@@ -88,64 +111,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/toy-story-5",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/toy-story-5",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
-  },
-  {
-    "title": "Meet the Deedles",
-    "year": 1998,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "1998-01-01",
-    "overview": "Top 5 trending movie on Disney Plus. Two surfers end up as Yellowstone park rangers and have to stop a former ranger who is out for revenge.",
-    "genres": [
-      "Comedy",
-      "Family",
-      "Sport"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/184313590/s592/meet-the-deedles.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/184313590/s592/meet-the-deedles.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/meet-the-deedles",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/meet-the-deedles",
-    "content_type": "platform_release",
-    "published_at": "1998-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
-  },
-  {
-    "title": "The Princess Bride",
-    "year": 1987,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "1987-01-01",
-    "overview": "Top 6 trending movie on Disney Plus. In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
-    "genres": [
-      "Comedy",
-      "Family",
-      "Fantasy",
-      "Romance"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/181716130/s592/the-princess-bride.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/181716130/s592/the-princess-bride.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-princess-bride",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-princess-bride",
-    "content_type": "platform_release",
-    "published_at": "1987-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
+    "updated_at": "2026-11-22T12:57:54Z"
   },
   {
     "title": "The Muppet Christmas Carol",
@@ -153,7 +125,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "1992-01-01",
-    "overview": "Top 7 trending movie on Disney Plus. A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during nighttime visitations by the Ghosts of Christmas Past, Present and Future.",
+    "overview": "Top 6 trending movie on Disney Plus. A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during nighttime visitations by the Ghosts of Christmas Past, Present and Future.",
     "genres": [
       "Comedy",
       "Drama",
@@ -166,13 +138,64 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-muppet-christmas-carol",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-muppet-christmas-carol",
     "content_type": "platform_release",
     "published_at": "1992-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
+    "updated_at": "2026-11-22T12:57:54Z"
+  },
+  {
+    "title": "The Princess Bride",
+    "year": 1987,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "1987-01-01",
+    "overview": "Top 7 trending movie on Disney Plus. In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Romance"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/181716130/s592/the-princess-bride.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/181716130/s592/the-princess-bride.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/the-princess-bride",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/the-princess-bride",
+    "content_type": "platform_release",
+    "published_at": "1987-01-01T00:00:00Z",
+    "updated_at": "2026-11-22T12:57:54Z"
+  },
+  {
+    "title": "Meet the Deedles",
+    "year": 1998,
+    "type": "movie",
+    "platform": "disney_plus",
+    "release_date": "1998-01-01",
+    "overview": "Top 8 trending movie on Disney Plus. Two surfers end up as Yellowstone park rangers and have to stop a former ranger who is out for revenge.",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Sport"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/184313590/s592/meet-the-deedles.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/184313590/s592/meet-the-deedles.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/meet-the-deedles",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/meet-the-deedles",
+    "content_type": "platform_release",
+    "published_at": "1998-01-01T00:00:00Z",
+    "updated_at": "2026-11-22T12:57:54Z"
   },
   {
     "title": "The Santa Clause",
@@ -180,7 +203,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "1994-01-01",
-    "overview": "Top 8 trending movie on Disney Plus. On Christmas Eve, divorced dad Scott Calvin and his son discover Santa Claus has fallen off their roof. When Scott takes the reins of the magical sleigh, he finds he is now the new Santa, and must convince a world of disbelievers, including himself.",
+    "overview": "Top 9 trending movie on Disney Plus. On Christmas Eve, divorced dad Scott Calvin and his son discover Santa Claus has fallen off their roof. When Scott takes the reins of the magical sleigh, he finds he is now the new Santa, and must convince a world of disbelievers, including himself.",
     "genres": [
       "Comedy",
       "Drama",
@@ -192,13 +215,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-santa-clause",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-santa-clause",
     "content_type": "platform_release",
     "published_at": "1994-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
+    "updated_at": "2026-11-22T12:57:54Z"
   },
   {
     "title": "The Mandalorian and Grogu",
@@ -206,7 +229,7 @@
     "type": "movie",
     "platform": "disney_plus",
     "release_date": "2026-01-01",
-    "overview": "Top 9 trending movie on Disney Plus. Once a lone bounty hunter, Mandalorian Din Djarin and his apprentice Grogu embark on an exciting new Star Wars adventure.",
+    "overview": "Top 10 trending movie on Disney Plus. Once a lone bounty hunter, Mandalorian Din Djarin and his apprentice Grogu embark on an exciting new Star Wars adventure.",
     "genres": [
       "Action",
       "Family",
@@ -218,36 +241,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-mandalorian-and-grogu",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
-  },
-  {
-    "title": "The Pursuit: F1 ACADEMY",
-    "year": 2026,
-    "type": "movie",
-    "platform": "disney_plus",
-    "release_date": "2026-01-01",
-    "overview": "Top 10 trending movie on Disney Plus. Offering unparalleled behind-the-scenes access to the 2025 F1 ACADEMY season, follow a group of elite female drivers, including Doriane Pin, Maya Weug, Chloe Chambers and Alisha Palmowski, as they navigate the pressures of competition and the personal sacrifices required to break into one of the most demanding sports in the world.",
-    "genres": [
-      "Documentary"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/357568237/s592/the-pursuit-f1-academy.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/357568237/s592/the-pursuit-f1-academy.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-pursuit-f1-academy",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-pursuit-f1-academy",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
+    "updated_at": "2026-11-22T12:57:54Z"
   },
   {
     "title": "VisionQuest",
@@ -266,13 +266,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/visionquest-1",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/visionquest-1",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
+    "updated_at": "2026-11-22T12:57:54Z"
   },
   {
     "title": "Grey's Anatomy",
@@ -290,13 +290,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/greys-anatomy",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/greys-anatomy",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
+    "updated_at": "2026-11-22T12:57:54Z"
   },
   {
     "title": "9-1-1",
@@ -315,13 +315,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/9-1-1",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/9-1-1",
     "content_type": "platform_release",
     "published_at": "2018-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
+    "updated_at": "2026-11-22T12:57:54Z"
   },
   {
     "title": "The Simpsons",
@@ -339,13 +339,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-simpsons",
     "content_type": "platform_release",
     "published_at": "1989-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
+    "updated_at": "2026-11-22T12:57:54Z"
   },
   {
     "title": "Dancing with the Stars",
@@ -363,13 +363,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/dancing-with-the-stars",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/dancing-with-the-stars",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
+    "updated_at": "2026-11-22T12:57:54Z"
   },
   {
     "title": "Only Murders in the Building",
@@ -389,13 +389,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/only-murders-in-the-building",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
+    "updated_at": "2026-11-22T12:57:54Z"
   },
   {
     "title": "How I Met Your Mother",
@@ -414,13 +414,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/how-i-met-your-mother",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/how-i-met-your-mother",
     "content_type": "platform_release",
     "published_at": "2005-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
+    "updated_at": "2026-11-22T12:57:54Z"
   },
   {
     "title": "Agatha All Along",
@@ -442,13 +442,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/agatha-house-of-harkness",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/agatha-house-of-harkness",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
+    "updated_at": "2026-11-22T12:57:54Z"
   },
   {
     "title": "The Bear",
@@ -466,40 +466,41 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-bear",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-bear",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
+    "updated_at": "2026-11-22T12:57:54Z"
   },
   {
-    "title": "Daredevil: Born Again",
-    "year": 2025,
+    "title": "Pokémon",
+    "year": 1997,
     "type": "series",
     "platform": "disney_plus",
-    "release_date": "2025-01-01",
-    "overview": "Top 10 trending series on Disney Plus. Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+    "release_date": "1997-01-01",
+    "overview": "Top 10 trending series on Disney Plus. Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
     "genres": [
       "Action",
-      "Crime",
+      "Animation",
+      "Comedy",
       "Drama",
+      "Family",
       "Fantasy",
-      "Sci-Fi",
-      "Thriller"
+      "Sci-Fi"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/343797821/s592/daredevil-born-again.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/343797821/s592/daredevil-born-again.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/245378575/s592/pokemon.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/245378575/s592/pokemon.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/daredevil-born-again",
-    "scraped_at": "2026-11-21T13:10:37+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/pokemon",
+    "scraped_at": "2026-11-22T12:57:54+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/daredevil-born-again",
+    "article_url": "https://www.justwatch.com/us/tv-show/pokemon",
     "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-21T13:10:37Z"
+    "published_at": "1997-01-01T00:00:00Z",
+    "updated_at": "2026-11-22T12:57:54Z"
   }
 ]
