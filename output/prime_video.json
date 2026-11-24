@@ -16,13 +16,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-odyssey-2026",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-odyssey-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
+    "updated_at": "2026-11-24T15:27:24Z"
   },
   {
     "title": "Madden",
@@ -34,7 +34,6 @@
     "genres": [
       "Comedy",
       "Drama",
-      "History",
       "Sport"
     ],
     "poster_image_url": "https://images.justwatch.com/poster/347947101/s592/madden.webp",
@@ -42,63 +41,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/madden",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/madden",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
-  },
-  {
-    "title": "The End of Oak Street",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 3 trending movie on Prime Video. After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-    "genres": [
-      "Action",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/347475607/s592/flowervale-street.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/347475607/s592/flowervale-street.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/flowervale-street",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/flowervale-street",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
-  },
-  {
-    "title": "Obsession",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 4 trending movie on Prime Video. After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "genres": [
-      "Fantasy",
-      "Horror",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/346817191/s592/obsession-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/346817191/s592/obsession-2026.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/obsession-2026",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/obsession-2026",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
+    "updated_at": "2026-11-24T15:27:24Z"
   },
   {
     "title": "The Hunger Games",
@@ -106,7 +55,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2012-01-01",
-    "overview": "Top 5 trending movie on Prime Video. In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.",
+    "overview": "Top 3 trending movie on Prime Video. In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.",
     "genres": [
       "Action",
       "Sci-Fi",
@@ -117,13 +66,64 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-hunger-games",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-hunger-games",
     "content_type": "platform_release",
     "published_at": "2012-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
+    "updated_at": "2026-11-24T15:27:24Z"
+  },
+  {
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 4 trending movie on Prime Video. Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/344313341/s592/the-hunger-games-sunrise-on-the-reaping.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/344313341/s592/the-hunger-games-sunrise-on-the-reaping.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/the-hunger-games-sunrise-on-the-reaping",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/the-hunger-games-sunrise-on-the-reaping",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-24T15:27:24Z"
+  },
+  {
+    "title": "Obsession",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 5 trending movie on Prime Video. After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/346817191/s592/obsession-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/346817191/s592/obsession-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/obsession-2026",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/obsession-2026",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-24T15:27:24Z"
   },
   {
     "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
@@ -141,64 +141,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-hunger-games-the-ballad-of-songbirds-and-snakes",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-hunger-games-the-ballad-of-songbirds-and-snakes",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
-  },
-  {
-    "title": "The Hunger Games: Sunrise on the Reaping",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 7 trending movie on Prime Video. Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/344313341/s592/the-hunger-games-sunrise-on-the-reaping.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/344313341/s592/the-hunger-games-sunrise-on-the-reaping.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-hunger-games-sunrise-on-the-reaping",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-hunger-games-sunrise-on-the-reaping",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
-  },
-  {
-    "title": "Tenet",
-    "year": 2020,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2020-01-01",
-    "overview": "Top 8 trending movie on Prime Video. Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
-    "genres": [
-      "Action",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/192048805/s592/tenet.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/192048805/s592/tenet.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/tenet",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/tenet",
-    "content_type": "platform_release",
-    "published_at": "2020-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
+    "updated_at": "2026-11-24T15:27:24Z"
   },
   {
     "title": "Tony",
@@ -206,7 +155,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 9 trending movie on Prime Video. A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+    "overview": "Top 7 trending movie on Prime Video. A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
     "genres": [
       "Comedy",
       "Drama"
@@ -216,13 +165,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/tony-2026",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/tony-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
+    "updated_at": "2026-11-24T15:27:24Z"
+  },
+  {
+    "title": "Gentle Monster",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 8 trending movie on Prime Video. After relocating with her family to the countryside, a renowned pianist uncovers a life-shattering truth that forces her to confront the complexities of love, trust, and deception.",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/357639232/s592/gentle-monster.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/357639232/s592/gentle-monster.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/gentle-monster",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/gentle-monster",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-24T15:27:24Z"
   },
   {
     "title": "You Can See Everything",
@@ -230,7 +203,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 10 trending movie on Prime Video. Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+    "overview": "Top 9 trending movie on Prime Video. Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
     "genres": [
       "Comedy",
       "Crime",
@@ -241,13 +214,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/you-can-see-everything",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/you-can-see-everything",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
+    "updated_at": "2026-11-24T15:27:24Z"
+  },
+  {
+    "title": "Guarding Stars",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 10 trending movie on Prime Video. A skilled bodyguard is assigned to protect a reclusive movie star from a stalker and must pose as his girlfriend to keep the threat hidden. On his family ranch, the assignment blurs lines as proximity complicates the job.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/355537153/s592/the-bodyguard-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/355537153/s592/the-bodyguard-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/the-bodyguard-2026",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/the-bodyguard-2026",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-24T15:27:24Z"
   },
   {
     "title": "The Body",
@@ -267,13 +265,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-body-2026",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-body-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
+    "updated_at": "2026-11-24T15:27:24Z"
   },
   {
     "title": "The Circle",
@@ -290,13 +288,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-circle-2026",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-circle-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
+    "updated_at": "2026-11-24T15:27:24Z"
   },
   {
     "title": "Yellowjackets",
@@ -315,13 +313,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/yellowjackets",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/yellowjackets",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
+    "updated_at": "2026-11-24T15:27:24Z"
   },
   {
     "title": "The Altruists",
@@ -340,13 +338,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-altruists",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-altruists",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
+    "updated_at": "2026-11-24T15:27:24Z"
   },
   {
     "title": "FROM",
@@ -367,13 +365,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/from",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/from",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
+    "updated_at": "2026-11-24T15:27:24Z"
   },
   {
     "title": "MobLand",
@@ -391,13 +389,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/mobland",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/mobland",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
+    "updated_at": "2026-11-24T15:27:24Z"
   },
   {
     "title": "12 12 12",
@@ -417,38 +415,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/12-12-12",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/12-12-12",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
-  },
-  {
-    "title": "The Good Daughter",
-    "year": 2026,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 8 trending series on Prime Video. Sisters Samantha and Charlotte Quinn have spent the last 28 years trying to piece together the lives that were fractured by a single night of violence.",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/357134154/s592/the-good-daughter.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/357134154/s592/the-good-daughter.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-good-daughter",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-good-daughter",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
+    "updated_at": "2026-11-24T15:27:24Z"
   },
   {
     "title": "The Lord of the Rings: The Rings of Power",
@@ -456,7 +429,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2022-01-01",
-    "overview": "Top 9 trending series on Prime Video. Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+    "overview": "Top 8 trending series on Prime Video. Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
     "genres": [
       "Action",
       "Drama",
@@ -468,36 +441,62 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-lord-of-the-rings-the-rings-of-power",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-lord-of-the-rings-the-rings-of-power",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
+    "updated_at": "2026-11-24T15:27:24Z"
   },
   {
-    "title": "Cunk on Cinema",
+    "title": "The Good Daughter",
     "year": 2026,
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 10 trending series on Prime Video. Philomena Cunk explores the history of film, from early cameras and 1960s New Wave to CGI and artificial intelligence.",
+    "overview": "Top 9 trending series on Prime Video. Sisters Samantha and Charlotte Quinn have spent the last 28 years trying to piece together the lives that were fractured by a single night of violence.",
     "genres": [
-      "Comedy",
-      "Documentary"
+      "Crime",
+      "Drama",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/356995715/s592/cunk-on-cinema.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/356995715/s592/cunk-on-cinema.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/357134154/s592/the-good-daughter.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/357134154/s592/the-good-daughter.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/cunk-on-cinema",
-    "scraped_at": "2026-11-23T15:34:46+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/the-good-daughter",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/cunk-on-cinema",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-good-daughter",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-23T15:34:46Z"
+    "updated_at": "2026-11-24T15:27:24Z"
+  },
+  {
+    "title": "Nocturne",
+    "year": 2026,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 10 trending series on Prime Video. When a victim of serial killer Jurek Walter turns up alive, detective Jonah Lynn races to find the one person still missing, while his protégé Saga Bauer goes undercover for answers from the killer himself. Based on the bestselling novel by Lars Kepler.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/354518072/s592/nocturne.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354518072/s592/nocturne.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/nocturne",
+    "scraped_at": "2026-11-24T15:27:24+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/nocturne",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-24T15:27:24Z"
   }
 ]
