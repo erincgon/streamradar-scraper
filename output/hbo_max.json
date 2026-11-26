@@ -15,38 +15,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/tony-2026",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/tony-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
-  },
-  {
-    "title": "The End of Oak Street",
-    "year": 2026,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 2 trending movie on Hbo Max. After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-    "genres": [
-      "Action",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/347475607/s592/flowervale-street.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/347475607/s592/flowervale-street.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/flowervale-street",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/flowervale-street",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "updated_at": "2026-11-26T14:37:42Z"
   },
   {
     "title": "The Invite",
@@ -54,7 +29,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 3 trending movie on Hbo Max. Joe and Angela's marriage is on the rocks. When they invite their enigmatic upstairs neighbors over for dinner, the evening takes an unexpected turn.",
+    "overview": "Top 2 trending movie on Hbo Max. Joe and Angela's marriage is on the rocks. When they invite their enigmatic upstairs neighbors over for dinner, the evening takes an unexpected turn.",
     "genres": [
       "Comedy",
       "Drama",
@@ -65,13 +40,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-invite-2026",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-invite-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "updated_at": "2026-11-26T14:37:42Z"
   },
   {
     "title": "Elf",
@@ -79,7 +54,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2003-01-01",
-    "overview": "Top 4 trending movie on Hbo Max. When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
+    "overview": "Top 3 trending movie on Hbo Max. When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
     "genres": [
       "Comedy",
       "Family",
@@ -91,13 +66,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/elf",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/elf",
     "content_type": "platform_release",
     "published_at": "2003-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "updated_at": "2026-11-26T14:37:42Z"
+  },
+  {
+    "title": "National Lampoon's Christmas Vacation",
+    "year": 1989,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "1989-01-01",
+    "overview": "Top 4 trending movie on Hbo Max. It's Christmastime, and the Griswolds are preparing for a family seasonal celebration. But things never run smoothly for Clark, his wife Ellen, and their two kids. Clark's continual bad luck is worsened by his obnoxious family guests, but he manages to keep going, knowing that his Christmas bonus is due soon.",
+    "genres": [
+      "Comedy",
+      "European"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/271349733/s592/national-lampoons-christmas-vacation.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/271349733/s592/national-lampoons-christmas-vacation.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/national-lampoons-christmas-vacation",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/national-lampoons-christmas-vacation",
+    "content_type": "platform_release",
+    "published_at": "1989-01-01T00:00:00Z",
+    "updated_at": "2026-11-26T14:37:42Z"
   },
   {
     "title": "Night of the Living Dead",
@@ -116,37 +115,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/night-of-the-living-dead",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/night-of-the-living-dead",
     "content_type": "platform_release",
     "published_at": "1968-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "updated_at": "2026-11-26T14:37:42Z"
   },
   {
-    "title": "National Lampoon's Christmas Vacation",
-    "year": 1989,
+    "title": "The End of Oak Street",
+    "year": 2026,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "1989-01-01",
-    "overview": "Top 6 trending movie on Hbo Max. It's Christmastime, and the Griswolds are preparing for a family seasonal celebration. But things never run smoothly for Clark, his wife Ellen, and their two kids. Clark's continual bad luck is worsened by his obnoxious family guests, but he manages to keep going, knowing that his Christmas bonus is due soon.",
+    "release_date": "2026-01-01",
+    "overview": "Top 6 trending movie on Hbo Max. After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
     "genres": [
-      "Comedy",
-      "European"
+      "Action",
+      "Sci-Fi",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/271349733/s592/national-lampoons-christmas-vacation.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/271349733/s592/national-lampoons-christmas-vacation.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/347475607/s592/flowervale-street.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/347475607/s592/flowervale-street.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/national-lampoons-christmas-vacation",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/flowervale-street",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/national-lampoons-christmas-vacation",
+    "article_url": "https://www.justwatch.com/us/movie/flowervale-street",
     "content_type": "platform_release",
-    "published_at": "1989-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-26T14:37:42Z"
   },
   {
     "title": "Backrooms",
@@ -165,13 +165,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/backrooms",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/backrooms",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "updated_at": "2026-11-26T14:37:42Z"
   },
   {
     "title": "Dune",
@@ -190,13 +190,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/dune-2021",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/dune-2021",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "updated_at": "2026-11-26T14:37:42Z"
   },
   {
     "title": "They Will Kill You",
@@ -216,38 +216,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/they-will-kill-you",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/they-will-kill-you",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "updated_at": "2026-11-26T14:37:42Z"
   },
   {
-    "title": "The Roses",
-    "year": 2025,
+    "title": "Thanksgiving",
+    "year": 2023,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "2025-01-01",
-    "overview": "Top 10 trending movie on Hbo Max. Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites.",
+    "release_date": "2023-01-01",
+    "overview": "Top 10 trending movie on Hbo Max. After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the holiday. Picking off residents one by one, what begins as random revenge killings are soon revealed to be part of a larger, sinister holiday plan.",
     "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
+      "Horror",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/331623280/s592/the-roses.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/331623280/s592/the-roses.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/309478156/s592/thanksgiving-2023.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/309478156/s592/thanksgiving-2023.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-roses",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/thanksgiving-2023",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-roses",
+    "article_url": "https://www.justwatch.com/us/movie/thanksgiving-2023",
     "content_type": "platform_release",
-    "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "published_at": "2023-01-01T00:00:00Z",
+    "updated_at": "2026-11-26T14:37:42Z"
   },
   {
     "title": "Yellowjackets",
@@ -266,13 +265,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/yellowjackets",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/yellowjackets",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "updated_at": "2026-11-26T14:37:42Z"
   },
   {
     "title": "The Gilded Age",
@@ -289,13 +288,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "updated_at": "2026-11-26T14:37:42Z"
   },
   {
     "title": "War",
@@ -313,13 +312,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/war-2026",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/war-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "updated_at": "2026-11-26T14:37:42Z"
   },
   {
     "title": "Georgie & Mandy's First Marriage",
@@ -336,13 +335,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
     "content_type": "platform_release",
     "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "updated_at": "2026-11-26T14:37:42Z"
   },
   {
     "title": "Friends",
@@ -360,13 +359,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/friends",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/friends",
     "content_type": "platform_release",
     "published_at": "1994-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "updated_at": "2026-11-26T14:37:42Z"
   },
   {
     "title": "Mad Men",
@@ -383,38 +382,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/mad-men",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/mad-men",
     "content_type": "platform_release",
     "published_at": "2007-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
-  },
-  {
-    "title": "Blue Lights",
-    "year": 2023,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2023-01-01",
-    "overview": "Top 7 trending series on Hbo Max. Follows rookie police officers working in Belfast, a city in which being a frontline response cop comes with unique pressures and dangers.",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/355081093/s592/blue-lights.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/355081093/s592/blue-lights.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/blue-lights",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/blue-lights",
-    "content_type": "platform_release",
-    "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "updated_at": "2026-11-26T14:37:42Z"
   },
   {
     "title": "Nathan for You",
@@ -422,7 +396,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2013-01-01",
-    "overview": "Top 8 trending series on Hbo Max. Nathan Fielder uses his business degree and life experiences to help real small businesses turn a profit.",
+    "overview": "Top 7 trending series on Hbo Max. Nathan Fielder uses his business degree and life experiences to help real small businesses turn a profit.",
     "genres": [
       "Comedy",
       "Documentary"
@@ -432,13 +406,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
     "content_type": "platform_release",
     "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "updated_at": "2026-11-26T14:37:42Z"
+  },
+  {
+    "title": "Oobah: Scams for a Better Tomorrow",
+    "year": 2026,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2026-01-01",
+    "overview": "Top 8 trending series on Hbo Max. Oobah Butler sets his sights on the world’s biggest industries and most powerful institutions. To infiltrate the worlds of wine, wellness, royalty, and more, Oobah hatches elaborate and increasingly audacious schemes by gaming online reviews, assuming made-up personas, and launching fake companies with entirely bogus backstories.",
+    "genres": [
+      "Comedy",
+      "Documentary",
+      "Reality"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/356681300/s592/oobah-scams-for-a-better-tomorrow.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/356681300/s592/oobah-scams-for-a-better-tomorrow.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/oobah-scams-for-a-better-tomorrow",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/oobah-scams-for-a-better-tomorrow",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-26T14:37:42Z"
   },
   {
     "title": "The Pitt",
@@ -455,13 +454,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-pitt",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-pitt",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "updated_at": "2026-11-26T14:37:42Z"
   },
   {
     "title": "Schitt's Creek",
@@ -478,12 +477,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/schitts-creek",
-    "scraped_at": "2026-11-25T15:12:23+00:00",
+    "scraped_at": "2026-11-26T14:37:42+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/schitts-creek",
     "content_type": "platform_release",
     "published_at": "2015-01-01T00:00:00Z",
-    "updated_at": "2026-11-25T15:12:23Z"
+    "updated_at": "2026-11-26T14:37:42Z"
   }
 ]
