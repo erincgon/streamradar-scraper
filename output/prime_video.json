@@ -16,13 +16,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/you-can-see-everything",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/you-can-see-everything",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
+    "updated_at": "2026-11-28T13:47:39Z"
   },
   {
     "title": "Planes, Trains and Automobiles",
@@ -40,13 +40,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/planes-trains-and-automobiles",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/planes-trains-and-automobiles",
     "content_type": "platform_release",
     "published_at": "1987-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
+    "updated_at": "2026-11-28T13:47:39Z"
   },
   {
     "title": "The Odyssey",
@@ -65,13 +65,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-odyssey-2026",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-odyssey-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
+    "updated_at": "2026-11-28T13:47:39Z"
   },
   {
     "title": "The Hunger Games: Sunrise on the Reaping",
@@ -91,13 +91,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-hunger-games-sunrise-on-the-reaping",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-hunger-games-sunrise-on-the-reaping",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
+    "updated_at": "2026-11-28T13:47:39Z"
   },
   {
     "title": "The Hunger Games",
@@ -116,37 +116,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-hunger-games",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-hunger-games",
     "content_type": "platform_release",
     "published_at": "2012-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
-  },
-  {
-    "title": "Tony",
-    "year": 2026,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 6 trending movie on Prime Video. A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/344830147/s592/tony-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/344830147/s592/tony-2026.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/tony-2026",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/tony-2026",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
+    "updated_at": "2026-11-28T13:47:39Z"
   },
   {
     "title": "Anthropoid",
@@ -154,7 +130,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2016-01-01",
-    "overview": "Top 7 trending movie on Prime Video. In December 1941, Czech soldiers Jozef Gabčík and Jan Kubiš parachute into their occupied homeland to assassinate Nazi officer Reinhard Heydrich.",
+    "overview": "Top 6 trending movie on Prime Video. In December 1941, Czech soldiers Jozef Gabčík and Jan Kubiš parachute into their occupied homeland to assassinate Nazi officer Reinhard Heydrich.",
     "genres": [
       "Action",
       "Drama",
@@ -169,37 +145,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/anthropoid",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/anthropoid",
     "content_type": "platform_release",
     "published_at": "2016-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
-  },
-  {
-    "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
-    "year": 2023,
-    "type": "movie",
-    "platform": "prime_video",
-    "release_date": "2023-01-01",
-    "overview": "Top 8 trending movie on Prime Video. Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/307659151/s592/the-hunger-games-the-ballad-of-songbirds-and-snakes.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/307659151/s592/the-hunger-games-the-ballad-of-songbirds-and-snakes.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/the-hunger-games-the-ballad-of-songbirds-and-snakes",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/the-hunger-games-the-ballad-of-songbirds-and-snakes",
-    "content_type": "platform_release",
-    "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
+    "updated_at": "2026-11-28T13:47:39Z"
   },
   {
     "title": "A Charlie Brown Thanksgiving",
@@ -207,7 +159,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "1973-01-01",
-    "overview": "Top 9 trending movie on Prime Video. Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown's house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown...",
+    "overview": "Top 7 trending movie on Prime Video. Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown's house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown...",
     "genres": [
       "Animation",
       "Comedy",
@@ -219,13 +171,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/a-charlie-brown-thanksgiving",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/a-charlie-brown-thanksgiving",
     "content_type": "platform_release",
     "published_at": "1973-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
+    "updated_at": "2026-11-28T13:47:39Z"
+  },
+  {
+    "title": "Tony",
+    "year": 2026,
+    "type": "movie",
+    "platform": "prime_video",
+    "release_date": "2026-01-01",
+    "overview": "Top 8 trending movie on Prime Video. A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/344830147/s592/tony-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/344830147/s592/tony-2026.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/tony-2026",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/tony-2026",
+    "content_type": "platform_release",
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-28T13:47:39Z"
   },
   {
     "title": "Spider-Man: Brand New Day",
@@ -233,7 +209,7 @@
     "type": "movie",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 10 trending movie on Prime Video. Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "overview": "Top 9 trending movie on Prime Video. Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "genres": [
       "Action",
       "Sci-Fi"
@@ -243,38 +219,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/spider-man-brand-new-day",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/spider-man-brand-new-day",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
+    "updated_at": "2026-11-28T13:47:39Z"
   },
   {
-    "title": "Yellowjackets",
-    "year": 2021,
-    "type": "series",
+    "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "year": 2023,
+    "type": "movie",
     "platform": "prime_video",
-    "release_date": "2021-01-01",
-    "overview": "Top 1 trending series on Prime Video. A wildly talented girls' high school soccer team become the unlucky survivors of a plane crash deep in the Canadian wilderness.",
+    "release_date": "2023-01-01",
+    "overview": "Top 10 trending movie on Prime Video. Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
     "genres": [
-      "Drama",
-      "Horror",
-      "Thriller"
+      "Action",
+      "Sci-Fi"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/326089463/s592/yellowjackets.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/326089463/s592/yellowjackets.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/307659151/s592/the-hunger-games-the-ballad-of-songbirds-and-snakes.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/307659151/s592/the-hunger-games-the-ballad-of-songbirds-and-snakes.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/yellowjackets",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/the-hunger-games-the-ballad-of-songbirds-and-snakes",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/yellowjackets",
+    "article_url": "https://www.justwatch.com/us/movie/the-hunger-games-the-ballad-of-songbirds-and-snakes",
     "content_type": "platform_release",
-    "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
+    "published_at": "2023-01-01T00:00:00Z",
+    "updated_at": "2026-11-28T13:47:39Z"
   },
   {
     "title": "Blade Runner 2099",
@@ -282,7 +257,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 2 trending series on Prime Video. Takes place fifty years after the events of \"Blade Runner 2049.\"",
+    "overview": "Top 1 trending series on Prime Video. Takes place fifty years after the events of \"Blade Runner 2049.\"",
     "genres": [
       "Action",
       "Drama",
@@ -294,13 +269,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/blade-runner-2099",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/blade-runner-2099",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
+    "updated_at": "2026-11-28T13:47:39Z"
   },
   {
     "title": "Dig",
@@ -308,7 +283,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2026-01-01",
-    "overview": "Top 3 trending series on Prime Video. Follow four women who work at an archeological dig in Greece. When the team uncovers a long-buried secret with the potential to rewrite history, they find themselves at the center of a high-stakes international conspiracy.",
+    "overview": "Top 2 trending series on Prime Video. Follow four women who work at an archeological dig in Greece. When the team uncovers a long-buried secret with the potential to rewrite history, they find themselves at the center of a high-stakes international conspiracy.",
     "genres": [
       "Comedy"
     ],
@@ -317,38 +292,65 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/dig-2026",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/dig-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
+    "updated_at": "2026-11-28T13:47:39Z"
   },
   {
-    "title": "The Altruists",
-    "year": 2026,
+    "title": "Yellowjackets",
+    "year": 2021,
     "type": "series",
     "platform": "prime_video",
-    "release_date": "2026-01-01",
-    "overview": "Top 4 trending series on Prime Video. The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
+    "release_date": "2021-01-01",
+    "overview": "Top 3 trending series on Prime Video. A wildly talented girls' high school soccer team become the unlucky survivors of a plane crash deep in the Canadian wilderness.",
     "genres": [
-      "Crime",
       "Drama",
-      "Romance"
+      "Horror",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/357109853/s592/the-altruists.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/357109853/s592/the-altruists.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/326089463/s592/yellowjackets.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/326089463/s592/yellowjackets.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-altruists",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/yellowjackets",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-altruists",
+    "article_url": "https://www.justwatch.com/us/tv-show/yellowjackets",
     "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
+    "published_at": "2021-01-01T00:00:00Z",
+    "updated_at": "2026-11-28T13:47:39Z"
+  },
+  {
+    "title": "FROM",
+    "year": 2022,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2022-01-01",
+    "overview": "Top 4 trending series on Prime Video. Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/344518661/s592/from.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/344518661/s592/from.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/from",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/from",
+    "content_type": "platform_release",
+    "published_at": "2022-01-01T00:00:00Z",
+    "updated_at": "2026-11-28T13:47:39Z"
   },
   {
     "title": "The Body",
@@ -368,13 +370,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-body-2026",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-body-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
+    "updated_at": "2026-11-28T13:47:39Z"
   },
   {
     "title": "MobLand",
@@ -392,40 +394,38 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/mobland",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/mobland",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
+    "updated_at": "2026-11-28T13:47:39Z"
   },
   {
-    "title": "FROM",
-    "year": 2022,
+    "title": "The Altruists",
+    "year": 2026,
     "type": "series",
     "platform": "prime_video",
-    "release_date": "2022-01-01",
-    "overview": "Top 7 trending series on Prime Video. Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+    "release_date": "2026-01-01",
+    "overview": "Top 7 trending series on Prime Video. The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
     "genres": [
+      "Crime",
       "Drama",
-      "Fantasy",
-      "Horror",
-      "Sci-Fi",
-      "Thriller"
+      "Romance"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/344518661/s592/from.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/344518661/s592/from.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/357109853/s592/the-altruists.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/357109853/s592/the-altruists.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/from",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/the-altruists",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/from",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-altruists",
     "content_type": "platform_release",
-    "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-28T13:47:39Z"
   },
   {
     "title": "Nocturne",
@@ -444,13 +444,39 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/nocturne",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/nocturne",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
+    "updated_at": "2026-11-28T13:47:39Z"
+  },
+  {
+    "title": "The Lord of the Rings: The Rings of Power",
+    "year": 2022,
+    "type": "series",
+    "platform": "prime_video",
+    "release_date": "2022-01-01",
+    "overview": "Top 9 trending series on Prime Video. Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/260075695/s592/the-lord-of-the-rings-the-rings-of-power.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/260075695/s592/the-lord-of-the-rings-the-rings-of-power.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/the-lord-of-the-rings-the-rings-of-power",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-lord-of-the-rings-the-rings-of-power",
+    "content_type": "platform_release",
+    "published_at": "2022-01-01T00:00:00Z",
+    "updated_at": "2026-11-28T13:47:39Z"
   },
   {
     "title": "Percy Jackson and the Olympians",
@@ -458,7 +484,7 @@
     "type": "series",
     "platform": "prime_video",
     "release_date": "2023-01-01",
-    "overview": "Top 9 trending series on Prime Video. Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+    "overview": "Top 10 trending series on Prime Video. Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
     "genres": [
       "Action",
       "Drama",
@@ -471,38 +497,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/percy-jackson-and-the-olympians",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
+    "scraped_at": "2026-11-28T13:47:39+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/percy-jackson-and-the-olympians",
     "content_type": "platform_release",
     "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
-  },
-  {
-    "title": "The Lord of the Rings: The Rings of Power",
-    "year": 2022,
-    "type": "series",
-    "platform": "prime_video",
-    "release_date": "2022-01-01",
-    "overview": "Top 10 trending series on Prime Video. Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-    "genres": [
-      "Action",
-      "Drama",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/260075695/s592/the-lord-of-the-rings-the-rings-of-power.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/260075695/s592/the-lord-of-the-rings-the-rings-of-power.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-lord-of-the-rings-the-rings-of-power",
-    "scraped_at": "2026-11-27T14:33:00+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-lord-of-the-rings-the-rings-of-power",
-    "content_type": "platform_release",
-    "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:33:00Z"
+    "updated_at": "2026-11-28T13:47:39Z"
   }
 ]

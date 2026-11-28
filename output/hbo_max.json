@@ -15,13 +15,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/tony-2026",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/tony-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
+    "updated_at": "2026-11-28T13:47:38Z"
   },
   {
     "title": "Elf",
@@ -41,13 +41,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/elf",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/elf",
     "content_type": "platform_release",
     "published_at": "2003-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
+    "updated_at": "2026-11-28T13:47:38Z"
   },
   {
     "title": "National Lampoon's Christmas Vacation",
@@ -65,13 +65,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/national-lampoons-christmas-vacation",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/national-lampoons-christmas-vacation",
     "content_type": "platform_release",
     "published_at": "1989-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
+    "updated_at": "2026-11-28T13:47:38Z"
+  },
+  {
+    "title": "Thanksgiving",
+    "year": 2023,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2023-01-01",
+    "overview": "Top 4 trending movie on Hbo Max. After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the holiday. Picking off residents one by one, what begins as random revenge killings are soon revealed to be part of a larger, sinister holiday plan.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/309478156/s592/thanksgiving-2023.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/309478156/s592/thanksgiving-2023.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/thanksgiving-2023",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/thanksgiving-2023",
+    "content_type": "platform_release",
+    "published_at": "2023-01-01T00:00:00Z",
+    "updated_at": "2026-11-28T13:47:38Z"
   },
   {
     "title": "The Invite",
@@ -79,7 +103,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 4 trending movie on Hbo Max. Joe and Angela's marriage is on the rocks. When they invite their enigmatic upstairs neighbors over for dinner, the evening takes an unexpected turn.",
+    "overview": "Top 5 trending movie on Hbo Max. Joe and Angela's marriage is on the rocks. When they invite their enigmatic upstairs neighbors over for dinner, the evening takes an unexpected turn.",
     "genres": [
       "Comedy",
       "Drama",
@@ -90,37 +114,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/the-invite-2026",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/the-invite-2026",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
-  },
-  {
-    "title": "Thanksgiving",
-    "year": 2023,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2023-01-01",
-    "overview": "Top 5 trending movie on Hbo Max. After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the holiday. Picking off residents one by one, what begins as random revenge killings are soon revealed to be part of a larger, sinister holiday plan.",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/309478156/s592/thanksgiving-2023.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/309478156/s592/thanksgiving-2023.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/thanksgiving-2023",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/thanksgiving-2023",
-    "content_type": "platform_release",
-    "published_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
+    "updated_at": "2026-11-28T13:47:38Z"
   },
   {
     "title": "Night of the Living Dead",
@@ -131,7 +131,6 @@
     "overview": "Top 6 trending movie on Hbo Max. A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
     "genres": [
       "Horror",
-      "Sci-Fi",
       "Thriller"
     ],
     "poster_image_url": "https://images.justwatch.com/poster/354325626/s592/night-of-the-living-dead.webp",
@@ -139,13 +138,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/night-of-the-living-dead",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/night-of-the-living-dead",
     "content_type": "platform_release",
     "published_at": "1968-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
+    "updated_at": "2026-11-28T13:47:38Z"
+  },
+  {
+    "title": "Little Fockers",
+    "year": 2010,
+    "type": "movie",
+    "platform": "hbo_max",
+    "release_date": "2010-01-01",
+    "overview": "Top 7 trending movie on Hbo Max. It has taken 10 years, two little Fockers with wife Pam and countless hurdles for Greg to finally get in with his tightly wound father-in-law, Jack. After the cash-strapped dad takes a job moonlighting for a drug company, Jack's suspicions about his favorite male nurse come roaring back. When Greg and Pam's entire clan descends for the twins' birthday party, Greg must prove to the skeptical Jack that he's fully capable as the man of the house.",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/11087098/s592/little-fockers.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/11087098/s592/little-fockers.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/movie/little-fockers",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/movie/little-fockers",
+    "content_type": "platform_release",
+    "published_at": "2010-01-01T00:00:00Z",
+    "updated_at": "2026-11-28T13:47:38Z"
   },
   {
     "title": "Dune",
@@ -153,7 +176,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2021-01-01",
-    "overview": "Top 7 trending movie on Hbo Max. Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
+    "overview": "Top 8 trending movie on Hbo Max. Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
     "genres": [
       "Action",
       "Drama",
@@ -164,13 +187,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/dune-2021",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/dune-2021",
     "content_type": "platform_release",
     "published_at": "2021-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
+    "updated_at": "2026-11-28T13:47:38Z"
   },
   {
     "title": "Backrooms",
@@ -178,7 +201,7 @@
     "type": "movie",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 8 trending movie on Hbo Max. A strange doorway appears in the basement of a furniture showroom.",
+    "overview": "Top 9 trending movie on Hbo Max. A strange doorway appears in the basement of a furniture showroom.",
     "genres": [
       "Horror",
       "Sci-Fi",
@@ -189,87 +212,39 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/movie/backrooms",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/movie/backrooms",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
+    "updated_at": "2026-11-28T13:47:38Z"
   },
   {
-    "title": "They Will Kill You",
-    "year": 2026,
+    "title": "A Christmas Story",
+    "year": 1983,
     "type": "movie",
     "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 9 trending movie on Hbo Max. A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Horror",
-      "Thriller"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/340653984/s592/they-will-kill-you.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/340653984/s592/they-will-kill-you.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/they-will-kill-you",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/they-will-kill-you",
-    "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
-  },
-  {
-    "title": "Little Fockers",
-    "year": 2010,
-    "type": "movie",
-    "platform": "hbo_max",
-    "release_date": "2010-01-01",
-    "overview": "Top 10 trending movie on Hbo Max. It has taken 10 years, two little Fockers with wife Pam and countless hurdles for Greg to finally get in with his tightly wound father-in-law, Jack. After the cash-strapped dad takes a job moonlighting for a drug company, Jack's suspicions about his favorite male nurse come roaring back. When Greg and Pam's entire clan descends for the twins' birthday party, Greg must prove to the skeptical Jack that he's fully capable as the man of the house.",
+    "release_date": "1983-01-01",
+    "overview": "Top 10 trending movie on Hbo Max. In the 1940s, a young boy named Ralphie Parker attempts to convince his parents, teacher, and Santa Claus that a Red Ryder Range 200 Shot BB gun really is the perfect Christmas gift.",
     "genres": [
       "Comedy",
-      "Romance"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/11087098/s592/little-fockers.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/11087098/s592/little-fockers.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/movie/little-fockers",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/movie/little-fockers",
-    "content_type": "platform_release",
-    "published_at": "2010-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
-  },
-  {
-    "title": "War",
-    "year": 2026,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2026-01-01",
-    "overview": "Top 1 trending series on Hbo Max. Two top London law firms clash over a shocking divorce case that rocks the legal world, with elite attorneys from Cathcarts and Taylor and Byrne battling for supremacy.",
-    "genres": [
       "Drama",
-      "Thriller"
+      "European",
+      "Family"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/354890779/s592/war-2026.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/354890779/s592/war-2026.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/238965112/s592/a-christmas-story-1983.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/238965112/s592/a-christmas-story-1983.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/war-2026",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
+    "source_url": "https://www.justwatch.com/us/movie/a-christmas-story-1983",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/war-2026",
+    "article_url": "https://www.justwatch.com/us/movie/a-christmas-story-1983",
     "content_type": "platform_release",
-    "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
+    "published_at": "1983-01-01T00:00:00Z",
+    "updated_at": "2026-11-28T13:47:38Z"
   },
   {
     "title": "The Gilded Age",
@@ -277,7 +252,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2022-01-01",
-    "overview": "Top 2 trending series on Hbo Max. The conflicts surrounding the new money Russell family and their old money neighbors, the van Rhijn family, in 1880s New York City high society.",
+    "overview": "Top 1 trending series on Hbo Max. The conflicts surrounding the new money Russell family and their old money neighbors, the van Rhijn family, in 1880s New York City high society.",
     "genres": [
       "Drama"
     ],
@@ -286,13 +261,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-gilded-age",
     "content_type": "platform_release",
     "published_at": "2022-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
+    "updated_at": "2026-11-28T13:47:38Z"
   },
   {
     "title": "Friends",
@@ -300,7 +275,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "1994-01-01",
-    "overview": "Top 3 trending series on Hbo Max. The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+    "overview": "Top 2 trending series on Hbo Max. The personal and professional lives of six friends living in the Manhattan borough of New York City.",
     "genres": [
       "Comedy",
       "Romance"
@@ -310,36 +285,37 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/friends",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/friends",
     "content_type": "platform_release",
     "published_at": "1994-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
+    "updated_at": "2026-11-28T13:47:38Z"
   },
   {
-    "title": "Georgie & Mandy's First Marriage",
-    "year": 2024,
+    "title": "War",
+    "year": 2026,
     "type": "series",
     "platform": "hbo_max",
-    "release_date": "2024-01-01",
-    "overview": "Top 4 trending series on Hbo Max. Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage.",
+    "release_date": "2026-01-01",
+    "overview": "Top 3 trending series on Hbo Max. Two top London law firms clash over a shocking divorce case that rocks the legal world, with elite attorneys from Cathcarts and Taylor and Byrne battling for supremacy.",
     "genres": [
-      "Comedy"
+      "Drama",
+      "Thriller"
     ],
-    "poster_image_url": "https://images.justwatch.com/poster/321593477/s592/georgie-and-mandys-first-marriage.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/321593477/s592/georgie-and-mandys-first-marriage.webp",
+    "poster_image_url": "https://images.justwatch.com/poster/354890779/s592/war-2026.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/354890779/s592/war-2026.webp",
     "rating": null,
     "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
+    "source_url": "https://www.justwatch.com/us/tv-show/war-2026",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/georgie-and-mandys-first-marriage",
+    "article_url": "https://www.justwatch.com/us/tv-show/war-2026",
     "content_type": "platform_release",
-    "published_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
+    "published_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-11-28T13:47:38Z"
   },
   {
     "title": "The Pitt",
@@ -347,7 +323,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2025-01-01",
-    "overview": "Top 5 trending series on Hbo Max. The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+    "overview": "Top 4 trending series on Hbo Max. The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
     "genres": [
       "Drama"
     ],
@@ -356,13 +332,106 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/the-pitt",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/the-pitt",
     "content_type": "platform_release",
     "published_at": "2025-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
+    "updated_at": "2026-11-28T13:47:38Z"
+  },
+  {
+    "title": "Nathan for You",
+    "year": 2013,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2013-01-01",
+    "overview": "Top 5 trending series on Hbo Max. Nathan Fielder uses his business degree and life experiences to help real small businesses turn a profit.",
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
+    "content_type": "platform_release",
+    "published_at": "2013-01-01T00:00:00Z",
+    "updated_at": "2026-11-28T13:47:38Z"
+  },
+  {
+    "title": "Schitt's Creek",
+    "year": 2015,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2015-01-01",
+    "overview": "Top 6 trending series on Hbo Max. Formerly filthy rich video store magnate Johnny Rose, his soap star wife Moira, and their two kids, über-hipster son David and socialite daughter Alexis, suddenly find themselves broke and forced to live in Schitt's Creek, a small depressing town they once bought as a joke.",
+    "genres": [
+      "Comedy"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/162759783/s592/schitts-creek.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/162759783/s592/schitts-creek.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/schitts-creek",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/schitts-creek",
+    "content_type": "platform_release",
+    "published_at": "2015-01-01T00:00:00Z",
+    "updated_at": "2026-11-28T13:47:38Z"
+  },
+  {
+    "title": "The West Wing",
+    "year": 1999,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "1999-01-01",
+    "overview": "Top 7 trending series on Hbo Max. The West Wing provides a glimpse into presidential politics in the nation's capital as it tells the stories of the members of a fictional presidential administration. These interesting characters have humor and dedication that touches the heart while the politics that they discuss touch on everyday life.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/240194591/s592/the-west-wing.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/240194591/s592/the-west-wing.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/the-west-wing",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/the-west-wing",
+    "content_type": "platform_release",
+    "published_at": "1999-01-01T00:00:00Z",
+    "updated_at": "2026-11-28T13:47:38Z"
+  },
+  {
+    "title": "Billions",
+    "year": 2016,
+    "type": "series",
+    "platform": "hbo_max",
+    "release_date": "2016-01-01",
+    "overview": "Top 8 trending series on Hbo Max. Shrewd, savvy U.S. Attorney Chuck Rhoades and the brilliant, ambitious hedge fund king Bobby \"Axe\" Axelrod are on an explosive collision course, with each using all of his considerable smarts, power and influence to outmaneuver the other. The stakes are in the billions in this timely, provocative series.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_image_url": "https://images.justwatch.com/poster/258685860/s592/billions.webp",
+    "backdrop_image_url": "https://images.justwatch.com/poster/258685860/s592/billions.webp",
+    "rating": null,
+    "trailer_url": null,
+    "source_url": "https://www.justwatch.com/us/tv-show/billions",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
+    "source_name": "Justwatch",
+    "source_domain": "justwatch.com",
+    "article_url": "https://www.justwatch.com/us/tv-show/billions",
+    "content_type": "platform_release",
+    "published_at": "2016-01-01T00:00:00Z",
+    "updated_at": "2026-11-28T13:47:38Z"
   },
   {
     "title": "Oobah: Scams for a Better Tomorrow",
@@ -370,7 +439,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2026-01-01",
-    "overview": "Top 6 trending series on Hbo Max. Oobah Butler sets his sights on the world’s biggest industries and most powerful institutions. To infiltrate the worlds of wine, wellness, royalty, and more, Oobah hatches elaborate and increasingly audacious schemes by gaming online reviews, assuming made-up personas, and launching fake companies with entirely bogus backstories.",
+    "overview": "Top 9 trending series on Hbo Max. Oobah Butler sets his sights on the world’s biggest industries and most powerful institutions. To infiltrate the worlds of wine, wellness, royalty, and more, Oobah hatches elaborate and increasingly audacious schemes by gaming online reviews, assuming made-up personas, and launching fake companies with entirely bogus backstories.",
     "genres": [
       "Comedy",
       "Documentary",
@@ -381,37 +450,13 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/oobah-scams-for-a-better-tomorrow",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/oobah-scams-for-a-better-tomorrow",
     "content_type": "platform_release",
     "published_at": "2026-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
-  },
-  {
-    "title": "Nathan for You",
-    "year": 2013,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2013-01-01",
-    "overview": "Top 7 trending series on Hbo Max. Nathan Fielder uses his business degree and life experiences to help real small businesses turn a profit.",
-    "genres": [
-      "Comedy",
-      "Documentary"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/83158897/s592/nathan-for-you.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/nathan-for-you",
-    "content_type": "platform_release",
-    "published_at": "2013-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
+    "updated_at": "2026-11-28T13:47:38Z"
   },
   {
     "title": "Mad Men",
@@ -419,7 +464,7 @@
     "type": "series",
     "platform": "hbo_max",
     "release_date": "2007-01-01",
-    "overview": "Top 8 trending series on Hbo Max. A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.",
+    "overview": "Top 10 trending series on Hbo Max. A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.",
     "genres": [
       "Drama"
     ],
@@ -428,58 +473,12 @@
     "rating": null,
     "trailer_url": null,
     "source_url": "https://www.justwatch.com/us/tv-show/mad-men",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
+    "scraped_at": "2026-11-28T13:47:38+00:00",
     "source_name": "Justwatch",
     "source_domain": "justwatch.com",
     "article_url": "https://www.justwatch.com/us/tv-show/mad-men",
     "content_type": "platform_release",
     "published_at": "2007-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
-  },
-  {
-    "title": "Schitt's Creek",
-    "year": 2015,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "2015-01-01",
-    "overview": "Top 9 trending series on Hbo Max. Formerly filthy rich video store magnate Johnny Rose, his soap star wife Moira, and their two kids, über-hipster son David and socialite daughter Alexis, suddenly find themselves broke and forced to live in Schitt's Creek, a small depressing town they once bought as a joke.",
-    "genres": [
-      "Comedy"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/162759783/s592/schitts-creek.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/162759783/s592/schitts-creek.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/schitts-creek",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/schitts-creek",
-    "content_type": "platform_release",
-    "published_at": "2015-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
-  },
-  {
-    "title": "The West Wing",
-    "year": 1999,
-    "type": "series",
-    "platform": "hbo_max",
-    "release_date": "1999-01-01",
-    "overview": "Top 10 trending series on Hbo Max. The West Wing provides a glimpse into presidential politics in the nation's capital as it tells the stories of the members of a fictional presidential administration. These interesting characters have humor and dedication that touches the heart while the politics that they discuss touch on everyday life.",
-    "genres": [
-      "Drama"
-    ],
-    "poster_image_url": "https://images.justwatch.com/poster/240194591/s592/the-west-wing.webp",
-    "backdrop_image_url": "https://images.justwatch.com/poster/240194591/s592/the-west-wing.webp",
-    "rating": null,
-    "trailer_url": null,
-    "source_url": "https://www.justwatch.com/us/tv-show/the-west-wing",
-    "scraped_at": "2026-11-27T14:32:59+00:00",
-    "source_name": "Justwatch",
-    "source_domain": "justwatch.com",
-    "article_url": "https://www.justwatch.com/us/tv-show/the-west-wing",
-    "content_type": "platform_release",
-    "published_at": "1999-01-01T00:00:00Z",
-    "updated_at": "2026-11-27T14:32:59Z"
+    "updated_at": "2026-11-28T13:47:38Z"
   }
 ]
